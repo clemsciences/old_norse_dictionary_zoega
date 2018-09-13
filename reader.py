@@ -4,8 +4,8 @@ Code to analyze dictionary entries
 
 import os
 import codecs
-import re
-import xml
+# import re
+from xml.etree import ElementTree
 
 
 class DictionaryDSL:
@@ -66,11 +66,14 @@ class Entry:
 
         self.lines = lines
         self.word = self.lines[0]
+        print(self.word)
         if len(lines) > 1:
             self.description = self.lines[1:]
             for line in self.description:
-                line_tree = xml.etree.ElementTree(line)
-                print(line)
+                print(repr(line))
+                line = line.replace("&", "")
+                line_tree = ElementTree.fromstring(line)
+                # print(line_tree)
                 # m = re.search(r"\[m", line)
                 # if m is not None:
                 #     print(line[m.end()])
