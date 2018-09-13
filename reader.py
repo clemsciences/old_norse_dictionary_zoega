@@ -4,6 +4,8 @@ Code to analyze dictionary entries
 
 import os
 import codecs
+import re
+import xml
 
 
 class DictionaryDSL:
@@ -35,7 +37,7 @@ class FirstLetterFile:
     def extract_entries(self):
         entry_texts = []
         i = -1
-        for line in self.text.split(os.linesep):
+        for line in self.text.split("\n"):
             if len(line) > 0:
                 if line[0] == "\t":
                     if len(entry_texts[i]) > 0:
@@ -59,12 +61,32 @@ class Entry:
     \[ref\]
     \[b\]
     """
+
     def __init__(self, lines):
+
         self.lines = lines
         self.word = self.lines[0]
+        if len(lines) > 1:
+            self.description = self.lines[1:]
+            for line in self.description:
+                line_tree = xml.etree.ElementTree(line)
+                print(line)
+                # m = re.search(r"\[m", line)
+                # if m is not None:
+                #     print(line[m.end()])
+
+            # self.description = [line.strip() for line in self.description]
+            # self.description = [re.sub(r"\[m[0-9]*\]", "", line) for line in self.description]
+            # self.description = [re.sub(r"\[/m\]", "", line) for line in self.description]
+        else:
+            self.description = []
+
+    def extract_pos(self):
+        pass
 
 
 if __name__ == "__main__":
     d = DictionaryDSL("entries")
     the_chapters = d.get_first_letter_files()
     print(the_chapters[0].entries[0].lines)
+    print(the_chapters[0].entries[0].description)
