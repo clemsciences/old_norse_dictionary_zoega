@@ -1513,5 +1513,5 @@ uxamerki
 </word>
 <word>
 uxi
-	<m1>(<p>pl.</p> uxar, older forms <ref>yxn</ref>, <b>eyxn</b>, <ref>øxn</ref>), <p>m.</p> <i><trn>ox</trn></i>; yxninir, <i><trn>the oxen</trn></i>; eyxn margir, <i><trn>many oxen</trn></i>; <p>n.</p> <p>pl.</p>, þrjú yxn, <i><trn>three oxen</trn></i</m1>
+	<m1>(<p>pl.</p> uxar, older forms <ref>yxn</ref>, <b>eyxn</b>, <ref>øxn</ref>), <p>m.</p> <i><trn>ox</trn></i>; yxninir, <i><trn>the oxen</trn></i>; eyxn margir, <i><trn>many oxen</trn></i>; <p>n.</p> <p>pl.</p>, þrjú yxn, <i><trn>three oxen</trn></i></m1>
 </word>

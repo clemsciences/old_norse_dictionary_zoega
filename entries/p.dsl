@@ -873,5 +873,5 @@ pynding
 </word>
 <word>
 pyttr
-	<m1><p>m.</p> <i><trn>pit, pool, cesspool</trn></i</m1>
+	<m1><p>m.</p> <i><trn>pit, pool, cesspool</trn></i></m1>
 </word>

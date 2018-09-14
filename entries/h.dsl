@@ -7135,7 +7135,7 @@ hlý
 <word>
 hlýða
 	<m1>(-dda, -tt), <p>v.</p></m1>
-	<m2>1) <i><trn>to listen</trn></i> (eyrum hlýðir hann, en augum skoðar);</m></m2>
+	<m2>1) <i><trn>to listen</trn></i> (eyrum hlýðir hann, en augum skoðar);</m2>
 	<m3>~ <p>e-m</p>, <i><trn>to listen (give ear) to one</trn></i>;</m3>
 	<m3>~ messu, tíðum, <i><trn>to hear mass, attend service</trn></i>;</m3>
 	<m3>~ á <p>e-t</p> <com>or</com> til <p>e-s</p>, <i><trn>to listen to</trn></i> (sitja menn þar umhverfis ok ~ til sögunnar);</m3>
@@ -13103,5 +13103,5 @@ hösvast
 </word>
 <word>
 höttr
-	<m1>(<p>gen.</p> hattar, <p>dat.</p> hetti; <p>pl.</p> hettir, <p>acc.</p> höttu), <p>m.</p> <i><trn>hood</trn></i</m1>
+	<m1>(<p>gen.</p> hattar, <p>dat.</p> hetti; <p>pl.</p> hettir, <p>acc.</p> höttu), <p>m.</p> <i><trn>hood</trn></i></m1>
 </word>

@@ -4212,5 +4212,5 @@ tötrugr
 </word>
 <word>
 töturr
-	<m1>(<p>pl.</p> tötrar), <p>m.</p> <i><trn>tatters, rags</trn></i>; <i><trn>tattered garment</trn></i</m1>
+	<m1>(<p>pl.</p> tötrar), <p>m.</p> <i><trn>tatters, rags</trn></i>; <i><trn>tattered garment</trn></i></m1>
 </word>

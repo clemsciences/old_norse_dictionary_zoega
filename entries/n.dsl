@@ -2453,5 +2453,5 @@ nös
 	<m2>bregða <p>e-u</p> fyrir nasar <p>e-m</p>, <i><trn>to put it before one’s nose</trn></i>;</m2>
 	<m2>draga nasir at <p>e-u</p>, <i><trn>to snuff, smell at a thing</trn></i>;</m2>
 	<m2>stinga ~um niðr, <i><trn>to fall upon one’s face, bite the dust</trn></i>;</m2>
-	<m2>lúka ~um, <i><trn>to shut the nostrils, die</trn></i</m2>
+	<m2>lúka ~um, <i><trn>to shut the nostrils, die</trn></i></m2>
 </word>

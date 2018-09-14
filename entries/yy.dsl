@@ -119,5 +119,5 @@
 </word>
 <word>
 ýztr
-	<m1><com>see</com> <ref>yztr</ref</m1>
+	<m1><com>see</com> <ref>yztr</ref></m1>
 </word>

@@ -6038,5 +6038,5 @@ möttulskaut
 </word>
 <word>
 mötunautr
-	<m1><p>m.</p> <i><trn>messmate</trn></i</m1>
+	<m1><p>m.</p> <i><trn>messmate</trn></i></m1>
 </word>

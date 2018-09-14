@@ -3816,5 +3816,5 @@ röst
 	<m1><b>I)</b></m1>
 	<m2>(<p>gen.</p> rastar, <p>pl.</p> rastir), <p>f.</p> <i><trn>a strong current in the sea, race</trn></i>.</m2>
 	<m1><b>II)</b></m1>
-	<m2>(<p>gen.</p> rastar, <p>pl.</p> rastir), <p>f.</p> <i><trn>a distance of four or five miles</trn></i</m2>
+	<m2>(<p>gen.</p> rastar, <p>pl.</p> rastir), <p>f.</p> <i><trn>a distance of four or five miles</trn></i></m2>
 </word>

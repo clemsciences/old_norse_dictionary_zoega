@@ -822,5 +822,5 @@ innyfli
 </word>
 <word>
 Innþrændir
-	<m1><p>m.</p> <p>pl.</p> <i><trn>the inhabitants of the inner part of Thrandheim</trn></i</m1>
+	<m1><p>m.</p> <p>pl.</p> <i><trn>the inhabitants of the inner part of Thrandheim</trn></i></m1>
 </word>

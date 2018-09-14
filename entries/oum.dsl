@@ -36,7 +36,7 @@
 <word>
 öfga
 	<m1>(að), <p>v.</p></m1>
-	<m2>1) <i><trn>to reverse</trn></i> (allir stafir eru öfgaðir þess nafns \<Eva\> ok gört af Ave);</m2>
+	<m2>1) <i><trn>to reverse</trn></i> (allir stafir eru öfgaðir þess nafns (Eva) ok gört af Ave);</m2>
 	<m2>2) <i><trn>to distort, misrepresent</trn></i> (~ orð <p>e-s</p>).</m2>
 </word>
 <word>
@@ -1262,5 +1262,5 @@
 </word>
 <word>
 öxultré
-	<m1><p>n.</p> <i><trn>axle-tree</trn></i</m1>
+	<m1><p>n.</p> <i><trn>axle-tree</trn></i></m1>
 </word>

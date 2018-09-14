@@ -19306,5 +19306,5 @@ sørvi
 </word>
 <word>
 söx
-	<m1>from <ref>sax</ref>, <i><trn>sword</trn></i</m1>
+	<m1>from <ref>sax</ref>, <i><trn>sword</trn></i></m1>
 </word>

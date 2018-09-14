@@ -1429,5 +1429,5 @@ uxahöfuð
 </word>
 <word>
 oxi
-	<m1>(<p>pl.</p> øxn), <p>m.</p> <i><trn>ox</trn></i> = <ref>uxi</ref</m1>
+	<m1>(<p>pl.</p> øxn), <p>m.</p> <i><trn>ox</trn></i> = <ref>uxi</ref></m1>
 </word>

@@ -402,5 +402,5 @@ sælborinn
 </word>
 <word>
 nóg
-	<m1><p>adv.</p> <i><trn>enough</trn></i</m1>
+	<m1><p>adv.</p> <i><trn>enough</trn></i></m1>
 </word>

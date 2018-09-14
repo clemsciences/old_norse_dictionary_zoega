@@ -3863,5 +3863,5 @@
 </word>
 <word>
 þörfgi
-	<m1><p>poet.</p> <i><trn>no need, not needed</trn></i</m1>
+	<m1><p>poet.</p> <i><trn>no need, not needed</trn></i></m1>
 </word>

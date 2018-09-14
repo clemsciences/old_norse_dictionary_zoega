@@ -8203,5 +8203,5 @@ vöxtuligr
 </word>
 <word>
 vözt
-	<m1>(<p>pl.</p> vaztir), <p>f.</p>, <com>see</com> <ref>vaztir</ref</m1>
+	<m1>(<p>pl.</p> vaztir), <p>f.</p>, <com>see</com> <ref>vaztir</ref></m1>
 </word>

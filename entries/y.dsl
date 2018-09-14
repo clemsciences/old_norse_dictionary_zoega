@@ -600,5 +600,5 @@ yxnishvarf
 </word>
 <word>
 yztr
-	<m1>better ýztr, <p>a.</p> <p>superl.</p>, <i><trn>outermost</trn></i</m1>
+	<m1>better ýztr, <p>a.</p> <p>superl.</p>, <i><trn>outermost</trn></i></m1>
 </word>

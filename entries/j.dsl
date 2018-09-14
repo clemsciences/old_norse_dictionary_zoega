@@ -1106,5 +1106,5 @@ jötunmóðr
 </word>
 <word>
 jötunn
-	<m1>(<p>gen.</p> -s, <p>dat.</p> jötni; <p>pl.</p> jötnar), <p>m.</p> <i><trn>giant</trn></i>; jötna synir, <i><trn>sons of giants</trn></i</m1>
+	<m1>(<p>gen.</p> -s, <p>dat.</p> jötni; <p>pl.</p> jötnar), <p>m.</p> <i><trn>giant</trn></i>; jötna synir, <i><trn>sons of giants</trn></i></m1>
 </word>

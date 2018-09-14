@@ -6267,5 +6267,5 @@ löstr
 </word>
 <word>
 löt
-	<m1>(<p>pl.</p> latar), <p>f.</p> <i><trn>dissuasion</trn></i>; telja latar á um <p>e-t</p>, <i><trn>to raise difficulties about a thing</trn></i</m1>
+	<m1>(<p>pl.</p> latar), <p>f.</p> <i><trn>dissuasion</trn></i>; telja latar á um <p>e-t</p>, <i><trn>to raise difficulties about a thing</trn></i></m1>
 </word>
