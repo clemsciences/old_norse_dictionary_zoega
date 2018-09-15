@@ -1,5 +1,5 @@
 """
-
+How xml files are built
 """
 
 import os
@@ -42,8 +42,6 @@ def transform_mi():
 
             lines.append(line)
         text = os.linesep.join(lines)
-        # text = text.replace("[", "<")
-        # text = text.replace("]", ">")
         with codecs.open(os.path.join("entries", filename), "w", encoding="utf8") as f:
             f.write(text)
 
@@ -60,16 +58,9 @@ def give_word_tag():
                     line = line.rstrip()
                 else:
                     line = "</word>\n<word>\n"+line.rstrip()
-                # for i in range(1, 6):
-                #     if "<m"+str(i)+">" in line:
-                #         line_length = len(line)
-                #         line = line[:line_length-6]
-                #         line += "</m"+str(i)+">"
                 lines.append(line)
         text = "\n".join(lines)+"\n</word>"
         text = "\n".join(text.split("\n")[1:])
-        # text = text.replace("[", "<")
-        # text = text.replace("]", ">")
         with codecs.open(os.path.join("entries", filename), "w", encoding="utf8") as f:
             f.write(text)
 
@@ -133,21 +124,14 @@ def add_word_tag():
         print(filename)
         tree = ElementTree.ElementTree()
         tree.parse(os.path.join("entries", filename))
-        # with codecs.open(os.path.join("entries", filename), "r", encoding="utf8") as f:
-        #     text = f.read()
-        # entries = []
-        # tree = ElementTree.fromstring(text)
         for entry in tree.iter("entry"):
             for line in entry:
                 if line.tag == "word":
                     word = clean("".join(line.itertext()))
                     entry.set("word", word)
                     entry.remove(line)
-            # entries.append(entry)
 
         tree.write(os.path.join("entries", filename), encoding="utf8")
-        # with codecs.open(os.path.join("entries", "pppp"+filename), "w", encoding="utf8") as f:
-        #     f.write("".join(entries))
 
 
 if __name__ == "__main__":

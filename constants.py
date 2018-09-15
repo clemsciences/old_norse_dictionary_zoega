@@ -131,12 +131,4 @@ heads = [
 
 head_dict_paths = [os.path.join("entries", filename) for filename in os.listdir("entries")]
 head_filenames = [filename for filename in os.listdir("entries")]
-# headDictPaths = [
-#     "dict/a.dsl", "dict/aa.dsl", "dict/ae.dsl", "dict/b.dsl", "dict/d.dsl",
-#     "dict/e.dsl", "dict/f.dsl", "dict/g.dsl", "dict/h.dsl", "dict/i.dsl",
-#     "dict/ii.dsl", "dict/j.dsl", "dict/k.dsl", "dict/l.dsl", "dict/m.dsl",
-#     "dict/n.dsl", "dict/o.dsl", "dict/oe.dsl", "dict/oo.dsl", "dict/oum.dsl",
-#     "dict/p.dsl", "dict/r.dsl", "dict/s.dsl", "dict/t.dsl", "dict/th.dsl",
-#     "dict/u.dsl", "dict/uu.dsl", "dict/v.dsl", "dict/y.dsl", "dict/yy.dsl"
-# ]
 dheads = {head_filenames[i]: heads[i] for i in range(len(heads))}
