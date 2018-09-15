@@ -18,19 +18,21 @@ def clean(text):
     return text
 
 
-def transform():
-    for filename in os.listdir("entries"):
-        with codecs.open(os.path.join("entries", filename), "r", encoding="utf8") as f:
+def transform(src, dst):
+    if not os.path.exists(dst):
+        os.mkdir(dst)
+    for filename in os.listdir(src):
+        with codecs.open(os.path.join(src, filename), "r", encoding="utf8") as f:
             text = f.read()
         text = text.replace("[", "<")
         text = text.replace("]", ">")
-        with codecs.open(os.path.join("entries", filename), "w", encoding="utf8") as f:
+        with codecs.open(os.path.join(dst, filename), "w", encoding="utf8") as f:
             f.write(text)
 
 
-def transform_mi():
-    for filename in os.listdir("entries"):
-        with codecs.open(os.path.join("entries", filename), "r", encoding="utf8") as f:
+def transform_mi(src, dst):
+    for filename in os.listdir(src):
+        with codecs.open(os.path.join(src, filename), "r", encoding="utf8") as f:
             text = f.readlines()
         lines = []
         for line in text:
@@ -42,17 +44,16 @@ def transform_mi():
 
             lines.append(line)
         text = os.linesep.join(lines)
-        with codecs.open(os.path.join("entries", filename), "w", encoding="utf8") as f:
+        with codecs.open(os.path.join(dst, filename), "w", encoding="utf8") as f:
             f.write(text)
 
 
-def give_word_tag():
-    for filename in os.listdir("entries"):
-        with codecs.open(os.path.join("entries", filename), "r", encoding="utf8") as f:
+def give_word_tag(src, dst):
+    for filename in os.listdir(src):
+        with codecs.open(os.path.join(src, filename), "r", encoding="utf8") as f:
             text = f.readlines()
         lines = []
         for line in text:
-
             if len(line) > 0:
                 if line[0] == "\t":
                     line = line.rstrip()
@@ -61,13 +62,13 @@ def give_word_tag():
                 lines.append(line)
         text = "\n".join(lines)+"\n</word>"
         text = "\n".join(text.split("\n")[1:])
-        with codecs.open(os.path.join("entries", filename), "w", encoding="utf8") as f:
+        with codecs.open(os.path.join(dst, filename), "w", encoding="utf8") as f:
             f.write(text)
 
 
-def remove_double_tab():
-    for filename in os.listdir("entries"):
-        with codecs.open(os.path.join("entries", filename), "r", encoding="utf8") as f:
+def remove_double_tab(src, dst):
+    for filename in os.listdir(src):
+        with codecs.open(os.path.join(src, filename), "r", encoding="utf8") as f:
             text = f.read().split("\n")
         lines = []
         for line in text:
@@ -78,13 +79,13 @@ def remove_double_tab():
                 lines.append(line)
         text = "\n".join(lines)
         print(repr(text[:20]))
-        with codecs.open(os.path.join("entries", filename), "w", encoding="utf8") as f:
+        with codecs.open(os.path.join(dst, filename), "w", encoding="utf8") as f:
             f.write(text)
 
 
-def change_name_mark():
-    for filename in os.listdir("entries"):
-        with codecs.open(os.path.join("entries", filename), "r", encoding="utf8") as f:
+def change_name_mark(src, dst):
+    for filename in os.listdir(src):
+        with codecs.open(os.path.join(src, filename), "r", encoding="utf8") as f:
             text = f.read()
             text = text.replace("<word>", "<entry>")
             text = text.replace("</word>", "</entry>")
@@ -97,30 +98,30 @@ def change_name_mark():
                 else:
                     new_lines.append(line)
         new_text = "\n".join(new_lines)+"\n</word>"
-        with codecs.open(os.path.join("entries", filename), "w", encoding="utf8") as f:
+        with codecs.open(os.path.join(dst, filename), "w", encoding="utf8") as f:
             f.write(new_text)
 
 
-def add_chapters():
-    for filename in os.listdir("entries"):
-        with codecs.open(os.path.join("entries", filename), "r", encoding="utf8") as f:
+def add_chapters(src, dst):
+    for filename in os.listdir(src):
+        with codecs.open(os.path.join(src, filename), "r", encoding="utf8") as f:
             text = f.read()
         new_text = "<chapter>\n"+text+"\n</chapter>\n"
-        with codecs.open(os.path.join("entries", filename), "w", encoding="utf8") as f:
+        with codecs.open(os.path.join(dst, filename), "w", encoding="utf8") as f:
             f.write(new_text)
 
 
-def replace_strange_characters():
-    for filename in os.listdir("entries"):
-        with codecs.open(os.path.join("entries", filename), "r", encoding="utf8") as f:
+def replace_strange_characters(src, dst):
+    for filename in os.listdir(src):
+        with codecs.open(os.path.join(src, filename), "r", encoding="utf8") as f:
             text = f.read()
             new_text = text.replace("&c.", "")
-        with codecs.open(os.path.join("entries", filename), "w", encoding="utf8") as f:
+        with codecs.open(os.path.join(dst, filename), "w", encoding="utf8") as f:
             f.write(new_text)
 
 
-def add_word_tag():
-    for filename in os.listdir("entries"):
+def add_word_tag(src, dst):
+    for filename in os.listdir(src):
         print(filename)
         tree = ElementTree.ElementTree()
         tree.parse(os.path.join("entries", filename))
@@ -131,15 +132,42 @@ def add_word_tag():
                     entry.set("word", word)
                     entry.remove(line)
 
-        tree.write(os.path.join("entries", filename), encoding="utf8")
+        tree.write(os.path.join(dst, filename), encoding="utf8")
+
+
+def make_xml_corpus():
+    # src = "original_dict"
+    dst = "entries"
+    # dst_transform = "1"
+    # transform(src, dst_transform)
+
+    # src_mi = dst_transform
+    # dst_mi = "2"
+    # transform_mi(src_mi, dst_mi)
+
+    # src_word_tag = dst_mi
+    # dst_word_tag = "3"
+    # give_word_tag(src_word_tag, dst_word_tag)
+
+    # src_remove_double_tag = dst_word_tag
+    # dst_remove_double_tag = "4"
+    # remove_double_tab(src_remove_double_tag, dst_remove_double_tag)
+
+    # src_change_name_mark = dst_remove_double_tag
+    # dst_change_name_mark = "5"
+    # change_name_mark(src_change_name_mark, dst_change_name_mark)
+
+    # src_add_chapters = dst_change_name_mark
+    # dst_add_chapters = "6"
+    # add_chapters(src_add_chapters, dst_add_chapters)
+
+    # src_replace_strange_characters = dst_add_chapters
+    # dst_replace_strange_characters = "7"
+    # replace_strange_characters(src_replace_strange_characters, dst_replace_strange_characters)
+
+    add_word_tag(dst, dst)
 
 
 if __name__ == "__main__":
-    # transform()
-    # transform_mi()
-    # give_word_tag()
-    # remove_double_tab()
-    # change_name_mark()
-    # add_chapters()
-    # replace_strange_characters()
-    add_word_tag()
+    # make_xml_corpus()
+    pass
