@@ -1,47 +1,59 @@
-<?xml version='1.0' encoding='utf8'?>
-<chapter>
-<entry word="bað">
+<word>
+bað
 	<m1><b>I)</b> <p>n.</p> <i><trn>bath</trn></i>, <p>esp.</p> <i><trn>steam-</trn></i> or <i><trn>vapour-bath</trn></i> (fara <com>or</com> ganga til ~s, koma ór ~i, ganga frá ~i; taka ~).</m1>
 	<m1><b>II)</b> from <ref>biðja</ref>.</m1>
-</entry>
-<entry word="baðast">
+</word>
+<word>
+baðast
 	<m1>(að), <p>v. refl.</p> <i><trn>to take a bath, to bathe</trn></i>.</m1>
-</entry>
-<entry word="baðferð">
+</word>
+<word>
+baðferð
 	<m1><p>f.</p> <i><trn>going to the bath</trn></i> (vera í ~); um ~ir, <i><trn>about the time for bathing</trn></i>.</m1>
-</entry>
-<entry word="baðkápa">
+</word>
+<word>
+baðkápa
 	<m1><p>f.</p> <i><trn>bathing-cloak</trn></i>.</m1>
-</entry>
-<entry word="baðkona">
+</word>
+<word>
+baðkona
 	<m1><p>f.</p> <i><trn>female bathing attendant</trn></i>.</m1>
-</entry>
-<entry word="baðmr">
+</word>
+<word>
+baðmr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>tree</trn></i>;</m2>
 	<m2>2) <i><trn>bosom</trn></i>.</m2>
-</entry>
-<entry word="baðstofa">
+</word>
+<word>
+baðstofa
 	<m1><p>f.</p> <i><trn>bath-room, bathing room</trn></i>, in later times, <i><trn>sitting room</trn></i>.</m1>
-</entry>
-<entry word="baðstofugluggr">
+</word>
+<word>
+baðstofugluggr
 	<m1><p>m.</p> <i><trn>opening (window) in the roof of a</trn></i> baðstofa.</m1>
-</entry>
-<entry word="bagall">
+</word>
+<word>
+bagall
 	<m1><p>m.</p> <i><trn>a bishop’s staff or crozier</trn></i>.</m1>
-</entry>
-<entry word="bagalstafir">
+</word>
+<word>
+bagalstafir
 	<m1><p>m.</p> = <ref>bagall</ref>.</m1>
-</entry>
-<entry word="baggi">
-	</entry>
-<entry word="pakki">
+</word>
+<word>
+baggi
+</word>
+<word>
+pakki
 	<m1><p>m.</p> <i><trn>pack, bundle</trn></i>.</m1>
-</entry>
-<entry word="baglaðr">
+</word>
+<word>
+baglaðr
 	<m1><p>a.</p> <i><trn>crooked, deformed</trn></i>.</m1>
-</entry>
-<entry word="bak">
+</word>
+<word>
+bak
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>back</trn></i> (binda bagga á ~ sér);</m2>
 	<m3>fig. bera sök á ~i, <i><trn>to be guilty</trn></i>;</m3>
@@ -66,267 +78,345 @@
 	<m4>c) <p>absol.</p>, falla á ~ aptr, <i><trn>to fall backwards</trn></i>;</m4>
 	<m5>brjóta á ~ orð <p>e-s</p>, <i><trn>to refute, make them null and void</trn></i>;</m5>
 	<m5>brjóta á ~ Rómverja, <i><trn>to defeat them</trn></i>.</m5>
-</entry>
-<entry word="baka">
+</word>
+<word>
+baka
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to bake</trn></i> (~ brauð);</m2>
 	<m2>2) <i><trn>to warm and rub the body, and limbs, at a large fire</trn></i> (<com>see</com> <ref>bakeldr</ref>) <p>esp.</p> <p>refl.</p> bakast (við eld);</m2>
 	<m2>3) <i><trn>to rub</trn></i> = <ref>strjúka</ref>; bakaði Helgi fótinn, <i><trn>he rubbed the (broken) leg</trn></i>.</m2>
-</entry>
-<entry word="bakan">
+</word>
+<word>
+bakan
 	<m1><p>n.</p> <i><trn>bacon</trn></i> (rare).</m1>
-</entry>
-<entry word="bakarameistari">
+</word>
+<word>
+bakarameistari
 	<m1><p>m.</p> <i><trn>master-baker</trn></i>.</m1>
-</entry>
-<entry word="bakaraofn">
+</word>
+<word>
+bakaraofn
 	<m1><p>m.</p> <i><trn>baker’s oven</trn></i>.</m1>
-</entry>
-<entry word="bakari">
+</word>
+<word>
+bakari
 	<m1><p>m.</p> <i><trn>baker</trn></i>.</m1>
-</entry>
-<entry word="bakbit">
+</word>
+<word>
+bakbit
 	<m1><p>n.</p> <i><trn>back-biting slander</trn></i>.</m1>
-</entry>
-<entry word="bakbítari">
+</word>
+<word>
+bakbítari
 	<m1><p>m.</p> <i><trn>backbiter, slanderer</trn></i>.</m1>
-</entry>
-<entry word="bakborði">
+</word>
+<word>
+bakborði
 	<m1><p>m.</p> <i><trn>the larboard side of a ship, port</trn></i>, opp. to <ref>stjórnborði</ref>.</m1>
-</entry>
-<entry word="bakbrjóta">
+</word>
+<word>
+bakbrjóta
 	<m1>(<com>see</com> <ref>brjóta</ref>), <p>v.</p> <i><trn>to violate</trn></i>, = brjóta á bak.</m1>
-</entry>
-<entry word="bakbyrðingar">
+</word>
+<word>
+bakbyrðingar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>the crew on the larboard side</trn></i> opp. to ‘stjórnbyrðingar’.</m1>
-</entry>
-<entry word="bakbyrðr">
+</word>
+<word>
+bakbyrðr
 	<m1><p>f.</p> <i><trn>a burden to carry on the back</trn></i>.</m1>
-</entry>
-<entry word="bakeldagørð">
+</word>
+<word>
+bakeldagørð
 	<m1><p>f.</p> <i><trn>the action of making a</trn></i> bakeldr, or <i><trn>the rubbing of the back at a</trn></i> bakeldr.</m1>
-</entry>
-<entry word="bakeldr">
+</word>
+<word>
+bakeldr
 	<m1><p>m.</p> <i><trn>a fire at which to bake (warm and rub) the body and limbs</trn></i> (sitja við bakelda).</m1>
-</entry>
-<entry word="bakfall">
+</word>
+<word>
+bakfall
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>falling backwards</trn></i>, <p>esp.</p> in <p>pl.</p>, róa bakföllum, knýja árar með stórum bakföllum, <i><trn>to take long pulls with the oars</trn></i>;</m2>
 	<m2>2) <i><trn>attack in the rear</trn></i>, = <ref>bakslag</ref>; veita <p>e-m</p> ~, <i><trn>to attack in the rear</trn></i>.</m2>
-</entry>
-<entry word="bakferð">
+</word>
+<word>
+bakferð
 	<m1><p>f.</p> <i><trn>mounting, on horseback</trn></i>.</m1>
-</entry>
-<entry word="bakferla">
+</word>
+<word>
+bakferla
 	<m1>(að), <p>v.</p> <i><trn>to drive back, annul, make void</trn></i>.</m1>
-</entry>
-<entry word="bakhlutr">
+</word>
+<word>
+bakhlutr
 	<m1><p>m.</p> <i><trn>the hind part, backside</trn></i>.</m1>
-</entry>
-<entry word="bakhold">
+</word>
+<word>
+bakhold
 	<m1><p>n.</p> <p>pl.</p> <i><trn>the flesh on the btick of cattle</trn></i>.</m1>
-</entry>
-<entry word="bakhverfast">
+</word>
+<word>
+bakhverfast
 	<m1>(ð), <p>v. refl.</p>, <i><trn>to turn one’s back upon</trn></i> (við <p>e-ð</p>).</m1>
-</entry>
-<entry word="bakjarl">
+</word>
+<word>
+bakjarl
 	<m1><p>m.</p> <i><trn>a foe attacking in the rear</trn></i>.</m1>
-</entry>
-<entry word="bakkakólfr">
+</word>
+<word>
+bakkakólfr
 	<m1><p>m.</p> <i><trn>a kind of blunt headed arrow</trn></i>.</m1>
-</entry>
-<entry word="bakkastokkar">
+</word>
+<word>
+bakkastokkar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>stocks on which a ship is built</trn></i>; setja fram af bakkastokkum, <i><trn>to launch</trn></i>.</m1>
-</entry>
-<entry word="bakki">
+</word>
+<word>
+bakki
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>bank</trn></i> (of a river, lake, chasm, etc.);</m2>
 	<m2>2) <i><trn>ridge, bank</trn></i> (hann settist undir bakka í hrísrunni);</m2>
 	<m2>3) <i><trn>a mound on which the target is set up</trn></i>; setja spán í bakka, <i><trn>to set up a target</trn></i>;</m2>
 	<m2>4) <i><trn>bank of clouds above the horizon</trn></i>;</m2>
 	<m2>5) <i><trn>back of a knife</trn></i> or other cutting instrument, opp. to <ref>egg</ref>.</m2>
-</entry>
-<entry word="bakklæði">
+</word>
+<word>
+bakklæði
 	<m1><p>n.</p> <i><trn>tapestry</trn></i>.</m1>
-</entry>
-<entry word="baklengja">
+</word>
+<word>
+baklengja
 	<m1><p>f.</p> <i><trn>the back-strip of a hide</trn></i>.</m1>
-</entry>
-<entry word="bakmáll">
-	</entry>
-<entry word="bakmálugr">
+</word>
+<word>
+bakmáll
+</word>
+<word>
+bakmálugr
 	<m1><p>a.</p> <i><trn>backbiting, slanderous</trn></i>.</m1>
-</entry>
-<entry word="bakmæla">
+</word>
+<word>
+bakmæla
 	<m1>(-ta, -t), <p>v.</p> <i><trn>to backbite</trn></i> (~ <p>e-m</p>).</m1>
-</entry>
-<entry word="bakmælgi">
+</word>
+<word>
+bakmælgi
 	<m1><p>f.</p> <i><trn>backbiting, slander</trn></i>.</m1>
-</entry>
-<entry word="bakmæli">
+</word>
+<word>
+bakmæli
 	<m1><p>n.</p> <i><trn>backbiting, slander</trn></i>.</m1>
-</entry>
-<entry word="bakmælismaðr">
+</word>
+<word>
+bakmælismaðr
 	<m1><p>m.</p> <i><trn>calumniator</trn></i>.</m1>
-</entry>
-<entry word="bakrauf">
+</word>
+<word>
+bakrauf
 	<m1><p>f.</p> <i><trn>anus</trn></i>, a nickname.</m1>
-</entry>
-<entry word="baksárr">
+</word>
+<word>
+baksárr
 	<m1><p>a.</p> <i><trn>having a sore back</trn></i> (of a horse).</m1>
-</entry>
-<entry word="baksetja">
+</word>
+<word>
+baksetja
 	<m1>(<com>see</com> <ref>setja</ref>), <p>v.</p> <i><trn>to neglect, omit</trn></i> (~ at gera <p>e-t</p>).</m1>
-</entry>
-<entry word="bakskyrta">
+</word>
+<word>
+bakskyrta
 	<m1><p>f.</p> <i><trn>the hind part of a shirt</trn></i>.</m1>
-</entry>
-<entry word="bakslag">
+</word>
+<word>
+bakslag
 	<m1><p>n.</p> <i><trn>attack in the rear</trn></i>, = <ref>bakfall</ref> 2.</m1>
-</entry>
-<entry word="baksletta">
+</word>
+<word>
+baksletta
 	<m1><p>f.</p> <i><trn>attack in the rear</trn></i>, = <ref>bakfall</ref> 2.</m1>
-</entry>
-<entry word="bakslettr">
+</word>
+<word>
+bakslettr
 	<m1><p>m.</p> = <ref>baksletta</ref>.</m1>
-</entry>
-<entry word="bakstakkr">
+</word>
+<word>
+bakstakkr
 	<m1><p>m.</p> <i><trn>the hind part of a cloak</trn></i>.</m1>
-</entry>
-<entry word="bakstokkar">
+</word>
+<word>
+bakstokkar
 	<m1><p>m.</p> <p>pl.</p> bakkastokkar.</m1>
-</entry>
-<entry word="bakstr">
+</word>
+<word>
+bakstr
 	<m1>(-rs), <p>m.</p></m1>
 	<m2>1) <i><trn>baking</trn></i>;</m2>
 	<m2>2) <i><trn>baked bread</trn></i> <p>esp.</p> <i><trn>communion bread</trn></i>;</m2>
 	<m2>3) <i><trn>poultice, fomentation</trn></i>;</m2>
 	<m2>4) <i><trn>warming, rubbing</trn></i> (of the body).</m2>
-</entry>
-<entry word="bakstrbrauð">
+</word>
+<word>
+bakstrbrauð
 	<m1><p>n.</p> <i><trn>baked bread</trn></i>.</m1>
-</entry>
-<entry word="bakstrbuðkr">
+</word>
+<word>
+bakstrbuðkr
 	<m1><p>m.</p> <i><trn>a box in which the communion bread was kept</trn></i>.</m1>
-</entry>
-<entry word="bakstreldr">
+</word>
+<word>
+bakstreldr
 	<m1><p>m.</p></m1>
 	<m2>1) = <ref>bakeldr</ref>;</m2>
 	<m2>2) <i><trn>fire for making bread</trn></i> (gera þeir bakstrelda stóra til brauðs).</m2>
-</entry>
-<entry word="bakstrhús">
+</word>
+<word>
+bakstrhús
 	<m1><p>n.</p> <i><trn>bakehouse</trn></i>.</m1>
-</entry>
-<entry word="bakstrjárn">
+</word>
+<word>
+bakstrjárn
 	<m1><p>n.</p> <i><trn>an iron plate for baking communion bread</trn></i>.</m1>
-</entry>
-<entry word="bakstrkona">
+</word>
+<word>
+bakstrkona
 	<m1><p>f.</p> <i><trn>female baker</trn></i>.</m1>
-</entry>
-<entry word="bakstrofn">
+</word>
+<word>
+bakstrofn
 	<m1><p>m.</p> <i><trn>baking-oven</trn></i>.</m1>
-</entry>
-<entry word="bakstrsveinn">
+</word>
+<word>
+bakstrsveinn
 	<m1><p>m.</p> <i><trn>baker-boy</trn></i>.</m1>
-</entry>
-<entry word="bakvana">
+</word>
+<word>
+bakvana
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>having a sore back</trn></i> (of horses).</m1>
-</entry>
-<entry word="bakverkr">
+</word>
+<word>
+bakverkr
 	<m1><p>m.</p> <i><trn>pain in the back</trn></i>.</m1>
-</entry>
-<entry word="bakverpast">
+</word>
+<word>
+bakverpast
 	<m1>(t), <p>v.</p></m1>
 	<m2>1) <i><trn>to turn away from, disregard</trn></i> (við <p>e-t</p> <com>or</com> við <p>e-m</p>);</m2>
 	<m2>2) <i><trn>to flee before one</trn></i> (~ við sínum úvinum).</m2>
-</entry>
-<entry word="baldikin">
+</word>
+<word>
+baldikin
 	<m1><p>n.</p> <i><trn>baldaquin, rich brocade</trn></i>.</m1>
-</entry>
-<entry word="baldinn">
+</word>
+<word>
+baldinn
 	<m1><p>a.</p> <i><trn>untractable, unruly</trn></i>.</m1>
-</entry>
-<entry word="baldrast">
+</word>
+<word>
+baldrast
 	<m1>(að), <p>v. refl.</p> <i><trn>to crowd to together in a confused throng</trn></i>.</m1>
-</entry>
-<entry word="baldriði">
+</word>
+<word>
+baldriði
 	<m1><p>m.</p> = <ref>ballriði</ref>.</m1>
-</entry>
-<entry word="bali">
+</word>
+<word>
+bali
 	<m1><p>m.</p> <i><trn>grassy bank</trn></i>.</m1>
-</entry>
-<entry word="ballar">
+</word>
+<word>
+ballar
 	<m1>from <ref>böllr</ref>, <i><trn>ball</trn></i>.</m1>
-</entry>
-<entry word="ballr">
+</word>
+<word>
+ballr
 	<m1><p>a.</p> <i><trn>dangerous, dire</trn></i>;</m1>
 	<m2>böll ráð, <i><trn>fatal schemes</trn></i>;</m2>
 	<m2>ballir draumar, <i><trn>bad, ill-boding dreams</trn></i>;</m2>
 	<m2>böll þrá, <i><trn>heavy grief</trn></i>.</m2>
-</entry>
-<entry word="ballrast">
+</word>
+<word>
+ballrast
 	<m1>(að), <p>v. refl.</p> = <ref>baldrast</ref>.</m1>
-</entry>
-<entry word="ballriði">
+</word>
+<word>
+ballriði
 	<m1><p>m.</p> <p>poet.</p>, <i><trn>‘bold rider’, hero</trn></i> (Freyr er beztr allra ballriða).</m1>
-</entry>
-<entry word="balsamr">
+</word>
+<word>
+balsamr
 	<m1><p>m.</p> <i><trn>balsam</trn></i>.</m1>
-</entry>
-<entry word="bana">
+</word>
+<word>
+bana
 	<m1>(að), <p>v.</p> <i><trn>to kill</trn></i>, with <p>dat.</p></m1>
-</entry>
-<entry word="banabloð">
+</word>
+<word>
+banabloð
 	<m1><p>n.</p> <i><trn>blood shed in slaying</trn></i>.</m1>
-</entry>
-<entry word="banadrykkr">
+</word>
+<word>
+banadrykkr
 	<m1><p>m.</p> <i><trn>baneful drought, poison</trn></i>.</m1>
-</entry>
-<entry word="banadœgr">
+</word>
+<word>
+banadœgr
 	<m1><p>n.</p> = <ref>banadagr</ref>.</m1>
-</entry>
-<entry word="banahögg">
+</word>
+<word>
+banahögg
 	<m1><p>n.</p> <i><trn>death-blow</trn></i> (fá ~; varð þat hans ~).</m1>
-</entry>
-<entry word="banalag">
+</word>
+<word>
+banalag
 	<m1><p>n.</p> <i><trn>stabbing to death</trn></i>.</m1>
-</entry>
-<entry word="banamaðr">
+</word>
+<word>
+banamaðr
 	<m1><p>m.</p> <i><trn>killer, slayer</trn></i>.</m1>
-</entry>
-<entry word="banaorð">
+</word>
+<word>
+banaorð
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>tidings of one’s death</trn></i> (segja ~ <p>e-s</p>);</m2>
 	<m3>bera ~ af <p>e-m</p>, <i><trn>to slay one in fight</trn></i>;</m3>
 	<m2>2) <i><trn>death</trn></i>;</m2>
 	<m3>þiggja ~ af <p>e-m</p>, <i><trn>to be killed by one</trn></i>;</m3>
 	<m3>kenna <p>e-m</p> ~, <i><trn>to charge with slaying one</trn></i>.</m3>
-</entry>
-<entry word="banaráð">
+</word>
+<word>
+banaráð
 	<m1><p>n.</p> <i><trn>planning a person’s death</trn></i>;</m1>
 	<m2>ráða <com>or</com> veita <p>e-m</p> ~, <i><trn>to bring about one’s death</trn></i>.</m2>
-</entry>
-<entry word="banasár">
+</word>
+<word>
+banasár
 	<m1><p>n.</p> <i><trn>death-wound, a mortal wound</trn></i>.</m1>
-</entry>
-<entry word="banaskot">
+</word>
+<word>
+banaskot
 	<m1><p>n.</p> <i><trn>mortal shot</trn></i>.</m1>
-</entry>
-<entry word="banasott">
+</word>
+<word>
+banasott
 	<m1><p>f.</p> <i><trn>death sickness, mortal illness</trn></i>.</m1>
-</entry>
-<entry word="banaspjót">
+</word>
+<word>
+banaspjót
 	<m1><p>n.</p>, in the phrase, berast ~ eptir, <i><trn>to be deadly enemies</trn></i>.</m1>
-</entry>
-<entry word="banatilræði">
+</word>
+<word>
+banatilræði
 	<m1><p>n.</p> <i><trn>mortal attack</trn></i> (veita <p>e-m</p> ~).</m1>
-</entry>
-<entry word="banaþúfa">
+</word>
+<word>
+banaþúfa
 	<m1><p>f.</p> <i><trn>a knoll that causes one’s death</trn></i>;</m1>
 	<m2>hníga við banaþúfu, <i><trn>to die</trn></i>;</m2>
 	<m2>drepa fótum við banaþúfu, <i><trn>to stumble against or over a fatal knoll</trn></i>.</m2>
-</entry>
-<entry word="band">
+</word>
+<word>
+band
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>the act of binding or settling</trn></i>, opp. to <ref>lausn</ref>;</m2>
 	<m3>fig., lausn ok ~ allra vandamála, <i><trn>the decision in all difficult cases</trn></i>;</m3>
@@ -337,31 +427,39 @@
 	<m3>c) <p>poet.</p>, <i><trn>the gods</trn></i>, <p>cf.</p> <ref>höpt</ref>;</m3>
 	<m4>blóta bönd, <i><trn>to worship the gods</trn></i>;</m4>
 	<m4>at mun banda, <i><trn>at the will of the gods</trn></i>.</m4>
-</entry>
-<entry word="banda">
+</word>
+<word>
+banda
 	<m1>(að), <p>v.</p> <i><trn>to make a sign by waving the hand</trn></i>;</m1>
 	<m2>~ á móti fénu, <i><trn>to drive away the sheep</trn></i>;</m2>
 	<m2>with <p>dat.</p>, ~ höndum; <i><trn>to wave the hands</trn></i>.</m2>
-</entry>
-<entry word="bandamaðr">
+</word>
+<word>
+bandamaðr
 	<m1><p>m.</p> <i><trn>confederate, one who is in league with others</trn></i>.</m1>
-</entry>
-<entry word="bandingi">
+</word>
+<word>
+bandingi
 	<m1>(-ja), <p>m.</p> <i><trn>prisoner</trn></i>.</m1>
-</entry>
-<entry word="bandvetlingr">
+</word>
+<word>
+bandvetlingr
 	<m1><p>m.</p> <i><trn>a kind of glove</trn></i>.</m1>
-</entry>
-<entry word="bang">
+</word>
+<word>
+bang
 	<m1><p>n.</p> <i><trn>hammering</trn></i>.</m1>
-</entry>
-<entry word="banga">
+</word>
+<word>
+banga
 	<m1>(að), <p>v.</p> <i><trn>to hammer, knock</trn></i>; ~ dyrr <com>or</com> á dyrr, <i><trn>to knock at the door</trn></i>.</m1>
-</entry>
-<entry word="banghagr">
+</word>
+<word>
+banghagr
 	<m1><p>a.</p> <i><trn>knowing how to use the hammer</trn></i>.</m1>
-</entry>
-<entry word="bani">
+</word>
+<word>
+bani
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>death</trn></i>;</m2>
 	<m3>fá (bíða, hafa, taka) bana, <i><trn>to die</trn></i>;</m3>
@@ -369,525 +467,690 @@
 	<m3>leiða <p>e-n</p> til bana, <i><trn>to cause one’s death</trn></i> (of an illness);</m3>
 	<m3>kominn at bana, <i><trn>sinking fast</trn></i>;</m3>
 	<m2>2) <i><trn>that which causes death, bane</trn></i>; <i><trn>slayer</trn></i> (fjögurra manna ~).</m2>
-</entry>
-<entry word="bann">
+</word>
+<word>
+bann
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>excommunication, anathema, interdict</trn></i>;</m2>
 	<m3>hit meira b, <i><trn>the greater exc.</trn></i>;</m3>
 	<m3>hit minna ~ <i><trn>(the lesser exc.)</trn></i> þat sem forboð er kallat á norrœnu;</m3>
 	<m2>2) <i><trn>prohibition</trn></i>, opp. to <ref>lof</ref> (hlýða boði ok ~i <p>e-s</p>);</m2>
 	<m3>leggja ~ fyrir <p>e-t</p>, <i><trn>to prohibit</trn></i>.</m3>
-</entry>
-<entry word="banna">
+</word>
+<word>
+banna
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to forbid, prohibit</trn></i> (~ <p>e-m</p> <p>e-t</p> <com>or</com> with <p>infin.</p>);</m2>
 	<m2>2) <i><trn>to curse</trn></i> (~ <p>e-m</p>);</m2>
 	<m3><p>refl.</p> ~st um, <i><trn>to swear</trn></i> (to do a thing).</m3>
-</entry>
-<entry word="bannaðarorð">
+</word>
+<word>
+bannaðarorð
 	<m1><p>n.</p> = <ref>bannanarorð</ref>.</m1>
-</entry>
-<entry word="bannan">
-	</entry>
-<entry word="bölvan">
+</word>
+<word>
+bannan
+</word>
+<word>
+bölvan
 	<m1><p>f.</p> <i><trn>curse, imprecation</trn></i>.</m1>
-</entry>
-<entry word="bannanarorð">
+</word>
+<word>
+bannanarorð
 	<m1><p>n.</p> <p>pl.</p> = <ref>bannan</ref>.</m1>
-</entry>
-<entry word="bannfœra">
+</word>
+<word>
+bannfœra
 	<m1>(-ða, -ðr), <p>v.</p> <i><trn>to place under the ban</trn></i>.</m1>
-</entry>
-<entry word="bannsatkvæði">
+</word>
+<word>
+bannsatkvæði
 	<m1><p>n.</p> <i><trn>sentence of excommunication</trn></i>.</m1>
-</entry>
-<entry word="bannsáfelli">
+</word>
+<word>
+bannsáfelli
 	<m1><p>n.</p> = <ref>bannsatkvæði</ref>.</m1>
-</entry>
-<entry word="bannsdómr">
+</word>
+<word>
+bannsdómr
 	<m1><p>m.</p> = <ref>bannsatkvæði</ref>.</m1>
-</entry>
-<entry word="bannsetja">
+</word>
+<word>
+bannsetja
 	<m1>(<com>see</com> <ref>setja</ref>), <p>v.</p></m1>
 	<m2>1) <i><trn>to place under the ban</trn></i>;</m2>
 	<m2>2) <i><trn>to curse</trn></i>.</m2>
-</entry>
-<entry word="bannsetning">
+</word>
+<word>
+bannsetning
 	<m1><p>f.</p> <i><trn>excomunication</trn></i>.</m1>
-</entry>
-<entry word="bannsettliga">
-	</entry>
-<entry word="glœpiliga">
-	</entry>
-<entry word="úhœfiliga">
+</word>
+<word>
+bannsettliga
+</word>
+<word>
+glœpiliga
+</word>
+<word>
+úhœfiliga
 	<m1><p>adv.</p> <i><trn>wickedly</trn></i>.</m1>
-</entry>
-<entry word="bannsettligr">
+</word>
+<word>
+bannsettligr
 	<m1><p>a.</p> <i><trn>execrable, detestable</trn></i>.</m1>
-</entry>
-<entry word="bannsettr">
+</word>
+<word>
+bannsettr
 	<m1><p>pp.</p></m1>
 	<m2>1) <i><trn>placed under the ban</trn></i>;</m2>
 	<m2>2) <i><trn>accursed</trn></i>.</m2>
-</entry>
-<entry word="bannsmál">
+</word>
+<word>
+bannsmál
 	<m1><p>n.</p> <i><trn>a case liable to excommunication</trn></i>.</m1>
-</entry>
-<entry word="bannspina">
+</word>
+<word>
+bannspina
 	<m1><p>f.</p> <i><trn>punishinent of excommunication</trn></i>.</m1>
-</entry>
-<entry word="bannsspjót">
+</word>
+<word>
+bannsspjót
 	<m1><p>n.</p> <i><trn>spear of excommunication</trn></i>.</m1>
-</entry>
-<entry word="bannssök">
+</word>
+<word>
+bannssök
 	<m1><p>f.</p> <i><trn>an offense liable to excommunication</trn></i>.</m1>
-</entry>
-<entry word="bannsverk">
+</word>
+<word>
+bannsverk
 	<m1><p>n.</p> <i><trn>an act liable to excommunication</trn></i>.</m1>
-</entry>
-<entry word="bannsyngja">
+</word>
+<word>
+bannsyngja
 	<m1>(<com>see</com> <ref>syngja</ref>), <p>v.</p> <i><trn>to pronounce an anathema against</trn></i>.</m1>
-</entry>
-<entry word="banorð">
+</word>
+<word>
+banorð
 	<m1><p>f.</p> = <ref>banaorð</ref>.</m1>
-</entry>
-<entry word="banvænligr">
+</word>
+<word>
+banvænligr
 	<m1><p>a.</p> <i><trn>mortal, deadly</trn></i>.</m1>
-</entry>
-<entry word="banvænn">
+</word>
+<word>
+banvænn
 	<m1><p>a.</p></m1>
 	<m2>1) = <ref>banvænligr</ref> (banvænt sár);</m2>
 	<m2>2) <i><trn>deadly sick</trn></i>; ok er dró at því at hann var ~, <i><trn>when all hope of life was gone</trn></i>.</m2>
-</entry>
-<entry word="bar">
-	</entry>
-<entry word="báru">
-	</entry>
-<entry word="borinn">
-	</entry>
-<entry word="bæri">
+</word>
+<word>
+bar
+</word>
+<word>
+báru
+</word>
+<word>
+borinn
+</word>
+<word>
+bæri
 	<m1>from <ref>bera</ref>.</m1>
-</entry>
-<entry word="barar">
+</word>
+<word>
+barar
 	<m1><p>f.</p> <p>pl.</p></m1>
 	<m2>1) <i><trn>hand-barrow, stretcher</trn></i> (Þ. var borinn í börum um fjallit);</m2>
 	<m2>2) <i><trn>funeral bier</trn></i> carried by horses (mœddust hestarnir undir börunum).</m2>
-</entry>
-<entry word="barátta">
+</word>
+<word>
+barátta
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>contest, fighting</trn></i>;</m2>
 	<m2>2) <i><trn>fight, battle</trn></i>.</m2>
-</entry>
-<entry word="baráttufullr">
+</word>
+<word>
+baráttufullr
 	<m1><p>a.</p> <i><trn>combative, fond of fighting</trn></i>.</m1>
-</entry>
-<entry word="baráttumaðr">
-	</entry>
-<entry word="bardagamaðr">
-	</entry>
-<entry word="orrostumaðr">
-	</entry>
-<entry word="vígmaðr">
+</word>
+<word>
+baráttumaðr
+</word>
+<word>
+bardagamaðr
+</word>
+<word>
+orrostumaðr
+</word>
+<word>
+vígmaðr
 	<m1><p>m.</p> <i><trn>warrior</trn></i>.</m1>
-</entry>
-<entry word="baráttusamr">
+</word>
+<word>
+baráttusamr
 	<m1><p>a.</p> <i><trn>given to fighting</trn></i>.</m1>
-</entry>
-<entry word="barð">
+</word>
+<word>
+barð
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>beard</trn></i> (rare);</m2>
 	<m2>2) <i><trn>brim</trn></i>, of a hat or helmet;</m2>
 	<m2>3) <i><trn>the beak or armed prow of ships</trn></i> (of war), <i><trn>stem</trn></i>; róa fyrir ~ <p>e-m</p> (= róa fyrir stafn <p>e-m</p>), <i><trn>to thwart one</trn></i>.</m2>
-</entry>
-<entry word="barða">
-	</entry>
-<entry word="bastøx">
+</word>
+<word>
+barða
+</word>
+<word>
+bastøx
 	<m1><p>f.</p> <i><trn>a kind of axe</trn></i>.</m1>
-</entry>
-<entry word="bardagabúinn">
+</word>
+<word>
+bardagabúinn
 	<m1><p>pp.</p> <i><trn>ready for battle</trn></i>.</m1>
-</entry>
-<entry word="bardagafrest">
+</word>
+<word>
+bardagafrest
 	<m1><p>n.</p> <i><trn>delay of battle</trn></i>.</m1>
-</entry>
-<entry word="bardagafullr">
+</word>
+<word>
+bardagafullr
 	<m1><p>a.</p> = <ref>bardagagjarn</ref>.</m1>
-</entry>
-<entry word="bardagafýst">
+</word>
+<word>
+bardagafýst
 	<m1><p>f.</p> <i><trn>love of combat</trn></i>.</m1>
-</entry>
-<entry word="bardagagjarn">
+</word>
+<word>
+bardagagjarn
 	<m1><p>a.</p> <i><trn>eager for combat</trn></i>.</m1>
-</entry>
-<entry word="bardagaguð">
+</word>
+<word>
+bardagaguð
 	<m1><p>m.</p> <i><trn>god of battle</trn></i>.</m1>
-</entry>
-<entry word="bardagagyðja">
+</word>
+<word>
+bardagagyðja
 	<m1><p>f.</p> <i><trn>goddess of battle</trn></i>.</m1>
-</entry>
-<entry word="bardagalaust">
+</word>
+<word>
+bardagalaust
 	<m1><p>adv.</p> without <i><trn>battle</trn></i>.</m1>
-</entry>
-<entry word="bardagalist">
+</word>
+<word>
+bardagalist
 	<m1><p>f.</p> <i><trn>art of war</trn></i>.</m1>
-</entry>
-<entry word="bardagalykt">
+</word>
+<word>
+bardagalykt
 	<m1><p>f.</p> <i><trn>the close of a battle</trn></i>.</m1>
-</entry>
-<entry word="bardagastef">
+</word>
+<word>
+bardagastef
 	<m1><p>n.</p> <i><trn>a time fixedfor a battle</trn></i>.</m1>
-</entry>
-<entry word="bardagastefna">
+</word>
+<word>
+bardagastefna
 	<m1><p>f.</p> <i><trn>a time fixedfor a battle</trn></i>.</m1>
-</entry>
-<entry word="bardagi">
+</word>
+<word>
+bardagi
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>beating, thrashing</trn></i>;</m2>
 	<m2>2) <i><trn>fight, battle</trn></i> (heyja, eiga bardaga við <p>e-n</p>);</m2>
 	<m2>3) <i><trn>calamity, scourge</trn></i>.</m2>
-</entry>
-<entry word="barðhvalr">
+</word>
+<word>
+barðhvalr
 	<m1><p>m.</p> <i><trn>a sort of whale</trn></i>.</m1>
-</entry>
-<entry word="barði">
+</word>
+<word>
+barði
 	<m1><b>I)</b> <p>m.</p> <i><trn>a sort of ship, ‘ram’</trn></i>.</m1>
 	<m1><b>II)</b> from <ref>berja</ref>.</m1>
-</entry>
-<entry word="barðmikill">
+</word>
+<word>
+barðmikill
 	<m1><p>a.</p> <i><trn>with a great</trn></i> <ref>barð</ref> 3.</m1>
-</entry>
-<entry word="barg">
-	</entry>
-<entry word="bergr">
-	</entry>
-<entry word="borginn">
+</word>
+<word>
+barg
+</word>
+<word>
+bergr
+</word>
+<word>
+borginn
 	<m1>from <ref>bjarga</ref>.</m1>
-</entry>
-<entry word="barir">
+</word>
+<word>
+barir
 	<m1><p>f.</p> <p>pl.</p> = <ref>barar</ref> (rare).</m1>
-</entry>
-<entry word="barkakýli">
+</word>
+<word>
+barkakýli
 	<m1><p>n.</p> <i><trn>Adam’s apple</trn></i>.</m1>
-</entry>
-<entry word="barkar">
+</word>
+<word>
+barkar
 	<m1>from <ref>börkr</ref>, <i><trn>bark</trn></i>.</m1>
-</entry>
-<entry word="barki">
+</word>
+<word>
+barki
 	<m1><b>I)</b></m1>
 	<m2><p>m.</p> <i><trn>windpipe, weazand</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>m.</p> <i><trn>a sort of small boat, launch</trn></i>.</m2>
-</entry>
-<entry word="barklauss">
+</word>
+<word>
+barklauss
 	<m1><p>a.</p> <i><trn>without bark</trn></i> (börkr).</m1>
-</entry>
-<entry word="barlak">
+</word>
+<word>
+barlak
 	<m1><p>n.</p> <i><trn>barley</trn></i>, = <ref>bygg</ref>.</m1>
-</entry>
-<entry word="barmi">
+</word>
+<word>
+barmi
 	<m1><p>m.</p> <p>poet.</p>, <i><trn>brother</trn></i>.</m1>
-</entry>
-<entry word="barmr">
+</word>
+<word>
+barmr
 	<m1><p>m.</p> <i><trn>brim, rim</trn></i> (of a vessel or a steel cap).</m1>
-</entry>
-<entry word="barmtog">
+</word>
+<word>
+barmtog
 	<m1><p>n.</p> <i><trn>a rope</trn></i> for hauling the nets ashore.</m1>
-</entry>
-<entry word="barn">
+</word>
+<word>
+barn
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>bairn, child</trn></i>; vera með ~i, <i><trn>to be with child</trn></i>; ganga með ~i, <i><trn>to go with child</trn></i>; ~s hafandi <com>or</com> hafandi at ~i, <i><trn>with child, pregnant</trn></i>; frá blautu ~i, <i><trn>from one’s tender years</trn></i>;</m2>
 	<m2>2) = <ref>mannsbarn</ref>; hvert ~, <i><trn>every man, every living soul</trn></i>.</m2>
-</entry>
-<entry word="barna">
+</word>
+<word>
+barna
 	<m1>(að), <p>v.</p> <i><trn>to get with child</trn></i>.</m1>
-</entry>
-<entry word="barnabörn">
+</word>
+<word>
+barnabörn
 	<m1><p>n.</p> <p>pl.</p> <i><trn>grandchildren</trn></i>.</m1>
-</entry>
-<entry word="barnaeldi">
+</word>
+<word>
+barnaeldi
 	<m1><p>n.</p> <i><trn>procreation of children</trn></i>.</m1>
-</entry>
-<entry word="barnafœri">
+</word>
+<word>
+barnafœri
 	<m1><p>n.</p> in the phrase, ekki ~, <i><trn>no task for children</trn></i>.</m1>
-</entry>
-<entry word="barnagaman">
+</word>
+<word>
+barnagaman
 	<m1><p>n.</p> <i><trn>child’s play</trn></i>.</m1>
-</entry>
-<entry word="barnakarl">
+</word>
+<word>
+barnakarl
 	<m1><p>m.</p> <i><trn>children’s friend</trn></i>.</m1>
-</entry>
-<entry word="barnaldr">
+</word>
+<word>
+barnaldr
 	<m1><p>m.</p> = <ref>barnsaldr</ref>.</m1>
-</entry>
-<entry word="barnaleikr">
+</word>
+<word>
+barnaleikr
 	<m1><p>m.</p> <i><trn>child’s play</trn></i>.</m1>
-</entry>
-<entry word="barnalinn">
+</word>
+<word>
+barnalinn
 	<m1><p>pp.</p> <i><trn>native</trn></i>; ~ á Íslandi, <i><trn>a native of lceland</trn></i>.</m1>
-</entry>
-<entry word="barnamál">
+</word>
+<word>
+barnamál
 	<m1><p>n.</p> <i><trn>childish affair</trn></i>; gera <p>e-t</p> at ~um, <i><trn>to treat as a trifle, trifle with</trn></i>.</m1>
-</entry>
-<entry word="barnamesba">
+</word>
+<word>
+barnamesba
 	<m1><p>f.</p> <i><trn>Holy Innocents’ Day</trn></i>.</m1>
-</entry>
-<entry word="barnaskap">
+</word>
+<word>
+barnaskap
 	<m1><p>n.</p> <i><trn>childish temper</trn></i>; hafa ekki ~, <i><trn>to be no baby</trn></i>.</m1>
-</entry>
-<entry word="barnavipr">
+</word>
+<word>
+barnavipr
 	<m1><p>n.</p> <i><trn>childish trifles, gewgaws</trn></i>.</m1>
-</entry>
-<entry word="barnaþáttr">
+</word>
+<word>
+barnaþáttr
 	<m1><p>m.</p> <i><trn>the section of law concerning infants</trn></i>.</m1>
-</entry>
-<entry word="barnberi">
+</word>
+<word>
+barnberi
 	<m1><p>a.</p> <i><trn>with child, pregnant</trn></i>.</m1>
-</entry>
-<entry word="barnburðr">
+</word>
+<word>
+barnburðr
 	<m1><p>m.</p> <i><trn>childbirth</trn></i>.</m1>
-</entry>
-<entry word="barnbærr">
+</word>
+<word>
+barnbærr
 	<m1><p>a.</p> <i><trn>capable of bearing children</trn></i>, opp. to <ref>úbyrja</ref>.</m1>
-</entry>
-<entry word="barndómr">
+</word>
+<word>
+barndómr
 	<m1><p>m.</p> <i><trn>childhood</trn></i>.</m1>
-</entry>
-<entry word="barneign">
+</word>
+<word>
+barneign
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>getting or having children</trn></i>;</m2>
 	<m2>2) <i><trn>children, family</trn></i> (furðu illa ~ gat Loki).</m2>
-</entry>
-<entry word="barneskja">
+</word>
+<word>
+barneskja
 	<m1><p>f.</p> <i><trn>childhood</trn></i>, = <ref>barnœska</ref>.</m1>
-</entry>
-<entry word="barnfaðir">
+</word>
+<word>
+barnfaðir
 	<m1><p>m.</p> <i><trn>a childs alleged father</trn></i>.</m1>
-</entry>
-<entry word="barnfóstr">
+</word>
+<word>
+barnfóstr
 	<m1><p>n.</p> <i><trn>fostering of a child</trn></i> (a kind of adoption in olden times); bjóða <p>e-m</p> ~, <i><trn>to offer to do this for another man</trn></i>.</m1>
-</entry>
-<entry word="barnfóstra">
+</word>
+<word>
+barnfóstra
 	<m1><p>f.</p> <i><trn>foster-mother</trn></i>.</m1>
-</entry>
-<entry word="barnfóstri">
-	</entry>
-<entry word="fóstrfaðir">
+</word>
+<word>
+barnfóstri
+</word>
+<word>
+fóstrfaðir
 	<m1><p>m.</p> <i><trn>foster-father</trn></i>.</m1>
-</entry>
-<entry word="barnfúlga">
+</word>
+<word>
+barnfúlga
 	<m1><p>f.</p> <i><trn>pay for the maintenance of a child</trn></i>.</m1>
-</entry>
-<entry word="barnfœddr">
+</word>
+<word>
+barnfœddr
 	<m1><p>pp.</p> = <ref>barnalinn</ref>; borinn ok ~, <i><trn>born and bred</trn></i>.</m1>
-</entry>
-<entry word="barnfœði">
+</word>
+<word>
+barnfœði
 	<m1><p>n.</p> <i><trn>native place, birthplace</trn></i> (eiga ~ <p>e-s</p> staðar).</m1>
-</entry>
-<entry word="barngetnaðr">
+</word>
+<word>
+barngetnaðr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>procreation of children</trn></i>;</m2>
 	<m2>2) <i><trn>pregnancy</trn></i> (hón hafði fengit barngetnað af þeirra samvistu).</m2>
-</entry>
-<entry word="barngœlur">
+</word>
+<word>
+barngœlur
 	<m1><p>f.</p> <p>pl.</p> <i><trn>nursery songs, lullabies</trn></i>.</m1>
-</entry>
-<entry word="barningr">
+</word>
+<word>
+barningr
 	<m1><p>m.</p> <i><trn>thrashing</trn></i>, <com>see</com> ‘lama~’.</m1>
-</entry>
-<entry word="barnlauss">
+</word>
+<word>
+barnlauss
 	<m1><p>a.</p> <i><trn>childless</trn></i>.</m1>
-</entry>
-<entry word="barnleikr">
+</word>
+<word>
+barnleikr
 	<m1><p>m.</p> = <ref>barnaleikr</ref>.</m1>
-</entry>
-<entry word="barnleysi">
-	</entry>
-<entry word="erfingjaleysi">
+</word>
+<word>
+barnleysi
+</word>
+<word>
+erfingjaleysi
 	<m1><p>n.</p> <i><trn>childlessness</trn></i>.</m1>
-</entry>
-<entry word="barnligr">
-	</entry>
-<entry word="bernskr">
+</word>
+<word>
+barnligr
+</word>
+<word>
+bernskr
 	<m1><p>a.</p> <i><trn>childish, childlike</trn></i>.</m1>
-</entry>
-<entry word="barnsaldr">
+</word>
+<word>
+barnsaldr
 	<m1><p>m.</p> (time of) <i><trn>childhood</trn></i> (nýkominn af ~i).</m1>
-</entry>
-<entry word="barnsbein">
+</word>
+<word>
+barnsbein
 	<m1><p>n.</p>, in the phrase, frá (<com>or</com> af) blautu ~i, <i><trn>from childhood</trn></i>.</m1>
-</entry>
-<entry word="barnsfull">
+</word>
+<word>
+barnsfull
 	<m1><p>a.</p> <p>f.</p> <i><trn>pregnant</trn></i>.</m1>
-</entry>
-<entry word="barnsfylgja">
+</word>
+<word>
+barnsfylgja
 	<m1><p>f.</p> <i><trn>the after-birth</trn></i>, = <ref>eptirburðr</ref>.</m1>
-</entry>
-<entry word="barnsgrátr">
+</word>
+<word>
+barnsgrátr
 	<m1><p>m.</p> <i><trn>the crying of a baby</trn></i>.</m1>
-</entry>
-<entry word="barnshúfa">
+</word>
+<word>
+barnshúfa
 	<m1><p>f.</p> <i><trn>child’s cap</trn></i>.</m1>
-</entry>
-<entry word="barnskikkja">
+</word>
+<word>
+barnskikkja
 	<m1><p>f.</p> <i><trn>childs cloak</trn></i>.</m1>
-</entry>
-<entry word="barnskirnarorð">
+</word>
+<word>
+barnskirnarorð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>words used in christening, baptismal formula</trn></i>.</m1>
-</entry>
-<entry word="barnskírn">
+</word>
+<word>
+barnskírn
 	<m1><p>f.</p> <i><trn>christening of an infant</trn></i>.</m1>
-</entry>
-<entry word="barnsótt">
+</word>
+<word>
+barnsótt
 	<m1><p>f.</p> <i><trn>pains, throes of childbirth</trn></i> (taka ~).</m1>
-</entry>
-<entry word="barnsæll">
+</word>
+<word>
+barnsæll
 	<m1><p>a.</p> <i><trn>fortunate in one’s children</trn></i>.</m1>
-</entry>
-<entry word="barnsæng">
+</word>
+<word>
+barnsæng
 	<m1><p>f.</p> <i><trn>childbed</trn></i>.</m1>
-</entry>
-<entry word="barnteitr">
+</word>
+<word>
+barnteitr
 	<m1><p>a.</p> <i><trn>glad as a child</trn></i>.</m1>
-</entry>
-<entry word="barnungr">
+</word>
+<word>
+barnungr
 	<m1><p>a.</p> <i><trn>very young, youthful</trn></i>.</m1>
-</entry>
-<entry word="barnúmagi">
+</word>
+<word>
+barnúmagi
 	<m1><p>m.</p>, <com>see</com> <ref>úmagi</ref>.</m1>
-</entry>
-<entry word="barnúmegð">
+</word>
+<word>
+barnúmegð
 	<m1><p>f.</p>, <com>see</com> <ref>úmegð</ref>.</m1>
-</entry>
-<entry word="barnœska">
+</word>
+<word>
+barnœska
 	<m1><p>f.</p> <i><trn>childhood</trn></i> (bráð er ~).</m1>
-</entry>
-<entry word="barr">
+</word>
+<word>
+barr
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>acicular leaves, needles</trn></i> of the fir or pine (wrongly applied by Snorri, who speaks of the ‘~’ of the ash);</m2>
 	<m2>2) <i><trn>barley</trn></i>.</m2>
-</entry>
-<entry word="barraxlaðr">
+</word>
+<word>
+barraxlaðr
 	<m1><p>a.</p> <i><trn>high-shouldered, with sharp, prominent shoulder bones</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Barreyskr
 	<m1><p>a.</p> <i><trn>from Barra</trn></i> (in the Hebrides).</m1>
-</entry>
-<entry word="barrhaddaðr">
+</word>
+<word>
+barrhaddaðr
 	<m1><p>a.</p> <p>poet.</p>, <i><trn>barley-haired</trn></i> (of the earth).</m1>
-</entry>
-<entry word="barrskeptr">
+</word>
+<word>
+barrskeptr
 	<m1><p>a.</p> <i><trn>high-shafted</trn></i>, of an axe (breiðöx barrskept).</m1>
-</entry>
-<entry word="barrviðr">
+</word>
+<word>
+barrviðr
 	<m1><p>m.</p> <i><trn>pine-forest</trn></i>; <i><trn>the wood of the fir</trn></i>.</m1>
-</entry>
-<entry word="barsmíð">
+</word>
+<word>
+barsmíð
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>thrashing, flogging</trn></i>;</m2>
 	<m2>2) in <p>pl.</p>, <i><trn>fight, row</trn></i>.</m2>
-</entry>
-<entry word="barún">
+</word>
+<word>
+barún
 	<m1>(<p>pl.</p> ~ar), <p>m.</p> <i><trn>baron</trn></i>.</m1>
-</entry>
-<entry word="barviðri">
+</word>
+<word>
+barviðri
 	<m1><p>n.</p> <i><trn>beating storm, violent blasts</trn></i> (~ ok regn mikit).</m1>
-</entry>
-<entry word="bassi">
+</word>
+<word>
+bassi
 	<m1><p>m.</p> <i><trn>bear</trn></i>, = <ref>bersi</ref>.</m1>
-</entry>
-<entry word="bast">
+</word>
+<word>
+bast
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>bast, the inner bark of the lime-tree</trn></i> (bleikr sem ~);</m2>
 	<m2>2) <i><trn>cord or string of bast</trn></i> (sá, þeir á ~ bauga dregna).</m2>
-</entry>
-<entry word="basta">
+</word>
+<word>
+basta
 	<m1>(að), <p>v.</p> <i><trn>to bind with a rope of bast</trn></i> (ú~ðr ok úbundinn).</m1>
-</entry>
-<entry word="bastarðr">
+</word>
+<word>
+bastarðr
 	<m1><p>m.</p> <i><trn>bastard</trn></i>.</m1>
-</entry>
-<entry word="bastari">
+</word>
+<word>
+bastari
 	<m1><p>m.</p> <i><trn>bastrope-maker</trn></i>.</m1>
-</entry>
-<entry word="bastbleikr">
+</word>
+<word>
+bastbleikr
 	<m1><p>a.</p> <i><trn>pale as bast</trn></i> (= bleikr sem ~).</m1>
-</entry>
-<entry word="bastlina">
+</word>
+<word>
+bastlina
 	<m1><p>f.</p> <i><trn>cord of bast</trn></i>.</m1>
-</entry>
-<entry word="basttaug">
+</word>
+<word>
+basttaug
 	<m1><p>f.</p> rope or cord of bast.</m1>
-</entry>
-<entry word="bastvesall">
+</word>
+<word>
+bastvesall
 	<m1><p>a.</p> = <ref>bastbleikr</ref>.</m1>
-</entry>
-<entry word="bati">
+</word>
+<word>
+bati
 	<m1><p>m.</p> <i><trn>improvement, advantage</trn></i>.</m1>
-</entry>
-<entry word="batna">
+</word>
+<word>
+batna
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to improve, get better</trn></i>;</m2>
 	<m2>2) <p>impers.</p>, <p>e-m</p> ~r, one <i><trn>recovers</trn></i> (after sickness); the disease is added in <p>gen.</p> (<p>e-m</p> ~r síns meins, sjúkleika).</m2>
-</entry>
-<entry word="batnaðr">
+</word>
+<word>
+batnaðr
 	<m1>(<p>gen.</p> -ar), <p>m.</p> <i><trn>improvement</trn></i> (berja <p>e-n</p> til batnaðar).</m1>
-</entry>
-<entry word="batt">
-	</entry>
-<entry word="bazt">
-	</entry>
-<entry word="bittu">
-	</entry>
-<entry word="bundinn">
-	</entry>
-<entry word="byndi">
+</word>
+<word>
+batt
+</word>
+<word>
+bazt
+</word>
+<word>
+bittu
+</word>
+<word>
+bundinn
+</word>
+<word>
+byndi
 	<m1>from <ref>binda</ref>.</m1>
-</entry>
-<entry word="bauð">
-	</entry>
-<entry word="bautt">
-	</entry>
-<entry word="buðu">
-	</entry>
-<entry word="byði">
-	</entry>
-<entry word="býð">
+</word>
+<word>
+bauð
+</word>
+<word>
+bautt
+</word>
+<word>
+buðu
+</word>
+<word>
+byði
+</word>
+<word>
+býð
 	<m1>from <ref>bjóða</ref>.</m1>
-</entry>
-<entry word="baugabrot">
+</word>
+<word>
+baugabrot
 	<m1><p>n.</p> <i><trn>fragments</trn></i> of <i><trn>rings</trn></i> (given in payment).</m1>
-</entry>
-<entry word="baugatal">
+</word>
+<word>
+baugatal
 	<m1><p>n.</p> <i><trn>enumeration of ‘rings’</trn></i> (baugar), <i><trn>the section of law dealing with weregilds</trn></i>.</m1>
-</entry>
-<entry word="baugbót">
+</word>
+<word>
+baugbót
 	<m1><p>f.</p> <i><trn>supplemental payment to the</trn></i> <ref>baugr</ref> (<ref>baugþak</ref>, <ref>þveiti</ref>).</m1>
-</entry>
-<entry word="baugbroti">
+</word>
+<word>
+baugbroti
 	<m1><p>m.</p> <i><trn>‘ring-breaker’, free-handed man</trn></i>.</m1>
-</entry>
-<entry word="baugbœtandi">
+</word>
+<word>
+baugbœtandi
 	<m1>(<p>pl.</p> -endr), <p>m.</p> <i><trn>one who has to pay the weregild</trn></i> (<ref>baugr</ref>).</m1>
-</entry>
-<entry word="baugeiðr">
+</word>
+<word>
+baugeiðr
 	<m1><p>m.</p> <i><trn>the oath upon the sacred temple ring</trn></i>.</m1>
-</entry>
-<entry word="bauggildi">
+</word>
+<word>
+bauggildi
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>the ‘weregild’ to be paid to the ‘agnates’ of the slain</trn></i>, opp. to <ref>nefgildi</ref>, <i><trn>the same amount to be paid to the ‘cognates’</trn></i>;</m2>
 	<m2>2) <i><trn>agnatic relationship</trn></i>.</m2>
-</entry>
-<entry word="bauggildingr">
+</word>
+<word>
+bauggildingr
 	<m1><p>m.</p> <com>see</com> <ref>bauggildismaðr</ref>.</m1>
-</entry>
-<entry word="bauggildismaðr">
+</word>
+<word>
+bauggildismaðr
 	<m1><p>m.</p>, usually <p>pl.</p> bauggildismenn, <i><trn>agnates</trn></i> who are bound to pay or receive the <ref>bauggildi</ref>.</m1>
-</entry>
-<entry word="bauggildr">
+</word>
+<word>
+bauggildr
 	<m1><p>a.</p> <i><trn>payable, fit to pay as</trn></i> <ref>bauggildi</ref> (~ eyrir, bauggilt fé).</m1>
-</entry>
-<entry word="baugr">
+</word>
+<word>
+baugr
 	<m1>(-s, -ar), <p>m.</p></m1>
 	<m2>1) <i><trn>ring, armlet</trn></i> (of gold or silver) worn on the wrist, <p>esp.</p> <i><trn>the sacred ring</trn></i> (stallahringr) on the altar in heathen temples, <p>cf.</p> <ref>baugeiðr</ref>;</m2>
 	<m2>2) in olden times, before minted gold or silver came into use, such rings were commonly used as a medium of payment; hence ‘~’ simply means <i><trn>money</trn></i>;</m2>
@@ -895,81 +1158,106 @@ Barreyskr
 	<m2>4) <i><trn>gaff-hook?</trn></i></m2>
 	<m2>5) in the phrase, eiga (kost) á baugi, <i><trn>to have a (single) chance left</trn></i>; ef sá væri á. baugi, <i><trn>if there were no other chance</trn></i>; þú munt eiga slíkan á baugi brátt, <i><trn>thou wilt soon have the very same chance or lot</trn></i> (<p>viz.</p> death);</m2>
 	<m2>6) <i><trn>the painted circle on a round shield</trn></i>.</m2>
-</entry>
-<entry word="baugrýgr">
+</word>
+<word>
+baugrýgr
 	<m1>(-rýgjar, -rýgir), <p>f.</p> <i><trn>an only daughter entitled to receive and pay weregild</trn></i>.</m1>
-</entry>
-<entry word="baugshelgr">
+</word>
+<word>
+baugshelgr
 	<m1><p>f.</p> <i><trn>personal sacredness</trn></i> (so that one’s death must be atoned for by a weregild).</m1>
-</entry>
-<entry word="baugvariðr">
+</word>
+<word>
+baugvariðr
 	<m1><p>pp.</p> <i><trn>adorned with rings</trn></i>.</m1>
-</entry>
-<entry word="baugþak">
+</word>
+<word>
+baugþak
 	<m1><p>n.</p> <i><trn>‘ring-covering’, supplemtal payment</trn></i> to be added to the <ref>baugr</ref> 3; at ~i, fig., <i><trn>in addition, to boot</trn></i>.</m1>
-</entry>
-<entry word="baugþiggjandi">
+</word>
+<word>
+baugþiggjandi
 	<m1>(-endr), <p>m.</p> <i><trn>receiver of weregild</trn></i>.</m1>
-</entry>
-<entry word="bauka">
+</word>
+<word>
+bauka
 	<m1>(að), <p>v.</p> <i><trn>to dig, to rummage</trn></i>.</m1>
-</entry>
-<entry word="baula">
+</word>
+<word>
+baula
 	<m1><p>f.</p> <i><trn>cow</trn></i>.</m1>
-</entry>
-<entry word="baulufall">
+</word>
+<word>
+baulufall
 	<m1><p>n.</p> <i><trn>the carcass of a slaughtered cow</trn></i>.</m1>
-</entry>
-<entry word="baulufótr">
+</word>
+<word>
+baulufótr
 	<m1><p>m.</p> <i><trn>cow’s foot</trn></i>, a nickname.</m1>
-</entry>
-<entry word="baun">
+</word>
+<word>
+baun
 	<m1>(<p>pl.</p> -ir), <p>f.</p> <i><trn>bean</trn></i>.</m1>
-</entry>
-<entry word="baunalögr">
+</word>
+<word>
+baunalögr
 	<m1><p>m.</p> <i><trn>bean-broth</trn></i>.</m1>
-</entry>
-<entry word="bauta">
+</word>
+<word>
+bauta
 	<m1><p>v.</p> <i><trn>beat, chase?</trn></i> (svá bautu vér björnuna).</m1>
-</entry>
-<entry word="bautaðarsteinn">
-	</entry>
-<entry word="bautarsteinn">
-	</entry>
-<entry word="bautasteinn">
+</word>
+<word>
+bautaðarsteinn
+</word>
+<word>
+bautarsteinn
+</word>
+<word>
+bautasteinn
 	<m1><p>m.</p> <i><trn>stone monunent, memorial stone</trn></i> (reisa, setja bautastein).</m1>
-</entry>
-<entry word="baztr">
+</word>
+<word>
+baztr
 	<m1><p>a.</p> <p>superl.</p> = <ref>beztr</ref>.</m1>
-</entry>
-<entry word="báðir">
+</word>
+<word>
+báðir
 	<m1>(báðar, bæði, <p>gen.</p> beggja), <p>a.</p> <i><trn>both</trn></i> (~ tveir).</m1>
-</entry>
-<entry word="báðu">
+</word>
+<word>
+báðu
 	<m1>from <ref>biðja</ref>.</m1>
-</entry>
-<entry word="bági">
+</word>
+<word>
+bági
 	<m1><p>m.</p> <p>poet.</p>, <i><trn>adversary</trn></i>.</m1>
-</entry>
-<entry word="bágr">
+</word>
+<word>
+bágr
 	<m1><b>I)</b></m1>
 	<m2><p>a.</p> <i><trn>uneasy, awkward</trn></i> (verðr honum nú bág höndin); bágt var mjök um matbjargir, <i><trn>provisions were very scarce</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>m.</p> <i><trn>contest, resistance</trn></i>, in such phrases as, brjóta bág við <p>e-n</p>, <i><trn>to contend against, offer resistance to</trn></i>; fór í bág með þeim, <i><trn>a conflict arose between them</trn></i>; <i><trn>they quarrelled</trn></i>.</m2>
-</entry>
-<entry word="bágráðr">
+</word>
+<word>
+bágráðr
 	<m1><p>a.</p> <i><trn>difficult to deal with</trn></i>, opp. to <ref>auðráðr</ref>.</m1>
-</entry>
-<entry word="bágrækr">
+</word>
+<word>
+bágrækr
 	<m1><p>a.</p> <i><trn>difficult to drive</trn></i> (of geese).</m1>
-</entry>
-<entry word="bákn">
+</word>
+<word>
+bákn
 	<m1><p>n.</p> <i><trn>beacon, signal</trn></i>.</m1>
-</entry>
-<entry word="bákna">
+</word>
+<word>
+bákna
 	<m1>(að), <p>v.</p> <i><trn>to beckon, make signals</trn></i> (þeir báknuðu vápnunum til þeirra Hákonar).</m1>
-</entry>
-<entry word="bál">
+</word>
+<word>
+bál
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>fire</trn></i>;</m2>
 	<m3>slá ~ = <ref>drepa</ref> eld;</m3>
@@ -978,132 +1266,171 @@ Barreyskr
 	<m2>3) <i><trn>pyre, funeral pile</trn></i>;</m2>
 	<m3>bera <p>e-n</p> á ~, <i><trn>to carry to the pyre</trn></i>;</m3>
 	<m3>stíga á ~, <i><trn>to mount the pyre</trn></i>.</m3>
-</entry>
-<entry word="bálför">
+</word>
+<word>
+bálför
 	<m1><p>f.</p> <i><trn>funeral</trn></i>.</m1>
-</entry>
-<entry word="bálkr">
+</word>
+<word>
+bálkr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>partition, balk</trn></i> (~ um þveran hellinn);</m2>
 	<m2>2) section in a code <i><trn>of laws</trn></i>;</m2>
 	<m2>3) <i><trn>body, group, host</trn></i>.</m2>
-</entry>
-<entry word="bára">
+</word>
+<word>
+bára
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>wave, billow</trn></i>; vant er at sigla milli skers ok báru, <i><trn>between Scylla and Charybdis</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(að), <p>v.</p> <i><trn>to fall and rise in waves</trn></i> (vatnit hrœrðist mjök ok báraði).</m2>
-</entry>
-<entry word="báróttr">
+</word>
+<word>
+báróttr
 	<m1><p>a.</p> <i><trn>undulated, wavy</trn></i> (haussinn var allr ~ útan sem hörpuskel).</m1>
-</entry>
-<entry word="bárstórt">
+</word>
+<word>
+bárstórt
 	<m1><p>a.</p> <p>n.</p>, var ~, <i><trn>the waves ran high</trn></i>.</m1>
-</entry>
-<entry word="bárufall">
-	</entry>
-<entry word="bylgjufall">
+</word>
+<word>
+bárufall
+</word>
+<word>
+bylgjufall
 	<m1><p>n.</p> <i><trn>heavy sea</trn></i>.</m1>
-</entry>
-<entry word="báruskot">
+</word>
+<word>
+báruskot
 	<m1><p>n.</p> <i><trn>swell</trn></i>.</m1>
-</entry>
-<entry word="bárustormr">
+</word>
+<word>
+bárustormr
 	<m1><p>m.</p> <i><trn>storm with heavy sea</trn></i>.</m1>
-</entry>
-<entry word="bárustórt">
+</word>
+<word>
+bárustórt
 	<m1>= <ref>bárstórt</ref>.</m1>
-</entry>
-<entry word="bása">
+</word>
+<word>
+bása
 	<m1>(að), <p>v.</p> <i><trn>to drive into a stall</trn></i>, with <p>dat.</p> = <ref>bæsa</ref>.</m1>
-</entry>
-<entry word="báshella">
+</word>
+<word>
+báshella
 	<m1><p>f.</p> <i><trn>a flagstone separating two stalls in a cowhouse</trn></i>.</m1>
-</entry>
-<entry word="báss">
+</word>
+<word>
+báss
 	<m1><p>m.</p> <i><trn>boose</trn></i> or <i><trn>stall in a cowhouse</trn></i> (binda kú í bás).</m1>
-</entry>
-<entry word="básún">
+</word>
+<word>
+básún
 	<m1><p>m.</p> <i><trn>bassoon</trn></i> (<p>for.</p> word).</m1>
-</entry>
-<entry word="bátfestr">
+</word>
+<word>
+bátfestr
 	<m1><p>f.</p> <i><trn>a rope by which a boat is made fast</trn></i>.</m1>
-</entry>
-<entry word="bátlauss">
+</word>
+<word>
+bátlauss
 	<m1><p>a.</p> <i><trn>having no boat</trn></i>.</m1>
-</entry>
-<entry word="bátleysi">
+</word>
+<word>
+bátleysi
 	<m1><p>n.</p> <i><trn>want of a boat</trn></i>.</m1>
-</entry>
-<entry word="bátmaðr">
+</word>
+<word>
+bátmaðr
 	<m1><p>m.</p> <i><trn>boatman</trn></i>.</m1>
-</entry>
-<entry word="bátr">
+</word>
+<word>
+bátr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>boat</trn></i>; sjá fyrir báti sínum, <i><trn>to go one’s own course, to mind one’s own business</trn></i>.</m1>
-</entry>
-<entry word="bátsborð">
+</word>
+<word>
+bátsborð
 	<m1><p>n.</p> <i><trn>the side of a boat</trn></i>.</m1>
-</entry>
-<entry word="bátsfarmr">
+</word>
+<word>
+bátsfarmr
 	<m1><p>m.</p> <i><trn>boat’s freight</trn></i>.</m1>
-</entry>
-<entry word="bátshaki">
+</word>
+<word>
+bátshaki
 	<m1><p>m.</p> <i><trn>boat-hook</trn></i>.</m1>
-</entry>
-<entry word="bátstafn">
+</word>
+<word>
+bátstafn
 	<m1><p>m.</p> <i><trn>boat’s prow</trn></i>.</m1>
-</entry>
-<entry word="beðið">
+</word>
+<word>
+beðið
 	<m1>from <ref>biðja</ref> and <ref>bíða</ref>.</m1>
-</entry>
-<entry word="beðja">
+</word>
+<word>
+beðja
 	<m1><p>f.</p> <p>poet.</p>, <i><trn>bed-fellow, wife</trn></i>.</m1>
-</entry>
-<entry word="beðmál">
+</word>
+<word>
+beðmál
 	<m1><p>n.</p> <p>pl.</p> <i><trn>bed-talk</trn></i>.</m1>
-</entry>
-<entry word="beðr">
+</word>
+<word>
+beðr
 	<m1>(-jar, -ir), <p>m.</p> <i><trn>bolster, bedding</trn></i>; ganga á beð <p>e-m</p>, <i><trn>to go to bed with one, to marry</trn></i>.</m1>
-</entry>
-<entry word="beggja">
+</word>
+<word>
+beggja
 	<m1>from <ref>báðir</ref>, <i><trn>both</trn></i>.</m1>
-</entry>
-<entry word="beið">
-	</entry>
-<entry word="biðu">
+</word>
+<word>
+beið
+</word>
+<word>
+biðu
 	<m1>from <ref>bíða</ref>.</m1>
-</entry>
-<entry word="beiða">
+</word>
+<word>
+beiða
 	<m1>(-dda, -ddr), <p>v.</p> <i><trn>to ask, beg, request</trn></i>;</m1>
 	<m2>~ <p>e-n</p> <p>e-s</p>, <com>or</com> ~ <p>e-m</p> <i><trn>(for one)</trn></i> <p>e-s</p>;</m2>
 	<m2>~ <p>e-s</p> af <p>e-m</p>, <i><trn>to ask a thing of or from a person</trn></i>;</m2>
 	<m2>~ <p>e-n</p> máls, orða, <i><trn>to address one</trn></i>;</m2>
 	<m2>with <p>acc.</p>, ~ lögbeiðing, <i><trn>to make a lawful request</trn></i>;</m2>
 	<m2><p>refl.</p>, ~st, <i><trn>to request on one’s own behalf</trn></i> (~ laga, griða).</m2>
-</entry>
-<entry word="beiddr">
+</word>
+<word>
+beiddr
 	<m1><p>pp.</p> <i><trn>unwilling reluctant</trn></i> (~ fór ek heiman at biðja þín, Guðrún).</m1>
-</entry>
-<entry word="beiðing">
-	</entry>
-<entry word="beiðni">
-	</entry>
-<entry word="beiðsla">
+</word>
+<word>
+beiðing
+</word>
+<word>
+beiðni
+</word>
+<word>
+beiðsla
 	<m1><p>f.</p> <i><trn>request, demand</trn></i>.</m1>
-</entry>
-<entry word="beiðslumaðr">
+</word>
+<word>
+beiðslumaðr
 	<m1><p>m.</p> <i><trn>a person asking</trn></i>.</m1>
-</entry>
-<entry word="beimar">
+</word>
+<word>
+beimar
 	<m1><p>m.</p> <p>pl.</p> <p>poet.</p>, <i><trn>men, heroes</trn></i>.</m1>
-</entry>
-<entry word="bein">
+</word>
+<word>
+bein
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>bone</trn></i>; láta með beini ganga, <i><trn>to deal blows to the very bone, give no quarter</trn></i>; hafa ~ í hendi, <i><trn>to be well off</trn></i>;</m2>
 	<m2>2) <i><trn>leg</trn></i>, = <ref>fótleggr</ref>;</m2>
 	<m2>3) <p>pl.</p> <i><trn>mortal remains</trn></i>; bera bein <com>or</com> beinin, <i><trn>to be buried</trn></i> (hér mun ek ~ bera á Íslandi).</m2>
-</entry>
-<entry word="beina">
+</word>
+<word>
+beina
 	<m1>(-da, -dr), <p>v.</p></m1>
 	<m2>1) <i><trn>to stretch out, put into motion</trn></i>;</m2>
 	<m3>~ flug, <i><trn>to stretch the wings for flight</trn></i>;</m3>
@@ -1115,78 +1442,102 @@ Barreyskr
 	<m3>~ <p>e-u</p> til <p>e-s</p>, <i><trn>to contribute to a thing</trn></i>;</m3>
 	<m3>~ at <p>e-u</p>, <i><trn>to lend a hand to</trn></i>;</m3>
 	<m3>~ fyrir <p>e-m</p>, <i><trn>to support, entertain</trn></i>.</m3>
-</entry>
-<entry word="beinabót">
+</word>
+<word>
+beinabót
 	<m1><p>f.</p> <i><trn>accommodation, comfort for guests</trn></i>.</m1>
-</entry>
-<entry word="beinafœrsla">
+</word>
+<word>
+beinafœrsla
 	<m1><p>f.</p> <i><trn>removal of bones</trn></i> (from one churchyard to another).</m1>
-</entry>
-<entry word="beinahrúga">
+</word>
+<word>
+beinahrúga
 	<m1><p>f.</p> <i><trn>heap of bones</trn></i>.</m1>
-</entry>
-<entry word="beinalag">
+</word>
+<word>
+beinalag
 	<m1><p>n.</p> <i><trn>burying of one’s bones, death</trn></i>.</m1>
-</entry>
-<entry word="beinaspell">
+</word>
+<word>
+beinaspell
 	<m1><p>n.</p> <i><trn>spoiling the comfort of guests</trn></i>.</m1>
-</entry>
-<entry word="beinaþurfi">
+</word>
+<word>
+beinaþurfi
 	<m1><p>a.</p> <i><trn>in need of hospitable treatment</trn></i>.</m1>
-</entry>
-<entry word="beina-">
+</word>
+<word>
+beina-
 	<m1><p>gen.</p> <p>pl.</p> from <ref>bein</ref> and <p>gen.</p> <p>sing.</p> from <ref>beini</ref>.</m1>
-</entry>
-<entry word="beinbrjóta">
+</word>
+<word>
+beinbrjóta
 	<m1>(<com>see</com> <ref>brjóta</ref>), <p>v.</p> <i><trn>to break one’s bones</trn></i>.</m1>
-</entry>
-<entry word="beinbrot">
+</word>
+<word>
+beinbrot
 	<m1><p>n.</p> <i><trn>fracture of a bone</trn></i>.</m1>
-</entry>
-<entry word="beinfastr">
+</word>
+<word>
+beinfastr
 	<m1><p>a.</p>, beinfast sár, <i><trn>a wound to the bone</trn></i>.</m1>
-</entry>
-<entry word="beinfiskr">
-	</entry>
-<entry word="fjörsungr">
+</word>
+<word>
+beinfiskr
+</word>
+<word>
+fjörsungr
 	<m1><p>m.</p> <i><trn>a kind of fish</trn></i>.</m1>
-</entry>
-<entry word="beingróinn">
+</word>
+<word>
+beingróinn
 	<m1><p>pp.</p> <i><trn>grown fast to the bone</trn></i>.</m1>
-</entry>
-<entry word="beinhögg">
+</word>
+<word>
+beinhögg
 	<m1><p>n.</p> <i><trn>a blow injuring the bone</trn></i> (svöðusár ok eigi ~).</m1>
-</entry>
-<entry word="beini">
+</word>
+<word>
+beini
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>help, benifit</trn></i>;</m2>
 	<m2>2) <p>esp.</p> <i><trn>hospitable entertainment, hospitality</trn></i> (vinna, veita <p>e-m</p> beina); ganga um beina, <i><trn>to wait upon the guests</trn></i>.</m2>
-</entry>
-<entry word="beinir">
+</word>
+<word>
+beinir
 	<m1><p>m.</p> = <ref>beini</ref> 1.</m1>
-</entry>
-<entry word="beinisamr">
+</word>
+<word>
+beinisamr
 	<m1><p>a.</p> <i><trn>ready (willing) to help</trn></i>.</m1>
-</entry>
-<entry word="beinisemi">
+</word>
+<word>
+beinisemi
 	<m1><p>f.</p> <i><trn>readiness to help</trn></i>.</m1>
-</entry>
-<entry word="beinknúta">
+</word>
+<word>
+beinknúta
 	<m1><p>f.</p> <i><trn>joint-bone</trn></i>.</m1>
-</entry>
-<entry word="beinkross">
+</word>
+<word>
+beinkross
 	<m1><p>m.</p> <i><trn>cross of bone</trn></i>.</m1>
-</entry>
-<entry word="beinlauss">
+</word>
+<word>
+beinlauss
 	<m1><p>a.</p> <i><trn>boneless, without bones</trn></i>.</m1>
-</entry>
-<entry word="beinleiðis">
+</word>
+<word>
+beinleiðis
 	<m1><p>adv.</p> <i><trn>straight, directly</trn></i>.</m1>
-</entry>
-<entry word="beinleiki">
+</word>
+<word>
+beinleiki
 	<m1><p>m.</p> <i><trn>hospitable treatment, hospitality</trn></i>, = <ref>beini</ref> 2.</m1>
-</entry>
-<entry word="beinn">
+</word>
+<word>
+beinn
 	<m1><b>I)</b></m1>
 	<m2><p>a.</p></m2>
 	<m3>1) <i><trn>straight</trn></i>; bein rás, <i><trn>straight course</trn></i>; beinstr vegr, <i><trn>the straightest (shortest) way</trn></i>;</m3>
@@ -1195,58 +1546,73 @@ Barreyskr
 	<m2><p>a.</p> <i><trn>-legged</trn></i> (ber~, <i><trn>bare-legged</trn></i>; digr~, <i><trn>thick-legged</trn></i>).</m2>
 	<m1><b>III)</b></m1>
 	<m2><p>m.</p> <i><trn>a kind of tree, ebony?</trn></i>.</m2>
-</entry>
-<entry word="beinskeyti">
+</word>
+<word>
+beinskeyti
 	<m1><p>f.</p> <i><trn>straight shooting, marksmanship</trn></i>.</m1>
-</entry>
-<entry word="beinskeytr">
+</word>
+<word>
+beinskeytr
 	<m1><p>a.</p> <i><trn>straight shooting, a good shot</trn></i>.</m1>
-</entry>
-<entry word="beinslitr">
+</word>
+<word>
+beinslitr
 	<m1><p>m.</p> <i><trn>colour of a bone</trn></i>.</m1>
-</entry>
-<entry word="beinstórr">
+</word>
+<word>
+beinstórr
 	<m1><p>a.</p> <i><trn>big-boned</trn></i> (maðr mikill ok ~).</m1>
-</entry>
-<entry word="beint">
+</word>
+<word>
+beint
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>straight, in a straight line, straight on</trn></i>;</m2>
 	<m2>2) <i><trn>just</trn></i> (þat kom mér ~ í hug); ~ sex tigir skipa, <i><trn>precisely sixty ships</trn></i>; nú ~, <i><trn>just now</trn></i>; þá ~, ~ í þessu, <i><trn>just then</trn></i>.</m2>
-</entry>
-<entry word="beinverkir">
+</word>
+<word>
+beinverkir
 	<m1><p>m.</p> <p>pl.</p> <i><trn>pain in the legs</trn></i>.</m1>
-</entry>
-<entry word="beinvitr">
+</word>
+<word>
+beinvitr
 	<m1><p>m.</p> <i><trn>holly</trn></i>.</m1>
-</entry>
-<entry word="beinvöxtr">
+</word>
+<word>
+beinvöxtr
 	<m1><p>m.</p> <i><trn>bone-growth, size of bones</trn></i> (lítill beinvöxtum).</m1>
-</entry>
-<entry word="beiska">
+</word>
+<word>
+beiska
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>bitterness, sourness</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(að), <p>v.</p> <i><trn>to embitter</trn></i>.</m2>
-</entry>
-<entry word="beiskleikr">
+</word>
+<word>
+beiskleikr
 	<m1><p>m.</p> <i><trn>bitterness, harshness</trn></i>.</m1>
-</entry>
-<entry word="beiskliga">
+</word>
+<word>
+beiskliga
 	<m1><p>adv.</p> <i><trn>bitterly</trn></i> (gráta ~).</m1>
-</entry>
-<entry word="beiskligr">
+</word>
+<word>
+beiskligr
 	<m1><p>a.</p> <i><trn>bitterish</trn></i>.</m1>
-</entry>
-<entry word="beisklundaðr">
+</word>
+<word>
+beisklundaðr
 	<m1><p>a.</p> <i><trn>bitterhearted, malevolent</trn></i>.</m1>
-</entry>
-<entry word="beiskr">
+</word>
+<word>
+beiskr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>bitter, acrid</trn></i> (~ drykkr);</m2>
 	<m2>2) <i><trn>exasperated, angry</trn></i> (hón varð beisk við);</m2>
 	<m2>3) <i><trn>painful, sore</trn></i> (~ bruni).</m2>
-</entry>
-<entry word="beit">
+</word>
+<word>
+beit
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>pasturage, pasture</trn></i>.</m2>
 	<m1><b>II)</b></m1>
@@ -1255,8 +1621,9 @@ Barreyskr
 	<m2><p>n.</p> <p>poet.</p>, <i><trn>ship</trn></i>.</m2>
 	<m1><b>IV)</b></m1>
 	<m1>from <ref>bíta</ref>.</m1>
-</entry>
-<entry word="beita">
+</word>
+<word>
+beita
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>bait</trn></i>, <p>esp.</p> for fish.</m2>
 	<m1><b>II)</b></m1>
@@ -1270,152 +1637,192 @@ Barreyskr
 	<m4>~ <p>e-n</p> hundum, <i><trn>to set dogs on one</trn></i>;</m4>
 	<m3>4) fig., ~ <p>e-n</p> brögðum, úlögum, illu, <i><trn>to deal cunningly, unlawfully, badly with one</trn></i>;</m3>
 	<m4><p>recipr.</p>, við höfum opt brögðum beizt, <i><trn>schemed against each other</trn></i>;</m4>
-	<m3>5) <i><trn>to harness</trn></i> (a horse, ) <i><trn>to a vehicle</trn></i> (~ hest fyrir vagn);</m3>
+	<m3>5) <i><trn>to harness</trn></i> (a horse, &c.) <i><trn>to a vehicle</trn></i> (~ hest fyrir vagn);</m3>
 	<m4>beittu enn blakka mar, <i><trn>saddle thy black steed</trn></i>;</m4>
 	<m4>fig., ~ <p>e-n</p> fyrir <p>e-t</p>, <i><trn>to put one at the head of</trn></i>;</m4>
 	<m4><p>refl.</p>, ~st fyrir <p>e-t</p> <com>or</com> <p>e-u</p>, to lead the cause;</m4>
 	<m3>6) <i><trn>to furnish (a vehicle) with horses</trn></i> (vagn at ~);</m3>
 	<m3>7) <i><trn>to steer</trn></i> <com>or</com> <i><trn>sail near the wind, to cruise</trn></i> (~ þeir í brot, frá landinu);</m3>
 	<m4>fengu þeir beitt fyrir Skotland, <i><trn>they weathered S.</trn></i></m4>
-</entry>
-<entry word="beitfiskr">
+</word>
+<word>
+beitfiskr
 	<m1><p>m.</p> <i><trn>fish to be caught with bait?</trn></i> (al. <ref>beinfiskr</ref>).</m1>
-</entry>
-<entry word="beiti">
+</word>
+<word>
+beiti
 	<m1><b>I)</b></m1>
 	<m2><p>n.</p> <i><trn>pasturage</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>n.</p> <i><trn>heather</trn></i> (~ tekr við bitsóttum).</m2>
-</entry>
-<entry word="beitiáss">
+</word>
+<word>
+beitiáss
 	<m1><p>m.</p> <i><trn>sail-yard</trn></i>.</m1>
-</entry>
-<entry word="beiting">
+</word>
+<word>
+beiting
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>grazing</trn></i>;</m2>
 	<m2>2) <i><trn>sailing by the wind</trn></i> (cf. þrá-~).</m2>
-</entry>
-<entry word="beitingamál">
+</word>
+<word>
+beitingamál
 	<m1><p>n.</p> <i><trn>a lawsuit about right of grazing or pasturage</trn></i>.</m1>
-</entry>
-<entry word="beittr">
+</word>
+<word>
+beittr
 	<m1><p>a.</p> <i><trn>sharp, keen</trn></i> (of cutting instruments).</m1>
-</entry>
-<entry word="beizl">
+</word>
+<word>
+beizl
 	<m1><p>n.</p> <i><trn>bridle</trn></i>; leggja ~ við hest, <i><trn>to bridle a horse</trn></i>.</m1>
-</entry>
-<entry word="beizla">
+</word>
+<word>
+beizla
 	<m1><b>I)</b></m1>
 	<m2>(að), <p>v.</p> <i><trn>to bridle</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> = <ref>beiðsla</ref>.</m2>
-</entry>
-<entry word="beizlál">
+</word>
+<word>
+beizlál
 	<m1><p>f.</p> <i><trn>bridle-rein</trn></i>.</m1>
-</entry>
-<entry word="beizlhringr">
+</word>
+<word>
+beizlhringr
 	<m1><p>m.</p> <i><trn>bridle-ring</trn></i>.</m1>
-</entry>
-<entry word="beizltamr">
+</word>
+<word>
+beizltamr
 	<m1><p>a.</p> <i><trn>used to the bridle</trn></i>.</m1>
-</entry>
-<entry word="beizltaumr">
+</word>
+<word>
+beizltaumr
 	<m1><p>m.</p> <i><trn>bridle-rein</trn></i>.</m1>
-</entry>
-<entry word="beizlumaðr">
+</word>
+<word>
+beizlumaðr
 	<m1><p>m.</p> = <ref>beiðslumaðr</ref>.</m1>
-</entry>
-<entry word="bejur">
-	</entry>
-<entry word="bæjur">
+</word>
+<word>
+bejur
+</word>
+<word>
+bæjur
 	<m1><p>f.</p> <p>pl.</p> <i><trn>fetters, irons</trn></i> (foreign word).</m1>
-</entry>
-<entry word="bekkjargjöf">
+</word>
+<word>
+bekkjargjöf
 	<m1><p>f.</p> <i><trn>‘bench-gift’</trn></i> (a gift which the bridegroom offered to the bride at the wedding festival).</m1>
-</entry>
-<entry word="bekkjarkvern">
+</word>
+<word>
+bekkjarkvern
 	<m1><p>f.</p> <i><trn>water-mill</trn></i>.</m1>
-</entry>
-<entry word="bekkjast">
+</word>
+<word>
+bekkjast
 	<m1>(t), <p>v. refl.</p> <i><trn>to strive to get a thing</trn></i> (~ til <p>e-s</p>); ~ til við <p>e-n</p>, <i><trn>to pick a quarrel with one</trn></i>.</m1>
-</entry>
-<entry word="bekkjunautr">
-	</entry>
-<entry word="þopti">
+</word>
+<word>
+bekkjunautr
+</word>
+<word>
+þopti
 	<m1><p>m.</p> <i><trn>bench-fellow</trn></i>.</m1>
-</entry>
-<entry word="bekkklæði">
+</word>
+<word>
+bekkklæði
 	<m1><p>n.</p> <i><trn>covering of a bench</trn></i>.</m1>
-</entry>
-<entry word="bekkr">
+</word>
+<word>
+bekkr
 	<m1><b>I)</b></m1>
 	<m2>(<p>gen.</p> -s or -jar, <p>pl.</p> -ir), <p>m.</p> <i><trn>bench</trn></i>; œðri ~, <i><trn>the upper bench</trn></i> (along the north side of the hall, looking towards the sun); úœðri ~, <i><trn>the lower (inferior) bench</trn></i> (along the southern side); breiða, strá bekki, <i><trn>to cover, strew the benches</trn></i> (in preparation for a feast or wedding).</m2>
 	<m1><b>II)</b></m1>
 	<m2>(<p>gen.</p> -s or -jar, <p>pl.</p> -ir), <p>m.</p> <i><trn>beck, brook</trn></i> (<p>poet.</p>).</m2>
-</entry>
-<entry word="bekkskrautuðr">
+</word>
+<word>
+bekkskrautuðr
 	<m1><p>m.</p> <i><trn>adorner (ornament) of the bench</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="bekksœmr">
+</word>
+<word>
+bekksœmr
 	<m1><p>a.</p> <i><trn>adorning the bench</trn></i>.</m1>
-</entry>
-<entry word="bekri">
+</word>
+<word>
+bekri
 	<m1><p>m.</p> <i><trn>ram</trn></i>; brjóta bekrann, <i><trn>to break one’s neck</trn></i> (rare).</m1>
-</entry>
-<entry word="belgfláttr">
+</word>
+<word>
+belgfláttr
 	<m1><p>m.</p> <i><trn>flaying or taking off the skin of an animal entire</trn></i> (flá hafrana belgflætti).</m1>
-</entry>
-<entry word="belgja">
+</word>
+<word>
+belgja
 	<m1>(-ða, -ðr), <p>v.</p> <i><trn>to inflate, puff out</trn></i> (~ hvápta, augun).</m1>
-</entry>
-<entry word="belgr">
+</word>
+<word>
+belgr
 	<m1>(<p>gen.</p> -s or -jar, <p>pl.</p> -ir), <p>m.</p></m1>
 	<m2>1) <i><trn>the skin</trn></i> (of a quadruped) taken off whole (cf. kálfs~, katt~, hafr~, otr~);</m2>
 	<m2>2) <i><trn>skin-bag, skin-case</trn></i> (draga belg á <com>or</com> yfir hofuð <p>e-m</p>);</m2>
 	<m2>3) <i><trn>bellows</trn></i> (smiðju-~).</m2>
-</entry>
-<entry word="belja">
+</word>
+<word>
+belja
 	<m1>(að), <p>v.</p> <i><trn>to bellow</trn></i> (~ sem naut).</m1>
-</entry>
-<entry word="beljan">
+</word>
+<word>
+beljan
 	<m1><p>f.</p> <i><trn>bellowing, lowing</trn></i>.</m1>
-</entry>
-<entry word="bella">
+</word>
+<word>
+bella
 	<m1><b>I)</b></m1>
 	<m2>(bell, ball, —), <p>v.</p> <i><trn>to hit, hurt</trn></i>, with <p>dat.</p> (ball þér nú?); ekki má ófeigum ~, <i><trn>one not fated to die is proof against all shots</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(-da, -t), <p>v.</p> <i><trn>to dare, venture</trn></i>, with <p>dat.</p>; (hverr mun hafa þessu bellt?); <i><trn>to deal in, display</trn></i> (~ svikum, lygi, gleði).</m2>
-</entry>
-<entry word="bellibragð">
+</word>
+<word>
+bellibragð
 	<m1><p>n.</p> <i><trn>knavish trick</trn></i>.</m1>
-</entry>
-<entry word="bellinn">
+</word>
+<word>
+bellinn
 	<m1><p>a.</p> <i><trn>tricky, trickish</trn></i>.</m1>
-</entry>
-<entry word="bellvisi">
+</word>
+<word>
+bellvisi
 	<m1><p>f.</p> <i><trn>trickishness</trn></i>.</m1>
-</entry>
-<entry word="beltadráttr">
+</word>
+<word>
+beltadráttr
 	<m1><p>m.</p> <i><trn>a close struggle</trn></i>.</m1>
-</entry>
-<entry word="belti">
+</word>
+<word>
+belti
 	<m1><p>n.</p> <i><trn>belt</trn></i> (cf. gjörð, lindi).</m1>
-</entry>
-<entry word="beltispúss">
+</word>
+<word>
+beltispúss
 	<m1><p>m.</p> <i><trn>a pouch attached to the belt</trn></i>.</m1>
-</entry>
-<entry word="beltisstaðr">
+</word>
+<word>
+beltisstaðr
 	<m1><p>m.</p> <i><trn>waist</trn></i>.</m1>
-</entry>
-<entry word="ben">
+</word>
+<word>
+ben
 	<m1><b>I)</b></m1>
 	<m2>(-jar, -jar), <p>f.</p></m2>
 	<m3>1) <i><trn>mortal wound</trn></i> (ben, ef at bana verðr);</m3>
 	<m3>2) <i><trn>small bleeding wound</trn></i>; also of <i><trn>the wound produced by letting blood</trn></i>.</m3>
 	<m1><b>II)</b></m1>
 	<m2><p>n.</p> <i><trn>wound</trn></i> = ben, <p>f.</p></m2>
-</entry>
-<entry word="benda">
+</word>
+<word>
+benda
 	<m1><b>I)</b></m1>
 	<m2>(-nda, -ndr), <p>v.</p> <i><trn>to beckon, make a size with the head or hand</trn></i> (~ <p>e-m</p> til sín, at fylgja sér);</m2>
 	<m3>with <p>acc.</p>, ~ <p>e-t</p> fyrir, <i><trn>to forebode, betoken</trn></i>.</m3>
@@ -1426,53 +1833,68 @@ Barreyskr
 	<m3><p>refl.</p>, ~st á um <p>e-t</p>, <i><trn>to dispute, contest about</trn></i>.</m3>
 	<m1><b>III)</b></m1>
 	<m2><p>f.</p> <i><trn>band, tie</trn></i> (cf. höfuð~).</m2>
-</entry>
-<entry word="bendi">
+</word>
+<word>
+bendi
 	<m1><p>n.</p> <i><trn>cord</trn></i>.</m1>
-</entry>
-<entry word="bendill">
+</word>
+<word>
+bendill
 	<m1><p>m.</p> <i><trn>small cord, string</trn></i>.</m1>
-</entry>
-<entry word="bending">
+</word>
+<word>
+bending
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>sign, token</trn></i>; gera <p>e-m</p> ~, <i><trn>to make a sign to one</trn></i>;</m2>
 	<m2>2) <i><trn>foreboding, betokenig</trn></i> (víst eru þetta ~ar stórra bardaga).</m2>
-</entry>
-<entry word="bendr">
+</word>
+<word>
+bendr
 	<m1><p>pp.</p> <i><trn>bended, bent</trn></i> (skjóta af bendum boga).</m1>
-</entry>
-<entry word="benja">
+</word>
+<word>
+benja
 	<m1>(að), <p>v.</p> <i><trn>to wound mortally</trn></i> (bróður minn hefr þú ~ðan).</m1>
-</entry>
-<entry word="benjalýsing">
+</word>
+<word>
+benjalýsing
 	<m1><p>f.</p> a sort of <i><trn>coroner’s inquest upon a slain man</trn></i>.</m1>
-</entry>
-<entry word="benjaváttr">
+</word>
+<word>
+benjaváttr
 	<m1><p>m.</p> a sort of <i><trn>coroner’s juryman</trn></i>.</m1>
-</entry>
-<entry word="benjavætti">
+</word>
+<word>
+benjavætti
 	<m1><p>n.</p> <i><trn>the verdict of a</trn></i> benjaváttr.</m1>
-</entry>
-<entry word="benlauss">
+</word>
+<word>
+benlauss
 	<m1><p>a.</p> <i><trn>free from wounds</trn></i>.</m1>
-</entry>
-<entry word="benlogi">
+</word>
+<word>
+benlogi
 	<m1><p>m.</p> <p>poet.</p> <i><trn>‘wound-flame’, sword</trn></i>.</m1>
-</entry>
-<entry word="benrögn">
+</word>
+<word>
+benrögn
 	<m1><p>n.</p> <i><trn>‘wound-drops’</trn></i>.</m1>
-</entry>
-<entry word="benvöndr">
+</word>
+<word>
+benvöndr
 	<m1><p>m.</p> <p>poet.</p> <i><trn>‘wound-wand’, sword</trn></i>.</m1>
-</entry>
-<entry word="benzl">
+</word>
+<word>
+benzl
 	<m1><p>n.</p> <p>pl.</p> <i><trn>bent state of a bow</trn></i>;</m1>
 	<m2>taka boga af ~um, <i><trn>to unbend it</trn></i>.</m2>
-</entry>
-<entry word="ber">
+</word>
+<word>
+ber
 	<m1>(<p>gen.</p> <p>pl.</p> berja), <p>n.</p> <i><trn>berry</trn></i>.</m1>
-</entry>
-<entry word="bera">
+</word>
+<word>
+bera
 	<m1><b>I)</b></m1>
 	<m2>(ber; bar, bárum; borinn), <p>v.</p></m2>
 	<m2>I.</m2>
@@ -1623,100 +2045,131 @@ Barreyskr
 	<m2>(að), <p>v.</p> <i><trn>to make bare</trn></i> (hon ~ði likam sinn).</m2>
 	<m1><b>III)</b></m1>
 	<m2><p>f.</p> <i><trn>she-bear</trn></i>, = <ref>birna</ref>.</m2>
-</entry>
-<entry word="berbakt">
+</word>
+<word>
+berbakt
 	<m1><p>adv.</p> <i><trn>bare-backed, without saddle</trn></i> (ríða ~).</m1>
-</entry>
-<entry word="berbeinn">
+</word>
+<word>
+berbeinn
 	<m1><p>a.</p> <i><trn>barelegged</trn></i>.</m1>
-</entry>
-<entry word="berbrynjaðr">
+</word>
+<word>
+berbrynjaðr
 	<m1><p>a.</p> <i><trn>wearing a coat of mail with no garment over it</trn></i>.</m1>
-</entry>
-<entry word="berdreymr">
+</word>
+<word>
+berdreymr
 	<m1><p>a.</p> <i><trn>having clear dreams as to the future</trn></i>.</m1>
-</entry>
-<entry word="berfjall">
+</word>
+<word>
+berfjall
 	<m1><p>n.</p> <i><trn>bear-skin</trn></i> (cf. <ref>bera</ref>).</m1>
-</entry>
-<entry word="berfœttr">
+</word>
+<word>
+berfœttr
 	<m1><p>a.</p> <i><trn>bare-footed, barelegged</trn></i>;</m1>
 	<m2>~ bróðir, <i><trn>bare-footed friar, minorite</trn></i>.</m2>
-</entry>
-<entry word="berg">
+</word>
+<word>
+berg
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>rock, boulder</trn></i>;</m2>
 	<m2>2) <i><trn>cliff, precipice</trn></i> (framan í ~i).</m2>
-</entry>
-<entry word="bergbúi">
+</word>
+<word>
+bergbúi
 	<m1><p>m.</p> <i><trn>rock-dweller, giant</trn></i>.</m1>
-</entry>
-<entry word="bergdanir">
+</word>
+<word>
+bergdanir
 	<m1><p>m.</p> <p>pl.</p> = bergbúar.</m1>
-</entry>
-<entry word="berghamarr">
+</word>
+<word>
+berghamarr
 	<m1><p>m.</p> <i><trn>rocky precipice</trn></i>.</m1>
-</entry>
-<entry word="berghlíð">
+</word>
+<word>
+berghlíð
 	<m1><p>f.</p> <i><trn>the side of a berg, mountain slope</trn></i>.</m1>
-</entry>
-<entry word="berghögg">
+</word>
+<word>
+berghögg
 	<m1><p>n.</p> <i><trn>a quarrying tool</trn></i>.</m1>
-</entry>
-<entry word="bergibiti">
+</word>
+<word>
+bergibiti
 	<m1><p>m.</p> <i><trn>a bit to taste, small bit</trn></i>.</m1>
-</entry>
-<entry word="bergiligr">
+</word>
+<word>
+bergiligr
 	<m1><p>a.</p> <i><trn>inviting to taste</trn></i>.</m1>
-</entry>
-<entry word="berging">
+</word>
+<word>
+berging
 	<m1><p>f.</p> <i><trn>tasting, taste</trn></i>.</m1>
-</entry>
-<entry word="bergisamligr">
+</word>
+<word>
+bergisamligr
 	<m1><p>a.</p> = <ref>bergiligr</ref>.</m1>
-</entry>
-<entry word="bergja">
+</word>
+<word>
+bergja
 	<m1>(-ða, -ðr), <p>v.</p> <i><trn>to taste</trn></i>, with <p>dat.</p>; þárgunna vildi øngum mat ~, <i><trn>Th. would taste no food</trn></i>; ~ ölvi, <i><trn>to taste (drink) ale</trn></i>; ~ dauða, <i><trn>to taste death</trn></i>; also ~ á <p>e-u</p> (enn höfum við eigi á dauða bergt).</m1>
-</entry>
-<entry word="bergning">
+</word>
+<word>
+bergning
 	<m1><p>f.</p> = <ref>berging</ref> (rare).</m1>
-</entry>
-<entry word="bergnös">
-	</entry>
-<entry word="bjargsnös">
+</word>
+<word>
+bergnös
+</word>
+<word>
+bjargsnös
 	<m1><p>f.</p> = <ref>bergsnös</ref>.</m1>
-</entry>
-<entry word="bergrifa">
+</word>
+<word>
+bergrifa
 	<m1><p>f.</p> <i><trn>fissure in a rock</trn></i>, = <ref>bjargrifa</ref>.</m1>
-</entry>
-<entry word="bergrisi">
+</word>
+<word>
+bergrisi
 	<m1><p>m.</p> <i><trn>hill-giant</trn></i>.</m1>
-</entry>
-<entry word="bergskor">
+</word>
+<word>
+bergskor
 	<m1><p>f.</p> <i><trn>rift in a rocky hill</trn></i>, = <ref>bjargskora</ref>.</m1>
-</entry>
-<entry word="bergsnös">
+</word>
+<word>
+bergsnös
 	<m1><p>f.</p> <i><trn>a rocky projection</trn></i>.</m1>
-</entry>
-<entry word="bergtollr">
+</word>
+<word>
+bergtollr
 	<m1><p>m.</p> <i><trn>rock-toll</trn></i>, paid for catching fowl thereon.</m1>
-</entry>
-<entry word="bergvörðr">
+</word>
+<word>
+bergvörðr
 	<m1><p>m.</p> <i><trn>a watch or lookout for rocks and cliffs</trn></i> (halda bergvörð).</m1>
-</entry>
-<entry word="berhöfði">
+</word>
+<word>
+berhöfði
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>bare-headed</trn></i>.</m1>
-</entry>
-<entry word="berhögg">
+</word>
+<word>
+berhögg
 	<m1><p>n.</p> in the phrase, ganga í (or á) ~ við <p>e-n</p>, <i><trn>to enter into open fight with</trn></i>; Jóan gekk á ~ at banna allar þær úhœfur, <i><trn>interdicted these abuses boldly and openly</trn></i>.</m1>
-</entry>
-<entry word="berill">
+</word>
+<word>
+berill
 	<m1><p>m.</p> <i><trn>vessel, barrel</trn></i> for fluids (mjöðrinn var borinn í berlum).</m1>
-</entry>
-<entry word="berindis">
+</word>
+<word>
+berindis
 	<m1><p>adv.</p> <i><trn>openly</trn></i> (rare).</m1>
-</entry>
-<entry word="berja">
+</word>
+<word>
+berja
 	<m1>(ber; barða, börðum; barðr, bariðr), <p>v.</p></m1>
 	<m2>1) <i><trn>to beat, strike, smite</trn></i> (~ <p>e-n</p>);</m2>
 	<m3>hár svá fagrt sem barit gull, <i><trn>as beaten gold</trn></i>;</m3>
@@ -1737,111 +2190,145 @@ Barreyskr
 	<m2>4) <p>impers.</p>, skýjagrjóti barði í augu þeim, <i><trn>hailstones dashed in their eyes</trn></i>;</m2>
 	<m3>þeim barði saman, <i><trn>they dashed against each other</trn></i>;</m3>
 	<m2>5) <p>refl.</p>, <ref>~st</ref>.</m2>
-</entry>
-<entry word="berjast">
+</word>
+<word>
+berjast
 	<m1><p>v. refl.</p> <i><trn>to fight</trn></i> (við <p>e-n</p>, <i><trn>with</trn></i> or <i><trn>against a person</trn></i>; við veðr, <i><trn>against bad weather</trn></i>; við <p>e-m</p>, <i><trn>for a person)</trn></i>;</m1>
 	<m2>~ á <p>e-t</p>, <i><trn>to assail attack</trn></i> (~ á borgina, á guðs lýð);</m2>
 	<m2>þótt hann berðist lengi mót (<i><trn>offered resistance</trn></i>).</m2>
-</entry>
-<entry word="berjavin">
+</word>
+<word>
+berjavin
 	<m1><p>n.</p> <i><trn>berry-wine</trn></i>.</m1>
-</entry>
-<entry word="berkja">
+</word>
+<word>
+berkja
 	<m1>(-ta, -t), <p>v.</p> <i><trn>to boast, brag</trn></i>.</m1>
-</entry>
-<entry word="berkyrtlaðr">
+</word>
+<word>
+berkyrtlaðr
 	<m1><p>a.</p> <i><trn>wearing the kirtle only, without cloak or mantle</trn></i>.</m1>
-</entry>
-<entry word="berleggjaðr">
-	</entry>
-<entry word="berleggr">
+</word>
+<word>
+berleggjaðr
+</word>
+<word>
+berleggr
 	<m1><p>a.</p> <i><trn>bare-legged</trn></i>.</m1>
-</entry>
-<entry word="berliga">
+</word>
+<word>
+berliga
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>openly, barely</trn></i>;</m2>
 	<m2>2) <i><trn>quite, altogether</trn></i> (~ úviljandi).</m2>
-</entry>
-<entry word="berligr">
+</word>
+<word>
+berligr
 	<m1><p>a.</p> <i><trn>open, manifest, clear</trn></i>.</m1>
-</entry>
-<entry word="berlingsáss">
+</word>
+<word>
+berlingsáss
 	<m1><p>m.</p> <i><trn>pole</trn></i> (~ digr þrettán alna langr).</m1>
-</entry>
-<entry word="bermálugr">
-	</entry>
-<entry word="orðdjarfr">
+</word>
+<word>
+bermálugr
+</word>
+<word>
+orðdjarfr
 	<m1><p>a.</p> <i><trn>outspoken</trn></i>.</m1>
-</entry>
-<entry word="bermælgi">
+</word>
+<word>
+bermælgi
 	<m1><p>f.</p> <i><trn>outspokenness, frankness</trn></i>.</m1>
-</entry>
-<entry word="bermæli">
+</word>
+<word>
+bermæli
 	<m1><p>n.</p> <p>pl.</p> <i><trn>outspokenness, frankness</trn></i>.</m1>
-</entry>
-<entry word="bermæltr">
+</word>
+<word>
+bermæltr
 	<m1><p>a.</p> = <ref>bermálugr</ref>.</m1>
-</entry>
-<entry word="bernska">
+</word>
+<word>
+bernska
 	<m1><p>f.</p> <i><trn>childhood</trn></i> (hann var þá í bernsku).</m1>
-</entry>
-<entry word="bernskliga">
+</word>
+<word>
+bernskliga
 	<m1><p>adv.</p> <i><trn>childishly</trn></i>.</m1>
-</entry>
-<entry word="bernskligr">
+</word>
+<word>
+bernskligr
 	<m1><p>a.</p> <i><trn>childish</trn></i>.</m1>
-</entry>
-<entry word="bernskualdr">
+</word>
+<word>
+bernskualdr
 	<m1><p>m.</p> <i><trn>years, days, of childhood</trn></i>.</m1>
-</entry>
-<entry word="bernskubragð">
+</word>
+<word>
+bernskubragð
 	<m1><p>n.</p> <i><trn>childish trick</trn></i>.</m1>
-</entry>
-<entry word="bernskuligr">
+</word>
+<word>
+bernskuligr
 	<m1><p>a.</p> <i><trn>belonging to childhood, childish</trn></i>.</m1>
-</entry>
-<entry word="bernskumaðr">
+</word>
+<word>
+bernskumaðr
 	<m1><p>m.</p> <i><trn>childish person, youth</trn></i>.</m1>
-</entry>
-<entry word="bernskuráð">
+</word>
+<word>
+bernskuráð
 	<m1><p>n.</p> <i><trn>childish design</trn></i>.</m1>
-</entry>
-<entry word="berr">
+</word>
+<word>
+berr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>bare, naked</trn></i> (lík bert ok blóðugt); undir berum himni, <i><trn>in the open air</trn></i>; hvíla á berri jörðu, <i><trn>on the bare ground</trn></i>;</m2>
 	<m2>2) <i><trn>open, clear, manifest</trn></i>; segja <p>e-t</p> berum orðum, <i><trn>in plain words</trn></i> verða berr at <p>e-u</p>, <i><trn>to be convicted of a thing</trn></i>; gøra <p>e-t</p> bert, <i><trn>to make known</trn></i>; gøra sik beran í <p>e-u</p>, <i><trn>to reveal, show one’s mind in a thng</trn></i>; vóru berastir í því þrændir, <i><trn>the Th. were most undisguised in it</trn></i>.</m2>
-</entry>
-<entry word="berserkr">
+</word>
+<word>
+berserkr
 	<m1>(-s, -ir), <p>m.</p> <i><trn>‘bear-sark’, berserker, a wild warrior</trn></i> of the heathen age.</m1>
-</entry>
-<entry word="berserksgangr">
+</word>
+<word>
+berserksgangr
 	<m1><p>m.</p> <i><trn>fury of the berserkers</trn></i>.</m1>
-</entry>
-<entry word="bershjaldaðr">
+</word>
+<word>
+bershjaldaðr
 	<m1><p>a.</p> <i><trn>without a shield</trn></i>.</m1>
-</entry>
-<entry word="bersi">
+</word>
+<word>
+bersi
 	<m1><p>m.</p>, <com>see</com> <ref>bessi</ref>.</m1>
-</entry>
-<entry word="bersyndugr">
+</word>
+<word>
+bersyndugr
 	<m1><p>a.</p> <i><trn>guilty of open sin</trn></i> (~ maðr).</m1>
-</entry>
-<entry word="bersögli">
+</word>
+<word>
+bersögli
 	<m1><p>f.</p> <i><trn>outspokenness, freedom of speech</trn></i>.</m1>
-</entry>
-<entry word="bert">
+</word>
+<word>
+bert
 	<m1><p>adv.</p> <i><trn>openly, clearly</trn></i> (mæla ~).</m1>
-</entry>
-<entry word="beryrði">
+</word>
+<word>
+beryrði
 	<m1><p>n.</p> <p>pl.</p> = <ref>bermæli</ref>, <ref>bersögli</ref>.</m1>
-</entry>
-<entry word="bessi">
+</word>
+<word>
+bessi
 	<m1>(for <ref>bersi</ref>, <p>cf.</p> <ref>bera</ref>, <p>f.</p>), <p>m.</p> <i><trn>he-bear, Bruin</trn></i>.</m1>
-</entry>
-<entry word="besti">
+</word>
+<word>
+besti
 	<m1><p>n.</p> = <ref>bast</ref>.</m1>
-</entry>
-<entry word="betr">
+</word>
+<word>
+betr
 	<m1><p>adv.</p> <p>compar.</p>,</m1>
 	<m2>1) <i><trn>better</trn></i>;</m2>
 	<m3>~ þœtti mér, <i><trn>I would rather</trn></i>;</m3>
@@ -1853,78 +2340,98 @@ Barreyskr
 	<m3>ef hann orkar (<com>or</com> má) ~, <i><trn>if he can do more</trn></i>;</m3>
 	<m3>ekki máttu sumir inenn ~ en fá staðizt, <i><trn>they were just able to keep up against him</trn></i>;</m3>
 	<m3>svá hár, at engi annarra tók ~ en í öxl honum, <i><trn>reached higher than to his shoulder</trn></i>.</m3>
-</entry>
-<entry word="betra">
+</word>
+<word>
+betra
 	<m1>(að), <p>v.</p> <i><trn>to better, improve</trn></i> (~ líf sitt);</m1>
 	<m2><p>refl.</p> <i><trn>to become better</trn></i>;</m2>
 	<m2><p>impers.</p>, þeir sögðu, at konungi ~ðist mjök, <i><trn>that the king felt, much better</trn></i>.</m2>
-</entry>
-<entry word="betran">
+</word>
+<word>
+betran
 	<m1><p>f.</p> <i><trn>bettering, improvement</trn></i>.</m1>
-</entry>
-<entry word="betranligr">
+</word>
+<word>
+betranligr
 	<m1><p>a.</p> <i><trn>improvable</trn></i>.</m1>
-</entry>
-<entry word="betrfeðrungr">
+</word>
+<word>
+betrfeðrungr
 	<m1><p>m.</p> <i><trn>a man better than his father</trn></i>, = <ref>feðrbetrungr</ref>.</m1>
-</entry>
-<entry word="betri">
+</word>
+<word>
+betri
 	<m1><p>a.</p> <p>compar.</p>, <i><trn>better</trn></i>;</m1>
 	<m2>þeim þótti betra at, <i><trn>they thought it better to</trn></i>.</m2>
-</entry>
-<entry word="beygja">
+</word>
+<word>
+beygja
 	<m1>(-ða, -ðr), <p>v.</p> <i><trn>to bend, bow</trn></i> (~ hálsinn fyrir <p>e-m</p>); ~ <p>e-m</p> krók, <i><trn>to make it awkward for one</trn></i>.</m1>
-</entry>
-<entry word="beyglast">
+</word>
+<word>
+beyglast
 	<m1>(að), <p>v. refl.</p> <i><trn>to become bent</trn></i> (spjótit beyglaðist).</m1>
-</entry>
-<entry word="beysta">
+</word>
+<word>
+beysta
 	<m1>(-sta, -str), <p>v.</p> <i><trn>to beat</trn></i>; ~ korn, <i><trn>to thresh</trn></i>; ~ bakföllum, <i><trn>to pull hard at the oars</trn></i>.</m1>
-</entry>
-<entry word="beysti">
+</word>
+<word>
+beysti
 	<m1><p>n.</p> <i><trn>ham, gammon of bacon</trn></i>.</m1>
-</entry>
-<entry word="beytill">
+</word>
+<word>
+beytill
 	<m1><p>m.</p> <i><trn>fescue-grass</trn></i> (?), <p>cf.</p> <ref>gói~</ref>.</m1>
-</entry>
-<entry word="bezt">
+</word>
+<word>
+bezt
 	<m1>(older ‘bazt’), <p>adv.</p>, <p>superl.</p> to <ref>vel</ref>, <i><trn>best</trn></i>;</m1>
 	<m2>~ búinn, <i><trn>best equipted</trn></i>;</m2>
 	<m2>~ allra manna, <i><trn>best of all men</trn></i>.</m2>
-</entry>
-<entry word="beztr">
+</word>
+<word>
+beztr
 	<m1>(older <ref>baztr</ref>), <p>a.</p> <p>superl.</p> (<com>see</com> <ref>betri</ref>) <i><trn>best</trn></i>;</m1>
 	<m2>~ bóndi, <i><trn>an excellent farmer</trn></i>;</m2>
 	<m2>er mér hefir ~ verit, <i><trn>best (kindest) towards me</trn></i>;</m2>
 	<m2>with <p>gen.</p>, meðan bezt er sumars, <i><trn>during the best part of the summer</trn></i>.</m2>
-</entry>
-<entry word="biblia">
+</word>
+<word>
+biblia
 	<m1><p>f.</p> <i><trn>the Bible</trn></i>; also ‘biflía’.</m1>
-</entry>
-<entry word="bið">
+</word>
+<word>
+bið
 	<m1><p>n.</p> <p>pl.</p> <i><trn>waiting, delay</trn></i>; góðr í bíðum, <i><trn>patient</trn></i>.</m1>
-</entry>
-<entry word="biða">
+</word>
+<word>
+biða
 	<m1><b>I)</b></m1>
 	<m2>(að), <p>v.</p> <i><trn>to wait</trn></i>;</m2>
 	<m3>~ <p>e-s</p>, <i><trn>to wait for</trn></i> (þeir biðuðu þeirra).</m3>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> awaiting (rare).</m2>
-</entry>
-<entry word="biðan">
+</word>
+<word>
+biðan
 	<m1><p>f.</p> <i><trn>delay, biding</trn></i>.</m1>
-</entry>
-<entry word="biðangr">
+</word>
+<word>
+biðangr
 	<m1><p>m.</p> = <ref>biðan</ref>, <ref>biðvangr</ref>.</m1>
-</entry>
-<entry word="biðendr">
+</word>
+<word>
+biðendr
 	<m1><p>m.</p> <p>pl.</p> <i><trn>those who wait</trn></i>;</m1>
 	<m2>~ eigu byr, <i><trn>get a fair wind</trn></i>.</m2>
-</entry>
-<entry word="biðill">
+</word>
+<word>
+biðill
 	<m1>(<p>pl.</p> biðlar), <p>m.</p> <i><trn>wooer, suitor</trn></i>.</m1>
-</entry>
-<entry word="biðja">
+</word>
+<word>
+biðja
 	<m1>(bið; bað, báðum; beðinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to ask, beg a thing of one</trn></i> (~ <p>e-n</p> <p>e-s</p>);</m2>
 	<m3>with <p>infin.</p>, <i><trn>to beg one to do a thing</trn></i>;</m3>
@@ -1942,96 +2449,121 @@ Barreyskr
 	<m3>~ bœn sína (bœnar sinnar, bœn sinni), <i><trn>to say one’s prayer</trn></i>;</m3>
 	<m2>3) <p>refl.</p>, ~st fyrir, <i><trn>to say one’s prayers</trn></i>;</m2>
 	<m3>~st undan, <i><trn>to excuse oneself</trn></i> (from doing a thing).</m3>
-</entry>
-<entry word="biðleika">
+</word>
+<word>
+biðleika
 	<m1>(að), <p>v.</p> <i><trn>to wait, stay, tarry</trn></i> (= <ref>biða</ref>).</m1>
-</entry>
-<entry word="biðlund">
+</word>
+<word>
+biðlund
 	<m1><p>f.</p> <i><trn>forbearance, patience</trn></i>.</m1>
-</entry>
-<entry word="biðlundargóðr">
-	</entry>
-<entry word="þolinmóðr">
+</word>
+<word>
+biðlundargóðr
+</word>
+<word>
+þolinmóðr
 	<m1><p>a.</p> <i><trn>patient</trn></i>.</m1>
-</entry>
-<entry word="biðlundarmál">
+</word>
+<word>
+biðlundarmál
 	<m1><p>n.</p> <i><trn>a matter that can wait</trn></i>.</m1>
-</entry>
-<entry word="biðlyndi">
+</word>
+<word>
+biðlyndi
 	<m1><p>n.</p> = <ref>biðlund</ref>.</m1>
-</entry>
-<entry word="biðstóll">
+</word>
+<word>
+biðstóll
 	<m1><p>m.</p> (rare), = <ref>biðlund</ref>.</m1>
-</entry>
-<entry word="biðstund">
+</word>
+<word>
+biðstund
 	<m1><p>f.</p> <i><trn>time passed in waiting delay, respite</trn></i>.</m1>
-</entry>
-<entry word="biðstundartími">
+</word>
+<word>
+biðstundartími
 	<m1><p>m.</p> = <ref>biðstund</ref>.</m1>
-</entry>
-<entry word="biðvangr">
+</word>
+<word>
+biðvangr
 	<m1><p>m.</p> = <ref>biðangr</ref>.</m1>
-</entry>
-<entry word="bifast">
+</word>
+<word>
+bifast
 	<m1>(ð and að), <p>v. refl.</p></m1>
 	<m2>1) <i><trn>to shake, tremble</trn></i> (allr Ása salr undir bifðist);</m2>
 	<m2>2) <i><trn>to be moved</trn></i>; vagninn ~ hvergi, <i><trn>cannot be moved</trn></i>.</m2>
-</entry>
-<entry word="bifröst">
+</word>
+<word>
+bifröst
 	<m1><p>f.</p> <p>poet.</p>, mythical name of <i><trn>the rainbow</trn></i>.</m1>
-</entry>
-<entry word="bik">
+</word>
+<word>
+bik
 	<m1><p>n.</p> <i><trn>pitch</trn></i> (svartr sem ~; ~i svartari).</m1>
-</entry>
-<entry word="bika">
+</word>
+<word>
+bika
 	<m1>(að), <p>v.</p> <i><trn>to pitch</trn></i>.</m1>
-</entry>
-<entry word="bikarr">
+</word>
+<word>
+bikarr
 	<m1><p>m.</p> <i><trn>large drinking cup, beaker</trn></i> (cf. ‘sáttar-~’).</m1>
-</entry>
-<entry word="bikkja">
+</word>
+<word>
+bikkja
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>bitch</trn></i> (= <ref>grey</ref>, tík).</m2>
 	<m1><b>II)</b></m1>
 	<m2>(-ta, -tr), <p>v.</p> <i><trn>to plunge into water</trn></i>;</m2>
 	<m3>hann bikkti sér út af borðinu, hann bikkti í sjóinn, <i><trn>he plunged overboard</trn></i>.</m3>
-</entry>
-<entry word="bikkjuhvelpr">
+</word>
+<word>
+bikkjuhvelpr
 	<m1><p>m.</p> <i><trn>bitch’s whelp</trn></i>.</m1>
-</entry>
-<entry word="bikkjusonr">
+</word>
+<word>
+bikkjusonr
 	<m1><p>m.</p> <i><trn>son of a bitch</trn></i>.</m1>
-</entry>
-<entry word="bikkjustakkr">
+</word>
+<word>
+bikkjustakkr
 	<m1><p>m.</p> <i><trn>skin of a bitch</trn></i>.</m1>
-</entry>
-<entry word="bil">
+</word>
+<word>
+bil
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>an open space left</trn></i> (~ er þarna);</m2>
 	<m2>2) <i><trn>moment</trn></i>;</m2>
 	<m3>þat bil, <i><trn>that very moment</trn></i>;</m3>
 	<m3>í því bili, <i><trn>at the same moment, just then</trn></i>.</m3>
-</entry>
-<entry word="bila">
+</word>
+<word>
+bila
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to give way, break, crack</trn></i>;</m2>
 	<m3>þá er skipit hljóp af stokkunum, þá bilaði í skarar nökkurar, <i><trn>some of the seams gave way</trn></i>;</m3>
 	<m2>2) with <p>dat.</p>, flestum bilar áræðit, <i><trn>most people lose heart</trn></i>;</m2>
 	<m3>with <p>infin.</p>, Þórr vill fyrir engan mun ~ at koma til einvígis, <i><trn>Th. will by no means fail to meet</trn></i>;</m3>
 	<m2>3) <p>impers.</p>, hug ok áræði mun mik aldregi ~, <i><trn>I shall never be wanting in courage and pluck</trn></i>.</m2>
-</entry>
-<entry word="bilbugr">
+</word>
+<word>
+bilbugr
 	<m1><p>m.</p> <i><trn>failing of heart, giving way</trn></i>;</m1>
 	<m2>láta engan bilbug á sér sjá, <i><trn>to show no sign of fear, stand firm</trn></i>.</m2>
-</entry>
-<entry word="bilt">
+</word>
+<word>
+bilt
 	<m1><p>a.</p> <p>n.</p>, only in the phrase, <p>e-m</p> verðr ~, <i><trn>one is startled, alarmed</trn></i>;</m1>
 	<m2>Þór (<p>dat.</p>) varð ~ einu sinni <i><trn>(for once Thor’s heart failed him)</trn></i> at slá hann með hamrinum.</m2>
-</entry>
-<entry word="bimbult">
+</word>
+<word>
+bimbult
 	<m1><p>a.</p> <p>n.</p>, in the phrase, <p>e-m</p> er ~, <i><trn>one feels uneasy</trn></i> (kerling fær ekki sofnat um nóttina, svá var henni ~).</m1>
-</entry>
-<entry word="binda">
+</word>
+<word>
+binda
 	<m1>(bind; batt, bundum; bundinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to bind, tie, fasten, tie up</trn></i>;</m2>
 	<m3>~ hest, hund, <i><trn>to tie up a horse, dog</trn></i>;</m3>
@@ -2063,71 +2595,92 @@ Barreyskr
 	<m3>~st í banns atkvæði, <i><trn>to bring on oneself the sentence of excommunication</trn></i>;</m3>
 	<m3>with <p>gen.</p> (~st <p>e-s</p> = ~st af <com>or</com> frá <p>e-u</p>), <i><trn>to refrain from a thing</trn></i>;</m3>
 	<m3>eigi bazt hann ferligra orða, <i><trn>he did not refrain from bad words</trn></i>.</m3>
-</entry>
-<entry word="bindandi">
+</word>
+<word>
+bindandi
 	<m1><p>f.</p> = <ref>bindendi</ref>.</m1>
-</entry>
-<entry word="bindandistími">
+</word>
+<word>
+bindandistími
 	<m1><p>m.</p> <i><trn>time of abstinence</trn></i>.</m1>
-</entry>
-<entry word="bindendi">
+</word>
+<word>
+bindendi
 	<m1><p>f.</p> and <p>n.</p> <i><trn>abstinence</trn></i> (~ matar ok drykkjar ok margra annara girnda).</m1>
-</entry>
-<entry word="bindendiskraptr">
+</word>
+<word>
+bindendiskraptr
 	<m1><p>m.</p> <i><trn>virtue of abstinence</trn></i>.</m1>
-</entry>
-<entry word="bindendislauss">
+</word>
+<word>
+bindendislauss
 	<m1><p>a.</p> <i><trn>licentious</trn></i>.</m1>
-</entry>
-<entry word="bindendislif">
+</word>
+<word>
+bindendislif
 	<m1><p>n.</p> <i><trn>life of abstinence</trn></i>.</m1>
-</entry>
-<entry word="bindendismaðr">
+</word>
+<word>
+bindendismaðr
 	<m1><p>m.</p> <i><trn>an ascetic</trn></i>.</m1>
-</entry>
-<entry word="bingr">
+</word>
+<word>
+bingr
 	<m1><p>m.</p> <i><trn>bed, bolster</trn></i> (statt upp úr binginum).</m1>
-</entry>
-<entry word="birgðir">
+</word>
+<word>
+birgðir
 	<m1><p>f.</p> <p>pl.</p> <i><trn>stores, provisions</trn></i>.</m1>
-</entry>
-<entry word="birgiligr">
+</word>
+<word>
+birgiligr
 	<m1><p>a.</p> <i><trn>serviceable, useful</trn></i>.</m1>
-</entry>
-<entry word="birgja">
+</word>
+<word>
+birgja
 	<m1>(-ða, -ðr), <p>v.</p>, ~ <p>e-n</p> at <p>e-u</p>, <i><trn>to furnish, provide one with a thing</trn></i> (nú vil ek ~ bú þitt at málnytuísumar).</m1>
-</entry>
-<entry word="birgr">
+</word>
+<word>
+birgr
 	<m1><p>a.</p> <i><trn>well-furnished, provided</trn></i> (at <p>e-u</p>) <i><trn>with a thing-</trn></i> (~ at kosti).</m1>
-</entry>
-<entry word="birkinn">
+</word>
+<word>
+birkinn
 	<m1><p>a.</p> <i><trn>birchen</trn></i>;</m1>
 	<m2>only in ‘~ viðr’ = <ref>birkiviðr</ref>.</m2>
-</entry>
-<entry word="birkiraptr">
+</word>
+<word>
+birkiraptr
 	<m1><p>m.</p> <i><trn>birch-rafter</trn></i>.</m1>
-</entry>
-<entry word="birkiviðr">
+</word>
+<word>
+birkiviðr
 	<m1><p>m.</p> <i><trn>birch-wood</trn></i>.</m1>
-</entry>
-<entry word="birki-">
+</word>
+<word>
+birki-
 	<m1>in <p>compds.</p>, <i><trn>birch-</trn></i>.</m1>
-</entry>
-<entry word="birkja">
+</word>
+<word>
+birkja
 	<m1><b>I)</b></m1>
 	<m2>(-ta, -tr), <p>v.</p> <i><trn>to bark, strip off the bark from a tree</trn></i> (~ við).</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> <i><trn>birch-juice</trn></i>.</m2>
-</entry>
-<entry word="birna">
+</word>
+<word>
+birna
 	<m1><p>f.</p> <i><trn>she-bear</trn></i>, = <ref>bera</ref>.</m1>
-</entry>
-<entry word="birni">
-	</entry>
-<entry word="bjarnar">
+</word>
+<word>
+birni
+</word>
+<word>
+bjarnar
 	<m1>from <ref>björn</ref>, <i><trn>bear</trn></i>.</m1>
-</entry>
-<entry word="birta">
+</word>
+<word>
+birta
 	<m1><b>I)</b></m1>
 	<m2>(-rta, -rtr), <p>v.</p></m2>
 	<m3>1) <i><trn>to brighten, light up, illuminate</trn></i>;</m3>
@@ -2147,218 +2700,282 @@ Barreyskr
 	<m2><p>f.</p></m2>
 	<m3>1) <i><trn>brightness, fair complexion</trn></i>;</m3>
 	<m3>2) = <ref>birti</ref>.</m3>
-</entry>
-<entry word="birtari">
+</word>
+<word>
+birtari
 	<m1><p>m.</p> <i><trn>revealer</trn></i>.</m1>
-</entry>
-<entry word="birti">
+</word>
+<word>
+birti
 	<m1><p>n.</p> <i><trn>brightness, light</trn></i>.</m1>
-</entry>
-<entry word="birting">
+</word>
+<word>
+birting
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>brightness</trn></i>;</m2>
 	<m2>2) <i><trn>revelation</trn></i>; ~ar tíð, <i><trn>the Epiphany</trn></i>.</m2>
-</entry>
-<entry word="birtingr">
+</word>
+<word>
+birtingr
 	<m1><p>m.</p> <i><trn>a kind of fish, sea-trout</trn></i> (?).</m1>
-</entry>
-<entry word="biskup">
+</word>
+<word>
+biskup
 	<m1>(-s, -ar), <p>m.</p></m1>
 	<m2>1) <i><trn>bishop</trn></i>;</m2>
 	<m2>2) <i><trn>the Jewish high-priest</trn></i>.</m2>
-</entry>
-<entry word="biskupa">
+</word>
+<word>
+biskupa
 	<m1>(að), <p>v.</p> <i><trn>to confirm</trn></i> (~ börn), = <ref>ferma</ref>.</m1>
-</entry>
-<entry word="biskupafundr">
+</word>
+<word>
+biskupafundr
 	<m1><p>m.</p>, biskupamót, <p>n.</p> <i><trn>synod of bishops</trn></i>.</m1>
-</entry>
-<entry word="biskupan">
+</word>
+<word>
+biskupan
 	<m1><p>f.</p> <i><trn>confirmation</trn></i>, = <ref>ferming</ref>.</m1>
-</entry>
-<entry word="biskupaÞing">
+</word>
+<word>
+biskupaÞing
 	<m1><p>n.</p> <i><trn>council of bishops</trn></i>.</m1>
-</entry>
-<entry word="biskupdómr">
+</word>
+<word>
+biskupdómr
 	<m1><p>m.</p> = <ref>biskupsdómr</ref>.</m1>
-</entry>
-<entry word="biskupliga">
+</word>
+<word>
+biskupliga
 	<m1><p>adv.</p> <i><trn>episcopally</trn></i>.</m1>
-</entry>
-<entry word="biskupligr">
+</word>
+<word>
+biskupligr
 	<m1><p>a.</p> <i><trn>episcopal</trn></i>; biskupligt embætti, <i><trn>the office of bishop</trn></i>.</m1>
-</entry>
-<entry word="biskupsbúningr">
-	</entry>
-<entry word="biskupsskrúði">
+</word>
+<word>
+biskupsbúningr
+</word>
+<word>
+biskupsskrúði
 	<m1><p>m.</p> <i><trn>bishop’s robes</trn></i>.</m1>
-</entry>
-<entry word="biskupsbúr">
+</word>
+<word>
+biskupsbúr
 	<m1><p>n.</p> <i><trn>bishop’s larder</trn></i>.</m1>
-</entry>
-<entry word="biskupsdómr">
+</word>
+<word>
+biskupsdómr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>dignity or rank of a bishop</trn></i>;</m2>
 	<m2>2) <i><trn>the period during which a bishop holds office, episcopate</trn></i> (í biskupsdómi <p>e-s</p>);</m2>
 	<m2>3) <i><trn>episcopal see, bishopric</trn></i>.</m2>
-</entry>
-<entry word="biskupsdóttir">
+</word>
+<word>
+biskupsdóttir
 	<m1><p>f.</p> <i><trn>bishop’s daughter</trn></i>.</m1>
-</entry>
-<entry word="biskupsdœmi">
+</word>
+<word>
+biskupsdœmi
 	<m1><p>n.</p> = <ref>biskupsdómr</ref> 3.</m1>
-</entry>
-<entry word="biskupsefni">
+</word>
+<word>
+biskupsefni
 	<m1><p>n.</p> <i><trn>bishop-elect</trn></i>.</m1>
-</entry>
-<entry word="biskupsfrændi">
+</word>
+<word>
+biskupsfrændi
 	<m1><p>m.</p> <i><trn>relative of a bishop</trn></i>.</m1>
-</entry>
-<entry word="biskupsgarðr">
+</word>
+<word>
+biskupsgarðr
 	<m1><p>m.</p> <i><trn>bishop’s manor</trn></i>.</m1>
-</entry>
-<entry word="biskupsgisting">
+</word>
+<word>
+biskupsgisting
 	<m1><p>f.</p> <i><trn>bishop’s apartments</trn></i>.</m1>
-</entry>
-<entry word="biskupsherbergi">
+</word>
+<word>
+biskupsherbergi
 	<m1><p>n.</p> <p>pl.</p> <i><trn>bishop’s apartments</trn></i>.</m1>
-</entry>
-<entry word="biskupskosning">
+</word>
+<word>
+biskupskosning
 	<m1><p>f.</p> <i><trn>election of a bishop</trn></i>.</m1>
-</entry>
-<entry word="biskupskør">
+</word>
+<word>
+biskupskør
 	<m1><p>n.</p> <i><trn>election of a bishop</trn></i>.</m1>
-</entry>
-<entry word="biskupslauss">
+</word>
+<word>
+biskupslauss
 	<m1><p>a.</p> <i><trn>without a bishop</trn></i> (landit er biskupslaust).</m1>
-</entry>
-<entry word="biskupsmaðr">
+</word>
+<word>
+biskupsmaðr
 	<m1><p>m.</p> <i><trn>one in the service of a bishop</trn></i>.</m1>
-</entry>
-<entry word="biskupsmark">
+</word>
+<word>
+biskupsmark
 	<m1><p>n.</p> <i><trn>sign of a bishop</trn></i>.</m1>
-</entry>
-<entry word="biskupsmágr">
+</word>
+<word>
+biskupsmágr
 	<m1><p>m.</p> <i><trn>brother-in-law of a bishop</trn></i>.</m1>
-</entry>
-<entry word="biskupsmessa">
+</word>
+<word>
+biskupsmessa
 	<m1><p>f.</p> <i><trn>a mass celebrated by a bishop</trn></i>.</m1>
-</entry>
-<entry word="biskupsmítr">
+</word>
+<word>
+biskupsmítr
 	<m1><p>n.</p> <i><trn>bishop’s mitre</trn></i>.</m1>
-</entry>
-<entry word="biskupsnafn">
+</word>
+<word>
+biskupsnafn
 	<m1><p>n.</p> <i><trn>title of a bishop</trn></i>.</m1>
-</entry>
-<entry word="biskupsríki">
+</word>
+<word>
+biskupsríki
 	<m1><p>n.</p> <i><trn>episcopal see, bishopric</trn></i>.</m1>
-</entry>
-<entry word="biskupssekt">
+</word>
+<word>
+biskupssekt
 	<m1><p>f.</p> <i><trn>a fine to be paid to the bishop</trn></i>.</m1>
-</entry>
-<entry word="biskupsskattr">
+</word>
+<word>
+biskupsskattr
 	<m1><p>m.</p> <i><trn>a duty to be paid to the bishop</trn></i> (in Norway).</m1>
-</entry>
-<entry word="biskupsskrúð">
+</word>
+<word>
+biskupsskrúð
 	<m1><p>n.</p> <i><trn>bishop’s robes</trn></i>.</m1>
-</entry>
-<entry word="biskupssonr">
+</word>
+<word>
+biskupssonr
 	<m1><p>m.</p> <i><trn>son of a bishop</trn></i>.</m1>
-</entry>
-<entry word="biskupsstafr">
+</word>
+<word>
+biskupsstafr
 	<m1><p>m.</p> <i><trn>bishop’s staff, crosier</trn></i>.</m1>
-</entry>
-<entry word="biskupsstjórn">
+</word>
+<word>
+biskupsstjórn
 	<m1><p>f.</p> <i><trn>administration of a bishop</trn></i>.</m1>
-</entry>
-<entry word="biskupsstóll">
+</word>
+<word>
+biskupsstóll
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>episcopal seat</trn></i>;</m2>
 	<m2>2) <i><trn>bishopric</trn></i>.</m2>
-</entry>
-<entry word="biskupssýsla">
+</word>
+<word>
+biskupssýsla
 	<m1><p>f.</p></m1>
 	<m2>1) = <ref>biskupsstjórn</ref>;</m2>
 	<m2>2) <i><trn>province of a bishop, diocese</trn></i>.</m2>
-</entry>
-<entry word="biskupstign">
+</word>
+<word>
+biskupstign
 	<m1><p>f.</p> <i><trn>dignity</trn></i> or <i><trn>rank of a bishop</trn></i>.</m1>
-</entry>
-<entry word="biskupstíund">
+</word>
+<word>
+biskupstíund
 	<m1><p>f.</p> <i><trn>the tithe to be paid to the bishop</trn></i> (in Iceland).</m1>
-</entry>
-<entry word="biskupsvatn">
+</word>
+<word>
+biskupsvatn
 	<m1><p>n.</p> <i><trn>water consecrated by the bishop Guðmund</trn></i>.</m1>
-</entry>
-<entry word="biskupsveldi">
+</word>
+<word>
+biskupsveldi
 	<m1><p>a.</p> <i><trn>episcopal power</trn></i>.</m1>
-</entry>
-<entry word="biskupsvígsla">
+</word>
+<word>
+biskupsvígsla
 	<m1><p>f.</p> <i><trn>consecration of a bishop</trn></i>.</m1>
-</entry>
-<entry word="bismarapund">
+</word>
+<word>
+bismarapund
 	<m1><p>n.</p> <i><trn>a certain weight</trn></i>.</m1>
-</entry>
-<entry word="bismari">
+</word>
+<word>
+bismari
 	<m1><p>m.</p> <i><trn>steel-yard</trn></i> (mælir ok pundari ok ~).</m1>
-</entry>
-<entry word="bisund">
+</word>
+<word>
+bisund
 	<m1><p>f.</p> <i><trn>a gold coin, besant (foreign</trn></i> word).</m1>
-</entry>
-<entry word="bit">
+</word>
+<word>
+bit
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>bite</trn></i> (at tönnunum er bitsins ván);</m2>
 	<m2>2) <i><trn>sharpness, edge</trn></i> (of cutting instruments);</m2>
 	<m2>3) <i><trn>pasture</trn></i> = <ref>beit</ref> (Norse).</m2>
-</entry>
-<entry word="bita">
+</word>
+<word>
+bita
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to cut into bits</trn></i>;</m2>
 	<m2>2) ~ út (útbita), with <p>dat.</p>, <i><trn>to extend, distend, stretch out</trn></i>.</m2>
-</entry>
-<entry word="bitbein">
+</word>
+<word>
+bitbein
 	<m1><p>n.</p> <i><trn>bone of contention</trn></i> (hafa ríki þessi lengi at öfund orðit ok ~um).</m1>
-</entry>
-<entry word="bithundr">
+</word>
+<word>
+bithundr
 	<m1><p>m.</p> <i><trn>snappish dog</trn></i>.</m1>
-</entry>
-<entry word="biti">
+</word>
+<word>
+biti
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>bit, mouthful</trn></i>; biðja bitum, <i><trn>to go begging</trn></i>;</m2>
 	<m2>2) <i><trn>eyetooth</trn></i> (upp eru komnir bitar ok jaxlar);</m2>
 	<m2>3) <i><trn>cross-beam, cross-girder</trn></i>.</m2>
-</entry>
-<entry word="bitill">
+</word>
+<word>
+bitill
 	<m1><p>m.</p> = <ref>bitull</ref>.</m1>
-</entry>
-<entry word="bitlaðr">
+</word>
+<word>
+bitlaðr
 	<m1><p>pp.</p> <i><trn>bitted, bridled</trn></i>; <p>cf.</p> <ref>gull~</ref>.</m1>
-</entry>
-<entry word="bitlingr">
+</word>
+<word>
+bitlingr
 	<m1><p>m.</p> <i><trn>bit, morsel</trn></i>; stela bitlingum, <i><trn>to steal trifles</trn></i>.</m1>
-</entry>
-<entry word="bitr">
+</word>
+<word>
+bitr
 	<m1>(<p>acc.</p> bitran), <p>a.</p></m1>
 	<m2>1) <i><trn>biting, snapping</trn></i> (~ naðra);</m2>
 	<m2>2) <i><trn>cutting, sharp</trn></i> (bitrt sverð);</m2>
 	<m2>3) <i><trn>painful, bitter</trn></i> (~ tregi).</m2>
-</entry>
-<entry word="bitrleikr">
+</word>
+<word>
+bitrleikr
 	<m1><p>m.</p> <i><trn>bitterness</trn></i>.</m1>
-</entry>
-<entry word="bitrligr">
+</word>
+<word>
+bitrligr
 	<m1><p>a.</p> <i><trn>sharp, keen</trn></i> (bitrligt sverð).</m1>
-</entry>
-<entry word="bitsótt">
+</word>
+<word>
+bitsótt
 	<m1><p>f.</p> <i><trn>disease</trn></i> (of cattle, sheep) <i><trn>from vermin</trn></i>.</m1>
-</entry>
-<entry word="bitu">
+</word>
+<word>
+bitu
 	<m1>from <ref>bíta</ref>.</m1>
-</entry>
-<entry word="bitull">
+</word>
+<word>
+bitull
 	<m1><p>m.</p> <i><trn>the bit of a bridle</trn></i>.</m1>
-</entry>
-<entry word="bíða">
+</word>
+<word>
+bíða
 	<m1>(bíð; beið, biðum; beðit), <p>v.</p></m1>
 	<m2>1) <i><trn>to abide, wait for</trn></i>, with <p>gen.</p>, bíð þú mín hér, <i><trn>wait for me here</trn></i>;</m2>
 	<m3>þeir biðu byrjar, <i><trn>they waited for favourable wind</trn></i>;</m3>
@@ -2374,23 +2991,29 @@ Barreyskr
 	<m2>3) <p>e-t</p> bíðr <p>e-s</p>, <i><trn>is in store for one, awaits one</trn></i> (fagnaðu, vin minn, því at þín bíðr eilífr fagnaðr);</m2>
 	<m2>4) <p>impers.</p>, <p>e-t</p> (<p>acc.</p>) bíðr, <i><trn>there is, there is to be had</trn></i>, with a preceeding negative; hvárki bíðr þar báru né vinds blæ, <i><trn>there is felt neither wave nor breath of air</trn></i>;</m2>
 	<m3>varla beið brauð eðr fœðu, <i><trn>was scarcely to be had</trn></i>.</m3>
-</entry>
-<entry word="bíðandi">
+</word>
+<word>
+bíðandi
 	<m1><p>f.</p> <i><trn>biding, waiting, delay</trn></i>.</m1>
-</entry>
-<entry word="bíldóttr">
+</word>
+<word>
+bíldóttr
 	<m1><p>a.</p> <i><trn>spotted on the cheeks</trn></i> (of a sheep).</m1>
-</entry>
-<entry word="bíldr">
+</word>
+<word>
+bíldr
 	<m1><p>m.</p> <i><trn>an instrument for letting blood, lancet</trn></i> (örit var sem bílds spor yæri, <i><trn>a scar as from a</trn></i> ~).</m1>
-</entry>
-<entry word="bíldör">
+</word>
+<word>
+bíldör
 	<m1><p>f.</p> <i><trn>a kind of arrow</trn></i>.</m1>
-</entry>
-<entry word="bílífi">
+</word>
+<word>
+bílífi
 	<m1><p>n.</p> <i><trn>luxury</trn></i>, = býlífi.</m1>
-</entry>
-<entry word="bíta">
+</word>
+<word>
+bíta
 	<m1>(bít; beit, bitum; bitinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to bite</trn></i> with the teeth (hundr bítr mann; E. beit skarð ór horninu);</m2>
 	<m3>~ gras, <i><trn>to graze</trn></i>, also <p>absol.</p> (naut bitu á velli);</m3>
@@ -2413,19 +3036,23 @@ Barreyskr
 	<m3>láta <p>e-t</p> eigi á sik ~, <i><trn>to be proof against, to be unaffected by a thing</trn></i>;</m3>
 	<m2>5) <p>e-t</p> bítr fyrir, <i><trn>is decisive, decides or settles the matter</trn></i>, <p>esp.</p> so as to render it impossible; ~ <p>e-m</p> at fullu, <i><trn>to prove fatal to</trn></i> (hafa mik nú at fullu bitit hans ráð);</m2>
 	<m2>6) <p>refl.</p>, bítast (of horses), <i><trn>to bite</trn></i>, in fighting (var honum mikil forvitni, hvé bítast vildi hestrinn) <i><trn>to bite one another</trn></i> (bítast sem hundar eða hestar).</m2>
-</entry>
-<entry word="bjalla">
+</word>
+<word>
+bjalla
 	<m1><p>f.</p> <i><trn>bell</trn></i> (hann vígði klukkur ok bjöllur).</m1>
-</entry>
-<entry word="bjannak">
+</word>
+<word>
+bjannak
 	<m1><p>n.</p> <i><trn>benediction</trn></i> (from Irish <i><trn>beannacht)</trn></i>.</m1>
-</entry>
-<entry word="bjarg">
+</word>
+<word>
+bjarg
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>rock, boulder</trn></i>;</m2>
 	<m2>2) <i><trn>precipice, cliff</trn></i> (by the sea).</m2>
-</entry>
-<entry word="bjarga">
+</word>
+<word>
+bjarga
 	<m1><b>I)</b></m1>
 	<m2>(berg; barg, burgum; borginn), <p>v.</p></m2>
 	<m3>1) <i><trn>to help, save</trn></i>, with <p>dat.</p>;</m3>
@@ -2449,199 +3076,264 @@ Barreyskr
 	<m4>verði þér nú at ~st við slík sem til er, <i><trn>you must now put up with what you can get</trn></i>.</m4>
 	<m1><b>II)</b></m1>
 	<m2>(að), <p>v.</p> (rare), = preceding (~t mun málinu verða).</m2>
-</entry>
-<entry word="bjargar">
+</word>
+<word>
+bjargar
 	<m1>from <ref>björg</ref>, <i><trn>help</trn></i>.</m1>
-</entry>
-<entry word="bjargarvist">
+</word>
+<word>
+bjargarvist
 	<m1><p>f.</p> <i><trn>a situation which yields food and clothing</trn></i>.</m1>
-</entry>
-<entry word="bjargaurar">
+</word>
+<word>
+bjargaurar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>means enough for support</trn></i>.</m1>
-</entry>
-<entry word="bjarggengr">
+</word>
+<word>
+bjarggengr
 	<m1><p>a.</p> <i><trn>clever at climbing on fowling cliffs</trn></i> (cf. ‘ganga í bjarg’).</m1>
-</entry>
-<entry word="bjarghagr">
+</word>
+<word>
+bjarghagr
 	<m1><p>a.</p> <i><trn>a dexterous carpenter or smith for household work</trn></i>.</m1>
-</entry>
-<entry word="bjarghögg">
+</word>
+<word>
+bjarghögg
 	<m1><p>n.</p> <i><trn>instrument for hewing steps in a rock</trn></i>.</m1>
-</entry>
-<entry word="bjargkostr">
+</word>
+<word>
+bjargkostr
 	<m1><p>m.</p> <i><trn>means of support</trn></i>.</m1>
-</entry>
-<entry word="bjargkviðr">
+</word>
+<word>
+bjargkviðr
 	<m1><p>m.</p> <i><trn>verdict of acquital</trn></i>.</m1>
-</entry>
-<entry word="bjargleysi">
+</word>
+<word>
+bjargleysi
 	<m1><p>n.</p> <i><trn>starvation, destitution</trn></i>.</m1>
-</entry>
-<entry word="bjargráð">
+</word>
+<word>
+bjargráð
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>means of salvation</trn></i>;</m2>
 	<m2>2) <i><trn>advice given to an outlaw with intent to save his life</trn></i>.</m2>
-</entry>
-<entry word="bjargrifa">
+</word>
+<word>
+bjargrifa
 	<m1><p>f.</p> <i><trn>rift in a rock</trn></i>, = <ref>bergrifa</ref>.</m1>
-</entry>
-<entry word="bjargrúnar">
+</word>
+<word>
+bjargrúnar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>runes for helping women in labour</trn></i>.</m1>
-</entry>
-<entry word="bjargrýgr">
+</word>
+<word>
+bjargrýgr
 	<m1>(rýgjar, -rýgir), <p>f.</p> <i><trn>midwife</trn></i>.</m1>
-</entry>
-<entry word="bjargskora">
+</word>
+<word>
+bjargskora
 	<m1><p>f.</p> <i><trn>rift in a rocky hill</trn></i>, = <ref>bergskor</ref>.</m1>
-</entry>
-<entry word="bjargsmaðr">
+</word>
+<word>
+bjargsmaðr
 	<m1><p>m.</p> <i><trn>a self-supporting person</trn></i>.</m1>
-</entry>
-<entry word="bjargsteinn">
+</word>
+<word>
+bjargsteinn
 	<m1><p>m.</p> <i><trn>boulder, craig</trn></i>.</m1>
-</entry>
-<entry word="bjargvel">
+</word>
+<word>
+bjargvel
 	<m1><p>adv.</p> <i><trn>well enough</trn></i>.</m1>
-</entry>
-<entry word="bjargvættr">
+</word>
+<word>
+bjargvættr
 	<m1><p>f.</p> <i><trn>helping sprite, good genius</trn></i>.</m1>
-</entry>
-<entry word="bjarkan">
+</word>
+<word>
+bjarkan
 	<m1><p>n.</p> <i><trn>the runic letter B</trn></i>.</m1>
-</entry>
-<entry word="bjarkeyjarréttr">
+</word>
+<word>
+bjarkeyjarréttr
 	<m1><p>m.</p> <i><trn>town-law</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Bjarmar
 	<m1><p>m.</p> <p>pl.</p>, name of a people or tribe of the Russian empire, <i><trn>the Perms</trn></i> of the present day.</m1>
-</entry>
-<entry word="bjarnarbáss">
+</word>
+<word>
+bjarnarbáss
 	<m1><p>m.</p> = <ref>bjarnbáss</ref>.</m1>
-</entry>
-<entry word="bjarnarhamr">
+</word>
+<word>
+bjarnarhamr
 	<m1><p>m.</p> <i><trn>the hide, shape of a bear</trn></i>.</m1>
-</entry>
-<entry word="bjarnarhíð">
+</word>
+<word>
+bjarnarhíð
 	<m1><p>n.</p> <i><trn>a black bear’s lair</trn></i>.</m1>
-</entry>
-<entry word="bjarnarhold">
+</word>
+<word>
+bjarnarhold
 	<m1><p>n.</p> <i><trn>bear’s flesh</trn></i>.</m1>
-</entry>
-<entry word="bjarnarhrammr">
+</word>
+<word>
+bjarnarhrammr
 	<m1><p>m.</p> <i><trn>bear’s</trn></i> paw.</m1>
-</entry>
-<entry word="bjarnarslátr">
+</word>
+<word>
+bjarnarslátr
 	<m1><p>n.</p> <i><trn>meat of a slaughtered bear</trn></i>.</m1>
-</entry>
-<entry word="bjarnbáss">
+</word>
+<word>
+bjarnbáss
 	<m1><p>m.</p> <i><trn>a pit for catching bears</trn></i>.</m1>
-</entry>
-<entry word="bjarndýr">
-	</entry>
-<entry word="bjarndýri">
+</word>
+<word>
+bjarndýr
+</word>
+<word>
+bjarndýri
 	<m1><p>n.</p> <i><trn>bear</trn></i>.</m1>
-</entry>
-<entry word="bjarneggjan">
+</word>
+<word>
+bjarneggjan
 	<m1><p>f.</p> <i><trn>brutal provocation</trn></i>.</m1>
-</entry>
-<entry word="bjarnfeldr">
+</word>
+<word>
+bjarnfeldr
 	<m1><p>m.</p> <i><trn>bear-skin cloak</trn></i>.</m1>
-</entry>
-<entry word="bjarnfell">
+</word>
+<word>
+bjarnfell
 	<m1><p>n.</p> <i><trn>bear’s felll, bear’s skin</trn></i>.</m1>
-</entry>
-<entry word="bjarngjöld">
+</word>
+<word>
+bjarngjöld
 	<m1><p>n.</p> <p>pl.</p> <i><trn>reward for killing a bear</trn></i>.</m1>
-</entry>
-<entry word="bjarnhúnn">
+</word>
+<word>
+bjarnhúnn
 	<m1><p>m.</p> <i><trn>bear’s cub</trn></i>.</m1>
-</entry>
-<entry word="bjarnigull">
+</word>
+<word>
+bjarnigull
 	<m1><p>m.</p> a kind of <i><trn>sea-urchin</trn></i>.</m1>
-</entry>
-<entry word="bjarnólpa">
+</word>
+<word>
+bjarnólpa
 	<m1><p>f.</p> = <ref>bjarnskinnsólpa</ref>.</m1>
-</entry>
-<entry word="bjarnskinn">
+</word>
+<word>
+bjarnskinn
 	<m1><p>n.</p> <i><trn>bearskin</trn></i>.</m1>
-</entry>
-<entry word="bjarnskinnsólpa">
+</word>
+<word>
+bjarnskinnsólpa
 	<m1><p>f.</p> <i><trn>a bearskin cloak</trn></i>.</m1>
-</entry>
-<entry word="bjarnstaka">
+</word>
+<word>
+bjarnstaka
 	<m1><p>f.</p> <i><trn>bearskin</trn></i>.</m1>
-</entry>
-<entry word="bjarnsviða">
+</word>
+<word>
+bjarnsviða
 	<m1><p>f.</p> <i><trn>large knife for killing bears</trn></i>.</m1>
-</entry>
-<entry word="bjarnveiðar">
+</word>
+<word>
+bjarnveiðar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>bear-hunting</trn></i> (fara á ~).</m1>
-</entry>
-<entry word="bjarnylr">
+</word>
+<word>
+bjarnylr
 	<m1><p>m.</p> <i><trn>bear’s warmth, the vital warmth of an ice-bear</trn></i>.</m1>
-</entry>
-<entry word="bjarteygðr">
-	</entry>
-<entry word="bjarteygr">
+</word>
+<word>
+bjarteygðr
+</word>
+<word>
+bjarteygr
 	<m1><p>a.</p> <i><trn>bright-eyed</trn></i>.</m1>
-</entry>
-<entry word="bjarthaddaðr">
-	</entry>
-<entry word="bleikhárr">
-	</entry>
-<entry word="fagrhárr">
-	</entry>
-<entry word="hárbjartr">
-	</entry>
-<entry word="hárfagr">
+</word>
+<word>
+bjarthaddaðr
+</word>
+<word>
+bleikhárr
+</word>
+<word>
+fagrhárr
+</word>
+<word>
+hárbjartr
+</word>
+<word>
+hárfagr
 	<m1><p>a.</p> <i><trn>fair-haired</trn></i>.</m1>
-</entry>
-<entry word="bjartleikr">
-	</entry>
-<entry word="ljósleikr">
-	</entry>
-<entry word="skærleikr">
+</word>
+<word>
+bjartleikr
+</word>
+<word>
+ljósleikr
+</word>
+<word>
+skærleikr
 	<m1><p>m.</p> <i><trn>brightness</trn></i>.</m1>
-</entry>
-<entry word="bjartleitr">
+</word>
+<word>
+bjartleitr
 	<m1><p>a.</p> <i><trn>fair-complexioned</trn></i>.</m1>
-</entry>
-<entry word="bjartliga">
-	</entry>
-<entry word="ljósliga">
+</word>
+<word>
+bjartliga
+</word>
+<word>
+ljósliga
 	<m1><p>adv.</p> <i><trn>clearly, plainly</trn></i>.</m1>
-</entry>
-<entry word="bjartlitaðr">
+</word>
+<word>
+bjartlitaðr
 	<m1><p>a.</p> <i><trn>light-coloured</trn></i>.</m1>
-</entry>
-<entry word="bjartr">
+</word>
+<word>
+bjartr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>bright, shining</trn></i> (bjart ljós, sólskin);</m2>
 	<m2>2) <i><trn>illustrious</trn></i> (með björtum sigri).</m2>
-</entry>
-<entry word="bjartviðri">
+</word>
+<word>
+bjartviðri
 	<m1><p>n.</p> <i><trn>clear weather</trn></i>.</m1>
-</entry>
-<entry word="bjálfi">
+</word>
+<word>
+bjálfi
 	<m1>(or bjálbi), <p>m.</p> <i><trn>fur, skin</trn></i>, <p>esp.</p> in <p>compds.</p>, hrein~, geit~.</m1>
-</entry>
-<entry word="bjálki">
+</word>
+<word>
+bjálki
 	<m1><p>m.</p> <i><trn>balk, beam</trn></i>.</m1>
-</entry>
-<entry word="bjoggu">
-	</entry>
-<entry word="bjó">
-	</entry>
-<entry word="bjuggu">
+</word>
+<word>
+bjoggu
+</word>
+<word>
+bjó
+</word>
+<word>
+bjuggu
 	<m1>from <ref>búa</ref>.</m1>
-</entry>
-<entry word="bjóð">
+</word>
+<word>
+bjóð
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>small table</trn></i>;</m2>
 	<m2>2) <i><trn>small bowl</trn></i>.</m2>
-</entry>
-<entry word="bjóða">
+</word>
+<word>
+bjóða
 	<m1>(býð; bauð, buðum; boðinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to offer</trn></i>;</m2>
 	<m3>þeir höfðu boðit honum laun, <i><trn>they had offered him rewards</trn></i>;</m3>
@@ -2685,11 +3377,13 @@ Bjarmar
 	<m2>7) býðr <p>e-m</p>, <i><trn>it beseems, becomes one</trn></i>;</m2>
 	<m3>sem konungsbarni býðr, <i><trn>as befits a princess</trn></i>;</m3>
 	<m3>eptir þat fór vígsla fram eptir því sem býðr, <i><trn>as it is due, or proper</trn></i>.</m3>
-</entry>
-<entry word="bjórblandaðr">
+</word>
+<word>
+bjórblandaðr
 	<m1><p>pp.</p> <i><trn>mixed with beer</trn></i>.</m1>
-</entry>
-<entry word="bjórr">
+</word>
+<word>
+bjórr
 	<m1><b>I)</b></m1>
 	<m2><p>m.</p> <i><trn>beer</trn></i> (öl heitir með mönnum, en með Ásum ~).</m2>
 	<m1><b>II)</b></m1>
@@ -2700,75 +3394,95 @@ Bjarmar
 	<m3>4) <i><trn>a sort of tapestry of triangular shape</trn></i> (var stofan vel tjölduð ok settir upp bjórar).</m3>
 	<m1><b>III)</b></m1>
 	<m2>(-s, -ar), <p>m.</p> <i><trn>beaver, <p>esp.</p> the beaver’s skin</trn></i> (~ ok safali).</m2>
-</entry>
-<entry word="bjórreifr">
+</word>
+<word>
+bjórreifr
 	<m1><p>a.</p> <i><trn>cheerfull from beer drinking</trn></i>.</m1>
-</entry>
-<entry word="bjórsala">
+</word>
+<word>
+bjórsala
 	<m1><p>f.</p> <i><trn>vending of beer</trn></i>.</m1>
-</entry>
-<entry word="bjórsalr">
+</word>
+<word>
+bjórsalr
 	<m1><p>m.</p> <i><trn>beer-hall</trn></i>.</m1>
-</entry>
-<entry word="bjórskinn">
+</word>
+<word>
+bjórskinn
 	<m1><p>n.</p> <i><trn>beaver skin</trn></i>.</m1>
-</entry>
-<entry word="bjórskinnfeldr">
+</word>
+<word>
+bjórskinnfeldr
 	<m1><p>m.</p> <i><trn>cloak made of beaver skin</trn></i>.</m1>
-</entry>
-<entry word="bjórtunna">
+</word>
+<word>
+bjórtunna
 	<m1><p>f.</p> <i><trn>barrel of beer</trn></i>.</m1>
-</entry>
-<entry word="bjórveig">
+</word>
+<word>
+bjórveig
 	<m1><p>f.</p> <i><trn>beer</trn></i>.</m1>
-</entry>
-<entry word="bjórverpill">
+</word>
+<word>
+bjórverpill
 	<m1><p>m.</p> <i><trn>beer-cask</trn></i>.</m1>
-</entry>
-<entry word="bjúga">
+</word>
+<word>
+bjúga
 	<m1>(<p>pl.</p> bjúgu), <p>n.</p> <i><trn>sausage</trn></i> (cf. <ref>mör~</ref>).</m1>
-</entry>
-<entry word="bjúgleikr">
+</word>
+<word>
+bjúgleikr
 	<m1><p>m.</p> <i><trn>crookedness</trn></i>.</m1>
-</entry>
-<entry word="bjúgleltr">
+</word>
+<word>
+bjúgleltr
 	<m1><p>a.</p> <i><trn>of crooked countenance</trn></i>.</m1>
-</entry>
-<entry word="bjúgnefjaðr">
+</word>
+<word>
+bjúgnefjaðr
 	<m1><p>a.</p> <i><trn>hook-nosed</trn></i>, = nefbjúgr.</m1>
-</entry>
-<entry word="bjúgr">
+</word>
+<word>
+bjúgr
 	<m1><p>a.</p> <i><trn>bowed, hooked, crooked, bent</trn></i>;</m1>
 	<m2>hann var ~ á baki, <i><trn>he sat bent or bowed (from age) on horseback</trn></i>;</m2>
 	<m2>hvárt er yðr þykkir bjúgt eða beint, <i><trn>whether it seems to you crooked or straight, whether you like it or not</trn></i>.</m2>
-</entry>
-<entry word="bjöð">
+</word>
+<word>
+bjöð
 	<m1><p>f.</p> <i><trn>flat land</trn></i>;</m1>
 	<m2>áðr Börs synir ~um of yptu, <i><trn>ere the sons of B. raised the ground</trn></i>.</m2>
-</entry>
-<entry word="björg">
+</word>
+<word>
+björg
 	<m1><b>I)</b> (<p>gen.</p> bjargar, <p>pl.</p> bjargir), <p>f.</p></m1>
 	<m2>1) <i><trn>help, deliverance, out of need or danger, <p>esp.</p> help</trn></i> (food, shelter, transport) <i><trn>given to an outlaw</trn></i> (veita <p>e-m</p> ~, einnar nætr ~); lögmæt ~, <i><trn>lawful point of defence</trn></i> (in pleading in the Court);</m2>
 	<m2>2) <i><trn>means of subsistence, stores, provisions</trn></i> (fjögurra missera ~).</m2>
 	<m1><b>II)</b> from <ref>bjarg</ref>, <i><trn>rock</trn></i>.</m1>
-</entry>
-<entry word="björk">
+</word>
+<word>
+björk
 	<m1>(<p>gen.</p> bjarkar), <p>f.</p> <i><trn>birch, birchtree</trn></i>.</m1>
-</entry>
-<entry word="björn">
+</word>
+<word>
+björn
 	<m1>(<p>gen.</p> bjarnar, <p>pl.</p> birnir, <p>acc.</p> ~u), <p>m.</p> <i><trn>bear</trn></i> (hvíta~, <i><trn>the white bear</trn></i>; híð~, skóg~, urð~, við~, <i><trn>the black bear)</trn></i>.</m1>
-</entry>
-<entry word="björt">
+</word>
+<word>
+björt
 	<m1>from <ref>bjartr</ref>, <i><trn>bright</trn></i>.</m1>
-</entry>
-<entry word="blað">
+</word>
+<word>
+blað
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>leaf of a plant</trn></i>;</m2>
 	<m2>2) <i><trn>leaf in a book</trn></i>;</m2>
 	<m2>3) <i><trn>blade of a knife</trn></i> (knífsblað), <i><trn>of an oar</trn></i> (árarblað);</m2>
 	<m2>4) <i><trn>skirt of a kirtle, shirt, cloak</trn></i> (kyrtilblað, skyrtublað, feldarblað).</m2>
-</entry>
-<entry word="blaðra">
+</word>
+<word>
+blaðra
 	<m1><b>I)</b></m1>
 	<m2>(að), <p>v.</p></m2>
 	<m3>1) <i><trn>to flutter to and fro</trn></i>, as a leaf in the wind (sá þeir, at tungan ~ði);</m3>
@@ -2776,11 +3490,13 @@ Bjarmar
 	<m3>3) <p>absol.</p>, <i><trn>to utter inarticulately</trn></i> (~r ok bendir hann); with <p>acc.</p> (~ndi þessi orð).</m3>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> <i><trn>bladder</trn></i>; <i><trn>brain</trn></i>.</m2>
-</entry>
-<entry word="blak">
+</word>
+<word>
+blak
 	<m1><p>n.</p> <i><trn>slap</trn></i> (with the open hand).</m1>
-</entry>
-<entry word="blaka">
+</word>
+<word>
+blaka
 	<m1><b>I)</b></m1>
 	<m2>(að and -ta), <p>v.</p></m2>
 	<m3>1) <i><trn>to flutter, wave</trn></i> (of the leaves of a tree);</m3>
@@ -2790,25 +3506,30 @@ Bjarmar
 	<m2><p>f.</p></m2>
 	<m3>1) <i><trn>veil</trn></i> (cf. <ref>silki~</ref>);</m3>
 	<m3>2) <i><trn>fan</trn></i>.</m3>
-</entry>
-<entry word="blakkfjallr">
+</word>
+<word>
+blakkfjallr
 	<m1><p>a.</p> <i><trn>with black hide</trn></i> (birnir blakkfjallir).</m1>
-</entry>
-<entry word="blakkr">
+</word>
+<word>
+blakkr
 	<m1><b>I)</b></m1>
 	<m2><p>a.</p> <i><trn>black, dun-coloured</trn></i> (beittu, Sigurðr, enn blakka mar).</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>m.</p> <p>poet.</p> <i><trn>a dun-coloured horse</trn></i>.</m2>
-</entry>
-<entry word="blakra">
+</word>
+<word>
+blakra
 	<m1>(að), <p>v.</p> <i><trn>to flutter with the wings</trn></i>.</m1>
-</entry>
-<entry word="bland">
+</word>
+<word>
+bland
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>mixture</trn></i>; í ~ við <p>e-n</p>, <i><trn>in company with</trn></i>; í ~ með <p>e-m</p>, <i><trn>among</trn></i>;</m2>
 	<m2>2) <i><trn>sexual intercourse</trn></i> (hafa konu í ~ = til lags við sik).</m2>
-</entry>
-<entry word="blanda">
+</word>
+<word>
+blanda
 	<m1><b>I)</b></m1>
 	<m2>(blend; blétt, bléndum; blandinn), <p>v.</p> <i><trn>to blend, mix</trn></i>, <p>e-t</p> <p>e-u</p>, <i><trn>with a thing</trn></i> (~ mjöð, drykk, eitri); ~ <p>e-t</p> saman, <i><trn>to mix together</trn></i> (~ saman hvítt ok rautt); more common, ~ <p>e-u</p> við <p>e-t</p>; ~ vatni við vín, <i><trn>to mix wine with water</trn></i>; ~ mötuneyti (<p>dat.</p>, ) við <p>e-n</p>, <i><trn>to eat together with one</trn></i>;</m2>
 	<m3><p>refl.</p>, ~st við <p>e-n</p>, <i><trn>to have intercourse with one</trn></i>, <p>esp.</p> of sexual intercourse (~st við konur af heiðnum þjóðum).</m3>
@@ -2816,138 +3537,181 @@ Bjarmar
 	<m2>(að), <p>v.</p> = prec.</m2>
 	<m1><b>III)</b></m1>
 	<m2><p>f.</p> <i><trn>mixture of two fluids</trn></i> (fór fyrst ór blóð, síðan ~), <p>esp.</p> <i><trn>sour whey mixed with water</trn></i>.</m2>
-</entry>
-<entry word="blandan">
+</word>
+<word>
+blandan
 	<m1><p>f.</p> <i><trn>mixing, blending</trn></i>.</m1>
-</entry>
-<entry word="blandinn">
+</word>
+<word>
+blandinn
 	<m1><p>pp.</p> (cf. <ref>blanda</ref>, <p>v.</p>) <i><trn>mixed</trn></i>; Helgi var ~ mjök, <i><trn>had a mixed creed</trn></i>; hón er blandin mjök, <i><trn>she is a woman of mixed report</trn></i>.</m1>
-</entry>
-<entry word="blauðast">
+</word>
+<word>
+blauðast
 	<m1>(að), <p>v. refl.</p>, = bleyðast.</m1>
-</entry>
-<entry word="blauðhugaðr">
+</word>
+<word>
+blauðhugaðr
 	<m1><p>a.</p> = <ref>blauthugaðr</ref>.</m1>
-</entry>
-<entry word="blauðliga">
+</word>
+<word>
+blauðliga
 	<m1><p>adv.</p> <i><trn>cowardly</trn></i>.</m1>
-</entry>
-<entry word="blauðr">
+</word>
+<word>
+blauðr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>weak, cowardly</trn></i>; bíð nú, ef þú ert eigi ~, <i><trn>if thou art not a coward</trn></i>;</m2>
 	<m2>2) <i><trn>feminine</trn></i>, opp. to <ref>hvatr</ref>, but only used of animals, dogs, cats, fishes; hafit nú hendr á hundinum, þótt ~ sé, <i><trn>take the dog, though it be a bitch</trn></i>.</m2>
-</entry>
-<entry word="blautbarn">
+</word>
+<word>
+blautbarn
 	<m1><p>n.</p>, in the phrase, frá ~s beini = frá blautu barns beini, <com>see</com> <ref>blautr</ref>.</m1>
-</entry>
-<entry word="blautfiskr">
+</word>
+<word>
+blautfiskr
 	<m1><p>m.</p> <i><trn>fresh fish</trn></i>.</m1>
-</entry>
-<entry word="blautholdr">
+</word>
+<word>
+blautholdr
 	<m1><p>a.</p> <i><trn>having soft, smooth flesh</trn></i> (mærin var væn ok blauthold).</m1>
-</entry>
-<entry word="blauthugaðr">
+</word>
+<word>
+blauthugaðr
 	<m1><p>a.</p> <i><trn>faint-hearted</trn></i> (opposed to <ref>harðhugaðr</ref>).</m1>
-</entry>
-<entry word="blautklæddr">
+</word>
+<word>
+blautklæddr
 	<m1><p>pp.</p> <i><trn>clothed in soft raiment</trn></i> (eða vildut þér sjá blautklæddan mann?).</m1>
-</entry>
-<entry word="blautleikr">
+</word>
+<word>
+blautleikr
 	<m1><p>m.</p> <i><trn>softness</trn></i>.</m1>
-</entry>
-<entry word="blautlendr">
+</word>
+<word>
+blautlendr
 	<m1><p>a.</p> <i><trn>soft, moist-soiled</trn></i>.</m1>
-</entry>
-<entry word="blautliga">
+</word>
+<word>
+blautliga
 	<m1><p>adv.</p> <i><trn>effeminately</trn></i> (klæddr ~).</m1>
-</entry>
-<entry word="blautligr">
+</word>
+<word>
+blautligr
 	<m1><p>a.</p> <i><trn>soft, voluptuous</trn></i> (blautligir kossar) blautlig kvæði, <i><trn>amorous ditties</trn></i>.</m1>
-</entry>
-<entry word="blautr">
+</word>
+<word>
+blautr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>soft</trn></i> (~ sem silkiræma); ~ fiskr, <i><trn>fresh fish</trn></i>, opp. to ‘harðr fiskr’; frá blautu barns beini, <i><trn>from very babyhood</trn></i>;</m2>
 	<m2>2) <i><trn>effeminate, timorous, weak</trn></i> (fár er gamall harðr, ef hann er í bernsku ~);</m2>
 	<m2>3) <i><trn>wet, soaked</trn></i> (þar vóru vellir blautir, því at regn höfðu verit).</m2>
-</entry>
-<entry word="bláber">
+</word>
+<word>
+bláber
 	<m1><p>n.</p> <i><trn>blueberry, bilberry</trn></i>.</m1>
-</entry>
-<entry word="blábrúnaðr">
+</word>
+<word>
+blábrúnaðr
 	<m1><p>a.</p> <i><trn>bluish brown</trn></i>.</m1>
-</entry>
-<entry word="bládjúp">
+</word>
+<word>
+bládjúp
 	<m1><p>n.</p> <i><trn>the blue deep sea</trn></i>.</m1>
-</entry>
-<entry word="bláeygðr">
-	</entry>
-<entry word="bláeygr">
+</word>
+<word>
+bláeygðr
+</word>
+<word>
+bláeygr
 	<m1><p>a.</p> <i><trn>blue-eyed</trn></i>.</m1>
-</entry>
-<entry word="bláfastr">
+</word>
+<word>
+bláfastr
 	<m1><p>a.</p> <i><trn>quite immovable</trn></i>.</m1>
-</entry>
-<entry word="bláfáinn">
-	</entry>
-<entry word="bláfár">
+</word>
+<word>
+bláfáinn
+</word>
+<word>
+bláfár
 	<m1><p>a.</p> <i><trn>with a bluish polish</trn></i>.</m1>
-</entry>
-<entry word="bláfeldr">
+</word>
+<word>
+bláfeldr
 	<m1><p>m.</p> <i><trn>cloak of blue fur</trn></i>.</m1>
-</entry>
-<entry word="bláflekkóttr">
+</word>
+<word>
+bláflekkóttr
 	<m1><p>a.</p> <i><trn>speckled with blue</trn></i>.</m1>
-</entry>
-<entry word="bláhvítr">
+</word>
+<word>
+bláhvítr
 	<m1><p>a.</p> <i><trn>bluish white</trn></i>.</m1>
-</entry>
-<entry word="blákápa">
+</word>
+<word>
+blákápa
 	<m1><p>f.</p> <i><trn>blue cloak</trn></i>.</m1>
-</entry>
-<entry word="blákinn">
+</word>
+<word>
+blákinn
 	<m1><p>f.</p> <i><trn>blue cheek</trn></i>.</m1>
-</entry>
-<entry word="bláklæddr">
+</word>
+<word>
+bláklæddr
 	<m1><p>pp.</p> <i><trn>dressed in blue</trn></i>.</m1>
-</entry>
-<entry word="bláleitr">
+</word>
+<word>
+bláleitr
 	<m1><p>a.</p> <i><trn>blue-faced, black-faced</trn></i>.</m1>
-</entry>
-<entry word="blálendingr">
+</word>
+<word>
+blálendingr
 	<m1><p>m.</p> <i><trn>Ethiopian</trn></i>.</m1>
-</entry>
-<entry word="blálenzkr">
+</word>
+<word>
+blálenzkr
 	<m1><p>a.</p> <i><trn>Ethiopian, from Bláland, Ethiopia</trn></i>.</m1>
-</entry>
-<entry word="blámaðr">
+</word>
+<word>
+blámaðr
 	<m1><p>m.</p> <i><trn>a black man, negro</trn></i>.</m1>
-</entry>
-<entry word="bláman">
+</word>
+<word>
+bláman
 	<m1><p>f.</p> <i><trn>the livid colour of a bruise</trn></i>.</m1>
-</entry>
-<entry word="blámengdr">
-	</entry>
-<entry word="blámengjaðr">
+</word>
+<word>
+blámengdr
+</word>
+<word>
+blámengjaðr
 	<m1><p>a.</p> <i><trn>blue-mingled</trn></i>.</m1>
-</entry>
-<entry word="blámerktr">
+</word>
+<word>
+blámerktr
 	<m1><p>pp.</p> <i><trn>marked with blue</trn></i>.</m1>
-</entry>
-<entry word="blámi">
+</word>
+<word>
+blámi
 	<m1><p>m.</p> <i><trn>lividness</trn></i>, = <ref>bláman</ref>.</m1>
-</entry>
-<entry word="blána">
+</word>
+<word>
+blána
 	<m1>(að), <p>v.</p> <i><trn>to become blue or livid</trn></i> (þrútna ok ~ í andliti).</m1>
-</entry>
-<entry word="blár">
+</word>
+<word>
+blár
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>blue, livid</trn></i> (~ ok bóðugr);</m2>
 	<m2>2) <i><trn>black</trn></i> (~ sem kol); falda blá, <i><trn>to wrap the head in black</trn></i>.</m2>
-</entry>
-<entry word="blárendr">
+</word>
+<word>
+blárendr
 	<m1><p>a.</p> <i><trn>blue-striped</trn></i> (blárendar brœkr).</m1>
-</entry>
-<entry word="blása">
+</word>
+<word>
+blása
 	<m1>(blæs; blés, blésum; blásinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to blow</trn></i>, of the wind;</m2>
 	<m3>~ndi byrr, <i><trn>a spanking breeze</trn></i>;</m3>
@@ -2968,23 +3732,28 @@ Bjarmar
 	<m2>6) <i><trn>to blow up, inflate</trn></i> (sem belgr blásinn);</m2>
 	<m2>7) <p>impers.</p>, blés upp fótinn, kviðinn, <i><trn>the leg, belly, swelled up</trn></i>;</m2>
 	<m3>of land, <i><trn>to be laid bare, stripped of the turf</trn></i> (hafði blásit hauginn ok lá silfrit bert).</m3>
-</entry>
-<entry word="blásari">
+</word>
+<word>
+blásari
 	<m1><p>m.</p> <i><trn>blower of a trumpet or horn</trn></i>.</m1>
-</entry>
-<entry word="blásilfr">
+</word>
+<word>
+blásilfr
 	<m1><p>n.</p> <i><trn>bad silver</trn></i>, opp. to ‘skírt silfr’.</m1>
-</entry>
-<entry word="blásinn">
+</word>
+<word>
+blásinn
 	<m1><p>pp.</p></m1>
 	<m2>1) <i><trn>inflated</trn></i> (belgr ~);</m2>
 	<m2>2) <i><trn>swollen</trn></i> (sýndist fótrinn ~);</m2>
 	<m2>3) <i><trn>stripped of turf, bare, barren</trn></i> (mel-torfa blásin mjök).</m2>
-</entry>
-<entry word="blástafaðr">
+</word>
+<word>
+blástafaðr
 	<m1><p>a.</p> <i><trn>blue-striped</trn></i> (segl blástafat).</m1>
-</entry>
-<entry word="blástr">
+</word>
+<word>
+blástr
 	<m1>(<p>gen.</p> ~ar and blástar, <p>dat.</p> blæstri and blæsti), <p>m.</p></m1>
 	<m2>1) <i><trn>blast, blowing of the wind</trn></i>;</m2>
 	<m2>2) <i><trn>blowing of an animal, hissing of a serpent</trn></i> (heyrði blást drekanna);</m2>
@@ -2992,790 +3761,1039 @@ Bjarmar
 	<m2>4) <i><trn>blast of a trumpet</trn></i>;</m2>
 	<m2>5) <i><trn>blowing of a bellows</trn></i>;</m2>
 	<m2>6) <i><trn>swelling of the body or a limb, mortification</trn></i>.</m2>
-</entry>
-<entry word="blástrbelgr">
+</word>
+<word>
+blástrbelgr
 	<m1><p>m.</p> <i><trn>bellows</trn></i>.</m1>
-</entry>
-<entry word="blástrhorn">
+</word>
+<word>
+blástrhorn
 	<m1><p>n.</p> <i><trn>trumpet, horn</trn></i>.</m1>
-</entry>
-<entry word="blástrjárn">
+</word>
+<word>
+blástrjárn
 	<m1><p>n.</p> <i><trn>blast iron</trn></i> (cast, not wrought).</m1>
-</entry>
-<entry word="blástrpipa">
+</word>
+<word>
+blástrpipa
 	<m1><p>f.</p> <i><trn>flute</trn></i>.</m1>
-</entry>
-<entry word="blástrsamr">
-	</entry>
-<entry word="vindfullr">
+</word>
+<word>
+blástrsamr
+</word>
+<word>
+vindfullr
 	<m1><p>a.</p> <i><trn>windy</trn></i>.</m1>
-</entry>
-<entry word="blástrsvalr">
+</word>
+<word>
+blástrsvalr
 	<m1><p>a.</p> <i><trn>cold-blowing</trn></i>.</m1>
-</entry>
-<entry word="blásvartr">
+</word>
+<word>
+blásvartr
 	<m1><p>a.</p> <i><trn>raven-black</trn></i>.</m1>
-</entry>
-<entry word="blátt">
+</word>
+<word>
+blátt
 	<m1>from <ref>blár</ref>, <i><trn>blue</trn></i>.</m1>
-</entry>
-<entry word="blátönn">
+</word>
+<word>
+blátönn
 	<m1><p>f.</p> <i><trn>blue-black tooth</trn></i>, a nickname.</m1>
-</entry>
-<entry word="bleðgi">
-	</entry>
-<entry word="blegði">
+</word>
+<word>
+bleðgi
+</word>
+<word>
+blegði
 	<m1><p>m.</p> <i><trn>wedge, plug</trn></i>.</m1>
-</entry>
-<entry word="bleðja">
+</word>
+<word>
+bleðja
 	<m1>(bleð, bladda, bladdr), <p>v.</p></m1>
 	<m2>1) <i><trn>to pick off</trn></i> (leaves or fruit); fig. <i><trn>to kill off one by one</trn></i> (~ hirðina <com>or</com> ~ hirðina af);</m2>
 	<m2>2) <i><trn>to tear asunder</trn></i> (~ klæði sín);</m2>
 	<m2>3) <i><trn>to cover</trn></i>, as with a leaf (~ ásjónuna).</m2>
-</entry>
-<entry word="bleikálóttr">
+</word>
+<word>
+bleikálóttr
 	<m1><p>a.</p> <i><trn>fawn-coloured with a dark stripe down the back</trn></i> (~ hestr).</m1>
-</entry>
-<entry word="bleikhvítr">
+</word>
+<word>
+bleikhvítr
 	<m1><p>a.</p> <i><trn>yellowish white</trn></i>.</m1>
-</entry>
-<entry word="bleikja">
+</word>
+<word>
+bleikja
 	<m1><b>I)</b></m1>
 	<m2>(-ta, -tr), <p>v.</p> <i><trn>to bleach</trn></i> (~ lérept); ~ hadda sína, <i><trn>to wash the hair</trn></i> (said of women).</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> <i><trn>chalk or white clay</trn></i>.</m2>
-</entry>
-<entry word="bleikr">
+</word>
+<word>
+bleikr
 	<m1><p>a.</p> <i><trn>pale, whitish</trn></i>; bleikt hár, <i><trn>fair hair</trn></i>; ~ á hár, <i><trn>fair-haired</trn></i>; <i><trn>(wan, pallid)</trn></i> ok blóðlauss; ~ sem nár, <i><trn>deadly pale</trn></i>; ~ sem bast, <i><trn>pale as bast</trn></i>.</m1>
-</entry>
-<entry word="blek">
+</word>
+<word>
+blek
 	<m1><p>n.</p> <i><trn>ink</trn></i>.</m1>
-</entry>
-<entry word="blekhorn">
+</word>
+<word>
+blekhorn
 	<m1><p>n.</p> <i><trn>inkstand</trn></i>.</m1>
-</entry>
-<entry word="blekkiliga">
+</word>
+<word>
+blekkiliga
 	<m1><p>adv.</p> <i><trn>delusively</trn></i>.</m1>
-</entry>
-<entry word="blekkiligr">
+</word>
+<word>
+blekkiligr
 	<m1><p>a.</p> <i><trn>delusive</trn></i> (blekkilig er þessa heims hamingja).</m1>
-</entry>
-<entry word="blekking">
+</word>
+<word>
+blekking
 	<m1><p>f.</p> <i><trn>derision, fraud</trn></i>.</m1>
-</entry>
-<entry word="blekkingamaðr">
+</word>
+<word>
+blekkingamaðr
 	<m1><p>m.</p> <i><trn>deceiver</trn></i>.</m1>
-</entry>
-<entry word="blekkingarandi">
+</word>
+<word>
+blekkingarandi
 	<m1><p>m.</p> <i><trn>lying spirit</trn></i>.</m1>
-</entry>
-<entry word="blekkja">
+</word>
+<word>
+blekkja
 	<m1>(-ta, -tr), <p>v.</p> <i><trn>to impose upon, deceive</trn></i>;</m1>
 	<m2><p>refl.</p>, ~st, <i><trn>to be disappointed</trn></i>.</m2>
-</entry>
-<entry word="blekskortr">
+</word>
+<word>
+blekskortr
 	<m1><p>m.</p> <i><trn>lack of ink</trn></i>.</m1>
-</entry>
-<entry word="blend">
+</word>
+<word>
+blend
 	<m1>from <ref>blanda</ref>.</m1>
-</entry>
-<entry word="blendingr">
+</word>
+<word>
+blendingr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>blending, mixture</trn></i>;</m2>
 	<m2>2) <i><trn>a being half man and half giant</trn></i> (~ en ekki fullkomit troll).</m2>
-</entry>
-<entry word="blés">
-	</entry>
-<entry word="blæs">
+</word>
+<word>
+blés
+</word>
+<word>
+blæs
 	<m1>from <ref>blása</ref>.</m1>
-</entry>
-<entry word="blesóttr">
+</word>
+<word>
+blesóttr
 	<m1><p>a.</p> <i><trn>having a blaze or white mark, on the forehead</trn></i> (~ hestr).</m1>
-</entry>
-<entry word="blestmæltr">
-	</entry>
-<entry word="blestr">
+</word>
+<word>
+blestmæltr
+</word>
+<word>
+blestr
 	<m1><p>a.</p> <i><trn>lisping</trn></i>.</m1>
-</entry>
-<entry word="blét">
-	</entry>
-<entry word="blétt">
+</word>
+<word>
+blét
+</word>
+<word>
+blétt
 	<m1>from <ref>blóta</ref> and <ref>blanda</ref>.</m1>
-</entry>
-<entry word="bletsa">
+</word>
+<word>
+bletsa
 	<m1>(að), <p>v.</p> = <ref>bleza</ref>.</m1>
-</entry>
-<entry word="bleyða">
+</word>
+<word>
+bleyða
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>craven</trn></i>, = <ref>bleyðimaðr</ref>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(-dda, -ddr), <p>v.</p> <i><trn>to dishearten, humble</trn></i> (ef þú bleyðir hjarta þitt);</m2>
 	<m3><p>refl.</p>, ~st, <i><trn>to lose heart or courage</trn></i> (= verða blauðr).</m3>
-</entry>
-<entry word="bleyði">
-	</entry>
-<entry word="hugbleyði">
-	</entry>
-<entry word="ragmennska">
-	</entry>
-<entry word="regi">
+</word>
+<word>
+bleyði
+</word>
+<word>
+hugbleyði
+</word>
+<word>
+ragmennska
+</word>
+<word>
+regi
 	<m1><p>f.</p> <i><trn>cowardice</trn></i>.</m1>
-</entry>
-<entry word="bleyðimaðr">
-	</entry>
-<entry word="regimaðr">
+</word>
+<word>
+bleyðimaðr
+</word>
+<word>
+regimaðr
 	<m1><p>m.</p> <i><trn>coward</trn></i>.</m1>
-</entry>
-<entry word="bleyðimannligr">
+</word>
+<word>
+bleyðimannligr
 	<m1><p>a.</p> <i><trn>cowardly, craven</trn></i>.</m1>
-</entry>
-<entry word="bleyðimark">
+</word>
+<word>
+bleyðimark
 	<m1><p>n.</p> <i><trn>mark of cowardice</trn></i>.</m1>
-</entry>
-<entry word="bleyðiorð">
+</word>
+<word>
+bleyðiorð
 	<m1><p>n.</p> <i><trn>charge of cowardice</trn></i>; leggja ~ at baki <p>e-m</p>, <i><trn>to charge one with being a coward</trn></i> (blauðr); bera ~ fyrir <p>e-m</p>, <i><trn>to be called a coward by one</trn></i>.</m1>
-</entry>
-<entry word="bleyta">
+</word>
+<word>
+bleyta
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>mud, mire</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(-tta, -ttr), <p>v.</p> <i><trn>to make soft, moisten</trn></i> (~ húð); ~ hjarta, skaphöfn <p>e-s</p>, <i><trn>to soften one’s heart, temper</trn></i>.</m2>
-</entry>
-<entry word="bleza">
+</word>
+<word>
+bleza
 	<m1>(að), <p>v.</p> <i><trn>to bless</trn></i> (~ði guð þá hinn sjaunda daginn); also with <p>dat.</p> (guð ~ði bæði fuglum ok fiskum).</m1>
-</entry>
-<entry word="blezaðarfullr">
+</word>
+<word>
+blezaðarfullr
 	<m1><p>a.</p> <i><trn>rich in blessing</trn></i>.</m1>
-</entry>
-<entry word="blezan">
+</word>
+<word>
+blezan
 	<m1><p>f.</p> <i><trn>blessing, benediction</trn></i>.</m1>
-</entry>
-<entry word="blezanarandi">
+</word>
+<word>
+blezanarandi
 	<m1><p>m.</p> <i><trn>spirit of blessing</trn></i>.</m1>
-</entry>
-<entry word="blezanarorð">
+</word>
+<word>
+blezanarorð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>words of blessing</trn></i>.</m1>
-</entry>
-<entry word="bliat">
-	</entry>
-<entry word="bliaz">
+</word>
+<word>
+bliat
+</word>
+<word>
+bliaz
 	<m1><p>n.</p> <i><trn>a kind of costly stuff</trn></i> (<p>for.</p> word).</m1>
-</entry>
-<entry word="blik">
+</word>
+<word>
+blik
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>gleam, sheen</trn></i>;</m2>
 	<m2>2) <i><trn>bleaching</trn></i> (liggja á bliki);</m2>
 	<m2>3) <i><trn>vizor of a helmet</trn></i>.</m2>
-</entry>
-<entry word="blika">
+</word>
+<word>
+blika
 	<m1>(að), <p>v.</p> <i><trn>to gleam, twinkle</trn></i> (of shields).</m1>
-</entry>
-<entry word="blikhvítr">
+</word>
+<word>
+blikhvítr
 	<m1><p>a.</p> <i><trn>white-gleaming</trn></i> (of a shield).</m1>
-</entry>
-<entry word="blikna">
+</word>
+<word>
+blikna
 	<m1>(að), <p>v.</p> <i><trn>to grow (turn) pale or pallid</trn></i> (~ af hræzlu, hugleysi).</m1>
-</entry>
-<entry word="bliknan">
+</word>
+<word>
+bliknan
 	<m1><p>f.</p> <i><trn>growing pale</trn></i>.</m1>
-</entry>
-<entry word="blikra">
+</word>
+<word>
+blikra
 	<m1>(að), <p>v.</p> <p>impers.</p>, <p>e-m</p> ~r, <i><trn>one feels uneasy or anxious</trn></i>.</m1>
-</entry>
-<entry word="blinda">
+</word>
+<word>
+blinda
 	<m1>(að), <p>v.</p> <i><trn>to blind, derive of sight</trn></i> (dróttinn ~ði augu þeirra); hann ~r sjálfan sik allra sanninda, <i><trn>he blinds himself lo all truth</trn></i>.</m1>
-</entry>
-<entry word="blindi">
+</word>
+<word>
+blindi
 	<m1><p>f.</p> <i><trn>blindness</trn></i>.</m1>
-</entry>
-<entry word="blindingr">
+</word>
+<word>
+blindingr
 	<m1><p>m.</p> <i><trn>hidden peg, dowel</trn></i>.</m1>
-</entry>
-<entry word="blindleiki">
-	</entry>
-<entry word="blindleikr">
+</word>
+<word>
+blindleiki
+</word>
+<word>
+blindleikr
 	<m1><p>m.</p> <i><trn>blindness</trn></i>.</m1>
-</entry>
-<entry word="blindr">
+</word>
+<word>
+blindr
 	<m1><p>a.</p> <i><trn>blind</trn></i>; ~ báðum augum, <i><trn>blind of both eyes</trn></i>; hann háfði verit ~ borinn, <i><trn>born blind</trn></i>; with <p>gen.</p>, ~ ens sauna um <p>e-t</p>, <i><trn>blind as to the truth or reality about a thing</trn></i>; <p>e-m</p> er <p>e-t</p> blint, <i><trn>it is obscure, hidden to one</trn></i>; Einarr lét sér þat blint vera, <i><trn>E. professed ignorance about it</trn></i>.</m1>
-</entry>
-<entry word="blint">
+</word>
+<word>
+blint
 	<m1>from <ref>blindr</ref>, <i><trn>blind</trn></i>.</m1>
-</entry>
-<entry word="blíða">
+</word>
+<word>
+blíða
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>friendliness, gentleness</trn></i>; hófst þá enn at nýju ~ <i><trn>(friendly relations)</trn></i> með þeim mágum.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(-dda, -ddr), <p>v.</p> = <ref>blíðka</ref>.</m2>
-</entry>
-<entry word="blíðast">
+</word>
+<word>
+blíðast
 	<m1>(að), <p>v. refl.</p> = blíðkast.</m1>
-</entry>
-<entry word="blíðindi">
+</word>
+<word>
+blíðindi
 	<m1><p>n.</p> <p>pl.</p> <i><trn>comforts, delights</trn></i>.</m1>
-</entry>
-<entry word="blíðing">
+</word>
+<word>
+blíðing
 	<m1><p>f.</p> <i><trn>enticement, allurement</trn></i>.</m1>
-</entry>
-<entry word="blíðka">
+</word>
+<word>
+blíðka
 	<m1>(að), <p>v.</p> <i><trn>to soften, mitigate</trn></i> (~ <p>e-n</p> með gjöfum);</m1>
 	<m2><p>refl.</p>, ~st, <i><trn>to grow mild</trn></i>; ~st <p>e-m</p>, <i><trn>to insinuate oneself into one’s favour</trn></i>.</m2>
-</entry>
-<entry word="blíðkan">
+</word>
+<word>
+blíðkan
 	<m1><p>f.</p> <i><trn>caressing, caresses</trn></i>.</m1>
-</entry>
-<entry word="blíðlátr">
+</word>
+<word>
+blíðlátr
 	<m1><p>a.</p> <i><trn>displaying friendliness or kindness</trn></i>.</m1>
-</entry>
-<entry word="blíðleati">
+</word>
+<word>
+blíðleati
 	<m1><p>n.</p> <i><trn>caressing</trn></i>.</m1>
-</entry>
-<entry word="blíðleikr">
+</word>
+<word>
+blíðleikr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>friendliness, gentleness</trn></i>;</m2>
 	<m2>2) <i><trn>mildness, blaminess</trn></i> (~ loptsins).</m2>
-</entry>
-<entry word="blíðleitr">
+</word>
+<word>
+blíðleitr
 	<m1><p>a.</p> <i><trn>of mild countenance</trn></i>.</m1>
-</entry>
-<entry word="blíðliga">
+</word>
+<word>
+blíðliga
 	<m1><p>adv.</p> <i><trn>kindly, with kindness</trn></i> (taka, fagna <p>e-m</p> ~).</m1>
-</entry>
-<entry word="blíðligr">
+</word>
+<word>
+blíðligr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>gentle, friendly</trn></i> (~ í yfirbragði);</m2>
 	<m2>2) <i><trn>delightful</trn></i>.</m2>
-</entry>
-<entry word="blíðlundabr">
+</word>
+<word>
+blíðlundabr
 	<m1><p>a.</p> <i><trn>of gentle disposition</trn></i>.</m1>
-</entry>
-<entry word="blíðmæli">
+</word>
+<word>
+blíðmæli
 	<m1><p>n.</p> <p>pl.</p> <i><trn>fair words, blandishments</trn></i>.</m1>
-</entry>
-<entry word="blíðmæltr">
+</word>
+<word>
+blíðmæltr
 	<m1><p>a.</p> <i><trn>affable, bland</trn></i>.</m1>
-</entry>
-<entry word="blíðr">
+</word>
+<word>
+blíðr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>gentle, friendly</trn></i> (vera ~ ok þekkr við menn);</m2>
 	<m2>2) <i><trn>plesant, agreeable</trn></i>;</m2>
 	<m3>þat er þér blíðara, <i><trn>that pleases you better</trn></i>;</m3>
 	<m2>3) <i><trn>mild, balmy</trn></i> (blítt veðr).</m2>
-</entry>
-<entry word="blíðskaparorð">
+</word>
+<word>
+blíðskaparorð
 	<m1><p>n.</p> <i><trn>friendly word</trn></i>.</m1>
-</entry>
-<entry word="blíðskapr">
+</word>
+<word>
+blíðskapr
 	<m1>(-ar), <p>m.</p> <i><trn>friendliness, kindness</trn></i>; <i><trn>caresses</trn></i> (eiga blíðskap með konu).</m1>
-</entry>
-<entry word="blíðubragð">
+</word>
+<word>
+blíðubragð
 	<m1><p>n.</p> <i><trn>friendly mien</trn></i> (= blítt yfirbragð); <i><trn>caressing</trn></i>.</m1>
-</entry>
-<entry word="blíðufullr">
-	</entry>
-<entry word="vinveittligr">
+</word>
+<word>
+blíðufullr
+</word>
+<word>
+vinveittligr
 	<m1><p>a.</p> <i><trn>friendly</trn></i>.</m1>
-</entry>
-<entry word="blíðviðri">
+</word>
+<word>
+blíðviðri
 	<m1><p>n.</p> <i><trn>mild weather</trn></i>.</m1>
-</entry>
-<entry word="blíðyrði">
+</word>
+<word>
+blíðyrði
 	<m1><p>pl.</p>, = <ref>blíðmæli</ref>.</m1>
-</entry>
-<entry word="blígja">
+</word>
+<word>
+blígja
 	<m1>(-ða, -t), <p>v.</p> <i><trn>to gaze</trn></i> (~ augum).</m1>
-</entry>
-<entry word="blíkja">
+</word>
+<word>
+blíkja
 	<m1>(blík; bleik, bliku; -), <p>v.</p> an obsolete verb, = <ref>blika</ref>.</m1>
-</entry>
-<entry word="blístra">
+</word>
+<word>
+blístra
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>the mouthpiece of bellows</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(að), <p>v.</p> <i><trn>to whistle</trn></i>; ~ í spor <p>e-m</p> <com>or</com> <p>e-s</p>, <i><trn>to whistle after one who has run away</trn></i>.</m2>
-</entry>
-<entry word="blístran">
+</word>
+<word>
+blístran
 	<m1><p>f.</p> <i><trn>whistling</trn></i> (with the mouth).</m1>
-</entry>
-<entry word="blotamaðr">
+</word>
+<word>
+blotamaðr
 	<m1><p>m.</p> <i><trn>effeminate person</trn></i>.</m1>
-</entry>
-<entry word="blotna">
+</word>
+<word>
+blotna
 	<m1>(að), <p>v.</p> <i><trn>to become soft or moist</trn></i>; fig., <i><trn>to give way, yield</trn></i> (~ við <p>e-t</p>, fyrir <p>e-m</p>).</m1>
-</entry>
-<entry word="blotnaut">
+</word>
+<word>
+blotnaut
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>an ox worshipped as in idol</trn></i>;</m2>
 	<m2>2) <i><trn>a bulll to be sacrificed</trn></i>.</m2>
-</entry>
-<entry word="blotneyti">
+</word>
+<word>
+blotneyti
 	<m1><p>n.</p> (rare) = <ref>blotnaut</ref>.</m1>
-</entry>
-<entry word="blotrisi">
+</word>
+<word>
+blotrisi
 	<m1><p>m.</p> <i><trn>a giant worshipped as an idol</trn></i>.</m1>
-</entry>
-<entry word="blóð">
+</word>
+<word>
+blóð
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>blood</trn></i>; rann honum mjök ~, <i><trn>he lost much blood</trn></i>; <i><trn>nema</trn></i> (taka) <p>e-m</p> ~, <i><trn>to bleed one</trn></i>; vekja <p>e-m</p> ~, <i><trn>to draw blood of one</trn></i>; ganga blóði, <i><trn>to have a hemorrhage or dysentery</trn></i>, blanda bloði saman, <i><trn>to enter into foster-brothership by mixing blood together</trn></i>;</m2>
 	<m2>2) <i><trn>offspring, blood-relations</trn></i>.</m2>
-</entry>
-<entry word="blóðband">
+</word>
+<word>
+blóðband
 	<m1><p>n.</p> <i><trn>bandage to stop bleeding</trn></i>, <p>esp.</p> <p>pl.</p> (blóðbönd).</m1>
-</entry>
-<entry word="blóðbogi">
+</word>
+<word>
+blóðbogi
 	<m1><p>m.</p> <i><trn>gush or jet of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðbolli">
-	</entry>
-<entry word="blótkoppr">
+</word>
+<word>
+blóðbolli
+</word>
+<word>
+blótkoppr
 	<m1><p>m.</p> = <ref>blótbolli</ref>.</m1>
-</entry>
-<entry word="blóðdrefjar">
+</word>
+<word>
+blóðdrefjar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>scattering of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðdreif">
+</word>
+<word>
+blóðdreif
 	<m1><p>f.</p> <i><trn>sprinkling (streak) of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðdrekkr">
+</word>
+<word>
+blóðdrekkr
 	<m1><p>m.</p> <i><trn>one who drinks blood</trn></i>.</m1>
-</entry>
-<entry word="blóðdrif">
+</word>
+<word>
+blóðdrif
 	<m1><p>n.</p> <i><trn>flowing of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðdropi">
+</word>
+<word>
+blóðdropi
 	<m1><p>m.</p> <i><trn>drop of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðdrykkja">
+</word>
+<word>
+blóðdrykkja
 	<m1><p>f.</p> <i><trn>drink of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðdrög">
+</word>
+<word>
+blóðdrög
 	<m1><p>n.</p> <p>pl.</p>, = <ref>blóðdreif</ref>.</m1>
-</entry>
-<entry word="blóðfall">
+</word>
+<word>
+blóðfall
 	<m1><p>n.</p> <i><trn>hemorrhage</trn></i>.</m1>
-</entry>
-<entry word="blóðfallssótt">
+</word>
+<word>
+blóðfallssótt
 	<m1><p>f.</p> <i><trn>the bloody flux, dysentery</trn></i>.</m1>
-</entry>
-<entry word="blóðflekkr">
+</word>
+<word>
+blóðflekkr
 	<m1><p>m.</p> <i><trn>fleck or stain of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðfors">
+</word>
+<word>
+blóðfors
 	<m1><p>m.</p> <i><trn>gush of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðfullr">
+</word>
+<word>
+blóðfullr
 	<m1><p>a.</p> <i><trn>full of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðga">
+</word>
+<word>
+blóðga
 	<m1>(að), <p>v.</p> <i><trn>to make bloody, to smear with blood</trn></i>;</m1>
 	<m2><p>refl.</p>, ~st, <i><trn>to become bloody</trn></i>.</m2>
-</entry>
-<entry word="blóðkýll">
+</word>
+<word>
+blóðkýll
 	<m1><p>m.</p> <i><trn>blood-bag</trn></i>; fig., <i><trn>blood-sucker</trn></i>.</m1>
-</entry>
-<entry word="blóðlauss">
+</word>
+<word>
+blóðlauss
 	<m1><p>a.</p> <i><trn>bloodless</trn></i>.</m1>
-</entry>
-<entry word="blóðlát">
+</word>
+<word>
+blóðlát
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>loss of blood</trn></i>;</m2>
 	<m2>2) <i><trn>blood-letting, bleeding</trn></i>.</m2>
-</entry>
-<entry word="blóðlátinn">
+</word>
+<word>
+blóðlátinn
 	<m1><p>pp.</p> <i><trn>(that has been) bled</trn></i>.</m1>
-</entry>
-<entry word="blóðlifr">
+</word>
+<word>
+blóðlifr
 	<m1><p>f.</p> <i><trn>clotted blood</trn></i>.</m1>
-</entry>
-<entry word="blóðligr">
+</word>
+<word>
+blóðligr
 	<m1><p>a.</p> <i><trn>bloody</trn></i>.</m1>
-</entry>
-<entry word="blóðlœkr">
-	</entry>
-<entry word="blóðstraumr">
-	</entry>
-<entry word="dreyralœkr">
+</word>
+<word>
+blóðlœkr
+</word>
+<word>
+blóðstraumr
+</word>
+<word>
+dreyralœkr
 	<m1><p>m.</p> <i><trn>stream of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðmaðkr">
+</word>
+<word>
+blóðmaðkr
 	<m1><p>m.</p> <i><trn>maggot bred in putrefying blood</trn></i>.</m1>
-</entry>
-<entry word="blóðnætr">
+</word>
+<word>
+blóðnætr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>‘blood-nights’</trn></i>, in the prov., ‘~ eru hverjum bráðastar’, referring to the fierce desire to revenge a homicide newly committed.</m1>
-</entry>
-<entry word="blóðormr">
+</word>
+<word>
+blóðormr
 	<m1><p>m.</p> <p>poet.</p> <i><trn>‘blood-serpent’, sword</trn></i>.</m1>
-</entry>
-<entry word="blóðrauðr">
+</word>
+<word>
+blóðrauðr
 	<m1><p>a.</p> <i><trn>blood-red</trn></i>.</m1>
-</entry>
-<entry word="blóðrás">
+</word>
+<word>
+blóðrás
 	<m1><p>f.</p> <i><trn>hemorrhage</trn></i>.</m1>
-</entry>
-<entry word="blóðrefill">
-	</entry>
-<entry word="skálmaroddr">
-	</entry>
-<entry word="sverðsoddr">
+</word>
+<word>
+blóðrefill
+</word>
+<word>
+skálmaroddr
+</word>
+<word>
+sverðsoddr
 	<m1><p>m.</p> <i><trn>point of a sword</trn></i>.</m1>
-</entry>
-<entry word="blóðreiðr">
+</word>
+<word>
+blóðreiðr
 	<m1><p>a.</p> <i><trn>very wrathful</trn></i> (= <ref>dreyrrauðr</ref> af reiði).</m1>
-</entry>
-<entry word="blóðreitr">
+</word>
+<word>
+blóðreitr
 	<m1><p>m.</p> <i><trn>field of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðrekinn">
+</word>
+<word>
+blóðrekinn
 	<m1><p>pp.</p> <i><trn>stained with blood</trn></i>.</m1>
-</entry>
-<entry word="blóðrisa">
+</word>
+<word>
+blóðrisa
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>bruised and blootly</trn></i> (blár ok ~).</m1>
-</entry>
-<entry word="blóðsegi">
-	</entry>
-<entry word="blóðsigi">
+</word>
+<word>
+blóðsegi
+</word>
+<word>
+blóðsigi
 	<m1><p>m.</p> <i><trn>clot of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðsjúkr">
+</word>
+<word>
+blóðsjúkr
 	<m1><p>a.</p> <i><trn>dysenteric</trn></i>.</m1>
-</entry>
-<entry word="blóðslitr">
+</word>
+<word>
+blóðslitr
 	<m1><p>m.</p> <i><trn>colour of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðsótt">
-	</entry>
-<entry word="útsótt">
+</word>
+<word>
+blóðsótt
+</word>
+<word>
+útsótt
 	<m1><p>f.</p> <i><trn>dysentery</trn></i>.</m1>
-</entry>
-<entry word="blóðspýga">
+</word>
+<word>
+blóðspýga
 	<m1><p>f.</p> <i><trn>spitting of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðsteigr">
+</word>
+<word>
+blóðsteigr
 	<m1><p>m.</p> = <ref>blóðreitr</ref>.</m1>
-</entry>
-<entry word="blóðstjarna">
+</word>
+<word>
+blóðstjarna
 	<m1><p>f.</p> <i><trn>the bloody star, Venus</trn></i>.</m1>
-</entry>
-<entry word="blóðstokkinn">
+</word>
+<word>
+blóðstokkinn
 	<m1><p>pp.</p> <i><trn>bespattered with blood</trn></i>.</m1>
-</entry>
-<entry word="blóðstorkinn">
+</word>
+<word>
+blóðstorkinn
 	<m1><p>a.</p> <i><trn>stiff with gore, gory</trn></i>.</m1>
-</entry>
-<entry word="blóðsúthelling">
+</word>
+<word>
+blóðsúthelling
 	<m1><p>f.</p> <i><trn>shedding of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðtjörn">
+</word>
+<word>
+blóðtjörn
 	<m1><p>f.</p> <i><trn>pool of blood</trn></i>.</m1>
-</entry>
-<entry word="blóðugr">
+</word>
+<word>
+blóðugr
 	<m1>(<p>acc.</p> blóðgan), <p>a.</p> <i><trn>bloody</trn></i>.</m1>
-</entry>
-<entry word="blóðvaka">
+</word>
+<word>
+blóðvaka
 	<m1><p>f.</p> <i><trn>drawing of blood</trn></i> (svá hart, at ~ yrði); <p>cf.</p> ‘vekja <p>e-m</p> blóð’.</m1>
-</entry>
-<entry word="blóðvarmr">
+</word>
+<word>
+blóðvarmr
 	<m1><p>a.</p> <i><trn>warm-blooded</trn></i>.</m1>
-</entry>
-<entry word="blóðær">
+</word>
+<word>
+blóðær
 	<m1><p>f.</p> <i><trn>a ewe fit for slaughter</trn></i>.</m1>
-</entry>
-<entry word="blóðörn">
+</word>
+<word>
+blóðörn
 	<m1><p>m.</p> <i><trn>‘blood eagle’</trn></i>, in the phrase, rísta ~ á baki <p>e-m</p>, a cruel method of putting captured enemies to death in the heathen times.</m1>
-</entry>
-<entry word="blóðøx">
+</word>
+<word>
+blóðøx
 	<m1><p>f.</p> <i><trn>‘bloody axe’</trn></i>, a nickname.</m1>
-</entry>
-<entry word="blóm">
+</word>
+<word>
+blóm
 	<m1><p>n.</p> <i><trn>bloom, blossom, flower</trn></i>; fig., í œsku blómi, <i><trn>in the flower of youth</trn></i>.</m1>
-</entry>
-<entry word="blómakinn">
+</word>
+<word>
+blómakinn
 	<m1><p>f.</p> <i><trn>‘red cheek’</trn></i>, a nickname.</m1>
-</entry>
-<entry word="blómaligr">
+</word>
+<word>
+blómaligr
 	<m1><p>a.</p> <i><trn>blooming, shining</trn></i>.</m1>
-</entry>
-<entry word="blómamikill">
+</word>
+<word>
+blómamikill
 	<m1><p>a.</p> <i><trn>rich-blossoming</trn></i>.</m1>
-</entry>
-<entry word="blómandi">
+</word>
+<word>
+blómandi
 	<m1><p>pr. p.</p> <i><trn>blooming, flourishing</trn></i> (~ grös).</m1>
-</entry>
-<entry word="blómasamligr">
+</word>
+<word>
+blómasamligr
 	<m1><p>a.</p> = <ref>blómaligr</ref>.</m1>
-</entry>
-<entry word="blómberandi">
+</word>
+<word>
+blómberandi
 	<m1><p>pr. p.</p> <i><trn>bloom-bearing, flourishing</trn></i>.</m1>
-</entry>
-<entry word="blómberanligr">
+</word>
+<word>
+blómberanligr
 	<m1><p>a.</p> <i><trn>bloom-bearing, flourishing</trn></i>.</m1>
-</entry>
-<entry word="blómga">
+</word>
+<word>
+blómga
 	<m1>(að), <p>v.</p> <i><trn>to fertilize</trn></i>;</m1>
 	<m2><p>refl.</p>, ~st, <i><trn>to blossom, bloom</trn></i>; fig., <i><trn>to thrive, flourish, prosper</trn></i> (réttir siðir skyldu ~ fagrliga um norðrlönd).</m2>
-</entry>
-<entry word="blómgaðr">
+</word>
+<word>
+blómgaðr
 	<m1><p>pp.</p> <i><trn>which has blossoms upon it</trn></i>.</m1>
-</entry>
-<entry word="blómgan">
+</word>
+<word>
+blómgan
 	<m1><p>f.</p> <i><trn>the fact of blooming or flourishing</trn></i>.</m1>
-</entry>
-<entry word="blómgandi">
+</word>
+<word>
+blómgandi
 	<m1><p>pr. p.</p> <i><trn>blooming, flourishing</trn></i>.</m1>
-</entry>
-<entry word="blómganligr">
+</word>
+<word>
+blómganligr
 	<m1><p>a.</p> <i><trn>blooming, flourishing</trn></i>.</m1>
-</entry>
-<entry word="blómi">
+</word>
+<word>
+blómi
 	<m1><p>m.</p> = <ref>blóm</ref>; fig., standa (vera) með blóma, miklum blóma, <i><trn>to thrive, prosper, flourish</trn></i>; í blóma aldrs síns, <i><trn>in the flower of his age</trn></i>.</m1>
-</entry>
-<entry word="blómstr">
+</word>
+<word>
+blómstr
 	<m1>(-rs), <p>m.</p> = <ref>blóm</ref> (allan akrsins ~).</m1>
-</entry>
-<entry word="blóramaðr">
+</word>
+<word>
+blóramaðr
 	<m1><p>m.</p> <i><trn>a person to put the blame upon</trn></i>.</m1>
-</entry>
-<entry word="blót">
+</word>
+<word>
+blót
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>sacrifice, sacrificial feast or banquet</trn></i> (efna, efla ~);</m2>
 	<m2>2) <i><trn>idol worship in general</trn></i>;</m2>
 	<m2>3) <i><trn>idol</trn></i>, = <ref>blœti</ref> (öll ~ braut hann niðr);</m2>
 	<m2>4) <i><trn>swearing, cursing</trn></i>.</m2>
-</entry>
-<entry word="blóta">
+</word>
+<word>
+blóta
 	<m1><b>I)</b></m1>
 	<m2>(blœt; blét, blétum; blótinn), <p>v.</p></m2>
-	<m3>1) <i><trn>to worship, to worship with sacrifice</trn></i>, with <p>acc.</p> of that which is worshipped; ~ hof, lund, fors, heiðit goð, álfa, heiðnar vættir, lifandi menn, <i><trn>to worship temple, grove, waterfall, </trn></i>; very rare with <p>dat.</p> (~ goðum);</m3>
+	<m3>1) <i><trn>to worship, to worship with sacrifice</trn></i>, with <p>acc.</p> of that which is worshipped; ~ hof, lund, fors, heiðit goð, álfa, heiðnar vættir, lifandi menn, <i><trn>to worship temple, grove, waterfall, &c.</trn></i>; very rare with <p>dat.</p> (~ goðum);</m3>
 	<m3>2) <i><trn>to sacrifice</trn></i>, with <p>dat.</p> of the object sacrificed (~ mönnum ok fé); <p>absol.</p>, ~ til friðar, sigrs, langlífis, árs, byrjar, <i><trn>to make a sacrifice for peace, victory, long life, good season, fair wind</trn></i>.</m3>
 	<m1><b>II)</b></m1>
 	<m2>(að), <p>v.</p></m2>
 	<m3>1) = ~ (blœt, etc.);</m3>
 	<m3>2) <i><trn>to curse</trn></i>, with <p>dat.</p> = <ref>banna</ref> (bið þú fyr þeim, er þér ~); <p>absol.</p>, <i><trn>to swear</trn></i>;</m3>
 	<m4><p>refl.</p>, ~st, <i><trn>to go about swearing</trn></i>.</m4>
-</entry>
-<entry word="blótan">
+</word>
+<word>
+blótan
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>sacrificing</trn></i>;</m2>
 	<m2>2) <i><trn>cursing, swearing</trn></i>.</m2>
-</entry>
-<entry word="blótauðigr">
+</word>
+<word>
+blótauðigr
 	<m1><p>a.</p> <i><trn>rich in sacrifices</trn></i> (blótauðigt hof).</m1>
-</entry>
-<entry word="blótbiskup">
-	</entry>
-<entry word="blótkennimaðr">
+</word>
+<word>
+blótbiskup
+</word>
+<word>
+blótkennimaðr
 	<m1><p>m.</p> <i><trn>heathen priest</trn></i>.</m1>
-</entry>
-<entry word="blótbolli">
-	</entry>
-<entry word="hlautbolli">
+</word>
+<word>
+blótbolli
+</word>
+<word>
+hlautbolli
 	<m1><p>m.</p> <i><trn>sacrificial bowl</trn></i>.</m1>
-</entry>
-<entry word="blótdómr">
+</word>
+<word>
+blótdómr
 	<m1><p>m.</p> <i><trn>idolatry</trn></i>.</m1>
-</entry>
-<entry word="blótdrykkja">
+</word>
+<word>
+blótdrykkja
 	<m1><p>f.</p> <i><trn>sacrificial feast</trn></i>.</m1>
-</entry>
-<entry word="blótfé">
+</word>
+<word>
+blótfé
 	<m1><p>n.</p> <i><trn>sacred or accursed goods</trn></i>.</m1>
-</entry>
-<entry word="blótgirni">
+</word>
+<word>
+blótgirni
 	<m1><p>f.</p> <i><trn>inclination for idolatry</trn></i>.</m1>
-</entry>
-<entry word="blótgoði">
+</word>
+<word>
+blótgoði
 	<m1><p>m.</p> <i><trn>heathen sacrificing priest</trn></i>.</m1>
-</entry>
-<entry word="blótgröf">
+</word>
+<word>
+blótgröf
 	<m1><p>f.</p> <i><trn>sacrificial pit</trn></i>.</m1>
-</entry>
-<entry word="blótguð">
+</word>
+<word>
+blótguð
 	<m1><p>n.</p> <i><trn>heathen god</trn></i>.</m1>
-</entry>
-<entry word="blótgyðja">
+</word>
+<word>
+blótgyðja
 	<m1><p>f.</p> <i><trn>heathen priestess</trn></i>.</m1>
-</entry>
-<entry word="blóthaugr">
+</word>
+<word>
+blóthaugr
 	<m1><p>m.</p> <i><trn>sacrificial mound or cairn</trn></i>.</m1>
-</entry>
-<entry word="blóthof">
-	</entry>
-<entry word="fjarghús">
-	</entry>
-<entry word="hof">
+</word>
+<word>
+blóthof
+</word>
+<word>
+fjarghús
+</word>
+<word>
+hof
 	<m1><p>n.</p> <i><trn>heathen temple</trn></i>.</m1>
-</entry>
-<entry word="blóthús">
+</word>
+<word>
+blóthús
 	<m1><p>n.</p> <i><trn>heathen house of worship</trn></i>.</m1>
-</entry>
-<entry word="blóthöfðingi">
+</word>
+<word>
+blóthöfðingi
 	<m1><p>m.</p> <i><trn>heathen chief</trn></i>.</m1>
-</entry>
-<entry word="blóthörgr">
+</word>
+<word>
+blóthörgr
 	<m1><p>m.</p> <i><trn>stone altar for sacrifice</trn></i>.</m1>
-</entry>
-<entry word="blótkalfr">
+</word>
+<word>
+blótkalfr
 	<m1><p>m.</p> <i><trn>calf worshipped with sacrifices</trn></i>.</m1>
-</entry>
-<entry word="blótklæði">
+</word>
+<word>
+blótklæði
 	<m1><p>n.</p> <p>pl.</p> <i><trn>garments worn at sacrifices</trn></i>.</m1>
-</entry>
-<entry word="blótkona">
+</word>
+<word>
+blótkona
 	<m1><p>f.</p> <i><trn>idolatress</trn></i>.</m1>
-</entry>
-<entry word="blótlundr">
+</word>
+<word>
+blótlundr
 	<m1><p>m.</p> <i><trn>sacred grove, heathen place of sacrifice</trn></i>.</m1>
-</entry>
-<entry word="blótmaðr">
+</word>
+<word>
+blótmaðr
 	<m1><p>m.</p> <i><trn>heathen worshipper, idolater</trn></i>.</m1>
-</entry>
-<entry word="blótmatr">
+</word>
+<word>
+blótmatr
 	<m1><p>m.</p> <i><trn>food eaten at the sacrificial feast</trn></i>.</m1>
-</entry>
-<entry word="blótnaðr">
+</word>
+<word>
+blótnaðr
 	<m1><p>m.</p> <i><trn>sacrificing to heathen Gods, idolatry</trn></i>.</m1>
-</entry>
-<entry word="blótskapartími">
+</word>
+<word>
+blótskapartími
 	<m1><p>m.</p> <i><trn>the time of heathenism</trn></i>.</m1>
-</entry>
-<entry word="blótskapr">
+</word>
+<word>
+blótskapr
 	<m1>(-ar), <p>m.</p></m1>
 	<m2>1) <i><trn>heathen worship, idolatry</trn></i>;</m2>
 	<m2>2) <i><trn>things belonging to worship</trn></i>;</m2>
 	<m2>3) <i><trn>sacrifice</trn></i>.</m2>
-</entry>
-<entry word="blótskógr">
+</word>
+<word>
+blótskógr
 	<m1><p>m.</p> <i><trn>sacred or sacrificial forest</trn></i>.</m1>
-</entry>
-<entry word="blótspánn">
+</word>
+<word>
+blótspánn
 	<m1><p>m.</p> <i><trn>chip used in divination</trn></i>;</m1>
 	<m2>fella blótspán, <i><trn>to consult the gods</trn></i>.</m2>
-</entry>
-<entry word="blótstaðr">
+</word>
+<word>
+blótstaðr
 	<m1><p>m.</p> <i><trn>a place of heathen sacrifice</trn></i>.</m1>
-</entry>
-<entry word="blótstallr">
+</word>
+<word>
+blótstallr
 	<m1><p>m.</p> <i><trn>heathen or sacrificial altar</trn></i>.</m1>
-</entry>
-<entry word="blótstöpull">
+</word>
+<word>
+blótstöpull
 	<m1><p>m.</p> <i><trn>a pillar on which an idol stands</trn></i>.</m1>
-</entry>
-<entry word="blóttré">
+</word>
+<word>
+blóttré
 	<m1><p>n.</p> <i><trn>sacred tree</trn></i>.</m1>
-</entry>
-<entry word="blóttrygill">
+</word>
+<word>
+blóttrygill
 	<m1><p>m.</p> <i><trn>small sacrificial trough</trn></i> (trog).</m1>
-</entry>
-<entry word="blótveizla">
+</word>
+<word>
+blótveizla
 	<m1><p>f.</p> <i><trn>sacrificial banquet</trn></i>.</m1>
-</entry>
-<entry word="blótviðr">
+</word>
+<word>
+blótviðr
 	<m1><p>m.</p> = <ref>blótlundr</ref>.</m1>
-</entry>
-<entry word="blótvilla">
+</word>
+<word>
+blótvilla
 	<m1><p>f.</p> <i><trn>heathenish or idolatrous heresy</trn></i>.</m1>
-</entry>
-<entry word="blótvöllr">
+</word>
+<word>
+blótvöllr
 	<m1><p>m.</p> <i><trn>heathen sacrificial field</trn></i>.</m1>
-</entry>
-<entry word="blunda">
+</word>
+<word>
+blunda
 	<m1>(að), <p>v.</p> <i><trn>to shut the eyes</trn></i> (~ báðum augum).</m1>
-</entry>
-<entry word="blundr">
+</word>
+<word>
+blundr
 	<m1><p>m.</p> <i><trn>dozing, slumber</trn></i> (occurs as a nickname).</m1>
-</entry>
-<entry word="blundshaka">
+</word>
+<word>
+blundshaka
 	<m1>(að), <p>v.</p> <i><trn>to blink with the eyes</trn></i>.</m1>
-</entry>
-<entry word="blundsstafir">
+</word>
+<word>
+blundsstafir
 	<m1><p>m.</p> <p>pl.</p> <i><trn>soporiferous runes</trn></i>; bregða stöfum, <i><trn>to break the slumberspells</trn></i>.</m1>
-</entry>
-<entry word="blygð">
+</word>
+<word>
+blygð
 	<m1><p>f.</p> <i><trn>shame</trn></i>.</m1>
-</entry>
-<entry word="blygða">
+</word>
+<word>
+blygða
 	<m1>(að), <p>v.</p> <i><trn>to put to shame, seduce</trn></i>.</m1>
-</entry>
-<entry word="blygðarlauss">
-	</entry>
-<entry word="brigzlalauss">
+</word>
+<word>
+blygðarlauss
+</word>
+<word>
+brigzlalauss
 	<m1><p>a.</p> <i><trn>blameless</trn></i>.</m1>
-</entry>
-<entry word="blys">
+</word>
+<word>
+blys
 	<m1><p>n.</p> <i><trn>torch</trn></i>.</m1>
-</entry>
-<entry word="blý">
+</word>
+<word>
+blý
 	<m1><p>n.</p> <i><trn>lead</trn></i> (søkkva sem ~).</m1>
-</entry>
-<entry word="blýband">
+</word>
+<word>
+blýband
 	<m1><p>n.</p> <i><trn>leaden band</trn></i>.</m1>
-</entry>
-<entry word="blýkleppr">
+</word>
+<word>
+blýkleppr
 	<m1><p>m.</p> <i><trn>plummet</trn></i>.</m1>
-</entry>
-<entry word="blýligr">
+</word>
+<word>
+blýligr
 	<m1><p>a.</p> <i><trn>leaden</trn></i>.</m1>
-</entry>
-<entry word="blýskeyti">
+</word>
+<word>
+blýskeyti
 	<m1><p>n.</p> <i><trn>leaden missile</trn></i>.</m1>
-</entry>
-<entry word="blýsteyptr">
+</word>
+<word>
+blýsteyptr
 	<m1><p>pp.</p> <i><trn>cast in lead</trn></i>.</m1>
-</entry>
-<entry word="blýstika">
+</word>
+<word>
+blýstika
 	<m1><p>f.</p> <i><trn>leaden candlestick</trn></i>.</m1>
-</entry>
-<entry word="blýstokkr">
+</word>
+<word>
+blýstokkr
 	<m1><p>m.</p> <i><trn>leaden box</trn></i>.</m1>
-</entry>
-<entry word="blýþekja">
+</word>
+<word>
+blýþekja
 	<m1>(<com>see</com> <ref>þekja</ref>), <p>v.</p> <i><trn>to roof with lead</trn></i>.</m1>
-</entry>
-<entry word="blýþungi">
+</word>
+<word>
+blýþungi
 	<m1><p>m.</p> <i><trn>leaden weight</trn></i>.</m1>
-</entry>
-<entry word="blæja">
+</word>
+<word>
+blæja
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>fine coloured cloth</trn></i> (hon hafði knýtt um sik blæju ok vóru í mörk blá);</m2>
 	<m2>2) <i><trn>cover of a bed</trn></i>; koma undir eina blæju, <i><trn>to be married</trn></i>;</m2>
 	<m2>3) <i><trn>burial sheet</trn></i> (svipti hon blæju af Sigurði);</m2>
 	<m2>4) <i><trn>cover of an altar table</trn></i>.</m2>
-</entry>
-<entry word="blæjuendi">
+</word>
+<word>
+blæjuendi
 	<m1><p>m.</p> <i><trn>the end of a</trn></i> <ref>blæja</ref>.</m1>
-</entry>
-<entry word="blæjuhorn">
+</word>
+<word>
+blæjuhorn
 	<m1><p>n.</p> <i><trn>corner of a</trn></i> <ref>blæja</ref>.</m1>
-</entry>
-<entry word="blæjuhvalr">
-	</entry>
-<entry word="hvítingr">
-	</entry>
-<entry word="skjaldhvalr">
+</word>
+<word>
+blæjuhvalr
+</word>
+<word>
+hvítingr
+</word>
+<word>
+skjaldhvalr
 	<m1><p>m.</p> <i><trn>a kind of whale</trn></i>.</m1>
-</entry>
-<entry word="blær">
+</word>
+<word>
+blær
 	<m1><p>m.</p> <i><trn>gentle breeze, puff of air</trn></i>; kenna blæ <i><trn>(to feel a draught)</trn></i> á andliti sér.</m1>
-</entry>
-<entry word="blœða">
+</word>
+<word>
+blœða
 	<m1>(-dda, -tt), <p>v.</p> <i><trn>to bleed</trn></i>; blœddu nasar hans, <i><trn>he was bleeding, at the nose</trn></i>; <p>impers.</p>, <p>e-m</p> blœðir, <i><trn>one bleeds or loses blood</trn></i> (engum blœdi hans manna).</m1>
-</entry>
-<entry word="blœsma">
+</word>
+<word>
+blœsma
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>at heat</trn></i> (of ewes and goats).</m1>
-</entry>
-<entry word="blœti">
+</word>
+<word>
+blœti
 	<m1><p>n.</p> <i><trn>a thing worshiped, idol</trn></i>.</m1>
-</entry>
-<entry word="blöð">
+</word>
+<word>
+blöð
 	<m1>from <ref>blað</ref>, <i><trn>blade, leaf</trn></i>.</m1>
-</entry>
-<entry word="blöðrusótt">
+</word>
+<word>
+blöðrusótt
 	<m1><p>f.</p> <i><trn>stone in the bladder</trn></i>.</m1>
-</entry>
-<entry word="blöskra">
+</word>
+<word>
+blöskra
 	<m1>(að), <p>v.</p> <i><trn>to blink with the eyes, to, flinch</trn></i> (hann ~ði ekki) also, <p>impers.</p>, <p>e-m</p> ~r.</m1>
-</entry>
-<entry word="boð">
+</word>
+<word>
+boð
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>bid, offer</trn></i>;</m2>
 	<m3>bjóða ~ fyrir <p>e-n</p>, <i><trn>to make bids or offers for one</trn></i>;</m3>
@@ -3789,8 +4807,9 @@ Bjarmar
 	<m3>eptir boði <p>e-s</p>, <i><trn>at or by one’s order</trn></i>;</m3>
 	<m2>4) <i><trn>message</trn></i>;</m2>
 	<m3>gera <p>e-m</p> ~, <i><trn>to send to one, send one word</trn></i>; <i><trn>a summons, a sign or token of summons</trn></i>, being an arrow, axe or the like to call people to battle or council (hefja boð).</m3>
-</entry>
-<entry word="boða">
+</word>
+<word>
+boða
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to announce, proclaim</trn></i>;</m2>
 	<m3>~ kristni, <i><trn>to preach Christianity</trn></i>;</m3>
@@ -3799,217 +4818,279 @@ Bjarmar
 	<m3>konungr ~ði honum á sinn fund <com>or</com> til sín, <i><trn>the king bade him come to him</trn></i>;</m3>
 	<m3>~ em saman, <i><trn>to call together, to summon</trn></i>;</m3>
 	<m2>3) <i><trn>to bode, signify</trn></i> (hvat þetta mundi ~).</m2>
-</entry>
-<entry word="boðafall">
+</word>
+<word>
+boðafall
 	<m1><p>n.</p> <i><trn>dash of a breaker</trn></i> (<ref>boði</ref>) <i><trn>on a reef or shoal</trn></i>.</m1>
-</entry>
-<entry word="boðan">
+</word>
+<word>
+boðan
 	<m1><p>f.</p> <i><trn>announcement, preaching, proclaiming</trn></i> (~ nafns hans); hátíð dróttinligrar ~ar, <i><trn>the feast of the Annunciation</trn></i>.</m1>
-</entry>
-<entry word="boðanarnótt">
+</word>
+<word>
+boðanarnótt
 	<m1><p>f.</p>, nótt sællar guðs móður Marie, <i><trn>the night before the Annunciation of the Virgin Mary</trn></i>.</m1>
-</entry>
-<entry word="boðanartíð">
+</word>
+<word>
+boðanartíð
 	<m1><p>f.</p> <i><trn>time of announcement</trn></i>.</m1>
-</entry>
-<entry word="boðari">
+</word>
+<word>
+boðari
 	<m1><p>m.</p> <i><trn>proclaimer, announcer</trn></i>.</m1>
-</entry>
-<entry word="boðaslóð">
+</word>
+<word>
+boðaslóð
 	<m1><p>f.</p> <i><trn>the surf of breakers</trn></i> (cf. <ref>boði</ref> 2).</m1>
-</entry>
-<entry word="boðburðr">
+</word>
+<word>
+boðburðr
 	<m1><p>m.</p> <i><trn>carrying, of the message arrow</trn></i> (cf. <ref>boð</ref> 4).</m1>
-</entry>
-<entry word="boðfall">
+</word>
+<word>
+boðfall
 	<m1><p>n.</p> <i><trn>neglect to send on the</trn></i> boð 4.</m1>
-</entry>
-<entry word="boðfasta">
+</word>
+<word>
+boðfasta
 	<m1><p>f.</p> <i><trn>a fast ordered by the canonical law</trn></i>.</m1>
-</entry>
-<entry word="boðferð">
+</word>
+<word>
+boðferð
 	<m1><p>f.</p> <i><trn>the course of a</trn></i> boð 4.</m1>
-</entry>
-<entry word="boðgreizla">
+</word>
+<word>
+boðgreizla
 	<m1><p>f.</p> = <ref>boðburðr</ref>.</m1>
-</entry>
-<entry word="boði">
+</word>
+<word>
+boði
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>announcer, messenger</trn></i> (cf. ‘<ref>sendiboði</ref>, fyrirboði’);</m2>
 	<m2>2) <i><trn>a breaker</trn></i> (on hidden rocks).</m2>
-</entry>
-<entry word="boðinn">
+</word>
+<word>
+boðinn
 	<m1><p>pp.</p> from <ref>bjóða</ref>;</m1>
 	<m2>vera ~ ok búinn til es, <i><trn>to be ready and willing to do a thing</trn></i>.</m2>
-</entry>
-<entry word="boðleggja">
+</word>
+<word>
+boðleggja
 	<m1>(<com>see</com> <ref>leggja</ref>), <p>v.</p> = <ref>lögbjóða</ref>.</m1>
-</entry>
-<entry word="boðleið">
+</word>
+<word>
+boðleið
 	<m1><p>f.</p> = <ref>boðferð</ref>.</m1>
-</entry>
-<entry word="boðligr">
+</word>
+<word>
+boðligr
 	<m1><p>a.</p> <i><trn>fit to be offered</trn></i>.</m1>
-</entry>
-<entry word="boðorð">
+</word>
+<word>
+boðorð
 	<m1><p>n.</p> <i><trn>order, bidding, commandment</trn></i> (guðs ~).</m1>
-</entry>
-<entry word="boðorðabreytni">
+</word>
+<word>
+boðorðabreytni
 	<m1><p>f.</p> <i><trn>alteration of an ordinance</trn></i>.</m1>
-</entry>
-<entry word="boðorðabrot">
+</word>
+<word>
+boðorðabrot
 	<m1><p>n.</p> <i><trn>breach</trn></i> (neglect) <i><trn>of an order</trn></i>.</m1>
-</entry>
-<entry word="boðorðamaðr">
+</word>
+<word>
+boðorðamaðr
 	<m1><p>m.</p> <i><trn>public officer</trn></i>.</m1>
-</entry>
-<entry word="boðreizla">
+</word>
+<word>
+boðreizla
 	<m1><p>f.</p> = <ref>boðgreizla</ref>.</m1>
-</entry>
-<entry word="boðrífr">
+</word>
+<word>
+boðrífr
 	<m1><p>a.</p> <i><trn>ready to make an offer</trn></i>.</m1>
-</entry>
-<entry word="boðsfólk">
+</word>
+<word>
+boðsfólk
 	<m1><p>n.</p> <i><trn>guests</trn></i>, = boðsmenn.</m1>
-</entry>
-<entry word="boðskapr">
+</word>
+<word>
+boðskapr
 	<m1>(-ar), <p>m.</p> <i><trn>bidding, order</trn></i>.</m1>
-</entry>
-<entry word="boðskopti">
+</word>
+<word>
+boðskopti
 	<m1><p>m.</p> = <ref>boðslotti</ref>.</m1>
-</entry>
-<entry word="boðskurðr">
+</word>
+<word>
+boðskurðr
 	<m1><p>m.</p> <i><trn>message, summons to a meeting</trn></i>.</m1>
-</entry>
-<entry word="boðsletta">
+</word>
+<word>
+boðsletta
 	<m1><p>f.</p> <i><trn>intruder at a feast, uninvited guest</trn></i>.</m1>
-</entry>
-<entry word="boðslotti">
+</word>
+<word>
+boðslotti
 	<m1><p>m.</p> <i><trn>intruder at a feast, uninvited guest</trn></i>.</m1>
-</entry>
-<entry word="boðslóð">
+</word>
+<word>
+boðslóð
 	<m1><p>f.</p> = <ref>boðleið</ref>.</m1>
-</entry>
-<entry word="boðsmaðr">
+</word>
+<word>
+boðsmaðr
 	<m1><p>m.</p> <i><trn>guest at a feast</trn></i>.</m1>
-</entry>
-<entry word="boðsœmiligr">
+</word>
+<word>
+boðsœmiligr
 	<m1><p>a.</p> <i><trn>fit for wearing at a feast</trn></i> (boðsœmilig klæði).</m1>
-</entry>
-<entry word="bogaháls">
+</word>
+<word>
+bogaháls
 	<m1><p>m.</p> <i><trn>the tip of a bow</trn></i> (bogi), <i><trn>where the string, is fastened</trn></i>.</m1>
-</entry>
-<entry word="bogamynd">
+</word>
+<word>
+bogamynd
 	<m1><p>f.</p> <i><trn>form of a bow</trn></i>.</m1>
-</entry>
-<entry word="bogaskot">
+</word>
+<word>
+bogaskot
 	<m1><p>n.</p> <i><trn>bowshot, shooting with a bow</trn></i>.</m1>
-</entry>
-<entry word="bogastrengr">
+</word>
+<word>
+bogastrengr
 	<m1><p>m.</p> <i><trn>bowstring</trn></i>.</m1>
-</entry>
-<entry word="bogavápn">
+</word>
+<word>
+bogavápn
 	<m1><p>n.</p> <i><trn>bow</trn></i> (used as a weapon).</m1>
-</entry>
-<entry word="bogi">
+</word>
+<word>
+bogi
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>bow</trn></i>; skjóta af boga, <i><trn>to shoot with a bow</trn></i> (cf. álmbogi, handbogi, hornbogi, lásbogi, ýbogi);</m2>
 	<m2>2) <i><trn>arch</trn></i> (of a bridge), vault; fig., bera mál ór boga, <i><trn>to disentangle a case</trn></i>;</m2>
 	<m2>3) <i><trn>gush, jet</trn></i> (cf. <ref>blóðbogi</ref>).</m2>
-</entry>
-<entry word="boginn">
+</word>
+<word>
+boginn
 	<m1><p>pp.</p> (from a lost strong verb, bjúga), <i><trn>bowed, bent, curved</trn></i>; ~ af elli, <i><trn>bent with age</trn></i>.</m1>
-</entry>
-<entry word="boglimir">
+</word>
+<word>
+boglimir
 	<m1><p>m.</p> <p>pl.</p> <i><trn>‘curved limbs’, arms and legs</trn></i>.</m1>
-</entry>
-<entry word="bogmaðr">
+</word>
+<word>
+bogmaðr
 	<m1><p>m.</p> <i><trn>bowman, archer</trn></i>.</m1>
-</entry>
-<entry word="bogmannliga">
+</word>
+<word>
+bogmannliga
 	<m1><p>adv.</p> <i><trn>bowmanlike</trn></i>.</m1>
-</entry>
-<entry word="bogmannsmerki">
+</word>
+<word>
+bogmannsmerki
 	<m1><p>n.</p> the zodiacal sign <i><trn>Sagittarius</trn></i>.</m1>
-</entry>
-<entry word="bogna">
+</word>
+<word>
+bogna
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to become curved, to bend</trn></i>;</m2>
 	<m2>2) <i><trn>to give way, yield</trn></i> (~ við, ~ fyrir eu).</m2>
-</entry>
-<entry word="bogra">
+</word>
+<word>
+bogra
 	<m1>(að), <p>v.</p> <i><trn>to creep along bowed or stooping</trn></i>;</m1>
 	<m2>þá boru bogar hann inn, <i><trn>he creeps in through that hole</trn></i>;</m2>
 	<m2>~ fyrir <p>e-m</p>, <i><trn>to bow before one</trn></i>.</m2>
-</entry>
-<entry word="bogstyrkr">
+</word>
+<word>
+bogstyrkr
 	<m1><p>a.</p> <i><trn>strong at the bow</trn></i>.</m1>
-</entry>
-<entry word="bokki">
+</word>
+<word>
+bokki
 	<m1><p>m.</p> <i><trn>‘buck’, fellow</trn></i>; Höttr heiti ek, ~ sæll, <i><trn>my dear fellow!</trn></i>; stœrri bokkar, <i><trn>bigger men</trn></i>.</m1>
-</entry>
-<entry word="bokkr">
+</word>
+<word>
+bokkr
 	<m1><p>m.</p> = <ref>bukkr</ref>.</m1>
-</entry>
-<entry word="bola">
+</word>
+<word>
+bola
 	<m1>(að), <p>v.</p> <i><trn>to cut to pieces</trn></i> (~ í sundr, brytja ok bola).</m1>
-</entry>
-<entry word="bolfimligr">
+</word>
+<word>
+bolfimligr
 	<m1><p>a.</p> <i><trn>agile of body</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Bolgaraland
 	<m1><p>n.</p> <i><trn>Bulgaria</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Bolgarar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>the Bulgarians</trn></i>.</m1>
-</entry>
-<entry word="bolhlíf">
+</word>
+<word>
+bolhlíf
 	<m1><p>f.</p> <i><trn>covering for the body</trn></i>.</m1>
-</entry>
-<entry word="boli">
+</word>
+<word>
+boli
 	<m1><p>m.</p> <i><trn>bull</trn></i>, = graðungr.</m1>
-</entry>
-<entry word="boljárn">
+</word>
+<word>
+boljárn
 	<m1><p>n.</p> = <ref>boløx</ref>.</m1>
-</entry>
-<entry word="bolklæði">
+</word>
+<word>
+bolklæði
 	<m1><p>n.</p> <p>pl.</p> <i><trn>body-garments</trn></i>.</m1>
-</entry>
-<entry word="bolli">
+</word>
+<word>
+bolli
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>small vessel, bowl</trn></i>;</m2>
 	<m2>2) <i><trn>a measure</trn></i> = ¼ askr.</m2>
-</entry>
-<entry word="bolr">
+</word>
+<word>
+bolr
 	<m1><p>m.</p> = <ref>bulr</ref>;</m1>
 	<m2>1) <i><trn>the bole or trunk of a tree</trn></i>;</m2>
 	<m2>2) <i><trn>the trunk of the body</trn></i>; ganga milli bols ok höfuðs á em, <i><trn>to pass between one’s trunk and head, to slay one</trn></i>.</m2>
-</entry>
-<entry word="bolsvöxtr">
+</word>
+<word>
+bolsvöxtr
 	<m1><p>m.</p> = <ref>bolvöxtr</ref>.</m1>
-</entry>
-<entry word="bolungr">
+</word>
+<word>
+bolungr
 	<m1><p>m.</p> = <ref>bulungr</ref>.</m1>
-</entry>
-<entry word="bolvöxtr">
+</word>
+<word>
+bolvöxtr
 	<m1><p>m.</p> <i><trn>the growth, form of the body</trn></i> (far þú af klæðum ok vil ek sjá vöxt þinn).</m1>
-</entry>
-<entry word="boløx">
+</word>
+<word>
+boløx
 	<m1><p>f.</p> <i><trn>woodaxe</trn></i>.</m1>
-</entry>
-<entry word="bops">
+</word>
+<word>
+bops
 	<m1><p>n.</p> <i><trn>bump, thump</trn></i> (mikit fall, svá at ~ kvað í skrokkinum).</m1>
-</entry>
-<entry word="bora">
+</word>
+<word>
+bora
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>bore, hole</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(að), <p>v.</p> <i><trn>to bore, to bore holes in</trn></i>; ~ rauf, <i><trn>to bore a hole</trn></i>;</m2>
 	<m3><p>refl.</p>, ~st fram, <i><trn>to push one’s way through a crowd</trn></i>.</m3>
-</entry>
-<entry word="borð">
+</word>
+<word>
+borð
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>board, plank</trn></i>;</m2>
 	<m2>2) <i><trn>the side of a ship</trn></i> (hlóðu skipin sem ~ báru);</m2>
@@ -4035,254 +5116,334 @@ Bolgarar
 	<m2>5) <i><trn>board, food, maintenance at table</trn></i> (veita, halda <p>e-m</p> ~);</m2>
 	<m2>6) <i><trn>chessboard</trn></i>;</m2>
 	<m3>bjóða <p>e-m</p> undir ~, <i><trn>to invite one to play at chess</trn></i>.</m3>
-</entry>
-<entry word="borða">
+</word>
+<word>
+borða
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to sit down at table</trn></i>;</m2>
 	<m2>2) <i><trn>to set a table, serve up</trn></i> (~ fyrir þurftugum).</m2>
-</entry>
-<entry word="borðahríð">
+</word>
+<word>
+borðahríð
 	<m1><p>f.</p> <i><trn>the time that a meal lasts</trn></i>.</m1>
-</entry>
-<entry word="borðamunr">
+</word>
+<word>
+borðamunr
 	<m1><p>m.</p> <i><trn>difference in the height of ships</trn></i>.</m1>
-</entry>
-<entry word="borðastund">
+</word>
+<word>
+borðastund
 	<m1><p>f.</p> = <ref>borðahríð</ref>.</m1>
-</entry>
-<entry word="borðavíti">
+</word>
+<word>
+borðavíti
 	<m1><p>n.</p> <i><trn>table-sconce</trn></i>.</m1>
-</entry>
-<entry word="borðbúnaðr">
+</word>
+<word>
+borðbúnaðr
 	<m1><p>m.</p> <i><trn>table-service</trn></i> (cloth, dishes, etc.).</m1>
-</entry>
-<entry word="borðdiskr">
+</word>
+<word>
+borðdiskr
 	<m1><p>m.</p> <i><trn>dish, plate</trn></i>.</m1>
-</entry>
-<entry word="borðdúkr">
+</word>
+<word>
+borðdúkr
 	<m1><p>m.</p> <i><trn>tablecloth</trn></i>.</m1>
-</entry>
-<entry word="borðfastr">
+</word>
+<word>
+borðfastr
 	<m1><p>a.</p> <i><trn>maintained at one’s table</trn></i>.</m1>
-</entry>
-<entry word="borðfjöl">
+</word>
+<word>
+borðfjöl
 	<m1><p>f.</p> <i><trn>thin board</trn></i>.</m1>
-</entry>
-<entry word="borðfœri">
+</word>
+<word>
+borðfœri
 	<m1><p>n.</p> in the phrase, taka sér fœri = ganga ørna sinna 1.</m1>
-</entry>
-<entry word="borðhald">
+</word>
+<word>
+borðhald
 	<m1><p>n.</p> <i><trn>taking, food, maintenance at table</trn></i>.</m1>
-</entry>
-<entry word="borðhár">
+</word>
+<word>
+borðhár
 	<m1><p>a.</p> <i><trn>rising high out of the sea</trn></i> (of a ship).</m1>
-</entry>
-<entry word="borðhús">
+</word>
+<word>
+borðhús
 	<m1><p>n.</p> <i><trn>a room where the plate is kept</trn></i>.</m1>
-</entry>
-<entry word="borðhæð">
+</word>
+<word>
+borðhæð
 	<m1><p>f.</p> <i><trn>the heighit of a ship out of the water</trn></i>.</m1>
-</entry>
-<entry word="borði">
+</word>
+<word>
+borði
 	<m1><p>m.</p> <i><trn>textile fabric, tapestry</trn></i> (tjalda höll, kirkju, borða) slá borða, rekja borða, <i><trn>to weave</trn></i>; sitja við borða, <i><trn>to sit weaving</trn></i>; byrða et á borða, <i><trn>to ornament tapestry with figures woven in it</trn></i>.</m1>
-</entry>
-<entry word="borðker">
+</word>
+<word>
+borðker
 	<m1><p>n.</p> <i><trn>a cup used at table</trn></i>.</m1>
-</entry>
-<entry word="borðkista">
+</word>
+<word>
+borðkista
 	<m1><p>f.</p> <i><trn>a box for keeping the table service</trn></i>.</m1>
-</entry>
-<entry word="borðklerkr">
+</word>
+<word>
+borðklerkr
 	<m1><p>m.</p> <i><trn>clerical attendant at table</trn></i>.</m1>
-</entry>
-<entry word="borðknífr">
+</word>
+<word>
+borðknífr
 	<m1><p>m.</p> <i><trn>table knife</trn></i>.</m1>
-</entry>
-<entry word="borðlægr">
+</word>
+<word>
+borðlægr
 	<m1><p>a.</p>, (viðr, <i><trn>timber</trn></i>) <i><trn>fit for cutting into planks</trn></i>.</m1>
-</entry>
-<entry word="borðmaðr">
+</word>
+<word>
+borðmaðr
 	<m1><p>m.</p> <i><trn>table-companion</trn></i>.</m1>
-</entry>
-<entry word="borðmikill">
+</word>
+<word>
+borðmikill
 	<m1><p>a.</p> = <ref>borðhár</ref>.</m1>
-</entry>
-<entry word="borðmunr">
+</word>
+<word>
+borðmunr
 	<m1><p>m.</p> = <ref>borðamunr</ref>.</m1>
-</entry>
-<entry word="borðprestr">
+</word>
+<word>
+borðprestr
 	<m1><p>m.</p> <i><trn>a priest who says grace at a bishop’s table</trn></i>.</m1>
-</entry>
-<entry word="borðprýði">
+</word>
+<word>
+borðprýði
 	<m1><p>f.</p> <i><trn>ornaments of a table</trn></i>.</m1>
-</entry>
-<entry word="borðsálmr">
+</word>
+<word>
+borðsálmr
 	<m1><p>m.</p> <i><trn>‘boardpsalm’, grace</trn></i>.</m1>
-</entry>
-<entry word="borðskutill">
+</word>
+<word>
+borðskutill
 	<m1><p>m.</p> <i><trn>a small movable table</trn></i>, <p>esp.</p> for a single person.</m1>
-</entry>
-<entry word="borðstilganga">
+</word>
+<word>
+borðstilganga
 	<m1><p>f.</p> <i><trn>going to table</trn></i> (at mealtimes).</m1>
-</entry>
-<entry word="borðstokkr">
-	</entry>
-<entry word="hástokkr">
+</word>
+<word>
+borðstokkr
+</word>
+<word>
+hástokkr
 	<m1><p>m.</p> <i><trn>gunwale</trn></i>.</m1>
-</entry>
-<entry word="borðsveinn">
+</word>
+<word>
+borðsveinn
 	<m1><p>m.</p> <i><trn>attendant at table, waiter</trn></i>.</m1>
-</entry>
-<entry word="borðtafl">
+</word>
+<word>
+borðtafl
 	<m1><p>n.</p> <i><trn>chessboard</trn></i>.</m1>
-</entry>
-<entry word="borðveggr">
+</word>
+<word>
+borðveggr
 	<m1><p>m.</p> <i><trn>a plank wall</trn></i>.</m1>
-</entry>
-<entry word="borðvegr">
+</word>
+<word>
+borðvegr
 	<m1><p>m.</p> = <ref>borðstokkr</ref>.</m1>
-</entry>
-<entry word="borðvers">
+</word>
+<word>
+borðvers
 	<m1><p>n.</p> <i><trn>verse of grace</trn></i> (cf. borðsálmr).</m1>
-</entry>
-<entry word="borðviðr">
+</word>
+<word>
+borðviðr
 	<m1><p>m.</p> <i><trn>boards, planks</trn></i>.</m1>
-</entry>
-<entry word="borðþak">
+</word>
+<word>
+borðþak
 	<m1><p>n.</p> <i><trn>covering of planks</trn></i>.</m1>
-</entry>
-<entry word="borðþakiðr">
+</word>
+<word>
+borðþakiðr
 	<m1><p>pp.</p> <i><trn>covered, lined with planks</trn></i>.</m1>
-</entry>
-<entry word="borðþili">
+</word>
+<word>
+borðþili
 	<m1><p>n.</p> <i><trn>the bulwarks of a ship</trn></i>.</m1>
-</entry>
-<entry word="borg">
+</word>
+<word>
+borg
 	<m1>(-ar, -ir), <p>f.</p></m1>
 	<m2>1) <i><trn>a small dome-shaped hill</trn></i>;</m2>
 	<m2>2) <i><trn>stronghold, fortification, castle</trn></i>;</m2>
 	<m2>3) <i><trn>fortified town, city</trn></i>.</m2>
-</entry>
-<entry word="borga">
+</word>
+<word>
+borga
 	<m1>(að), <p>v.</p> <i><trn>to be a surety, guarantee, for</trn></i>; ~ <p>e-m</p> <p>e-t</p>, <i><trn>to guarantee something to one</trn></i>; ~ fyrir en, <i><trn>to become bound for, to be security for</trn></i> (anza ek lítt, þóti þú játir at lúka, ef engi ~r fyrir þik).</m1>
-</entry>
-<entry word="borgan">
+</word>
+<word>
+borgan
 	<m1><p>f.</p> <i><trn>guarantee, surety, security</trn></i>; ganga í ~ fyrir en = borga fyrir en.</m1>
-</entry>
-<entry word="borganarmaðr">
+</word>
+<word>
+borganarmaðr
 	<m1><p>m.</p> <i><trn>a guarantee, a surety</trn></i>.</m1>
-</entry>
-<entry word="borgararmr">
+</word>
+<word>
+borgararmr
 	<m1><p>m.</p> <i><trn>arm, wing of a fort</trn></i>.</m1>
-</entry>
-<entry word="borgarauðn">
+</word>
+<word>
+borgarauðn
 	<m1><p>f.</p> <i><trn>destruction of a castle or fortified town</trn></i>.</m1>
-</entry>
-<entry word="borgargata">
+</word>
+<word>
+borgargata
 	<m1><p>f.</p> <i><trn>a road leaving to a</trn></i> borg.</m1>
-</entry>
-<entry word="borgargreifi">
+</word>
+<word>
+borgargreifi
 	<m1><p>m.</p> <i><trn>burggrave, governor of a town</trn></i>.</m1>
-</entry>
-<entry word="borgargørð">
+</word>
+<word>
+borgargørð
 	<m1><p>f.</p> building of a fort.</m1>
-</entry>
-<entry word="borgarhlið">
+</word>
+<word>
+borgarhlið
 	<m1><p>n.</p> <i><trn>gate of a fort</trn></i>.</m1>
-</entry>
-<entry word="borgarhreysi">
+</word>
+<word>
+borgarhreysi
 	<m1><p>n.</p> <i><trn>ruins of a fort</trn></i>.</m1>
-</entry>
-<entry word="borgarhöfðingi">
+</word>
+<word>
+borgarhöfðingi
 	<m1><p>m.</p> <i><trn>leading citizen</trn></i>.</m1>
-</entry>
-<entry word="borgari">
+</word>
+<word>
+borgari
 	<m1><p>m.</p> <i><trn>inhabitant of a</trn></i> borg, <i><trn>burgher</trn></i>.</m1>
-</entry>
-<entry word="borgarklettr">
+</word>
+<word>
+borgarklettr
 	<m1><p>m.</p> <i><trn>a rock on which a fort is built</trn></i>.</m1>
-</entry>
-<entry word="borgarkona">
+</word>
+<word>
+borgarkona
 	<m1><p>f.</p> <i><trn>townswoman</trn></i>.</m1>
-</entry>
-<entry word="borgarlið">
+</word>
+<word>
+borgarlið
 	<m1><p>n.</p> <i><trn>garrison</trn></i>.</m1>
-</entry>
-<entry word="borgarlím">
+</word>
+<word>
+borgarlím
 	<m1><p>n.</p> <i><trn>lime</trn></i> for <i><trn>building a fort</trn></i>.</m1>
-</entry>
-<entry word="borgarlýðr">
+</word>
+<word>
+borgarlýðr
 	<m1><p>m.</p> <i><trn>townsfolk</trn></i>.</m1>
-</entry>
-<entry word="borgarmaðr">
+</word>
+<word>
+borgarmaðr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>garrisoner</trn></i>;</m2>
 	<m2>2) <i><trn>townsman, citizen</trn></i>;</m2>
 	<m2>3) <i><trn>fellowcitizen</trn></i> (maðr engla).</m2>
-</entry>
-<entry word="borgarmúgr">
+</word>
+<word>
+borgarmúgr
 	<m1><p>m.</p> <i><trn>the mob of a city</trn></i>.</m1>
-</entry>
-<entry word="borgarmúrr">
+</word>
+<word>
+borgarmúrr
 	<m1><p>m.</p> <i><trn>citywall</trn></i>.</m1>
-</entry>
-<entry word="borgarport">
+</word>
+<word>
+borgarport
 	<m1><p>n.</p> = <ref>borgarhlið</ref>.</m1>
-</entry>
-<entry word="borgarsiðr">
+</word>
+<word>
+borgarsiðr
 	<m1><p>m.</p> <i><trn>citymanners, urbanity</trn></i>.</m1>
-</entry>
-<entry word="borgarsmíð">
+</word>
+<word>
+borgarsmíð
 	<m1><p>f.</p> <i><trn>building of a fort or town</trn></i>.</m1>
-</entry>
-<entry word="borgarstaðr">
+</word>
+<word>
+borgarstaðr
 	<m1><p>m.</p> <i><trn>site of a town</trn></i>.</m1>
-</entry>
-<entry word="borgarveggr">
+</word>
+<word>
+borgarveggr
 	<m1><p>m.</p> <i><trn>wall of a fort or town</trn></i>.</m1>
-</entry>
-<entry word="borgaskipan">
+</word>
+<word>
+borgaskipan
 	<m1><p>f.</p> <i><trn>a list of cities</trn></i>.</m1>
-</entry>
-<entry word="borgfirzkr">
+</word>
+<word>
+borgfirzkr
 	<m1><p>a.</p> <i><trn>belonging to the district</trn></i> Borgarfjörðr, in the west of Iceland.</m1>
-</entry>
-<entry word="borghlið">
+</word>
+<word>
+borghlið
 	<m1><p>f.</p> = <ref>borgarhlið</ref>.</m1>
-</entry>
-<entry word="borginorðr">
+</word>
+<word>
+borginorðr
 	<m1><p>a.</p> <i><trn>cautious in words, reserved</trn></i>.</m1>
-</entry>
-<entry word="borgit">
+</word>
+<word>
+borgit
 	<m1><p>pp.</p> <p>n.</p>, from bjarga; em er ~, <i><trn>one is safe</trn></i>; era hera at borgnara þótt hœna beri skjöld, <i><trn>a hare is none the better off than a hen shield him</trn></i>.</m1>
-</entry>
-<entry word="borgstaðr">
+</word>
+<word>
+borgstaðr
 	<m1><p>m.</p> = <ref>borgarstaðr</ref>.</m1>
-</entry>
-<entry word="borgveggr">
+</word>
+<word>
+borgveggr
 	<m1><p>m.</p> = <ref>borgarveggr</ref>.</m1>
-</entry>
-<entry word="botn">
+</word>
+<word>
+botn
 	<m1>(<p>gen.</p> botns or botz, <p>pl.</p> botnar), <p>m.</p></m1>
 	<m2>1) <i><trn>bottom</trn></i> (of a vessel, of a haycock, of the sea);</m2>
 	<m2>2) the head of <i><trn>a bay, firth, lake, valley</trn></i> (fjarðar, vatns, dalsbotn).</m2>
-</entry>
-<entry word="botnhola">
+</word>
+<word>
+botnhola
 	<m1><p>f.</p> <i><trn>pit</trn></i>, in the phrase, vera kominn í botnholu, <i><trn>to have got into a scrape</trn></i>.</m1>
-</entry>
-<entry word="botz">
+</word>
+<word>
+botz
 	<m1>from <ref>botn</ref>, <i><trn>bottom</trn></i>.</m1>
-</entry>
-<entry word="bóandi">
+</word>
+<word>
+bóandi
 	<m1><p>m.</p>, <com>see</com> <ref>búandi</ref>.</m1>
-</entry>
-<entry word="bófi">
+</word>
+<word>
+bófi
 	<m1><p>m.</p> <i><trn>knave</trn></i>, rogue, used as a nickname.</m1>
-</entry>
-<entry word="bógr">
+</word>
+<word>
+bógr
 	<m1>(<p>gen.</p> bógar, <p>dat.</p> bœgi; <p>pl.</p> bœgir, <p>acc.</p> bógu), <p>m.</p> <i><trn>shoulder</trn></i> (of an animal).</m1>
-</entry>
-<entry word="bók">
+</word>
+<word>
+bók
 	<m1>(<p>gen.</p> ~ar and bœkr; <p>pl.</p> bœkr), <p>f.</p></m1>
 	<m2>1) <i><trn>beech, beechtree</trn></i>;</m2>
 	<m2>2) <p>poet.</p> <i><trn>textile fabric with figures woven in it</trn></i> (bœkr þínar enar bláhvítu);</m2>
@@ -4298,523 +5459,690 @@ Bolgarar
 	<m3>hann heitir á ~ (<i><trn>in Latin</trn></i>) Jaskonius;</m3>
 	<m3>svá segir (er sagt) í ~um <i><trn>(in Latin books)</trn></i>;</m3>
 	<m2>6) <i><trn>lawbook, code of law</trn></i> (lög~, Jóns~).</m2>
-</entry>
-<entry word="bóka">
+</word>
+<word>
+bóka
 	<m1>(að), <p>v.</p> <i><trn>to affirm by oath on the book (Gospel)</trn></i>; bókaðr eiðr = <ref>bókareiðr</ref>.</m1>
-</entry>
-<entry word="bókafullting">
+</word>
+<word>
+bókafullting
 	<m1><p>n.</p> <i><trn>help derived from books</trn></i>.</m1>
-</entry>
-<entry word="bókagørð">
+</word>
+<word>
+bókagørð
 	<m1><i><trn>writing (transcription) of books</trn></i>.</m1>
-</entry>
-<entry word="bókakista">
+</word>
+<word>
+bókakista
 	<m1><p>f.</p> <i><trn>book-box</trn></i>.</m1>
-</entry>
-<entry word="bókalán">
+</word>
+<word>
+bókalán
 	<m1><p>n.</p> <i><trn>lending of books</trn></i>.</m1>
-</entry>
-<entry word="bókalesning">
+</word>
+<word>
+bókalesning
 	<m1><p>f.</p> <i><trn>reading of (Latin) books</trn></i>.</m1>
-</entry>
-<entry word="bókalestr">
+</word>
+<word>
+bókalestr
 	<m1><p>m.</p> <i><trn>reading of (Latin) books</trn></i>.</m1>
-</entry>
-<entry word="bókalist">
+</word>
+<word>
+bókalist
 	<m1><p>f.</p> <i><trn>booklore</trn></i>.</m1>
-</entry>
-<entry word="bókarblað">
+</word>
+<word>
+bókarblað
 	<m1><p>n.</p> <i><trn>leaf of a book</trn></i>.</m1>
-</entry>
-<entry word="bókareiðr">
+</word>
+<word>
+bókareiðr
 	<m1><p>m.</p> <i><trn>oath upon the gospel</trn></i>.</m1>
-</entry>
-<entry word="bókareiðstafr">
+</word>
+<word>
+bókareiðstafr
 	<m1><p>m.</p> <i><trn>wording of a</trn></i> bókareiðr.</m1>
-</entry>
-<entry word="bókargørð">
+</word>
+<word>
+bókargørð
 	<m1><p>f.</p> <i><trn>bookwriting</trn></i>.</m1>
-</entry>
-<entry word="bókarlag">
+</word>
+<word>
+bókarlag
 	<m1><p>n.</p> <i><trn>lawful price fixed in the code</trn></i>.</m1>
-</entry>
-<entry word="bókarskeyting">
+</word>
+<word>
+bókarskeyting
 	<m1><p>f.</p> <i><trn>conveyance of an estate by help of the lawbook</trn></i>.</m1>
-</entry>
-<entry word="bókartak">
+</word>
+<word>
+bókartak
 	<m1><p>n.</p> <i><trn>the touching of the gospel</trn></i> (in taking an oath).</m1>
-</entry>
-<entry word="bókarverð">
+</word>
+<word>
+bókarverð
 	<m1><p>n.</p> <i><trn>the price of a book</trn></i>.</m1>
-</entry>
-<entry word="bókarvitni">
+</word>
+<word>
+bókarvitni
 	<m1><p>n.</p> <i><trn>evidence confirmed by a</trn></i> <ref>bókareiðr</ref> (= bókat vitni).</m1>
-</entry>
-<entry word="bókaskilningr">
+</word>
+<word>
+bókaskilningr
 	<m1><p>m.</p> <i><trn>book-learning</trn></i>.</m1>
-</entry>
-<entry word="bókastóll">
+</word>
+<word>
+bókastóll
 	<m1><p>m.</p> <i><trn>a reading, desk, lectern</trn></i>.</m1>
-</entry>
-<entry word="bókfell">
+</word>
+<word>
+bókfell
 	<m1><p>n.</p> <i><trn>parchment, vellum</trn></i>.</m1>
-</entry>
-<entry word="bókfróðr">
+</word>
+<word>
+bókfróðr
 	<m1><p>a.</p> <i><trn>book-learned</trn></i>.</m1>
-</entry>
-<entry word="bókfrœði">
+</word>
+<word>
+bókfrœði
 	<m1><p>f.</p> <i><trn>book-knowledge, book-lore, learning</trn></i>.</m1>
-</entry>
-<entry word="bóklauss">
+</word>
+<word>
+bóklauss
 	<m1><p>a.</p> <i><trn>bookless, unscholarly</trn></i>.</m1>
-</entry>
-<entry word="bóklaust">
+</word>
+<word>
+bóklaust
 	<m1><p>adv.</p> <i><trn>by heart</trn></i> (allar ritningar helga man hann laust).</m1>
-</entry>
-<entry word="bóklestr">
+</word>
+<word>
+bóklestr
 	<m1><p>m.</p> = <ref>bókalestr</ref>.</m1>
-</entry>
-<entry word="bókligr">
+</word>
+<word>
+bókligr
 	<m1><p>a.</p> <i><trn>literary</trn></i>; ligar listir, <i><trn>the liberal arts</trn></i>.</m1>
-</entry>
-<entry word="bóklist">
+</word>
+<word>
+bóklist
 	<m1><i><trn>book-lore, learng</trn></i>.</m1>
-</entry>
-<entry word="bóklærðr">
+</word>
+<word>
+bóklærðr
 	<m1><p>pp.</p> <i><trn>book-learned</trn></i>.</m1>
-</entry>
-<entry word="bókmál">
+</word>
+<word>
+bókmál
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>book language, learned language, Latin</trn></i> (á bók nam ek aldri ok eigi heyrða ek frá máli sagt);</m2>
 	<m2>2) <i><trn>the canon law</trn></i>; blót þau, sem fyrirboðin eru at máli, <i><trn>in the canon of the church</trn></i>;</m2>
 	<m2>3) <i><trn>the Justinian calendar</trn></i>; at máli, <i><trn>according to the calendar</trn></i>.</m2>
-</entry>
-<entry word="bókmánaðr">
+</word>
+<word>
+bókmánaðr
 	<m1><p>m.</p> <i><trn>calendar month</trn></i>, opp. to the Icel. months.</m1>
-</entry>
-<entry word="bóknám">
+</word>
+<word>
+bóknám
 	<m1><p>n.</p> <i><trn>book training, study</trn></i> (vera at námi, setja en til náms).</m1>
-</entry>
-<entry word="bóknæmi">
+</word>
+<word>
+bóknæmi
 	<m1><p>n.</p> = nám.</m1>
-</entry>
-<entry word="bókrúnar">
+</word>
+<word>
+bókrúnar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>runes engraved on beechwood</trn></i>.</m1>
-</entry>
-<entry word="bóksaga">
+</word>
+<word>
+bóksaga
 	<m1><p>f.</p> <i><trn>written narrative</trn></i>.</m1>
-</entry>
-<entry word="bóksetja">
+</word>
+<word>
+bóksetja
 	<m1>(<com>see</com> <ref>setja</ref>), <p>v.</p> <i><trn>to commit to writing</trn></i>.</m1>
-</entry>
-<entry word="bókskygn">
+</word>
+<word>
+bókskygn
 	<m1><p>a.</p> <i><trn>seeing well enough to read a book</trn></i>.</m1>
-</entry>
-<entry word="bókspeki">
+</word>
+<word>
+bókspeki
 	<m1><p>f.</p> <i><trn>book-wisdom, book-knowledge</trn></i>.</m1>
-</entry>
-<entry word="bókstafr">
+</word>
+<word>
+bókstafr
 	<m1><p>m.</p> <i><trn>character, letter</trn></i>.</m1>
-</entry>
-<entry word="bóksögn">
+</word>
+<word>
+bóksögn
 	<m1><p>f.</p> = <ref>bóksaga</ref>.</m1>
-</entry>
-<entry word="bóktal">
+</word>
+<word>
+bóktal
 	<m1><p>n.</p> = <ref>bókmál</ref> 3.</m1>
-</entry>
-<entry word="bókvit">
+</word>
+<word>
+bókvit
 	<m1><p>n.</p> <i><trn>learning, erudition</trn></i>.</m1>
-</entry>
-<entry word="bókvíss">
+</word>
+<word>
+bókvíss
 	<m1><p>a.</p> = <ref>bóklærðr</ref>.</m1>
-</entry>
-<entry word="ból">
+</word>
+<word>
+ból
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>lair or lying place</trn></i> (of beasts and cattle);</m2>
 	<m2>2) <i><trn>couch, bed</trn></i> (tóku sumir heyhjálma nökkura ok gerðúu sér af ~);</m2>
 	<m2>3) <i><trn>farm</trn></i>, <p>esp.</p> in Norway, = <ref>bólstaðr</ref>, <ref>bœr</ref>, <ref>jörð</ref>.</m2>
-</entry>
-<entry word="bóla">
+</word>
+<word>
+bóla
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>the boss of a shield</trn></i>;</m2>
 	<m2>2) <i><trn>blain, botch</trn></i>.</m2>
-</entry>
-<entry word="bólfesta">
+</word>
+<word>
+bólfesta
 	<m1><p>f.</p> <i><trn>estate held by a lease, leasehold</trn></i>.</m1>
-</entry>
-<entry word="bólginn">
+</word>
+<word>
+bólginn
 	<m1><p>a.</p> <i><trn>swollen</trn></i>; ~ bræði, ~ af reiði, <i><trn>swollen with</trn></i> anger.</m1>
-</entry>
-<entry word="bólgna">
+</word>
+<word>
+bólgna
 	<m1>(að), <p>v.</p> <i><trn>to swell, become swollen</trn></i>.</m1>
-</entry>
-<entry word="bólnasótt">
+</word>
+<word>
+bólnasótt
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>disease of blains</trn></i> or <i><trn>boils</trn></i>;</m2>
 	<m2>2) <i><trn>smallpox</trn></i>.</m2>
-</entry>
-<entry word="bólstaðargørð">
+</word>
+<word>
+bólstaðargørð
 	<m1><p>f.</p> <i><trn>the building of a homestead</trn></i>.</m1>
-</entry>
-<entry word="bólstaðr">
+</word>
+<word>
+bólstaðr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>abode, homestead</trn></i> (hón í þar staði mikla);</m2>
 	<m2>2) <i><trn>farm</trn></i>.</m2>
-</entry>
-<entry word="bólstr">
+</word>
+<word>
+bólstr
 	<m1>(<p>gen.</p> ~s, <p>pl.</p> ~ar), <p>m.</p> <i><trn>bolster, pillow</trn></i> (hníga við ~i).</m1>
-</entry>
-<entry word="bón">
+</word>
+<word>
+bón
 	<m1><p>f.</p> <i><trn>request, petition</trn></i> = <ref>bœn</ref>.</m1>
-</entry>
-<entry word="bónarmaðr">
+</word>
+<word>
+bónarmaðr
 	<m1><p>m.</p> <i><trn>beggar-man</trn></i>.</m1>
-</entry>
-<entry word="bóndabani">
+</word>
+<word>
+bóndabani
 	<m1><p>m.</p> <i><trn>slayer of a woman’s husband</trn></i>.</m1>
-</entry>
-<entry word="bóndadóttir">
+</word>
+<word>
+bóndadóttir
 	<m1><p>f.</p> <i><trn>daughter of a</trn></i> bóndi.</m1>
-</entry>
-<entry word="bóndaeiðr">
+</word>
+<word>
+bóndaeiðr
 	<m1><p>m.</p> <i><trn>a</trn></i> bóndi’s <i><trn>oath of allegiance</trn></i>.</m1>
-</entry>
-<entry word="bóndafar">
+</word>
+<word>
+bóndafar
 	<m1><i><trn>a</trn></i> bóndi’s <i><trn>ferryboat</trn></i>.</m1>
-</entry>
-<entry word="bóndafé">
+</word>
+<word>
+bóndafé
 	<m1><p>n.</p> <i><trn>district fund</trn></i>.</m1>
-</entry>
-<entry word="bóndafólk">
+</word>
+<word>
+bóndafólk
 	<m1><p>n.</p> <i><trn>peasantry, farmers</trn></i>.</m1>
-</entry>
-<entry word="bóndafylking">
+</word>
+<word>
+bóndafylking
 	<m1><p>f.</p> <i><trn>host of peasants</trn></i>.</m1>
-</entry>
-<entry word="bóndaherr">
+</word>
+<word>
+bóndaherr
 	<m1><p>m.</p> <i><trn>army of peasants</trn></i>.</m1>
-</entry>
-<entry word="bóndahlutr">
+</word>
+<word>
+bóndahlutr
 	<m1><p>m.</p> <i><trn>one fourth of the tithe to be distributed among the peasants</trn></i>.</m1>
-</entry>
-<entry word="bóndakirkja">
+</word>
+<word>
+bóndakirkja
 	<m1><p>f.</p> <i><trn>the church belonging to the</trn></i> bóndi <i><trn>in Thingvalla</trn></i>.</m1>
-</entry>
-<entry word="bóndakirkjugarðr">
+</word>
+<word>
+bóndakirkjugarðr
 	<m1><p>m.</p> <i><trn>the churchyard belonging to the</trn></i> kirkja.</m1>
-</entry>
-<entry word="bóndalauss">
+</word>
+<word>
+bóndalauss
 	<m1><p>a.</p> <i><trn>husbandless, widowed</trn></i>.</m1>
-</entry>
-<entry word="bóndalið">
+</word>
+<word>
+bóndalið
 	<m1><p>n.</p> = <ref>bóndaherr</ref>.</m1>
-</entry>
-<entry word="bóndamúgr">
+</word>
+<word>
+bóndamúgr
 	<m1><p>m.</p> <i><trn>crowd, host of peasants</trn></i>.</m1>
-</entry>
-<entry word="bóndanafn">
+</word>
+<word>
+bóndanafn
 	<m1><p>n.</p> <i><trn>the name, title of</trn></i> <ref>bóndi</ref>.</m1>
-</entry>
-<entry word="bóndaréttr">
+</word>
+<word>
+bóndaréttr
 	<m1><p>m.</p> <i><trn>the right of a</trn></i> <ref>bóndi</ref>.</m1>
-</entry>
-<entry word="bóndasafnaðr">
+</word>
+<word>
+bóndasafnaðr
 	<m1><p>m.</p> = <ref>bóndamúgr</ref>.</m1>
-</entry>
-<entry word="bóndaskapr">
+</word>
+<word>
+bóndaskapr
 	<m1><p>m.</p> <i><trn>the estate of the</trn></i> bœndr, opp. to the clergy.</m1>
-</entry>
-<entry word="bóndason">
+</word>
+<word>
+bóndason
 	<m1><p>m.</p> <i><trn>son of a</trn></i> bóndi.</m1>
-</entry>
-<entry word="bóndatala">
+</word>
+<word>
+bóndatala
 	<m1><p>f.</p>, vera í bóndatölu, <i><trn>to be counted among</trn></i> bœndr.</m1>
-</entry>
-<entry word="bóndaungi">
+</word>
+<word>
+bóndaungi
 	<m1><p>m.</p> <i><trn>young farmer</trn></i>.</m1>
-</entry>
-<entry word="bóndaval">
+</word>
+<word>
+bóndaval
 	<m1><p>n.</p> <i><trn>the élite of</trn></i> bœndr; var þá gott val, <i><trn>there were choice</trn></i> bœndr <i><trn>to be found</trn></i>.</m1>
-</entry>
-<entry word="bóndaætt">
+</word>
+<word>
+bóndaætt
 	<m1><p>f.</p> <i><trn>a</trn></i> bóndi’s <i><trn>extraction</trn></i> (hann er ættar).</m1>
-</entry>
-<entry word="bóndi">
+</word>
+<word>
+bóndi
 	<m1>(<p>pl.</p> bœndr, <p>gen.</p> bónda), <p>m.</p></m1>
 	<m2>1) <i><trn>husbandman, farmer, peasant</trn></i> (dóttir eins lítils bónda); <i><trn>a yeoman, franklin, landowner</trn></i> (hinir stœrri bœndr);</m2>
 	<m2>2) <i><trn>master, head of a household</trn></i> (= <ref>hús~</ref>);</m2>
 	<m2>3) <i><trn>husband</trn></i> (nú er ~ dauðr, en kona lifir eptir).</m2>
-</entry>
-<entry word="bónhús">
+</word>
+<word>
+bónhús
 	<m1><p>n.</p> = <ref>bœnhús</ref> (rare).</m1>
-</entry>
-<entry word="bónleið">
+</word>
+<word>
+bónleið
 	<m1><p>f.</p> <i><trn>begging path</trn></i>; fara leið, <i><trn>to go begging from house to house</trn></i>.</m1>
-</entry>
-<entry word="bónorð">
+</word>
+<word>
+bónorð
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>request, petition</trn></i>;</m2>
 	<m2>2) <i><trn>wooing, courtship</trn></i>; hefja, vekja orð, <i><trn>to make a proposal</trn></i>.</m2>
-</entry>
-<entry word="bónorðsferð">
-	</entry>
-<entry word="bónorðsför">
+</word>
+<word>
+bónorðsferð
+</word>
+<word>
+bónorðsför
 	<m1><p>f.</p> <i><trn>wooing journey</trn></i>;</m1>
 	<m2>fara bónorðsför, <i><trn>to go awooing</trn></i>.</m2>
-</entry>
-<entry word="bónorðsmál">
+</word>
+<word>
+bónorðsmál
 	<m1><p>n.</p> <i><trn>the business of wooing</trn></i>.</m1>
-</entry>
-<entry word="bónríki">
+</word>
+<word>
+bónríki
 	<m1><p>n.</p> <i><trn>importunity or persistence in begging</trn></i>.</m1>
-</entry>
-<entry word="bót">
+</word>
+<word>
+bót
 	<m1>(<p>pl.</p> bœtr, also <p>poet.</p> bótir), <p>f.</p></m1>
 	<m2>1) <i><trn>bettering, cure, remedy</trn></i>; fá ~ sinna meina, <i><trn>to get cure for one’s evils</trn></i>; ráða <p>e-u</p> ~, ráða es bœtr, <i><trn>to remedy, retrieve</trn></i>; vinna em ~, <i><trn>to relieve one</trn></i> (in sickness); bíða es ~, <i><trn>to get over, recover</trn></i> (a loss, misfortune); bera et til bóta, <i><trn>to amend</trn></i>; þótti mikilla bóta ávant, at; <i><trn>much seemed wanting that</trn></i>; et berr til bóta (<p>impers.</p>), <i><trn>it is a comfort, satisfaction</trn></i>;</m2>
 	<m2>2) <i><trn>atonement, compensation</trn></i>, <p>esp.</p> <p>pl.</p> = <ref>mannbœtr</ref>, <i><trn>weregild</trn></i>; sœtar syndir verða at sárum bótum, <i><trn>sweet sins are turned to sore penance</trn></i>;</m2>
 	<m2>3) <i><trn>patch</trn></i> (svört bót var á millum herða honum).</m2>
-</entry>
-<entry word="bótalauss">
+</word>
+<word>
+bótalauss
 	<m1><p>a.</p> <i><trn>without redress or compensation</trn></i> (hafa sár laust; vígin vóru laus).</m1>
-</entry>
-<entry word="bótamaðr">
+</word>
+<word>
+bótamaðr
 	<m1><p>m.</p> <i><trn>a person who has to receive</trn></i> ‘bœtr’ <i><trn>for hurt and damage suffered</trn></i> (opp. to <ref>ú~</ref>).</m1>
-</entry>
-<entry word="bótaverðr">
+</word>
+<word>
+bótaverðr
 	<m1><p>a.</p> <i><trn>worth redress</trn></i>.</m1>
-</entry>
-<entry word="bóti">
+</word>
+<word>
+bóti
 	<m1><p>m.</p> <i><trn>boot</trn></i> (for wearing).</m1>
-</entry>
-<entry word="bótlausliga">
+</word>
+<word>
+bótlausliga
 	<m1><p>adv.</p> <i><trn>irreparably</trn></i>.</m1>
-</entry>
-<entry word="bótlauss">
-	</entry>
-<entry word="úbœtiligr">
+</word>
+<word>
+bótlauss
+</word>
+<word>
+úbœtiligr
 	<m1><p>a.</p> <i><trn>irreparable</trn></i>.</m1>
-</entry>
-<entry word="bótleysi">
+</word>
+<word>
+bótleysi
 	<m1><p>n.</p> <i><trn>‘bootlessness’</trn></i>; lemja <p>e-n</p> til ~s, <i><trn>past reparation</trn></i>.</m1>
-</entry>
-<entry word="bótsama">
+</word>
+<word>
+bótsama
 	<m1>(að), <p>v.</p> <i><trn>to repair</trn></i> (sama um búðir, hús).</m1>
-</entry>
-<entry word="bótþarfa">
+</word>
+<word>
+bótþarfa
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>needing</trn></i> ‘bœtr’ <i><trn>or satisfaction</trn></i>.</m1>
-</entry>
-<entry word="braðan">
+</word>
+<word>
+braðan
 	<m1><p>adv.</p> <i><trn>soon, shortly</trn></i>, = <ref>brátt</ref>.</m1>
-</entry>
-<entry word="braði">
+</word>
+<word>
+braði
 	<m1><p>f.</p> <i><trn>anger, passion</trn></i>; mæla et í ~, <i><trn>in a passion</trn></i>.</m1>
-</entry>
-<entry word="braga">
+</word>
+<word>
+braga
 	<m1>(að), <p>v.</p> <i><trn>to flicker, flash (of the northern lights</trn></i>).</m1>
-</entry>
-<entry word="bragarfull">
+</word>
+<word>
+bragarfull
 	<m1><p>n.</p> <i><trn>toast</trn></i>, <p>esp.</p> <i><trn>at a funeral banquet</trn></i>.</m1>
-</entry>
-<entry word="bragarlaun">
+</word>
+<word>
+bragarlaun
 	<m1><p>n.</p> <p>pl.</p> <i><trn>gift for a poem</trn></i>.</m1>
-</entry>
-<entry word="bragð">
+</word>
+<word>
+bragð
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>sudden or brisk movement</trn></i>; <i><trn>moment</trn></i>; ~s, af ~i, <i><trn>at once</trn></i>; af (or á) skömmu ~i, <i><trn>shortly, quickly, in a short time</trn></i>;</m2>
 	<m2>2) fig., in many phrases, verða fyrri (skjótari) at ~i, <i><trn>to make the first move, to be beforehand with</trn></i> (þeir hafa orðit fyrri at ~i at stefna en vér); vera í ~i með em, skerast í ~ með em, <i><trn>to lend one a helping hand</trn></i>; taka et ~s or til ~s, <i><trn>to take some step</trn></i> (to get out of difficulties); úviturligt ~, <i><trn>a foolish step</trn></i>; úheyriligt ~, <i><trn>an unheard of proceeding</trn></i>; gerðist þar at sví mikit ~, at, <i><trn>it went so far that</trn></i>; lítit ~ mun þá at <i><trn>(it must be very slight)</trn></i>, ef þú finnr ekki;</m2>
 	<m2>3) <i><trn>trick, scheme, device</trn></i>, chiefly in <p>pl.</p>; beita en bröðum, hafa brögð við en, <i><trn>to deal cunninly with, impose upon</trn></i>; ferr at fornum brögðum, <i><trn>in the old way</trn></i>; búa yfir brögðum, <i><trn>to brood over wiles</trn></i>; leika em ~, <i><trn>to play or serve one a trick</trn></i> hefir hann miklu ~i á oss komit, <i><trn>he has played a bad trick upon us</trn></i>;</m2>
 	<m2>4) <i><trn>countenance, look, expression</trn></i> þannig ertu í ~i sem, <i><trn>thou lookest as if</trn></i>; með betra ~i, <i><trn>in a better mood</trn></i>; bleyðimannligr í ~i, <i><trn>having the look of a coward</trn></i>; Sturla gerði þat ~ á <i><trn>(made as if)</trn></i>, at hann hefði fundit Pál prest;</m2>
 	<m2>5) <i><trn>embroidered figure</trn></i> (hekla saumuð öll brögðum).</m2>
-</entry>
-<entry word="bragða">
+</word>
+<word>
+bragða
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to move, stir</trn></i> (þat ~r alit, sem kvikt er);</m2>
 	<m2>2) <i><trn>to flicker, flash</trn></i> (of light).</m2>
-</entry>
-<entry word="bragðadrykkr">
-	</entry>
-<entry word="eitrdrykkr">
-	</entry>
-<entry word="svikadrykkr">
+</word>
+<word>
+bragðadrykkr
+</word>
+<word>
+eitrdrykkr
+</word>
+<word>
+svikadrykkr
 	<m1><p>m.</p> <i><trn>poisoned drink</trn></i>.</m1>
-</entry>
-<entry word="bragðakarl">
-	</entry>
-<entry word="slœgðarmaðr">
+</word>
+<word>
+bragðakarl
+</word>
+<word>
+slœgðarmaðr
 	<m1><p>m.</p> <i><trn>sly fellow</trn></i>.</m1>
-</entry>
-<entry word="bragðalr">
+</word>
+<word>
+bragðalr
 	<m1><p>m.</p> <i><trn>‘twirling awl’</trn></i>, a kind of fire-drill.</m1>
-</entry>
-<entry word="bragðalseldr">
+</word>
+<word>
+bragðalseldr
 	<m1><p>m.</p> <i><trn>fire produced by a</trn></i> bragðalr.</m1>
-</entry>
-<entry word="bragðillr">
-	</entry>
-<entry word="illsvipligr">
-	</entry>
-<entry word="svipillr">
-	</entry>
-<entry word="úsvipligr">
+</word>
+<word>
+bragðillr
+</word>
+<word>
+illsvipligr
+</word>
+<word>
+svipillr
+</word>
+<word>
+úsvipligr
 	<m1><p>a.</p> <i><trn>ill-looking</trn></i>.</m1>
-</entry>
-<entry word="bragðligr">
+</word>
+<word>
+bragðligr
 	<m1><p>a.</p> <i><trn>expedient, suitable</trn></i>.</m1>
-</entry>
-<entry word="bragðmikill">
+</word>
+<word>
+bragðmikill
 	<m1><p>a.</p> <i><trn>expressive-looking</trn></i>.</m1>
-</entry>
-<entry word="bragðsamr">
-	</entry>
-<entry word="lævíss">
+</word>
+<word>
+bragðsamr
+</word>
+<word>
+lævíss
 	<m1><p>a.</p> <i><trn>crafty</trn></i>.</m1>
-</entry>
-<entry word="bragðvísi">
+</word>
+<word>
+bragðvísi
 	<m1><p>f.</p> <i><trn>craft, subtlety</trn></i>.</m1>
-</entry>
-<entry word="bragðvísliga">
-	</entry>
-<entry word="klókliga">
-	</entry>
-<entry word="lymskliga">
-	</entry>
-<entry word="slœgliga">
+</word>
+<word>
+bragðvísliga
+</word>
+<word>
+klókliga
+</word>
+<word>
+lymskliga
+</word>
+<word>
+slœgliga
 	<m1><p>adv.</p> <i><trn>cunningly</trn></i>.</m1>
-</entry>
-<entry word="bragðvísligr">
+</word>
+<word>
+bragðvísligr
 	<m1><p>a.</p> <i><trn>cunning</trn></i>.</m1>
-</entry>
-<entry word="bragnar">
+</word>
+<word>
+bragnar
 	<m1><p>m.</p> <p>pl.</p> <p>poet.</p> <i><trn>heroes, men</trn></i>.</m1>
-</entry>
-<entry word="bragr">
+</word>
+<word>
+bragr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>poetry</trn></i>, = <ref>skáldskapr</ref>;</m2>
 	<m2>2) <i><trn>the best, foremost</trn></i> (Ása ~ = <i><trn>Thor</trn></i>; ~ kvenna); <i><trn>most eloquent</trn></i>.</m2>
-</entry>
-<entry word="brak">
+</word>
+<word>
+brak
 	<m1><p>n.</p> <i><trn>creaking noise, crack</trn></i>.</m1>
-</entry>
-<entry word="braka">
+</word>
+<word>
+braka
 	<m1>(að), <p>v.</p> <i><trn>to creak, crack</trn></i> (~ði mjök í skipinu).</m1>
-</entry>
-<entry word="brakan">
+</word>
+<word>
+brakan
 	<m1><p>f.</p> creaking, cracking.</m1>
-</entry>
-<entry word="brakki">
-	</entry>
-<entry word="brakun">
+</word>
+<word>
+brakki
+</word>
+<word>
+brakun
 	<m1><p>m.</p> <i><trn>intermediary, broker</trn></i>.</m1>
-</entry>
-<entry word="brandadyrr">
+</word>
+<word>
+brandadyrr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>main entrance, front door</trn></i>, so called because of the ‘brandar’ <i><trn>(ships’ beaks)</trn></i> fixed as ornaments over or beside it.</m1>
-</entry>
-<entry word="brandgás">
+</word>
+<word>
+brandgás
 	<m1><p>f.</p> <i><trn>common sheldrake</trn></i>.</m1>
-</entry>
-<entry word="brandkrossi">
+</word>
+<word>
+brandkrossi
 	<m1><p>m.</p> <i><trn>the name given to a</trn></i> brandkrossóttr uxi.</m1>
-</entry>
-<entry word="brandkrossóttr">
+</word>
+<word>
+brandkrossóttr
 	<m1><p>a.</p> <i><trn>brindled brown with a white cross on the forehead</trn></i>.</m1>
-</entry>
-<entry word="brandr">
+</word>
+<word>
+brandr
 	<m1>(-s, -ar), <p>m.</p></m1>
 	<m2>1) <i><trn>brand, firebrand</trn></i> (~ af brandi brennr);</m2>
 	<m2>2) <i><trn>ship’s beak</trn></i> (= <ref>svíri</ref>); fellr brattr breki bröndum hæri, <i><trn>the waves break high above the</trn></i> ‘brandar’;</m2>
 	<m2>3) <i><trn>ships’ beaks put up as ornaments over or at each side of the chief entrance of dwellings</trn></i> (brandana af knerrinum lét hann setja yfir útidyrr sínar);</m2>
 	<m2>4) <i><trn>the blade of a sword</trn></i> (brast sverðit undir hjaltinu ok fór ~inn grenjandi niðr í ána).</m2>
-</entry>
-<entry word="brandreið">
+</word>
+<word>
+brandreið
 	<m1><p>f.</p> <i><trn>gridiron, brander</trn></i> (steikja á ~).</m1>
-</entry>
-<entry word="brandøx">
+</word>
+<word>
+brandøx
 	<m1><p>f.</p> <i><trn>a sort of axe</trn></i>.</m1>
-</entry>
-<entry word="branga">
+</word>
+<word>
+branga
 	<m1><p>f.</p> (Hamðismál 20)?.</m1>
-</entry>
-<entry word="brann">
-	</entry>
-<entry word="brunninn">
+</word>
+<word>
+brann
+</word>
+<word>
+brunninn
 	<m1>from <ref>brenna</ref>.</m1>
-</entry>
-<entry word="brast">
-	</entry>
-<entry word="brostinn">
-	</entry>
-<entry word="brustu">
-	</entry>
-<entry word="brysti">
+</word>
+<word>
+brast
+</word>
+<word>
+brostinn
+</word>
+<word>
+brustu
+</word>
+<word>
+brysti
 	<m1>from <ref>bresta</ref>.</m1>
-</entry>
-<entry word="brasta">
+</word>
+<word>
+brasta
 	<m1>(að), <p>v.</p> <i><trn>to bluster, swagger</trn></i> (þeir ~ illmikit).</m1>
-</entry>
-<entry word="brattgengni">
+</word>
+<word>
+brattgengni
 	<m1><p>f.</p> <i><trn>skill in climbing</trn></i>.</m1>
-</entry>
-<entry word="brattgengr">
+</word>
+<word>
+brattgengr
 	<m1><p>a.</p> <i><trn>skilful in climbing</trn></i>.</m1>
-</entry>
-<entry word="brattleitr">
+</word>
+<word>
+brattleitr
 	<m1><p>a.</p> <i><trn>with prominent forehead</trn></i>.</m1>
-</entry>
-<entry word="brattlendi">
+</word>
+<word>
+brattlendi
 	<m1><p>n.</p> <i><trn>steep ground</trn></i>.</m1>
-</entry>
-<entry word="brattr">
+</word>
+<word>
+brattr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>steep</trn></i>; brött brekka, <i><trn>a steep slope</trn></i>; brattar bárur, <i><trn>high waves</trn></i>; bera bratt halann, <i><trn>to carry the tail high</trn></i>; reynt hefi ek fyrr brattara, <i><trn>I have been in a worse plight</trn></i>;</m2>
 	<m2>2) <i><trn>sudden</trn></i>, = <ref>bráðr</ref> (brött fyrirætlan).</m2>
-</entry>
-<entry word="brattsteinn">
+</word>
+<word>
+brattsteinn
 	<m1><p>m.</p> <i><trn>stone column</trn></i>.</m1>
-</entry>
-<entry word="brauð">
+</word>
+<word>
+brauð
 	<m1><p>n.</p> <i><trn>bread</trn></i>; hleifr ~s, <i><trn>a loaf of bread</trn></i>.</m1>
-</entry>
-<entry word="brauðbakstr">
+</word>
+<word>
+brauðbakstr
 	<m1><p>m.</p> <i><trn>breadbaking</trn></i>.</m1>
-</entry>
-<entry word="brauðdiskr">
+</word>
+<word>
+brauðdiskr
 	<m1><p>m.</p> <i><trn>breadplate</trn></i>.</m1>
-</entry>
-<entry word="brauðgørð">
+</word>
+<word>
+brauðgørð
 	<m1><p>f.</p> <i><trn>breadmaking</trn></i>.</m1>
-</entry>
-<entry word="brauðhleifr">
+</word>
+<word>
+brauðhleifr
 	<m1><p>m.</p> <i><trn>a loaf of bread</trn></i>.</m1>
-</entry>
-<entry word="brauðjárn">
+</word>
+<word>
+brauðjárn
 	<m1><p>n.</p> <i><trn>girdle, griddle</trn></i> (for baking bread).</m1>
-</entry>
-<entry word="brauðkass">
+</word>
+<word>
+brauðkass
 	<m1><p>m.</p> <i><trn>bread-basket</trn></i>.</m1>
-</entry>
-<entry word="brauðlaupr">
-	</entry>
-<entry word="brauðmeiss">
+</word>
+<word>
+brauðlaupr
+</word>
+<word>
+brauðmeiss
 	<m1><p>m.</p> <i><trn>bread-box</trn></i>.</m1>
-</entry>
-<entry word="brauðmoli">
+</word>
+<word>
+brauðmoli
 	<m1><p>m.</p> <i><trn>crumb of bread</trn></i>.</m1>
-</entry>
-<entry word="brauðofn">
+</word>
+<word>
+brauðofn
 	<m1><p>m.</p> <i><trn>bread-oven</trn></i>.</m1>
-</entry>
-<entry word="brauðskífa">
+</word>
+<word>
+brauðskífa
 	<m1><p>f.</p> <i><trn>slice of bread</trn></i>.</m1>
-</entry>
-<entry word="brauðsufl">
+</word>
+<word>
+brauðsufl
 	<m1><p>n.</p> <i><trn>whatever is eaten with bread</trn></i>.</m1>
-</entry>
-<entry word="braukun">
-	</entry>
-<entry word="brökun">
+</word>
+<word>
+braukun
+</word>
+<word>
+brökun
 	<m1><p>f.</p> <i><trn>violent behaviour</trn></i> (~ berserkja).</m1>
-</entry>
-<entry word="braut">
+</word>
+<word>
+braut
 	<m1><b>I)</b></m1>
 	<m2>(<p>pl.</p> ~ir), <p>f.</p></m2>
 	<m3>1) <i><trn>road</trn></i> (cut through rocks, forests, etc.); ryðja ~, <i><trn>to cut a road</trn></i>;</m3>
@@ -4823,227 +6151,297 @@ Bolgarar
 	<m2><p>m.</p> <p>compds.</p>, <com>see</com> <ref>brott</ref>.</m2>
 	<m1><b>III)</b></m1>
 	<m2>from <ref>brjóta</ref>.</m2>
-</entry>
-<entry word="brautamót">
+</word>
+<word>
+brautamót
 	<m1><p>n.</p> <i><trn>meeting of roads</trn></i>.</m1>
-</entry>
-<entry word="brautargengi">
+</word>
+<word>
+brautargengi
 	<m1><p>n.</p> <i><trn>help, furtherance</trn></i>.</m1>
-</entry>
-<entry word="brautingi">
+</word>
+<word>
+brautingi
 	<m1>(-ja), <p>m.</p> <i><trn>a wayfairer, tramp, begger</trn></i>; bráð eru brautingja erendi, <i><trn>the wanderer’s errand is urgent</trn></i>.</m1>
-</entry>
-<entry word="brá">
+</word>
+<word>
+brá
 	<m1><b>I)</b> (<p>gen.</p> brár, <p>pl.</p> brár), <p>f.</p> <i><trn>eyelash</trn></i>.</m1>
 	<m1><b>II)</b> from <ref>bregða</ref>.</m1>
-</entry>
-<entry word="bráð">
+</word>
+<word>
+bráð
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>meat, raw flesh</trn></i>; varmar bráðir, <i><trn>the corpses of the newly slain</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>n.</p> <i><trn>tar, pitch</trn></i>.</m2>
 	<m1><b>III)</b></m1>
 	<m2><p>f.</p> <i><trn>haste</trn></i>, only used in adverb. phrases, í ~, <i><trn>soon, shortly</trn></i>, = <ref>bráðliga</ref>; bæði í ~ ok lengðar, <i><trn>now and ever</trn></i>.</m2>
-</entry>
-<entry word="bráðabugr">
+</word>
+<word>
+bráðabugr
 	<m1><p>m.</p>, in the phrase, gøra bráðabug at <p>e-u</p>, <i><trn>to hasten to do a thing, do it without delay</trn></i>.</m1>
-</entry>
-<entry word="bráðafangs">
+</word>
+<word>
+bráðafangs
 	<m1><p>adv.</p> <i><trn>at once</trn></i>, = <ref>bráðfengis</ref>.</m1>
-</entry>
-<entry word="bráðahola">
+</word>
+<word>
+bráðahola
 	<m1><p>f.</p> <i><trn>a hole where the wild beasts, carry their prey</trn></i> (bráð).</m1>
-</entry>
-<entry word="bráðahrið">
+</word>
+<word>
+bráðahrið
 	<m1><p>f.</p> <i><trn>sudden storm</trn></i>.</m1>
-</entry>
-<entry word="bráðalauss">
+</word>
+<word>
+bráðalauss
 	<m1><i><trn>without prey</trn></i> (haukar bráðalausir).</m1>
-</entry>
-<entry word="bráðasótt">
+</word>
+<word>
+bráðasótt
 	<m1><p>f.</p> <i><trn>sudden illness, plague</trn></i>.</m1>
-</entry>
-<entry word="bráðaþeyr">
+</word>
+<word>
+bráðaþeyr
 	<m1><p>m.</p> <i><trn>sudden thaw</trn></i>.</m1>
-</entry>
-<entry word="bráðdauði">
+</word>
+<word>
+bráðdauði
 	<m1><p>m.</p> <i><trn>sudeen death</trn></i>.</m1>
-</entry>
-<entry word="bráðdauðr">
+</word>
+<word>
+bráðdauðr
 	<m1><p>a.</p>, in the phrases verða dauðr, <i><trn>to die suddenly</trn></i>.</m1>
-</entry>
-<entry word="bráðendis">
+</word>
+<word>
+bráðendis
 	<m1><p>adv.</p> <i><trn>of a sudden</trn></i>.</m1>
-</entry>
-<entry word="bráðfara">
+</word>
+<word>
+bráðfara
 	<m1><p>a.</p> <p>indecl.</p>, verða ~, <i><trn>to travel in haste</trn></i>.</m1>
-</entry>
-<entry word="bráðfeginn">
+</word>
+<word>
+bráðfeginn
 	<m1><p>a.</p> <i><trn>exceedingly glad</trn></i>.</m1>
-</entry>
-<entry word="bráðfeigligr">
+</word>
+<word>
+bráðfeigligr
 	<m1><p>a.</p> <i><trn>rushing to death</trn></i>.</m1>
-</entry>
-<entry word="bráðfengis">
+</word>
+<word>
+bráðfengis
 	<m1><p>adv.</p> <i><trn>suddenly, at once</trn></i>.</m1>
-</entry>
-<entry word="bráðfengr">
+</word>
+<word>
+bráðfengr
 	<m1><p>a.</p> <i><trn>quick to act, prompt</trn></i>.</m1>
-</entry>
-<entry word="bráðgeðr">
+</word>
+<word>
+bráðgeðr
 	<m1><p>a.</p> <i><trn>hottempered, hasty</trn></i> (bráðgeð er bernskan).</m1>
-</entry>
-<entry word="bráðgerr">
+</word>
+<word>
+bráðgerr
 	<m1><p>a.</p> <i><trn>matured early in life, precocious</trn></i>.</m1>
-</entry>
-<entry word="bráðgerviligr">
+</word>
+<word>
+bráðgerviligr
 	<m1><p>a.</p> <i><trn>of early promise</trn></i>.</m1>
-</entry>
-<entry word="bráðhættligr">
+</word>
+<word>
+bráðhættligr
 	<m1><p>a.</p> <i><trn>most dangeous</trn></i>.</m1>
-</entry>
-<entry word="bráðkallaðr">
+</word>
+<word>
+bráðkallaðr
 	<m1><p>pp.</p>, verða ~, <i><trn>to die suddenly</trn></i>.</m1>
-</entry>
-<entry word="bráðkjörit">
+</word>
+<word>
+bráðkjörit
 	<m1><p>pp.</p> <p>n.</p> <i><trn>hastily chosen</trn></i>.</m1>
-</entry>
-<entry word="bráðkomliga">
+</word>
+<word>
+bráðkomliga
 	<m1>= <ref>bráðliga</ref>.</m1>
-</entry>
-<entry word="bráðla">
+</word>
+<word>
+bráðla
 	<m1><p>adv.</p> = <ref>bráðliga</ref>.</m1>
-</entry>
-<entry word="bráðlauss">
+</word>
+<word>
+bráðlauss
 	<m1><p>a.</p> <i><trn>not pitched</trn></i>.</m1>
-</entry>
-<entry word="bráðlátinn">
+</word>
+<word>
+bráðlátinn
 	<m1><p>pp.</p> = <ref>bráðdauðr</ref>.</m1>
-</entry>
-<entry word="bráðlátr">
+</word>
+<word>
+bráðlátr
 	<m1><p>a.</p> <i><trn>eager, impatient</trn></i>.</m1>
-</entry>
-<entry word="bráðliga">
+</word>
+<word>
+bráðliga
 	<m1><p>adv.</p> <i><trn>hastily, at once</trn></i>;</m1>
 	<m2>~ er, <i><trn>as soon as</trn></i>.</m2>
-</entry>
-<entry word="bráðligr">
-	</entry>
-<entry word="skyndiligr">
+</word>
+<word>
+bráðligr
+</word>
+<word>
+skyndiligr
 	<m1><p>a.</p> <i><trn>sudden</trn></i> (~ dauði).</m1>
-</entry>
-<entry word="bráðlitit">
+</word>
+<word>
+bráðlitit
 	<m1><p>pp.</p> <p>n.</p>, gera ~ á <p>e-t</p>, <i><trn>to look hastily at a thing</trn></i>.</m1>
-</entry>
-<entry word="bráðlyndi">
+</word>
+<word>
+bráðlyndi
 	<m1><p>a.</p> <i><trn>hot temper, hastiness</trn></i>.</m1>
-</entry>
-<entry word="bráðlyndr">
+</word>
+<word>
+bráðlyndr
 	<m1><p>a.</p> <i><trn>hot-tempered, hasty</trn></i>.</m1>
-</entry>
-<entry word="bráðlæti">
-	</entry>
-<entry word="úþol">
+</word>
+<word>
+bráðlæti
+</word>
+<word>
+úþol
 	<m1><p>n.</p> <i><trn>impatience</trn></i>.</m1>
-</entry>
-<entry word="bráðmælt">
+</word>
+<word>
+bráðmælt
 	<m1><p>pp.</p> <p>n.</p> <i><trn>hastily spoken</trn></i>.</m1>
-</entry>
-<entry word="bráðna">
+</word>
+<word>
+bráðna
 	<m1>(að), <p>v.</p> <i><trn>to melt</trn></i>, of snow, etc.</m1>
-</entry>
-<entry word="bráðorðr">
-	</entry>
-<entry>
+</word>
+<word>
+bráðorðr
+</word>
+<word>
 örmálugr
 	<m1><p>a.</p> <i><trn>hasty of speech</trn></i>.</m1>
-</entry>
-<entry word="bráðr">
+</word>
+<word>
+bráðr
 	<m1>(<p>neut.</p> brátt), <p>a.</p></m1>
 	<m2>1) <i><trn>sudden</trn></i> (~ bani);</m2>
 	<m2>2) <i><trn>hasty, hottempered</trn></i>;</m2>
 	<m3>þú hefir verit hølzti ~ <i><trn>(too eager, too rash)</trn></i> í þessu máli.</m3>
-</entry>
-<entry word="bráðráðinn">
+</word>
+<word>
+bráðráðinn
 	<m1><p>pp.</p> <i><trn>hastily or rashly decided</trn></i>.</m1>
-</entry>
-<entry word="bráðreiðr">
+</word>
+<word>
+bráðreiðr
 	<m1><p>a.</p> <i><trn>very wrathfull</trn></i>.</m1>
-</entry>
-<entry word="bráðræði">
-	</entry>
-<entry word="skjótræði">
+</word>
+<word>
+bráðræði
+</word>
+<word>
+skjótræði
 	<m1><p>n.</p> <i><trn>rashness</trn></i>.</m1>
-</entry>
-<entry word="bráðsjúkr">
+</word>
+<word>
+bráðsjúkr
 	<m1><p>a.</p> <i><trn>taken suddenly ill</trn></i>.</m1>
-</entry>
-<entry word="bráðskapaðr">
+</word>
+<word>
+bráðskapaðr
 	<m1><p>a.</p> <i><trn>of hasty disposition</trn></i> (= <ref>skapbráðr</ref>).</m1>
-</entry>
-<entry word="bráðskeyti">
+</word>
+<word>
+bráðskeyti
 	<m1><p>n.</p> <i><trn>hastiness, rashness</trn></i>.</m1>
-</entry>
-<entry word="bráðskeytiligr">
-	</entry>
-<entry word="framhleypiligr">
+</word>
+<word>
+bráðskeytiligr
+</word>
+<word>
+framhleypiligr
 	<m1><p>a.</p> <i><trn>rash</trn></i>.</m1>
-</entry>
-<entry word="bráðskeyttr">
+</word>
+<word>
+bráðskeyttr
 	<m1><p>a.</p> <i><trn>heedless, rash</trn></i>.</m1>
-</entry>
-<entry word="bráðsýnn">
+</word>
+<word>
+bráðsýnn
 	<m1><p>a.</p> <i><trn>seen at a glance</trn></i>.</m1>
-</entry>
-<entry word="bráðum">
+</word>
+<word>
+bráðum
 	<m1><p>adv.</p> <i><trn>soon, shortly</trn></i>.</m1>
-</entry>
-<entry word="bráðung">
+</word>
+<word>
+bráðung
 	<m1><p>f.</p> <i><trn>haste</trn></i>;</m1>
 	<m2>~ar þarf við, <i><trn>one must make haste</trn></i>;</m2>
 	<m2>af ~u, <i><trn>in a hurry</trn></i>.</m2>
-</entry>
-<entry word="bráðþroskaðr">
+</word>
+<word>
+bráðþroskaðr
 	<m1><p>pp.</p> <i><trn>early matured or grown-up</trn></i>.</m1>
-</entry>
-<entry word="bráhvítr">
+</word>
+<word>
+bráhvítr
 	<m1><p>a.</p> <i><trn>with white eyelashes</trn></i>.</m1>
-</entry>
-<entry word="bráss">
+</word>
+<word>
+bráss
 	<m1><p>m.</p> <i><trn>cook?</trn></i> (tóku þeir brás Búðla ok brugðu til knífi).</m1>
-</entry>
-<entry word="brátt">
+</word>
+<word>
+brátt
 	<m1><p>adv.</p> <i><trn>soon</trn></i>;</m1>
 	<m2>~ er, <i><trn>as soon as</trn></i>.</m2>
-</entry>
-<entry word="breðafönn">
+</word>
+<word>
+breðafönn
 	<m1><p>f.</p> <i><trn>a great heap or drifted mass of snow</trn></i>.</m1>
-</entry>
-<entry word="bréf">
+</word>
+<word>
+bréf
 	<m1><p>n.</p> <i><trn>letter, witten deed</trn></i>.</m1>
-</entry>
-<entry word="bréfa">
+</word>
+<word>
+bréfa
 	<m1>(að), <p>v.</p> <i><trn>to give an account, to write</trn></i> (~ af <p>e-u</p>).</m1>
-</entry>
-<entry word="bréfabók">
+</word>
+<word>
+bréfabók
 	<m1><p>f.</p> <i><trn>registerbook</trn></i>.</m1>
-</entry>
-<entry word="bréfabrot">
+</word>
+<word>
+bréfabrot
 	<m1><p>n.</p> <i><trn>breach of ordinances</trn></i>.</m1>
-</entry>
-<entry word="bréfagørð">
+</word>
+<word>
+bréfagørð
 	<m1><p>f.</p> <i><trn>letterwriting</trn></i>.</m1>
-</entry>
-<entry word="bréfamaðr">
+</word>
+<word>
+bréfamaðr
 	<m1><p>m.</p> <i><trn>letter carrier, public courier</trn></i>.</m1>
-</entry>
-<entry word="bréfasveinn">
+</word>
+<word>
+bréfasveinn
 	<m1><p>m.</p> <i><trn>letterboy</trn></i>.</m1>
-</entry>
-<entry word="bréflaust">
+</word>
+<word>
+bréflaust
 	<m1><p>adv.</p> <i><trn>without a written document</trn></i>.</m1>
-</entry>
-<entry word="bregða">
+</word>
+<word>
+bregða
 	<m1>(bregð; brá, brugðum; brugðinn), <p>v.</p> with <p>dat.</p></m1>
 	<m2>1) <i><trn>to cause to move (quickly)</trn></i>;</m2>
 	<m3>~ sverði, knífi, <i><trn>to draw a sword, knife</trn></i>;</m3>
@@ -5098,8 +6496,9 @@ Bolgarar
 	<m3><p>e-m</p> bregðr við <p>e-t</p> = <p>e-m</p> bregðr í brún;</m3>
 	<m3>brá þeim mjök við, er þeir sá hann inn ganga, <i><trn>it startled them much when they saw him come in</trn></i>;</m3>
 	<m3>en þó brá fóstru Melkorku mest við þessi tíðindi, <i><trn>this news most affected M.’s nurse</trn></i>.</m3>
-</entry>
-<entry word="bregðast">
+</word>
+<word>
+bregðast
 	<m1><p>v. refl.</p> <i><trn>to fail, come to naught</trn></i> (þat mun eigi ~);</m1>
 	<m2>~ <p>e-m</p>, <i><trn>to deceive, disappoint one</trn></i> (Gunnar kvaðst aldri skyldu ~ Njáli né sonum hans);</m2>
 	<m2>þeim brást frumhlaupit, <i><trn>they failed in the onslaught</trn></i>;</m2>
@@ -5110,91 +6509,118 @@ Bolgarar
 	<m2>~ á beina við <p>e-n</p>, <i><trn>to show hospitality towards</trn></i>;</m2>
 	<m2>~ reiðr við <p>e-t</p>, <i><trn>to get angry at</trn></i>;</m2>
 	<m2>~ úkunnr við <p>e-t</p>, <i><trn>to be startled at the novelty of a thing</trn></i>;</m2>
-</entry>
-<entry word="breiða">
+</word>
+<word>
+breiða
 	<m1>(-dda, -ddr), <p>v.</p> <i><trn>to spread</trn></i>; ~ borð, <i><trn>to lay the cloth on the table</trn></i>; ~ fáðm, <i><trn>to stretch out the arms</trn></i>; ~ út, <i><trn>to lay out for dryinig</trn></i>, as hay; ~ út hendr, <i><trn>to stretch out the hands</trn></i>; ~ et yfir en, <i><trn>to cover one with a thing, chiefly of the bedclothes</trn></i>.</m1>
-</entry>
-<entry word="breidd">
+</word>
+<word>
+breidd
 	<m1><p>f.</p> <i><trn>breadth</trn></i>.</m1>
-</entry>
-<entry word="breiðdœlskr">
+</word>
+<word>
+breiðdœlskr
 	<m1><p>a.</p> <i><trn>from Broaddale</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Breiðfirðingr
 	<m1><p>m.</p> <i><trn>a man from Broadfirth</trn></i>.</m1>
-</entry>
-<entry word="breiðfirzkr">
+</word>
+<word>
+breiðfirzkr
 	<m1><p>a.</p> <i><trn>belonging to Broadfirth</trn></i>.</m1>
-</entry>
-<entry word="breiðka">
+</word>
+<word>
+breiðka
 	<m1>(að), <p>v.</p> <i><trn>to grow broad, to broaden</trn></i>.</m1>
-</entry>
-<entry word="breiðlaginn">
+</word>
+<word>
+breiðlaginn
 	<m1><p>a.</p> <i><trn>broadish</trn></i>.</m1>
-</entry>
-<entry word="breiðleikr">
+</word>
+<word>
+breiðleikr
 	<m1><p>m.</p> <i><trn>broadness, breadth</trn></i>.</m1>
-</entry>
-<entry word="breiðleitr">
+</word>
+<word>
+breiðleitr
 	<m1><p>a.</p> <i><trn>broadfaced</trn></i>.</m1>
-</entry>
-<entry word="breiðr">
+</word>
+<word>
+breiðr
 	<m1>(<p>neut.</p> breitt), <p>a.</p> <i><trn>broad</trn></i>; á breiðan, <i><trn>in breadth</trn></i>, = í breidd; standa breitt, <i><trn>to spread over a wide space</trn></i>; sitja breitt, <i><trn>with the legs wide apart</trn></i>.</m1>
-</entry>
-<entry word="breiðskeggr">
+</word>
+<word>
+breiðskeggr
 	<m1><p>a.</p> <i><trn>broad-bearded</trn></i>, as a nickname.</m1>
-</entry>
-<entry word="breiðvaxinn">
+</word>
+<word>
+breiðvaxinn
 	<m1><p>pp.</p> <i><trn>Broadframed stout, squarebuilt</trn></i>.</m1>
-</entry>
-<entry word="breiðøx">
+</word>
+<word>
+breiðøx
 	<m1><p>f.</p> <i><trn>axe with a broad blade</trn></i>.</m1>
-</entry>
-<entry word="breitt">
+</word>
+<word>
+breitt
 	<m1>from <ref>breiðr</ref>, <i><trn>broad</trn></i>.</m1>
-</entry>
-<entry word="brek">
+</word>
+<word>
+brek
 	<m1><p>n.</p> <i><trn>claim, demand</trn></i> (eru Brynhildar ~ of mikil).</m1>
-</entry>
-<entry word="breka">
+</word>
+<word>
+breka
 	<m1>(að), <p>v.</p> <i><trn>to keep asking</trn></i> (látum barn hafa þat er ~r).</m1>
-</entry>
-<entry word="brekboð">
+</word>
+<word>
+brekboð
 	<m1><p>n.</p> <i><trn>fraudulent bidding</trn></i>.</m1>
-</entry>
-<entry word="breki">
+</word>
+<word>
+breki
 	<m1><p>m.</p> <p>poet.</p> <i><trn>breaker</trn></i>.</m1>
-</entry>
-<entry word="brekka">
+</word>
+<word>
+brekka
 	<m1><p>f.</p> <i><trn>slope</trn></i>; leiða þræl í brekku (viz. þingbrekku), <i><trn>to proclaim a bondsman free</trn></i>.</m1>
-</entry>
-<entry word="brekkubrún">
+</word>
+<word>
+brekkubrún
 	<m1><p>f.</p> <i><trn>the edge of a slope</trn></i>.</m1>
-</entry>
-<entry word="brekkumegin">
+</word>
+<word>
+brekkumegin
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>strength to climb a hill</trn></i>;</m2>
 	<m2>2) <i><trn>the steepest part of a slope</trn></i>.</m2>
-</entry>
-<entry word="brekkumunr">
+</word>
+<word>
+brekkumunr
 	<m1><p>m.</p> <i><trn>difference in height</trn></i>.</m1>
-</entry>
-<entry word="breklaust">
-	</entry>
-<entry word="falslausliga">
+</word>
+<word>
+breklaust
+</word>
+<word>
+falslausliga
 	<m1><p>adv.</p> <i><trn>without fraud</trn></i>.</m1>
-</entry>
-<entry word="brekráð">
+</word>
+<word>
+brekráð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>an attempt at fraudulent acquisition</trn></i>.</m1>
-</entry>
-<entry word="breksekt">
+</word>
+<word>
+breksekt
 	<m1><p>f.</p> <i><trn>fraudulent outlawry</trn></i> (in order to disable one from pleading his case).</m1>
-</entry>
-<entry word="brekvísi">
+</word>
+<word>
+brekvísi
 	<m1><p>f.</p> <i><trn>importunity, importunate solicitation</trn></i>.</m1>
-</entry>
-<entry word="brenna">
+</word>
+<word>
+brenna
 	<m1><b>I)</b></m1>
 	<m2>(brenn; brann, brunnum; brunninn), <p>v.</p></m2>
 	<m3>1) <i><trn>to burn with a flame</trn></i> (logi, ljós, eldr, kerti brennr);</m3>
@@ -5222,44 +6648,57 @@ Breiðfirðingr
 	<m4>brent silfr, <i><trn>pure silver</trn></i> (eyrir brendr, mörk brend).</m4>
 	<m1><b>III)</b></m1>
 	<m2><p>f.</p> <i><trn>the burning of a house or person</trn></i> (þá er ~ var á Flugumýri; Njáls ~).</m2>
-</entry>
-<entry word="brenniligr">
+</word>
+<word>
+brenniligr
 	<m1><p>a.</p> <i><trn>that burns well</trn></i> (eldr ~).</m1>
-</entry>
-<entry word="brennisteinn">
+</word>
+<word>
+brennisteinn
 	<m1><p>m.</p> = <ref>brennusteinn</ref>.</m1>
-</entry>
-<entry word="brennumaðr">
+</word>
+<word>
+brennumaðr
 	<m1><p>m.</p> <i><trn>incendiary</trn></i>.</m1>
-</entry>
-<entry word="brennumál">
+</word>
+<word>
+brennumál
 	<m1><p>n.</p> <i><trn>action for fire</trn></i>.</m1>
-</entry>
-<entry word="brennusaga">
+</word>
+<word>
+brennusaga
 	<m1><p>f.</p> <i><trn>the story of the buring</trn></i> (of Njál).</m1>
-</entry>
-<entry word="brennustaðr">
+</word>
+<word>
+brennustaðr
 	<m1><p>m.</p> <i><trn>the place where a fire has been</trn></i>.</m1>
-</entry>
-<entry word="brennusteinn">
+</word>
+<word>
+brennusteinn
 	<m1><p>m.</p> <i><trn>brimstone, sulfur</trn></i>.</m1>
-</entry>
-<entry word="brennusteinslogi">
+</word>
+<word>
+brennusteinslogi
 	<m1><p>m.</p> <i><trn>sulfur flame</trn></i>.</m1>
-</entry>
-<entry word="brennusteinsvatn">
+</word>
+<word>
+brennusteinsvatn
 	<m1><p>n.</p> <i><trn>sulfur well</trn></i>.</m1>
-</entry>
-<entry word="brennusteinsþefr">
+</word>
+<word>
+brennusteinsþefr
 	<m1><p>m.</p> <i><trn>smell of brimstone, sulfurous smell</trn></i>.</m1>
-</entry>
-<entry word="brennusumar">
+</word>
+<word>
+brennusumar
 	<m1><p>n.</p> <i><trn>summer of fires</trn></i>.</m1>
-</entry>
-<entry word="brennuvargr">
+</word>
+<word>
+brennuvargr
 	<m1><p>m.</p> <i><trn>an outlawed incendiary</trn></i>.</m1>
-</entry>
-<entry word="bresta">
+</word>
+<word>
+bresta
 	<m1>(brest; brast, brustum; brostinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to burst, to be rent</trn></i> (steinninn brast);</m2>
 	<m3>þá brast í sundr jörðin <i><trn>(the earth burst)</trn></i> undir hesti hans;</m3>
@@ -5274,248 +6713,322 @@ Breiðfirðingr
 	<m2>6) <p>impers.</p>, <p>e-n</p> brestr <p>e-t</p>, <i><trn>one lacks, falls short of</trn></i> (eigi brestr mik áræði);</m2>
 	<m3>ef oss brestr á borði, <i><trn>if we fall short, get the worst of it</trn></i>;</m3>
 	<m3>þat mun aldri ~ <i><trn>(it will never fail)</trn></i>, at.</m3>
-</entry>
-<entry word="brestr">
+</word>
+<word>
+brestr
 	<m1>(-s, -ir), <p>m.</p></m1>
 	<m2>1) <i><trn>crash</trn></i> (varð þar við hár ~);</m2>
 	<m2>2) <i><trn>chink, crack</trn></i> (~ hafði verit á hringnum); berja í brestina, <i><trn>to excuse or cover up the faults</trn></i>;</m2>
 	<m2>3) <i><trn>want, loss</trn></i> (hvárt ábati eðr ~ í varð).</m2>
-</entry>
-<entry>
+</word>
+<word>
 Bretar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>the Welsh</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Bretland
 	<m1><p>n.</p> <i><trn>Wales</trn></i>; syðra ~, <i><trn>Brittany</trn></i>.</m1>
-</entry>
-<entry word="bretta">
+</word>
+<word>
+bretta
 	<m1>(-tta, -ttr), <p>v.</p> <i><trn>to turn upwards</trn></i> (~ hala sinn).</m1>
-</entry>
-<entry word="breyskleikr">
+</word>
+<word>
+breyskleikr
 	<m1><p>m.</p> <i><trn>infirmity, weakness</trn></i> (líkamsins ~).</m1>
-</entry>
-<entry word="breyskligr">
+</word>
+<word>
+breyskligr
 	<m1><p>a.</p> <i><trn>frail, weak</trn></i> (mannsins breysklig náttúra).</m1>
-</entry>
-<entry word="breyskr">
+</word>
+<word>
+breyskr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>brittle</trn></i> (~ leirpottr);</m2>
 	<m2>2) <i><trn>weak, infirm</trn></i>.</m2>
-</entry>
-<entry word="breyta">
+</word>
+<word>
+breyta
 	<m1>(-tta, -ttr), <p>v.</p></m1>
 	<m2>1) <i><trn>to change, alter</trn></i> (~ átrúnaði);</m2>
 	<m3><p>refl.</p>, ~st; hafa þau eigi breyzt síðan, <i><trn>they have not changed since</trn></i>;</m3>
 	<m2>2) <i><trn>to vary</trn></i>; ~ háttum, <i><trn>to vary the metre</trn></i>; ~ hári sínu, <i><trn>to dress one’s hair</trn></i>; réttr ok breyttr, <i><trn>plain and artificial</trn></i>;</m2>
 	<m2>3) <p>absol.</p> <i><trn>to condiuct oneself, do, act</trn></i>; munum við báðir í brott komast, ef við breytum svá, <i><trn>if we do so</trn></i>; ~ eptir em, <i><trn>to imitate</trn></i>; ~ til es, <i><trn>to attempt</trn></i>.</m2>
-</entry>
-<entry word="breytiliga">
-	</entry>
-<entry word="kynliga">
+</word>
+<word>
+breytiliga
+</word>
+<word>
+kynliga
 	<m1><p>adv.</p> <i><trn>strangely</trn></i>.</m1>
-</entry>
-<entry word="breytiligr">
+</word>
+<word>
+breytiligr
 	<m1><p>a.</p> <i><trn>strange</trn></i>.</m1>
-</entry>
-<entry word="breyting">
-	</entry>
-<entry word="umbreyting">
-	</entry>
-<entry word="umskipting">
+</word>
+<word>
+breyting
+</word>
+<word>
+umbreyting
+</word>
+<word>
+umskipting
 	<m1><p>f.</p> <i><trn>change</trn></i>.</m1>
-</entry>
-<entry word="breytinn">
+</word>
+<word>
+breytinn
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>variable</trn></i>;</m2>
 	<m3>~ í búningi, <i><trn>fashionable in dress</trn></i>;</m3>
 	<m2>2) <i><trn>courteous, attentive</trn></i> (~ í öllum atvikum við konurnar).</m2>
-</entry>
-<entry word="breytni">
+</word>
+<word>
+breytni
 	<m1><p>f.</p> <i><trn>change</trn></i>; gera ~ á um <p>e-t</p>, <i><trn>to make an alteration in a thing</trn></i>; ~ í klæðnaði, <i><trn>fashion</trn></i>.</m1>
-</entry>
-<entry word="brezka">
+</word>
+<word>
+brezka
 	<m1><p>f.</p> <i><trn>the Welsh language</trn></i>.</m1>
-</entry>
-<entry word="brezkr">
+</word>
+<word>
+brezkr
 	<m1><p>a.</p> <i><trn>Welsh</trn></i>.</m1>
-</entry>
-<entry word="brigð">
+</word>
+<word>
+brigð
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>right to reclaim</trn></i> (chiefly of landed property); fyrnist þá eigi ~in, <i><trn>then the right of reclamation will not be lost</trn></i>;</m2>
 	<m2>2) <p>n.</p> <p>pl.</p> <i><trn>change</trn></i> (engi ~ mun ek hér í gera); kaupa et í ~ við annan mann, <i><trn>to purchase a thing already bought by another</trn></i>.</m2>
-</entry>
-<entry word="brigða">
+</word>
+<word>
+brigða
 	<m1>(-ða, -ðr), <p>v.</p></m1>
 	<m2>1) <i><trn>to try to recover</trn></i> (lost property) <i><trn>by lawful procedure</trn></i> (~ land, fé);</m2>
 	<m2>2) with <p>dat.</p> <i><trn>to annul, make void</trn></i> (~ kaupi, dómi, sáttmali); ~ em frelsi, <i><trn>to revoke one’s liberty</trn></i>.</m2>
-</entry>
-<entry word="brigðarmaðr">
+</word>
+<word>
+brigðarmaðr
 	<m1><p>m.</p> <i><trn>reclaimer of lost property</trn></i>.</m1>
-</entry>
-<entry word="brigði">
+</word>
+<word>
+brigði
 	<m1><p>n.</p> <p>pl.</p></m1>
 	<m2>1) = <ref>brigð</ref>, <p>f.</p>;</m2>
 	<m2>2) = <ref>brigð</ref>, <p>n.</p> <p>pl.</p> (gera ~ á <p>e-u</p>).</m2>
-</entry>
-<entry word="brigðiligr">
+</word>
+<word>
+brigðiligr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>variable</trn></i>;</m2>
 	<m2>2) <i><trn>corruptible, perishable</trn></i> (~ líkami).</m2>
-</entry>
-<entry word="brigðkaup">
+</word>
+<word>
+brigðkaup
 	<m1><p>n.</p> <i><trn>void bargain</trn></i>.</m1>
-</entry>
-<entry word="brigðliga">
+</word>
+<word>
+brigðliga
 	<m1><p>adv.</p> <i><trn>variably</trn></i>.</m1>
-</entry>
-<entry word="brigðligr">
+</word>
+<word>
+brigðligr
 	<m1><p>a.</p> = <ref>brigðiligr</ref>.</m1>
-</entry>
-<entry word="brigðlyndi">
+</word>
+<word>
+brigðlyndi
 	<m1><p>n.</p> <i><trn>ficklemindedness</trn></i>.</m1>
-</entry>
-<entry word="brigðlyndr">
-	</entry>
-<entry word="geðlauss">
-	</entry>
-<entry word="hverflyndr">
-	</entry>
-<entry word="lausgeðjaðr">
-	</entry>
-<entry word="lausgeðr">
-	</entry>
-<entry word="marglyndr">
-	</entry>
-<entry word="mislyndr">
-	</entry>
-<entry word="sviplyndr">
+</word>
+<word>
+brigðlyndr
+</word>
+<word>
+geðlauss
+</word>
+<word>
+hverflyndr
+</word>
+<word>
+lausgeðjaðr
+</word>
+<word>
+lausgeðr
+</word>
+<word>
+marglyndr
+</word>
+<word>
+mislyndr
+</word>
+<word>
+sviplyndr
 	<m1><p>a.</p> <i><trn>fickle-minded</trn></i>.</m1>
-</entry>
-<entry word="brigðmeali">
+</word>
+<word>
+brigðmeali
 	<m1><p>n.</p> <i><trn>breach of promise</trn></i>.</m1>
-</entry>
-<entry word="brigðr">
+</word>
+<word>
+brigðr
 	<m1><p>a.</p> <i><trn>fickle, faithless</trn></i>.</m1>
-</entry>
-<entry word="brigðræði">
+</word>
+<word>
+brigðræði
 	<m1><p>n.</p> <i><trn>fickleness, cunning</trn></i>.</m1>
-</entry>
-<entry word="brigðull">
+</word>
+<word>
+brigðull
 	<m1><p>a.</p> <i><trn>variable, inconstant</trn></i>.</m1>
-</entry>
-<entry word="brigzl">
+</word>
+<word>
+brigzl
 	<m1><p>n.</p> = <ref>~i</ref>.</m1>
-</entry>
-<entry word="brigzla">
+</word>
+<word>
+brigzla
 	<m1>(að), <p>v.</p> <i><trn>to upbraid</trn></i> (em <p>e-u</p> <com>or</com> et) <i><trn>one with a thing</trn></i>; at honum sé því ~t, <i><trn>that it be thrown in his teeth</trn></i>.</m1>
-</entry>
-<entry word="brigzlan">
-	</entry>
-<entry word="lastan">
+</word>
+<word>
+brigzlan
+</word>
+<word>
+lastan
 	<m1><p>f.</p> <i><trn>reproach, blame</trn></i>.</m1>
-</entry>
-<entry word="brigzlanarhlátr">
+</word>
+<word>
+brigzlanarhlátr
 	<m1><p>m.</p> <i><trn>reproachful or scornful laughter</trn></i>.</m1>
-</entry>
-<entry word="brigzli">
+</word>
+<word>
+brigzli
 	<m1><p>n.</p> <i><trn>reproach, blame</trn></i>; fœra <p>e-m</p> <p>e-t</p> í ~, hafa <p>e-m</p> <p>e-t</p> at brigzlum, <i><trn>to upbraid one with a thing, to throw a thing in one’s teeth</trn></i>; eilíft ~, <i><trn>everlasting reproach</trn></i>.</m1>
-</entry>
-<entry word="brim">
+</word>
+<word>
+brim
 	<m1><p>n.</p> <i><trn>surf</trn></i> (sker ok ~).</m1>
-</entry>
-<entry word="brimdýr">
-	</entry>
-<entry word="flaust">
+</word>
+<word>
+brimdýr
+</word>
+<word>
+flaust
 	<m1><p>n.</p> <p>poet.</p> <i><trn>ship</trn></i>.</m1>
-</entry>
-<entry word="brimgangr">
+</word>
+<word>
+brimgangr
 	<m1><p>m.</p> <i><trn>dashing of the surf</trn></i>.</m1>
-</entry>
-<entry word="brimill">
+</word>
+<word>
+brimill
 	<m1><p>m.</p> <i><trn>a big, sort of seal, male seal</trn></i>; also as a nickname.</m1>
-</entry>
-<entry word="brimlauss">
+</word>
+<word>
+brimlauss
 	<m1><p>a.</p> <i><trn>surf-less, calm</trn></i>.</m1>
-</entry>
-<entry word="brimleysa">
+</word>
+<word>
+brimleysa
 	<m1><p>f.</p> <i><trn>calm (smooth) sea</trn></i>.</m1>
-</entry>
-<entry word="brimleysi">
+</word>
+<word>
+brimleysi
 	<m1><p>n.</p> = <ref>brimleysa</ref>.</m1>
-</entry>
-<entry word="brimorri">
+</word>
+<word>
+brimorri
 	<m1><p>m.</p> a kind of <i><trn>duck</trn></i>.</m1>
-</entry>
-<entry word="brimrúnar">
+</word>
+<word>
+brimrúnar
 	<m1><p>f.</p> <p>pl.</p> <p>poet.</p> <i><trn>‘surf-curbing’ runes</trn></i>.</m1>
-</entry>
-<entry word="brimsorfinn">
+</word>
+<word>
+brimsorfinn
 	<m1><p>pp.</p> <i><trn>surf-worn</trn></i> (brimsorfit grjót).</m1>
-</entry>
-<entry word="brimstormr">
+</word>
+<word>
+brimstormr
 	<m1><p>m.</p> <i><trn>surf-raising gale</trn></i>.</m1>
-</entry>
-<entry word="brimsvín">
+</word>
+<word>
+brimsvín
 	<m1><p>n.</p> <p>poet.</p> <i><trn>ship, vessel</trn></i>.</m1>
-</entry>
-<entry word="brimtog">
+</word>
+<word>
+brimtog
 	<m1><p>n.</p> <i><trn>a rope to tug a boat through the surf</trn></i>.</m1>
-</entry>
-<entry word="bringa">
+</word>
+<word>
+bringa
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>chest</trn></i> (hárit tók ofan á bringuna);</m2>
 	<m3><p>e-m</p> skýtr (<com>or</com> slær) skelk í bringu, <i><trn>one gets frightened</trn></i>;</m3>
 	<m2>2) <i><trn>brisket</trn></i> (of an animal).</m2>
-</entry>
-<entry word="bringspalir">
+</word>
+<word>
+bringspalir
 	<m1><p>f.</p> <p>pl.</p> = <ref>bringspelir</ref>.</m1>
-</entry>
-<entry word="bringspelir">
+</word>
+<word>
+bringspelir
 	<m1>(<p>acc.</p> bringspölu), <p>m.</p> <p>pl.</p> <i><trn>the ‘breast rails’, the lower part of the chest</trn></i> (bar sverðit a kviðnum fyrir neðan bringspölu).</m1>
-</entry>
-<entry word="bringubein">
+</word>
+<word>
+bringubein
 	<m1><p>n.</p> <i><trn>the breast-bone</trn></i>.</m1>
-</entry>
-<entry word="bringubreiðr">
-	</entry>
-<entry word="brjóstmikill">
+</word>
+<word>
+bringubreiðr
+</word>
+<word>
+brjóstmikill
 	<m1><p>a.</p> <i><trn>broadchested</trn></i>.</m1>
-</entry>
-<entry word="bringusár">
+</word>
+<word>
+bringusár
 	<m1><p>n.</p> <i><trn>a wound in the chest</trn></i>.</m1>
-</entry>
-<entry word="bringuteinar">
+</word>
+<word>
+bringuteinar
 	<m1><p>m.</p> <p>pl.</p> = <ref>bringspelir</ref>.</m1>
-</entry>
-<entry word="brík">
+</word>
+<word>
+brík
 	<m1>(-ar, <p>pl.</p> brikr), <p>f.</p></m1>
 	<m2>1) <i><trn>thin board</trn></i>;</m2>
 	<m2>2) <i><trn>low wooden screen</trn></i>;</m2>
 	<m2>3) <i><trn>short bench</trn></i>, near the door.</m2>
-</entry>
-<entry word="bríkarbúningr">
+</word>
+<word>
+bríkarbúningr
 	<m1><p>m.</p> <i><trn>covering for an altarscreen</trn></i>.</m1>
-</entry>
-<entry word="bríkarklæði">
+</word>
+<word>
+bríkarklæði
 	<m1><p>n.</p> <i><trn>covering for an altarscreen</trn></i>.</m1>
-</entry>
-<entry word="brími">
+</word>
+<word>
+brími
 	<m1><p>m.</p> <p>poet.</p> <i><trn>fire</trn></i>.</m1>
-</entry>
-<entry word="brímir">
+</word>
+<word>
+brímir
 	<m1>(<p>gen.</p> -is), <p>m.</p> <p>poet.</p> <i><trn>sword</trn></i>.</m1>
-</entry>
-<entry word="brjá">
+</word>
+<word>
+brjá
 	<m1>(brjáða, brját), <p>v.</p> <i><trn>to sparkle flicker, gleam</trn></i>.</m1>
-</entry>
-<entry word="brjándi">
+</word>
+<word>
+brjándi
 	<m1><p>f.</p> or <p>n.</p>, <i><trn>flickering, gleam</trn></i>.</m1>
-</entry>
-<entry word="brjósk">
+</word>
+<word>
+brjósk
 	<m1><p>n.</p> <i><trn>cartilage</trn></i> (sem ~ væri þar, sem bein skyldu vera).</m1>
-</entry>
-<entry word="brjóst">
+</word>
+<word>
+brjóst
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>the front of the chest, breast</trn></i> (hyl vel ~ þitt);</m2>
 	<m2>2) <i><trn>woman’s breast</trn></i>; fœða barn á ~i, <i><trn>to feed a child at the breast</trn></i>;</m2>
@@ -5523,92 +7036,121 @@ Bretland
 	<m2>4) <i><trn>the front</trn></i> (of wave or a battalion);</m2>
 	<m2>5) <i><trn>breastwork, protection</trn></i> (hann er sjálfr ~ ok hlífiskjöldr kristni sinnar); vera ~ fyrir em, <i><trn>to be one’s defender, to shield one</trn></i>;</m2>
 	<m2>6) vinna eið fyrir ~ <p>e-s</p>, <i><trn>on one’s behalf</trn></i>.</m2>
-</entry>
-<entry word="brjóstafl">
+</word>
+<word>
+brjóstafl
 	<m1><p>n.</p> <i><trn>strength of chest</trn></i>.</m1>
-</entry>
-<entry word="brjóstbarn">
+</word>
+<word>
+brjóstbarn
 	<m1><p>n.</p> <i><trn>a child at the breast, suckling</trn></i>.</m1>
-</entry>
-<entry word="brjóstbjörg">
+</word>
+<word>
+brjóstbjörg
 	<m1><p>f.</p> <i><trn>breast-plate</trn></i>.</m1>
-</entry>
-<entry word="brjóstbragð">
+</word>
+<word>
+brjóstbragð
 	<m1><p>n.</p> <i><trn>compassion</trn></i>.</m1>
-</entry>
-<entry word="brjóstbúnaðr">
+</word>
+<word>
+brjóstbúnaðr
 	<m1><p>m.</p> <i><trn>breast ornament, brooch</trn></i>.</m1>
-</entry>
-<entry word="brjóstdrekkr">
+</word>
+<word>
+brjóstdrekkr
 	<m1><p>m.</p> <i><trn>suckling</trn></i>, = <ref>spendrekkr</ref>.</m1>
-</entry>
-<entry word="brjóstfastligr">
+</word>
+<word>
+brjóstfastligr
 	<m1><p>a.</p> <i><trn>faihful</trn></i>.</m1>
-</entry>
-<entry word="brjóstfastr">
+</word>
+<word>
+brjóstfastr
 	<m1><p>a.</p> <i><trn>fixed in the heart</trn></i>.</m1>
-</entry>
-<entry word="brjóstfesta">
+</word>
+<word>
+brjóstfesta
 	<m1>(-sta, -str), <p>v.</p>, festa sér <p>e-t</p>, <i><trn>to impress on one’s mind</trn></i>.</m1>
-</entry>
-<entry word="brjóstfriðr">
+</word>
+<word>
+brjóstfriðr
 	<m1><p>m.</p> <i><trn>peace of mind</trn></i>.</m1>
-</entry>
-<entry word="brjóstgjörð">
+</word>
+<word>
+brjóstgjörð
 	<m1><p>f.</p> <i><trn>saddlegirth</trn></i>.</m1>
-</entry>
-<entry word="brjóstheill">
+</word>
+<word>
+brjóstheill
 	<m1><p>a.</p> <i><trn>having a sound chest</trn></i>.</m1>
-</entry>
-<entry word="brjóstkaldr">
+</word>
+<word>
+brjóstkaldr
 	<m1><p>a.</p> <i><trn>hostile</trn></i>.</m1>
-</entry>
-<entry word="brjóstkirkja">
+</word>
+<word>
+brjóstkirkja
 	<m1><p>f.</p> <i><trn>the heart</trn></i>.</m1>
-</entry>
-<entry word="brjóstkringla">
+</word>
+<word>
+brjóstkringla
 	<m1><p>f.</p> <i><trn>brooch</trn></i>.</m1>
-</entry>
-<entry word="brjóstleysi">
+</word>
+<word>
+brjóstleysi
 	<m1><p>n.</p> <i><trn>febbleness of mind</trn></i>.</m1>
-</entry>
-<entry word="brjóstmegin">
+</word>
+<word>
+brjóstmegin
 	<m1><p>n.</p> <i><trn>strength of mind or heart</trn></i>.</m1>
-</entry>
-<entry word="brjóstmœði">
+</word>
+<word>
+brjóstmœði
 	<m1><p>f.</p> <i><trn>shortness of breath, weariness</trn></i>.</m1>
-</entry>
-<entry word="brjóstreiðr">
+</word>
+<word>
+brjóstreiðr
 	<m1><p>a.</p> <i><trn>enraged</trn></i>.</m1>
-</entry>
-<entry word="brjóstreip">
+</word>
+<word>
+brjóstreip
 	<m1><p>n.</p> <i><trn>breastrope, girdle</trn></i>.</m1>
-</entry>
-<entry word="brjóstsamligr">
+</word>
+<word>
+brjóstsamligr
 	<m1><p>a.</p> = <ref>brjóstfastligr</ref>.</m1>
-</entry>
-<entry word="brjóststofa">
+</word>
+<word>
+brjóststofa
 	<m1><p>f.</p> <i><trn>front room</trn></i>.</m1>
-</entry>
-<entry word="brjóstsullr">
+</word>
+<word>
+brjóstsullr
 	<m1><p>m.</p> <i><trn>a boil in the lungs</trn></i>.</m1>
-</entry>
-<entry word="brjóstsviði">
+</word>
+<word>
+brjóstsviði
 	<m1><p>m.</p> <i><trn>heartburn</trn></i>.</m1>
-</entry>
-<entry word="brjóstvit">
+</word>
+<word>
+brjóstvit
 	<m1><p>n.</p> <i><trn>mother wit</trn></i>.</m1>
-</entry>
-<entry word="brjóstvitra">
+</word>
+<word>
+brjóstvitra
 	<m1><p>f.</p> = <ref>brjóstvit</ref>.</m1>
-</entry>
-<entry word="brjóstþili">
+</word>
+<word>
+brjóstþili
 	<m1><p>n.</p> <i><trn>front wall</trn></i>, = bjórþili.</m1>
-</entry>
-<entry word="brjóstþungt">
+</word>
+<word>
+brjóstþungt
 	<m1><p>a.</p> <p>n.</p>, <p>e-m</p> er ~, <i><trn>suffers from difficult breathing</trn></i>.</m1>
-</entry>
-<entry word="brjóta">
+</word>
+<word>
+brjóta
 	<m1>(brýt; braut, brutum; brotinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to break</trn></i>;</m2>
 	<m3>~ fót sinn, <i><trn>to break one’s leg</trn></i>;</m3>
@@ -5659,63 +7201,79 @@ Bretland
 	<m3>skipit (<p>acc.</p>) braut í spán, <i><trn>the ship was broken to pieces</trn></i>;</m3>
 	<m3>þá braut kirkju (<p>acc.</p>), <i><trn>the church was blown down</trn></i>;</m3>
 	<m3>strauminn braut á öxlinni, <i><trn>the current broke against his shoulder</trn></i>.</m3>
-</entry>
-<entry word="brjótr">
+</word>
+<word>
+brjótr
 	<m1><p>m.</p> <i><trn>one that breaks, destroyer</trn></i>.</m1>
-</entry>
-<entry word="brodda">
+</word>
+<word>
+brodda
 	<m1>(að), <p>v.</p> <i><trn>to prick, goad, incite</trn></i> (~ðr af óhreinsan).</m1>
-</entry>
-<entry word="broddhögg">
+</word>
+<word>
+broddhögg
 	<m1><p>n.</p> <i><trn>a blow from a pike</trn></i>.</m1>
-</entry>
-<entry word="broddr">
+</word>
+<word>
+broddr
 	<m2>1) <i><trn>spike</trn></i>;</m2>
 	<m2>2) <i><trn>a kind of shaft</trn></i> = <ref>broddör</ref>;</m2>
 	<m2>3) <i><trn>sting</trn></i> (of an insect);</m2>
 	<m2>4) <i><trn>prick, goad</trn></i>;</m2>
 	<m2>5) <i><trn>the front of a column or body of men</trn></i>, opp. to <ref>hali</ref>, <i><trn>the rear</trn></i> (~ fylkingar);</m2>
 	<m2>6) vera í broddi lífsins, <i><trn>to be in the prime of life</trn></i>.</m2>
-</entry>
-<entry word="broddskot">
+</word>
+<word>
+broddskot
 	<m1><p>n.</p> <i><trn>a shot with a shaft</trn></i> (broddr).</m1>
-</entry>
-<entry word="broddspjót">
+</word>
+<word>
+broddspjót
 	<m1><p>n.</p> a kind of <i><trn>pike</trn></i> (the blade ending in a four-edged point).</m1>
-</entry>
-<entry word="broddstafr">
+</word>
+<word>
+broddstafr
 	<m1><p>m.</p>, <i><trn>a (mountaineer’s) staff, pole, with an iron spike</trn></i>.</m1>
-</entry>
-<entry word="broddstöng">
+</word>
+<word>
+broddstöng
 	<m1><p>f.</p>, <i><trn>a (mountaineer’s) staff, pole, with an iron spike</trn></i>.</m1>
-</entry>
-<entry word="broddör">
+</word>
+<word>
+broddör
 	<m1><p>f.</p> <i><trn>a shaft with fouredgepoint</trn></i>, = <ref>broddr</ref> 2.</m1>
-</entry>
-<entry word="brokkari">
+</word>
+<word>
+brokkari
 	<m1><p>m.</p> <i><trn>cart-horse, trotter</trn></i>.</m1>
-</entry>
-<entry word="brokunarmaðr">
+</word>
+<word>
+brokunarmaðr
 	<m1><p>m.</p> <i><trn>an intermediary, a broker</trn></i>, = <ref>brakki</ref>.</m1>
-</entry>
-<entry word="brosa">
+</word>
+<word>
+brosa
 	<m1><b>I)</b></m1>
 	<m2>(-ta, -at), <p>v.</p> <i><trn>to smile</trn></i>;</m2>
 	<m3>~ at <p>e-u</p>, <i><trn>to smile at</trn></i>;</m3>
 	<m3>~ við, <i><trn>to smile in</trn></i> reply (Guðrún leit við honum ok brosti við).</m3>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> <i><trn>smile</trn></i> (svara með brosu).</m2>
-</entry>
-<entry word="brosan">
+</word>
+<word>
+brosan
 	<m1><p>f.</p> <i><trn>smiling, smile</trn></i>.</m1>
-</entry>
-<entry word="brosleitr">
+</word>
+<word>
+brosleitr
 	<m1><p>a.</p> <i><trn>with smiling face</trn></i>.</m1>
-</entry>
-<entry word="brosma">
+</word>
+<word>
+brosma
 	<m1><p>f.</p> <i><trn>a fish of the cod-kind</trn></i>.</m1>
-</entry>
-<entry word="brot">
+</word>
+<word>
+brot
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>breaking</trn></i> (cf. <ref>skipbrot</ref>); sigla til brots, <i><trn>to run ashore under full sail</trn></i>;</m2>
 	<m2>2) <i><trn>Fragment, broken piece</trn></i>;</m2>
@@ -5723,939 +7281,1233 @@ Bretland
 	<m2>4) <i><trn>a shallow place in a river or a firth</trn></i>;</m2>
 	<m2>5) <i><trn>lever</trn></i>;</m2>
 	<m2>6) <i><trn>spasm, convulsion</trn></i>, falla í brot, <i><trn>to have an epileptic fit</trn></i>.</m2>
-</entry>
-<entry word="brotasilfr">
+</word>
+<word>
+brotasilfr
 	<m1><p>n.</p> <i><trn>old silver broken to be recast</trn></i>.</m1>
-</entry>
-<entry word="brotfall">
+</word>
+<word>
+brotfall
 	<m1><p>n.</p> <i><trn>epileptic fit</trn></i>.</m1>
-</entry>
-<entry word="brotfallinn">
+</word>
+<word>
+brotfallinn
 	<m1><p>pp.</p> <i><trn>epileptic, afflicted with epilepsy</trn></i>.</m1>
-</entry>
-<entry word="brotfallssótt">
+</word>
+<word>
+brotfallssótt
 	<m1><p>f.</p> <i><trn>epileptic disease</trn></i>.</m1>
-</entry>
-<entry word="brotfeldr">
+</word>
+<word>
+brotfeldr
 	<m1><p>a.</p> = <ref>brotfallinn</ref>.</m1>
-</entry>
-<entry word="brotgeiri">
+</word>
+<word>
+brotgeiri
 	<m1><p>m.</p> <i><trn>an angular strip of land</trn></i>.</m1>
-</entry>
-<entry word="broti">
+</word>
+<word>
+broti
 	<m1><p>m.</p> <i><trn>heap of trees felled in a wood</trn></i> (fella brota).</m1>
-</entry>
-<entry word="brotinn">
-	</entry>
-<entry word="brýt">
+</word>
+<word>
+brotinn
+</word>
+<word>
+brýt
 	<m1>from <ref>brjóta</ref>.</m1>
-</entry>
-<entry word="brotligr">
+</word>
+<word>
+brotligr
 	<m1><p>a.</p> <i><trn>guilty of an offence</trn></i>.</m1>
-</entry>
-<entry word="brotna">
+</word>
+<word>
+brotna
 	<m1>(að), <i><trn>to break, be broken</trn></i>; skip ~r í spán, <i><trn>the ship is broken to pieces</trn></i>.</m1>
-</entry>
-<entry word="brotning">
+</word>
+<word>
+brotning
 	<m1><p>f.</p> <i><trn>breaking</trn></i>.</m1>
-</entry>
-<entry word="brott">
+</word>
+<word>
+brott
 	<m1><p>adv.</p> <i><trn>away, off</trn></i>, = <ref>braut</ref>, <ref>burt</ref>; also á ~, í ~ (fara ~ <com>or</com> á ~, hlaupast á ~ <com>or</com> í ~).</m1>
-</entry>
-<entry word="brottbúinn">
+</word>
+<word>
+brottbúinn
 	<m1><p>a.</p> <i><trn>ready to start</trn></i>.</m1>
-</entry>
-<entry word="brottbúningr">
+</word>
+<word>
+brottbúningr
 	<m1><p>m.</p> <i><trn>preparations for departure</trn></i>.</m1>
-</entry>
-<entry word="brottfararleyfl">
+</word>
+<word>
+brottfararleyfl
 	<m1><p>n.</p> <i><trn>leave to go away</trn></i>.</m1>
-</entry>
-<entry word="brottfararöl">
+</word>
+<word>
+brottfararöl
 	<m1><p>n.</p> <i><trn>parting banquet</trn></i>.</m1>
-</entry>
-<entry word="brottferð">
-	</entry>
-<entry word="brottganga">
+</word>
+<word>
+brottferð
+</word>
+<word>
+brottganga
 	<m1><p>f.</p> <i><trn>departure</trn></i>.</m1>
-</entry>
-<entry word="brottferðaröl">
+</word>
+<word>
+brottferðaröl
 	<m1><p>n.</p> = <ref>brottfararöl</ref>.</m1>
-</entry>
-<entry word="brottflutning">
+</word>
+<word>
+brottflutning
 	<m1><p>f.</p> <i><trn>carrying off</trn></i>.</m1>
-</entry>
-<entry word="brottfúsliga">
+</word>
+<word>
+brottfúsliga
 	<m1><p>adv.</p> <i><trn>with eagerness to depart</trn></i>.</m1>
-</entry>
-<entry word="brottfúss">
+</word>
+<word>
+brottfúss
 	<m1><p>a.</p> <i><trn>eager to depart</trn></i>.</m1>
-</entry>
-<entry word="brottfýsi">
+</word>
+<word>
+brottfýsi
 	<m1><p>f.</p> <i><trn>eagerness to get away</trn></i>.</m1>
-</entry>
-<entry word="brottfœrsla">
+</word>
+<word>
+brottfœrsla
 	<m1><p>f.</p> <i><trn>transformation</trn></i>.</m1>
-</entry>
-<entry word="brottför">
+</word>
+<word>
+brottför
 	<m1><p>f.</p> = <ref>brottferð</ref>.</m1>
-</entry>
-<entry word="brotthald">
+</word>
+<word>
+brotthald
 	<m1><p>n.</p> <i><trn>going away</trn></i> (skip var búit til halds).</m1>
-</entry>
-<entry word="brotthlaup">
+</word>
+<word>
+brotthlaup
 	<m1><p>n.</p> <i><trn>running away</trn></i>.</m1>
-</entry>
-<entry word="brotthvarf">
+</word>
+<word>
+brotthvarf
 	<m1><p>n.</p> <i><trn>disappearance</trn></i>.</m1>
-</entry>
-<entry word="brotthöfn">
+</word>
+<word>
+brotthöfn
 	<m1><p>f.</p> <i><trn>taking off</trn></i>.</m1>
-</entry>
-<entry word="brottkváma">
+</word>
+<word>
+brottkváma
 	<m1><p>f.</p> <i><trn>coming away</trn></i>.</m1>
-</entry>
-<entry word="brottlaga">
+</word>
+<word>
+brottlaga
 	<m1><p>f.</p> <i><trn>retreat</trn></i> (after a seabattle), opp. to <ref>atlaga</ref>.</m1>
-</entry>
-<entry word="brottreið">
+</word>
+<word>
+brottreið
 	<m1><p>f.</p> <i><trn>ridingaway</trn></i>.</m1>
-</entry>
-<entry word="brottrekstr">
+</word>
+<word>
+brottrekstr
 	<m1><p>m.</p> <i><trn>driving away, expulsion</trn></i>.</m1>
-</entry>
-<entry word="brottsending">
+</word>
+<word>
+brottsending
 	<m1><p>f.</p> <i><trn>sending away</trn></i>.</m1>
-</entry>
-<entry word="brottsigling">
+</word>
+<word>
+brottsigling
 	<m1><p>f.</p> <i><trn>sailing away</trn></i>.</m1>
-</entry>
-<entry word="brottsniðning">
+</word>
+<word>
+brottsniðning
 	<m1><p>f.</p> <i><trn>cutting, away or off</trn></i>.</m1>
-</entry>
-<entry word="brottsöngr">
+</word>
+<word>
+brottsöngr
 	<m1><p>m.</p> <i><trn>divine service performed elsewhere than at the parish church</trn></i>.</m1>
-</entry>
-<entry word="brotttaka">
-	</entry>
-<entry word="brotttekning">
+</word>
+<word>
+brotttaka
+</word>
+<word>
+brotttekning
 	<m1><p>f.</p> <i><trn>taking away, removal</trn></i>.</m1>
-</entry>
-<entry word="brotttœkiligr">
+</word>
+<word>
+brotttœkiligr
 	<m1><p>a.</p> <i><trn>removable</trn></i>.</m1>
-</entry>
-<entry word="brottu">
+</word>
+<word>
+brottu
 	<m1><p>adv.</p>, á ~, í ~, <i><trn>away</trn></i> = <ref>braut</ref>, <ref>brott</ref> (er vér vorum ~; meðan jarl væri í ~).</m1>
-</entry>
-<entry word="brottvarp">
+</word>
+<word>
+brottvarp
 	<m1><p>n.</p> <i><trn>throwing away</trn></i>.</m1>
-</entry>
-<entry word="brottvisan">
+</word>
+<word>
+brottvisan
 	<m1><p>f.</p> <i><trn>dismissal</trn></i>.</m1>
-</entry>
-<entry word="brottvist">
-	</entry>
-<entry word="frávera">
-	</entry>
-<entry word="frávist">
+</word>
+<word>
+brottvist
+</word>
+<word>
+frávera
+</word>
+<word>
+frávist
 	<m1><p>f.</p> <i><trn>absence</trn></i>.</m1>
-</entry>
-<entry word="bróðerni">
+</word>
+<word>
+bróðerni
 	<m1><p>n.</p> <i><trn>brotherhood</trn></i>.</m1>
-</entry>
-<entry word="bróðir">
+</word>
+<word>
+bróðir
 	<m1>(<p>gen.</p>, <p>dat.</p>, and <p>acc.</p> bróður, <p>pl.</p> brœðr), <p>m.</p></m1>
 	<m2>1) <i><trn>brother</trn></i>;</m2>
 	<m2>2) <i><trn>friar</trn></i>.</m2>
-</entry>
-<entry word="bróðurarfr">
+</word>
+<word>
+bróðurarfr
 	<m1><p>m.</p> <i><trn>a brother’s inheritance</trn></i>.</m1>
-</entry>
-<entry word="bróðurbani">
+</word>
+<word>
+bróðurbani
 	<m1><p>m.</p> <i><trn>the slayer of a brother</trn></i>.</m1>
-</entry>
-<entry word="bróðurbaugr">
+</word>
+<word>
+bróðurbaugr
 	<m1><p>m.</p> <i><trn>weregild due to the brother</trn></i>.</m1>
-</entry>
-<entry word="bróðurbloð">
+</word>
+<word>
+bróðurbloð
 	<m1><p>n.</p> <i><trn>a brother’s blood</trn></i>.</m1>
-</entry>
-<entry word="bróðurbœtr">
+</word>
+<word>
+bróðurbœtr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>weregild for a brother</trn></i>.</m1>
-</entry>
-<entry word="bróðurdauði">
+</word>
+<word>
+bróðurdauði
 	<m1><p>m.</p> <i><trn>a brother’s death</trn></i>.</m1>
-</entry>
-<entry word="bróðurdeild">
+</word>
+<word>
+bróðurdeild
 	<m1><p>f.</p> = <ref>bróðurhluti</ref>.</m1>
-</entry>
-<entry word="bróðurdóttir">
+</word>
+<word>
+bróðurdóttir
 	<m1><p>f.</p> <i><trn>a brother’s daughter, niece</trn></i>.</m1>
-</entry>
-<entry word="bróðurdráp">
+</word>
+<word>
+bróðurdráp
 	<m1><p>n.</p> <i><trn>the slaying of a brother</trn></i>.</m1>
-</entry>
-<entry word="bróðurgildr">
+</word>
+<word>
+bróðurgildr
 	<m1><p>a.</p> <i><trn>equal in right to a brother</trn></i>.</m1>
-</entry>
-<entry word="bróðurgjöld">
+</word>
+<word>
+bróðurgjöld
 	<m1><p>n.</p> <p>pl.</p> = <ref>bróðurbœtr</ref>.</m1>
-</entry>
-<entry word="bróðurhefnd">
+</word>
+<word>
+bróðurhefnd
 	<m1><p>f.</p> <i><trn>revenge for the slaying of a brother</trn></i>.</m1>
-</entry>
-<entry word="bróðurhluti">
+</word>
+<word>
+bróðurhluti
 	<m1><p>m.</p> <i><trn>the share</trn></i> (as to <i><trn>weregild</trn></i> or <i><trn>inheritance</trn></i>) <i><trn>of a brother</trn></i>.</m1>
-</entry>
-<entry word="bróðurkona">
-	</entry>
-<entry word="bróðurkván">
+</word>
+<word>
+bróðurkona
+</word>
+<word>
+bróðurkván
 	<m1><p>f.</p> <i><trn>a brother’s wife</trn></i>.</m1>
-</entry>
-<entry word="bróðurleikr">
+</word>
+<word>
+bróðurleikr
 	<m1><p>m.</p> <i><trn>brotherhood</trn></i>.</m1>
-</entry>
-<entry word="bróðurligr">
+</word>
+<word>
+bróðurligr
 	<m1><p>a.</p> <i><trn>brotherly, fraternal</trn></i> (bróðurlig ást).</m1>
-</entry>
-<entry word="bróðursonarbaugr">
+</word>
+<word>
+bróðursonarbaugr
 	<m1><p>m.</p> <i><trn>weregild for a brother’s son</trn></i>.</m1>
-</entry>
-<entry word="bróðursonr">
+</word>
+<word>
+bróðursonr
 	<m1><p>m.</p> <i><trn>a brother’s son, nephew</trn></i>.</m1>
-</entry>
-<entry word="brók">
+</word>
+<word>
+brók
 	<m1>(-ar, <p>pl.</p> brœkr), <p>f.</p></m1>
 	<m2>1) <i><trn>one leg of a pair of breeches</trn></i> (ok lét hann leika laust knéit í brókinni);</m2>
 	<m2>2) <i><trn>breeches</trn></i> (but the pl. ‘brœkr’ is more common); vera í brókum, <i><trn>to wear breeches</trn></i>; gyrðr í brœkr, <i><trn>with breeches girt over one’s underclothing</trn></i>.</m2>
-</entry>
-<entry word="brókabelti">
+</word>
+<word>
+brókabelti
 	<m1><p>m.</p> <i><trn>breech-belt</trn></i>.</m1>
-</entry>
-<entry word="brókavaðmál">
+</word>
+<word>
+brókavaðmál
 	<m1><p>n.</p> <i><trn>cloth (wadmal) for breeches</trn></i>.</m1>
-</entry>
-<entry word="bróklauss">
+</word>
+<word>
+bróklauss
 	<m1><p>a.</p> <i><trn>breechless</trn></i>.</m1>
-</entry>
-<entry word="bróklindi">
+</word>
+<word>
+bróklindi
 	<m1><p>m.</p> <i><trn>waistbelt</trn></i> = <ref>brókabelti</ref>.</m1>
-</entry>
-<entry word="brugðinn">
+</word>
+<word>
+brugðinn
 	<m1><p>pp.</p> from <ref>bregða</ref>;</m1>
 	<m2><i><trn>accustomed to, versed in</trn></i> (~ við <p>e-t</p>).</m2>
-</entry>
-<entry word="brugðning">
+</word>
+<word>
+brugðning
 	<m1><p>f.</p> <i><trn>breach, violation, altercation</trn></i> (for the worse).</m1>
-</entry>
-<entry word="brugg">
+</word>
+<word>
+brugg
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>brewing</trn></i>;</m2>
 	<m2>2) <i><trn>machination, scheming</trn></i>.</m2>
-</entry>
-<entry word="brugga">
+</word>
+<word>
+brugga
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to brew</trn></i>;</m2>
 	<m2>2) <i><trn>to concoct, scheme</trn></i>; ~ <com>or</com> ~ saman svik, <i><trn>to concoct a fraud</trn></i>; ~ em bana, <i><trn>to scheme his death</trn></i>;</m2>
 	<m2>3) <i><trn>to break</trn></i> (~ sáttmáli við en).</m2>
-</entry>
-<entry word="brugginn">
+</word>
+<word>
+brugginn
 	<m1><p>pp.</p> <i><trn>brewed</trn></i> (~ mjöðr).</m1>
-</entry>
-<entry word="bruggukanna">
+</word>
+<word>
+bruggukanna
 	<m1><p>f.</p> <i><trn>brewing can</trn></i>.</m1>
-</entry>
-<entry word="brugguketill">
+</word>
+<word>
+brugguketill
 	<m1><p>m.</p> <i><trn>brewing kettle</trn></i>.</m1>
-</entry>
-<entry word="brullaup">
+</word>
+<word>
+brullaup
 	<m1><p>n.</p> = <ref>brúðlaup</ref>, <ref>brúðkaup</ref>.</m1>
-</entry>
-<entry word="brum">
+</word>
+<word>
+brum
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>bud</trn></i>;</m2>
 	<m2>2) <i><trn>point of time</trn></i> (í þetta ~).</m2>
-</entry>
-<entry word="brumr">
+</word>
+<word>
+brumr
 	<m1><p>m.</p> = <ref>brum</ref> (í þenna brum).</m1>
-</entry>
-<entry word="bruna">
+</word>
+<word>
+bruna
 	<m1>(að), <p>v.</p> <i><trn>to advance with great speed, to rush</trn></i> (~ fram).</m1>
-</entry>
-<entry word="brunadómr">
+</word>
+<word>
+brunadómr
 	<m1><p>m.</p> <i><trn>a sentence to be burnt</trn></i>.</m1>
-</entry>
-<entry word="brunaflekkr">
+</word>
+<word>
+brunaflekkr
 	<m1><p>m.</p> <i><trn>burnt spot</trn></i>.</m1>
-</entry>
-<entry word="brunahraun">
+</word>
+<word>
+brunahraun
 	<m1><p>n.</p> <i><trn>burnt lavafield</trn></i>.</m1>
-</entry>
-<entry word="brunavegr">
+</word>
+<word>
+brunavegr
 	<m1><p>m.</p> <i><trn>the torid zone</trn></i>.</m1>
-</entry>
-<entry word="brunaþefr">
+</word>
+<word>
+brunaþefr
 	<m1><p>m.</p> <i><trn>smell of burning</trn></i>.</m1>
-</entry>
-<entry word="brunaöld">
+</word>
+<word>
+brunaöld
 	<m1><p>f.</p> <i><trn>the burning age, the (heathen) time when the dead were burnt</trn></i> (opp. to <ref>haugsöld</ref>).</m1>
-</entry>
-<entry word="brundtíð">
+</word>
+<word>
+brundtíð
 	<m1><p>f.</p> <i><trn>the time when the ewes are</trn></i> <ref>blœsma</ref>.</m1>
-</entry>
-<entry word="bruni">
+</word>
+<word>
+bruni
 	<m1><p>m.</p> <i><trn>burning heat, fire</trn></i>; fig., <i><trn>burning passion</trn></i> (~ öfundar, lostagirndar, heilagrar trúar).</m1>
-</entry>
-<entry word="brunnlœkr">
+</word>
+<word>
+brunnlœkr
 	<m1><p>m.</p> <i><trn>brooklet coming from a well</trn></i>.</m1>
-</entry>
-<entry word="brunnmigi">
+</word>
+<word>
+brunnmigi
 	<m1><p>m.</p> <i><trn>defiler of wells, fox</trn></i>.</m1>
-</entry>
-<entry word="brunnr">
+</word>
+<word>
+brunnr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>spring</trn></i>;</m2>
 	<m2>2) <i><trn>well</trn></i>.</m2>
-</entry>
-<entry word="brunnsmunni">
+</word>
+<word>
+brunnsmunni
 	<m1><p>m.</p> <i><trn>the mouth or opening of a well</trn></i>.</m1>
-</entry>
-<entry word="brunnvaka">
+</word>
+<word>
+brunnvaka
 	<m1><p>f.</p> <i><trn>an instrument to, get at water under ice or snow</trn></i>.</m1>
-</entry>
-<entry word="brunnvatn">
+</word>
+<word>
+brunnvatn
 	<m1><p>n.</p> <i><trn>spring water</trn></i>.</m1>
-</entry>
-<entry word="brunnvígsla">
+</word>
+<word>
+brunnvígsla
 	<m1><p>f.</p> <i><trn>consecration of a well</trn></i>.</m1>
-</entry>
-<entry word="brú">
+</word>
+<word>
+brú
 	<m1>(-ar, <p>pl.</p> -ar, -r, brýr), <p>f.</p> <i><trn>bridge</trn></i>.</m1>
-</entry>
-<entry word="brúarfundr">
+</word>
+<word>
+brúarfundr
 	<m1><p>m.</p> <i><trn>the battle of the Bridge</trn></i>.</m1>
-</entry>
-<entry word="brúargørð">
+</word>
+<word>
+brúargørð
 	<m1><p>f.</p> <i><trn>bridgemaking</trn></i>.</m1>
-</entry>
-<entry word="brúarsporðr">
+</word>
+<word>
+brúarsporðr
 	<m1><p>m.</p> <i><trn>head or end of a bridge</trn></i>.</m1>
-</entry>
-<entry word="brúða">
+</word>
+<word>
+brúða
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>doll, puppet</trn></i>;</m2>
 	<m2>2) <i><trn>chairpost</trn></i>; á brúðum stólsins var skorinn Þórr, <i><trn>Thor was carved on the chairposts</trn></i>.</m2>
-</entry>
-<entry word="brúðarbekkr">
+</word>
+<word>
+brúðarbekkr
 	<m1><p>m.</p> <i><trn>the bride’s bench</trn></i>.</m1>
-</entry>
-<entry word="brúðarefni">
+</word>
+<word>
+brúðarefni
 	<m1><p>n.</p> <i><trn>a bride to be, bride elect</trn></i>.</m1>
-</entry>
-<entry word="brúðarfaðmr">
+</word>
+<word>
+brúðarfaðmr
 	<m1><p>m.</p> <i><trn>a bride’s embrace</trn></i>.</m1>
-</entry>
-<entry word="brúðarhús">
-	</entry>
-<entry word="brúðhús">
+</word>
+<word>
+brúðarhús
+</word>
+<word>
+brúðhús
 	<m1><p>n.</p> <i><trn>bride’s chamber</trn></i>.</m1>
-</entry>
-<entry word="brúðarlín">
+</word>
+<word>
+brúðarlín
 	<m1><p>n.</p> <i><trn>bride’s veil</trn></i>.</m1>
-</entry>
-<entry word="brúðarstóll">
+</word>
+<word>
+brúðarstóll
 	<m1><p>m.</p> <i><trn>bride’s chair</trn></i>.</m1>
-</entry>
-<entry word="brúðbekkr">
+</word>
+<word>
+brúðbekkr
 	<m1><p>m.</p> = <ref>brúðarbekkr</ref>.</m1>
-</entry>
-<entry word="brúðfé">
+</word>
+<word>
+brúðfé
 	<m1><p>n.</p> <i><trn>bride’s fee or gift</trn></i>.</m1>
-</entry>
-<entry word="brúðferð">
-	</entry>
-<entry word="brúðför">
+</word>
+<word>
+brúðferð
+</word>
+<word>
+brúðför
 	<m1><p>f.</p> <i><trn>bride’s journey</trn></i>.</m1>
-</entry>
-<entry word="brúðgumi">
+</word>
+<word>
+brúðgumi
 	<m1><p>m.</p> <i><trn>bridegroom</trn></i>.</m1>
-</entry>
-<entry word="brúðhvíla">
+</word>
+<word>
+brúðhvíla
 	<m1><p>f.</p> <i><trn>bridal bed</trn></i>.</m1>
-</entry>
-<entry word="brúðkaup">
+</word>
+<word>
+brúðkaup
 	<m1><p>n.</p> <i><trn>wedding feast, bridal</trn></i> (at bjóða mönnum til kaups).</m1>
-</entry>
-<entry word="brúðkaupligr">
+</word>
+<word>
+brúðkaupligr
 	<m1><p>a.</p> <i><trn>pertaining to a wedding feast</trn></i> (kaupligr viðbúnaðr).</m1>
-</entry>
-<entry word="brúðkaupsferð">
-	</entry>
-<entry word="brúðlaupsferð">
+</word>
+<word>
+brúðkaupsferð
+</word>
+<word>
+brúðlaupsferð
 	<m1><p>f.</p> = <ref>brúðferð</ref>.</m1>
-</entry>
-<entry word="brúðkaupsgørð">
+</word>
+<word>
+brúðkaupsgørð
 	<m1><p>f.</p> <i><trn>holding a wedding</trn></i>.</m1>
-</entry>
-<entry word="brúðkaupsmaðr">
+</word>
+<word>
+brúðkaupsmaðr
 	<m1><p>m.</p> <i><trn>wedding guest</trn></i>.</m1>
-</entry>
-<entry word="brúðkaupsveizla">
-	</entry>
-<entry word="brúðlaupsveizla">
+</word>
+<word>
+brúðkaupsveizla
+</word>
+<word>
+brúðlaupsveizla
 	<m1><p>f.</p> <i><trn>wedding feast</trn></i>.</m1>
-</entry>
-<entry word="brúðkona">
+</word>
+<word>
+brúðkona
 	<m1><p>f.</p> <i><trn>bridesmaid</trn></i>.</m1>
-</entry>
-<entry word="brúðlaup">
+</word>
+<word>
+brúðlaup
 	<m1><p>n.</p> <i><trn>wedding, wedding feast</trn></i>; drekka, gera laup, <i><trn>to hold a wedding</trn></i>: gera laup til konu, <i><trn>to wed</trn></i>; ráða laup, <i><trn>to fix the wedding day</trn></i>.</m1>
-</entry>
-<entry word="brúðlaupsdagr">
+</word>
+<word>
+brúðlaupsdagr
 	<m1><p>m.</p> <i><trn>wedding day</trn></i>.</m1>
-</entry>
-<entry word="brúðlaupskláði">
+</word>
+<word>
+brúðlaupskláði
 	<m1><p>n.</p> <p>pl.</p> <i><trn>wedding garment</trn></i>.</m1>
-</entry>
-<entry word="brúðlaupskostr">
+</word>
+<word>
+brúðlaupskostr
 	<m1><p>m.</p> <i><trn>the cost of a wedding</trn></i>.</m1>
-</entry>
-<entry word="brúðlaupsstefna">
+</word>
+<word>
+brúðlaupsstefna
 	<m1><p>f.</p> <i><trn>wedding meeting</trn></i>.</m1>
-</entry>
-<entry word="brúðlaupsvitni">
+</word>
+<word>
+brúðlaupsvitni
 	<m1><p>n.</p> <i><trn>marriage witness</trn></i>.</m1>
-</entry>
-<entry word="brúðmaðr">
+</word>
+<word>
+brúðmaðr
 	<m1><p>m.</p> <i><trn>bridegroom’s man, bridesman</trn></i>.</m1>
-</entry>
-<entry word="brúðmessa">
+</word>
+<word>
+brúðmessa
 	<m1><p>f.</p> <i><trn>marriage service</trn></i>.</m1>
-</entry>
-<entry word="brúðr">
+</word>
+<word>
+brúðr
 	<m1>(<p>gen.</p> -ar, <p>dat.</p> and <p>acc.</p> -i, <p>pl.</p> -ir), <p>f.</p></m1>
 	<m2>1) <i><trn>bride</trn></i> (konur skipuðu pall, ok var ~in döpr);</m2>
 	<m2>2) <p>esp.</p> <p>pl.</p> <i><trn>brides-maids</trn></i> = brúðkonur; sat Þórhalla milli brúða, <i><trn>Th. was seated among the bridesmaids</trn></i> = milli brúðkvenna.</m2>
-</entry>
-<entry word="brúðstóll">
+</word>
+<word>
+brúðstóll
 	<m1><p>m.</p> <i><trn>bride’s chair or seat</trn></i>, = <ref>brúðarstóll</ref>.</m1>
-</entry>
-<entry word="brúk">
+</word>
+<word>
+brúk
 	<m1><p>n.</p> <i><trn>a heap</trn></i> (brúkum <i><trn>in heaps)</trn></i>; <p>esp.</p> <i><trn>a heap of seaweed</trn></i> (= <ref>þarabrúk</ref>).</m1>
-</entry>
-<entry word="brún">
+</word>
+<word>
+brún
 	<m1><b>I)</b></m1>
 	<m2>(<p>pl.</p> brýnn), <p>f.</p></m2>
 	<m3>1) <i><trn>brow, the projecting edge of a cliff or hill</trn></i> (cf. fjalls, heiðar, isbrún);</m3>
 	<m3>2) <i><trn>eyebrow</trn></i>; láta síga brýnn á nef fyrir brár, ofan fyrir augum, setja síða ~ hleypa brúnum, <i><trn>to kni tthe brows</trn></i> lypta brúnum, hefja upp brún, <i><trn>to lift the eyebrows, become cheerful, brighten up</trn></i>; also <p>impers.</p>, hefr em upp ~, <i><trn>one brightens up</trn></i>; lypti þá mjök brúnum manna, <i><trn>therfaces brightened up</trn></i>; em bregðr í ~, <i><trn>one is amazed</trn></i>.</m3>
 	<m1><b>II)</b></m1>
 	<m2>(<p>pl.</p> brúnir), <p>f.</p> <i><trn>a kind of stuff</trn></i>.</m2>
-</entry>
-<entry word="brúnaðr">
+</word>
+<word>
+brúnaðr
 	<m1><p>a.</p> <i><trn>darkcoloured, brown</trn></i>.</m1>
-</entry>
-<entry word="brúnamikill">
+</word>
+<word>
+brúnamikill
 	<m1><p>a.</p> <i><trn>heavybrowed</trn></i>.</m1>
-</entry>
-<entry word="brúnarbein">
+</word>
+<word>
+brúnarbein
 	<m1><p>n.</p> <p>pl.</p> <i><trn>the bone of the eye-brow</trn></i>.</m1>
-</entry>
-<entry word="brúnasíðr">
+</word>
+<word>
+brúnasíðr
 	<m1><p>a.</p> <i><trn>having overhanging brows</trn></i>.</m1>
-</entry>
-<entry word="brúnaskurðr">
+</word>
+<word>
+brúnaskurðr
 	<m1><p>m.</p> <i><trn>cutting the hair straight across the brows</trn></i>.</m1>
-</entry>
-<entry word="brúnáss">
+</word>
+<word>
+brúnáss
 	<m1><p>m.</p> <i><trn>ridge-pole, ridge-piece</trn></i>.</m1>
-</entry>
-<entry word="brúnhvítr">
+</word>
+<word>
+brúnhvítr
 	<m1><p>a.</p> <i><trn>white-browed</trn></i>.</m1>
-</entry>
-<entry word="brúnmóálóttr">
+</word>
+<word>
+brúnmóálóttr
 	<m1><p>a.</p> <i><trn>of mousegrey colour with a black stripe down the back</trn></i> (of a horse).</m1>
-</entry>
-<entry word="brúnn">
+</word>
+<word>
+brúnn
 	<m1><b>I)</b></m1>
 	<m2><p>a.</p></m2>
 	<m3>1) <i><trn>brown</trn></i>;</m3>
 	<m3>2) of polished metal, <i><trn>bright</trn></i> (beit brún egg).</m3>
 	<m1><b>II)</b></m1>
 	<m2><p>m.</p> <i><trn>black horse</trn></i>.</m2>
-</entry>
-<entry word="brúnsíðr">
+</word>
+<word>
+brúnsíðr
 	<m1><p>a.</p> = <ref>brúnasíðr</ref>.</m1>
-</entry>
-<entry word="brúnskarpr">
+</word>
+<word>
+brúnskarpr
 	<m1><p>a.</p> <i><trn>light in the head</trn></i>.</m1>
-</entry>
-<entry word="brúnvölr">
-	</entry>
-<entry word="brúnvölvi">
-	</entry>
-<entry word="brúnölvi">
-	</entry>
-<entry word="úfrýnligr">
-	</entry>
-<entry word="úfrýnn">
-	</entry>
-<entry word="úhýrligr">
+</word>
+<word>
+brúnvölr
+</word>
+<word>
+brúnvölvi
+</word>
+<word>
+brúnölvi
+</word>
+<word>
+úfrýnligr
+</word>
+<word>
+úfrýnn
+</word>
+<word>
+úhýrligr
 	<m1><p>a.</p> <i><trn>frowning</trn></i>.</m1>
-</entry>
-<entry word="brús">
+</word>
+<word>
+brús
 	<m1>(að), <p>v.</p> <i><trn>to bridge over</trn></i> (brúat var yfir dikit).</m1>
-</entry>
-<entry word="brúsi">
+</word>
+<word>
+brúsi
 	<m1><p>m.</p> <i><trn>buck, he-goat</trn></i>.</m1>
-</entry>
-<entry word="brústeinn">
+</word>
+<word>
+brústeinn
 	<m1><p>m.</p> <i><trn>pavement</trn></i>.</m1>
-</entry>
-<entry word="brydda">
+</word>
+<word>
+brydda
 	<m1>(-dda, -ddr), <p>v.</p></m1>
 	<m2>1) <i><trn>to prick, goad</trn></i>;</m2>
 	<m2>2) <i><trn>to rough shoe</trn></i> (aka jó óbryddum á ísi hálum);</m2>
 	<m2>3) <i><trn>to show the point</trn></i> (bryddu upp ór þokunni kollarnir);</m2>
 	<m2>4) <p>impers.</p>, af þessi gørð herra páfans bryddi <i><trn>(arose)</trn></i> svá mikla styrjöld, at.</m2>
-</entry>
-<entry word="brydding">
+</word>
+<word>
+brydding
 	<m1><p>f.</p> <i><trn>bordering, edging</trn></i>.</m1>
-</entry>
-<entry word="bryðja">
+</word>
+<word>
+bryðja
 	<m1><p>f.</p> <i><trn>a sort of trough</trn></i>.</m1>
-</entry>
-<entry word="brygði">
+</word>
+<word>
+brygði
 	<m1>from <ref>bregða</ref>.</m1>
-</entry>
-<entry word="bryggja">
+</word>
+<word>
+bryggja
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>gangboard, gangway</trn></i>; skjóta bryggjum, <i><trn>to shoot out the gangway</trn></i>;</m2>
 	<m2>2) <i><trn>landingstage, pier, quay</trn></i> (lágu langskip konungs með endilöngum bryggjum);</m2>
 	<m2>3) rarely, <i><trn>bridge</trn></i>, = <ref>brú</ref>.</m2>
-</entry>
-<entry word="bryggjubúð">
+</word>
+<word>
+bryggjubúð
 	<m1><p>f.</p> <i><trn>storehouse on a pier</trn></i>.</m1>
-</entry>
-<entry word="bryggjuker">
+</word>
+<word>
+bryggjuker
 	<m1><p>n.</p> <i><trn>a tub at a pier?</trn></i>.</m1>
-</entry>
-<entry word="bryggjulægi">
+</word>
+<word>
+bryggjulægi
 	<m1><p>n.</p> <i><trn>landingstage</trn></i>.</m1>
-</entry>
-<entry word="bryggjumangari">
+</word>
+<word>
+bryggjumangari
 	<m1><p>m.</p> <i><trn>shopkeeper at a landing pier</trn></i>.</m1>
-</entry>
-<entry word="bryggjusporðr">
+</word>
+<word>
+bryggjusporðr
 	<m1><p>m.</p> <i><trn>the head of a pier</trn></i>.</m1>
-</entry>
-<entry word="bryna">
+</word>
+<word>
+bryna
 	<m1>(að), <p>v.</p> = <ref>bruna</ref>.</m1>
-</entry>
-<entry word="brynbrœkr">
+</word>
+<word>
+brynbrœkr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>war-breeches</trn></i>.</m1>
-</entry>
-<entry word="brynglófi">
+</word>
+<word>
+brynglófi
 	<m1><p>m.</p> <i><trn>war-glove, gauntlet</trn></i>.</m1>
-</entry>
-<entry word="brynhattr">
+</word>
+<word>
+brynhattr
 	<m1><p>m.</p> <i><trn>war-hood</trn></i>.</m1>
-</entry>
-<entry word="brynhetta">
+</word>
+<word>
+brynhetta
 	<m1><p>f.</p> <i><trn>war-hood</trn></i>.</m1>
-</entry>
-<entry word="brynhosa">
+</word>
+<word>
+brynhosa
 	<m1><p>f.</p> <i><trn>war-hose, greave</trn></i>.</m1>
-</entry>
-<entry word="brynhöttr">
+</word>
+<word>
+brynhöttr
 	<m1><p>m.</p> = <ref>brynhattr</ref>, <ref>brynhetta</ref>.</m1>
-</entry>
-<entry word="brynja">
+</word>
+<word>
+brynja
 	<m1><p>f.</p> <i><trn>coat of mail</trn></i>.</m1>
-</entry>
-<entry word="brynjaðr">
+</word>
+<word>
+brynjaðr
 	<m1><i><trn>wearing a coat of mail, mailclad</trn></i>.</m1>
-</entry>
-<entry word="brynjubítr">
+</word>
+<word>
+brynjubítr
 	<m1><p>m.</p> <i><trn>‘mailbiter’, sword</trn></i>.</m1>
-</entry>
-<entry word="brynjubönd">
+</word>
+<word>
+brynjubönd
 	<m1><p>n.</p> <p>pl.</p> <i><trn>cords to fasten the coat of mail</trn></i>.</m1>
-</entry>
-<entry word="brynjuhattr">
+</word>
+<word>
+brynjuhattr
 	<m1><p>m.</p> = <ref>brynhattr</ref>.</m1>
-</entry>
-<entry word="brynjuhálsbjörg">
+</word>
+<word>
+brynjuhálsbjörg
 	<m1><p>f.</p> <i><trn>the neckpiece of a hauberk</trn></i>.</m1>
-</entry>
-<entry word="brynjuhetta">
+</word>
+<word>
+brynjuhetta
 	<m1><p>f.</p> = <ref>brynhetta</ref>.</m1>
-</entry>
-<entry word="brynjuhringr">
+</word>
+<word>
+brynjuhringr
 	<m1><p>m.</p> <i><trn>a ring of a coat of mail</trn></i> (hringabrynja).</m1>
-</entry>
-<entry word="brynjulauss">
+</word>
+<word>
+brynjulauss
 	<m1><p>a.</p> <i><trn>without a coat of mail unprotected</trn></i>.</m1>
-</entry>
-<entry word="brynjumeistari">
+</word>
+<word>
+brynjumeistari
 	<m1><p>m.</p> <i><trn>maker of coats of mail</trn></i>.</m1>
-</entry>
-<entry word="brynjurokkr">
+</word>
+<word>
+brynjurokkr
 	<m1><p>m.</p> <i><trn>military tunic</trn></i> (worn over the coat of mail).</m1>
-</entry>
-<entry word="brynklungr">
+</word>
+<word>
+brynklungr
 	<m1><p>m.</p> <i><trn>a sort of weapon used in defending a besieged castle</trn></i>.</m1>
-</entry>
-<entry word="brynknífr">
+</word>
+<word>
+brynknífr
 	<m1><p>m.</p> <i><trn>warknife</trn></i>.</m1>
-</entry>
-<entry word="brynkolla">
+</word>
+<word>
+brynkolla
 	<m1><p>f.</p> <i><trn>a mailcap</trn></i> (worn under the helmet).</m1>
-</entry>
-<entry word="brynna">
+</word>
+<word>
+brynna
 	<m1>(-ta, -t), <p>v.</p> <i><trn>to water, give water to</trn></i> (~ nautum).</m1>
-</entry>
-<entry word="brynstakkr">
+</word>
+<word>
+brynstakkr
 	<m1><p>m.</p> <i><trn>mailjacket</trn></i>.</m1>
-</entry>
-<entry word="brynstúka">
+</word>
+<word>
+brynstúka
 	<m1><p>f.</p> <i><trn>mailsleeve</trn></i>.</m1>
-</entry>
-<entry word="bryntröll">
+</word>
+<word>
+bryntröll
 	<m1><p>n.</p> <i><trn>a sort of halberd</trn></i>.</m1>
-</entry>
-<entry word="brynþing">
+</word>
+<word>
+brynþing
 	<m1><p>n.</p> <i><trn>combat</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="brynþvari">
+</word>
+<word>
+brynþvari
 	<m1><p>m.</p> <i><trn>a sort of halberd</trn></i> (= <ref>bryntröll</ref>).</m1>
-</entry>
-<entry word="bryrja">
+</word>
+<word>
+bryrja
 	<m1>(að), <p>v.</p> <i><trn>to cover or arm with a coat of mail</trn></i>.</m1>
-</entry>
-<entry word="bryti">
+</word>
+<word>
+bryti
 	<m1><b>I)</b> (<p>gen.</p> brytja <com>or</com> bryta), <p>m.</p> <i><trn>bailiff, understeward</trn></i>;</m1>
 	<m2>konungs ~, <i><trn>a steward on royal estates</trn></i>.</m2>
 	<m1><b>II)</b> from <ref>brjóta</ref>.</m1>
-</entry>
-<entry word="brytja">
+</word>
+<word>
+brytja
 	<m1>(að), <p>v.</p> <i><trn>to chop</trn></i> (~ mat);</m1>
 	<m2>~ lið heiðingja, <i><trn>to put to the sword</trn></i>;</m2>
 	<m2>~ niðr, <i><trn>to cut down</trn></i>.</m2>
-</entry>
-<entry word="brytjan">
+</word>
+<word>
+brytjan
 	<m1><p>f.</p> <i><trn>chopping</trn></i>.</m1>
-</entry>
-<entry word="brytskálm">
+</word>
+<word>
+brytskálm
 	<m1><p>f.</p> <i><trn>chopper</trn></i> (kallar hann þat sverð ~ sína).</m1>
-</entry>
-<entry word="brýna">
+</word>
+<word>
+brýna
 	<m1>(-da, -dr), <p>v.</p></m1>
 	<m2>1) <i><trn>to whet, sharpen</trn></i> (~ ljá, kníf, sverð);</m2>
 	<m2>2) ~ upp skipi, <i><trn>to drag a boat or ships half ashore, put it on the ‘edge’ of the seaboard</trn></i>;</m2>
 	<m2>3) <i><trn>to egg on</trn></i>; ~ hug es, <i><trn>to encourage</trn></i>.</m2>
-</entry>
-<entry word="brýni">
+</word>
+<word>
+brýni
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>whetstone</trn></i>;</m2>
 	<m2>2) <i><trn>spaces</trn></i> (ekki hafa þeir salt við mat ok ekki ~).</m2>
-</entry>
-<entry word="brýning">
+</word>
+<word>
+brýning
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>whetting, sharpening</trn></i>;</m2>
 	<m2>2) fig. <i><trn>egging on, incitement</trn></i>.</m2>
-</entry>
-<entry word="brýnligr">
+</word>
+<word>
+brýnligr
 	<m1><p>a.</p> = <ref>brýnn</ref>;</m1>
 	<m2>er brýnligt um <p>e-t</p>, <i><trn>it is promising, likely</trn></i>.</m2>
-</entry>
-<entry word="brýnn">
+</word>
+<word>
+brýnn
 	<m1><b>I)</b></m1>
 	<m2><p>a.</p> <i><trn>prompt, ready</trn></i>; ef brýn féföng lægi fyrir, <i><trn>ready means</trn></i>; brýn sök, <i><trn>just, cogent cause</trn></i>; brýn vörn, <i><trn>a clear case for defence</trn></i>; ~ byrr, <i><trn>straight, fair wind</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> <p>pl.</p>, from <ref>brún</ref>, <i><trn>brow</trn></i>.</m2>
-</entry>
-<entry word="brýr">
+</word>
+<word>
+brýr
 	<m1>from <ref>brú</ref>, <i><trn>bridge</trn></i>.</m1>
-</entry>
-<entry word="bræða">
+</word>
+<word>
+bræða
 	<m1><b>I)</b></m1>
 	<m2>(-dda, -ddr), <p>v.</p></m2>
 	<m3>1) <i><trn>to melt</trn></i> (~ jökul, snjó, ís);</m3>
 	<m3>2) <i><trn>to tar, pitch</trn></i> (~ skip).</m3>
 	<m1><b>II)</b></m1>
 	<m2>(-dda, -ddr), <p>v.</p> <i><trn>to hurry, make haste</trn></i> (nú seinkaða ek, en þú bræddir heldr).</m2>
-</entry>
-<entry word="bræðiligr">
+</word>
+<word>
+bræðiligr
 	<m1><p>a.</p> <i><trn>meltable, fusible</trn></i>.</m1>
-</entry>
-<entry word="bræðimæli">
+</word>
+<word>
+bræðimæli
 	<m1><p>n.</p> <p>pl.</p> <i><trn>angry language</trn></i>.</m1>
-</entry>
-<entry word="brækta">
+</word>
+<word>
+brækta
 	<m1>(að), <p>v.</p> <i><trn>to bleat</trn></i> (~ sem geit).</m1>
-</entry>
-<entry word="brœðr">
+</word>
+<word>
+brœðr
 	<m1>from <ref>bróðir</ref>, <i><trn>brother</trn></i>.</m1>
-</entry>
-<entry word="brœðrabörn">
+</word>
+<word>
+brœðrabörn
 	<m1><p>n.</p> <p>pl.</p> <i><trn>first cousins</trn></i> (agnate).</m1>
-</entry>
-<entry word="brœðradœtr">
+</word>
+<word>
+brœðradœtr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>nieces</trn></i> (of brothers).</m1>
-</entry>
-<entry word="brœðraeign">
+</word>
+<word>
+brœðraeign
 	<m1><p>f.</p> <i><trn>property of brothers</trn></i>.</m1>
-</entry>
-<entry word="brœðragarðr">
+</word>
+<word>
+brœðragarðr
 	<m1><p>m.</p> <i><trn>monastery</trn></i>, = kórs~.</m1>
-</entry>
-<entry word="brœðralag">
+</word>
+<word>
+brœðralag
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>fellowship as of brethren</trn></i>, = <ref>fóst~</ref> (sverjast í ~);</m2>
 	<m2>2) <i><trn>brotherhood, religious fraternity</trn></i>.</m2>
-</entry>
-<entry word="brœðralagsbréf">
+</word>
+<word>
+brœðralagsbréf
 	<m1><p>n.</p> <i><trn>letter of (religious) fraternity</trn></i>.</m1>
-</entry>
-<entry word="brœðramark">
+</word>
+<word>
+brœðramark
 	<m1><p>n.</p> <i><trn>the constellation Gemini</trn></i>.</m1>
-</entry>
-<entry word="brœðrapartr">
+</word>
+<word>
+brœðrapartr
 	<m1><p>m.</p> = <ref>bróðurdeild</ref>.</m1>
-</entry>
-<entry word="brœðrasamnaðr">
+</word>
+<word>
+brœðrasamnaðr
 	<m1><p>m.</p> <i><trn>assembly (union) of brothers</trn></i>.</m1>
-</entry>
-<entry word="brœðraskáli">
+</word>
+<word>
+brœðraskáli
 	<m1><p>m.</p> <i><trn>apartment for friars</trn></i>.</m1>
-</entry>
-<entry word="brœðraskipti">
+</word>
+<word>
+brœðraskipti
 	<m1><p>n.</p> <i><trn>division of inheritance among brothers</trn></i>.</m1>
-</entry>
-<entry word="brœðrasynir">
+</word>
+<word>
+brœðrasynir
 	<m1><p>m.</p> <p>pl.</p> <i><trn>brothers’ sons, cousins</trn></i>.</m1>
-</entry>
-<entry word="brœðrunga">
+</word>
+<word>
+brœðrunga
 	<m1><p>f.</p> <i><trn>female first cousin</trn></i>.</m1>
-</entry>
-<entry word="brœðrungr">
+</word>
+<word>
+brœðrungr
 	<m1><p>m.</p> <i><trn>male first cousin</trn></i> (agnate); also = <ref>brœðrunga</ref>; hón var ~ <i><trn>(she was first cousin)</trn></i> Asnýjar.</m1>
-</entry>
-<entry word="brœðrungsbarn">
+</word>
+<word>
+brœðrungsbarn
 	<m1><p>n.</p> <i><trn>child of a first cousin</trn></i>.</m1>
-</entry>
-<entry word="brœðrungsbaugr">
+</word>
+<word>
+brœðrungsbaugr
 	<m1><p>m.</p> <i><trn>share of weregild due a first cousin</trn></i>.</m1>
-</entry>
-<entry word="brœklingar">
+</word>
+<word>
+brœklingar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>‘breechlings’</trn></i>, a nickname of the Irish.</m1>
-</entry>
-<entry word="brœkr">
+</word>
+<word>
+brœkr
 	<m1>from <ref>brúk</ref>, <i><trn>breeches</trn></i>.</m1>
-</entry>
-<entry word="brögð">
+</word>
+<word>
+brögð
 	<m1>from <ref>bragð</ref>, <i><trn>exploit</trn></i>.</m1>
-</entry>
-<entry word="brögðóttr">
-	</entry>
-<entry word="falsvitr">
+</word>
+<word>
+brögðóttr
+</word>
+<word>
+falsvitr
 	<m1><p>a.</p> <i><trn>crafty, cunning</trn></i>.</m1>
-</entry>
-<entry word="brögðuliga">
+</word>
+<word>
+brögðuliga
 	<m1><p>adv.</p> <i><trn>cunningly, slyly</trn></i> (blekkja, svíkja <p>e-n</p> ~).</m1>
-</entry>
-<entry word="brögðuligr">
+</word>
+<word>
+brögðuligr
 	<m1><p>a.</p> <i><trn>crafty, sly</trn></i>.</m1>
-</entry>
-<entry word="brölta">
+</word>
+<word>
+brölta
 	<m1>(-lta, -lt), <p>v.</p> <i><trn>to toss or tumble about</trn></i>.</m1>
-</entry>
-<entry word="bröstuliga">
+</word>
+<word>
+bröstuliga
 	<m1><p>adv.</p> <i><trn>boastingly</trn></i>; láta liga, <i><trn>to brag</trn></i>.</m1>
-</entry>
-<entry word="brött">
+</word>
+<word>
+brött
 	<m1>from <ref>brattr</ref>, <i><trn>steep</trn></i>.</m1>
-</entry>
-<entry word="buðkagrös">
+</word>
+<word>
+buðkagrös
 	<m1><p>n.</p> <p>pl.</p> <i><trn>herbs kept in a box</trn></i> (for use in medicine).</m1>
-</entry>
-<entry word="buðkr">
+</word>
+<word>
+buðkr
 	<m1><p>m.</p> <i><trn>small box</trn></i> (originally a box to keep herbs and balsams in).</m1>
-</entry>
-<entry word="buðlungr">
+</word>
+<word>
+buðlungr
 	<m1><p>m.</p> <p>poet.</p> <i><trn>king</trn></i>.</m1>
-</entry>
-<entry word="buffeit">
+</word>
+<word>
+buffeit
 	<m1><p>n.</p> <i><trn>buffet</trn></i> (slá em ~).</m1>
-</entry>
-<entry word="buffeita">
+</word>
+<word>
+buffeita
 	<m1>(-tta, -ttr), <p>v.</p> <i><trn>to buffet</trn></i>.</m1>
-</entry>
-<entry word="buga">
+</word>
+<word>
+buga
 	<m1>(að), <p>v.</p> <i><trn>to bow, bend</trn></i>.</m1>
-</entry>
-<entry word="bugr">
+</word>
+<word>
+bugr
 	<m1><p>m.</p> <i><trn>bend, curve</trn></i>; <i><trn>the bight</trn></i> (inside) <i><trn>of a ring</trn></i> (í bug hringinum); <i><trn>of the bent fingers</trn></i> (~ fingranna); <i><trn>the concave side of the sails</trn></i> (sá af landi í bug allra seglanna); <i><trn>a curve, disorder</trn></i>, of a line of men or ships (rétta þann bug, er á var orðinn flotanum); aka em á bug, aka bug á em, <i><trn>to make one give way, repel</trn></i>.</m1>
-</entry>
-<entry word="bugstatr">
-	</entry>
-<entry word="krókstafr">
+</word>
+<word>
+bugstatr
+</word>
+<word>
+krókstafr
 	<m1><p>m.</p> <i><trn>crooked stick</trn></i>.</m1>
-</entry>
-<entry word="bukkaskinn">
+</word>
+<word>
+bukkaskinn
 	<m1><p>n.</p> <i><trn>the skin of he-goats</trn></i>.</m1>
-</entry>
-<entry word="bukkavara">
+</word>
+<word>
+bukkavara
 	<m1><p>f.</p> = <ref>bukkaskinn</ref>.</m1>
-</entry>
-<entry word="bukkr">
+</word>
+<word>
+bukkr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>buck, he goat</trn></i>;</m2>
 	<m2>2) <i><trn>battering ram</trn></i>.</m2>
-</entry>
-<entry word="bukkskinn">
+</word>
+<word>
+bukkskinn
 	<m1><p>n.</p> <i><trn>the skin of a he-goat</trn></i> (cf. <ref>bukkaskinn</ref>).</m1>
-</entry>
-<entry word="bukl">
+</word>
+<word>
+bukl
 	<m1><p>n.</p> <i><trn>the boss of a shield</trn></i>.</m1>
-</entry>
-<entry word="buklarabóla">
+</word>
+<word>
+buklarabóla
 	<m1><p>f.</p> = <ref>bukl</ref>.</m1>
-</entry>
-<entry word="buklarafetill">
+</word>
+<word>
+buklarafetill
 	<m1><p>m.</p> <i><trn>strap of a buckler</trn></i>.</m1>
-</entry>
-<entry word="buklari">
+</word>
+<word>
+buklari
 	<m1><p>m.</p> <i><trn>buckler, shield</trn></i>.</m1>
-</entry>
-<entry word="bukram">
-	</entry>
-<entry word="bukran">
+</word>
+<word>
+bukram
+</word>
+<word>
+bukran
 	<m1><p>n.</p> = <i><trn>buckram</trn></i>.</m1>
-</entry>
-<entry word="bula">
+</word>
+<word>
+bula
 	<m1>(að), <p>v.</p> <i><trn>to cut throgh</trn></i>, = <ref>bola</ref>.</m1>
-</entry>
-<entry word="bulr">
+</word>
+<word>
+bulr
 	<m1><p>m.</p> = <ref>bolr</ref>.</m1>
-</entry>
-<entry word="bulungr">
+</word>
+<word>
+bulungr
 	<m1><p>m.</p> <i><trn>pile of logs, firewood</trn></i>.</m1>
-</entry>
-<entry word="buløx">
+</word>
+<word>
+buløx
 	<m1><p>f.</p> = <ref>boløx</ref>.</m1>
-</entry>
-<entry word="bumba">
+</word>
+<word>
+bumba
 	<m1><p>f.</p> <i><trn>drum</trn></i> (berja á bumbur).</m1>
-</entry>
-<entry word="bundin">
+</word>
+<word>
+bundin
 	<m1><p>n.</p> <i><trn>sheaf (of corn)</trn></i>.</m1>
-</entry>
-<entry word="bunki">
+</word>
+<word>
+bunki
 	<m1><p>m.</p> <i><trn>heap, pile</trn></i>, = <ref>búlki</ref> (rare).</m1>
-</entry>
-<entry word="burðamunr">
+</word>
+<word>
+burðamunr
 	<m1><p>m.</p> <i><trn>diference of birth</trn></i>.</m1>
-</entry>
-<entry word="burðardagr">
+</word>
+<word>
+burðardagr
 	<m1><p>m.</p> <i><trn>birthday</trn></i>.</m1>
-</entry>
-<entry word="burðarmaðr">
+</word>
+<word>
+burðarmaðr
 	<m1><p>m.</p> <i><trn>bearer, carrier</trn></i>.</m1>
-</entry>
-<entry word="burðarsveinn">
-	</entry>
-<entry word="hleypipiltr">
+</word>
+<word>
+burðarsveinn
+</word>
+<word>
+hleypipiltr
 	<m1><p>m.</p> <i><trn>errand-boy</trn></i>.</m1>
-</entry>
-<entry word="burðartíð">
+</word>
+<word>
+burðartíð
 	<m1><p>f.</p> <i><trn>birthtime</trn></i>.</m1>
-</entry>
-<entry word="burðartími">
+</word>
+<word>
+burðartími
 	<m1><p>m.</p> <i><trn>birthtime</trn></i>.</m1>
-</entry>
-<entry word="burdeigja">
+</word>
+<word>
+burdeigja
 	<m1>(að), <p>v.</p> <i><trn>to capriole</trn></i>, of a horse (<p>for.</p> word).</m1>
-</entry>
-<entry word="burðr">
+</word>
+<word>
+burðr
 	<m1>(-ar, -ir), <p>m.</p></m1>
 	<m2>1) <i><trn>carriage, bearing</trn></i>, of the limbs or body (~ líkamans birtir hugskotsins ráð);</m2>
 	<m2>2) <i><trn>birth</trn></i> (frá Krists burði); of domestic animals, <i><trn>lambing, calving</trn></i> (þær kýr, er bezt búast til burðar);</m2>
 	<m2>3) <i><trn>fetus, the thing born, offspring</trn></i> (fíll gengr tvó ár með burðinum; hinn hæsti ~ várr dróttinn J. Kr.);</m2>
 	<m2>4) <p>pl.</p>, burðir, <i><trn>birth, extraction</trn></i>; heiðinn at burðum, <i><trn>heathen by birth</trn></i> burðir ok ætt, <i><trn>birth and kinship</trn></i>.</m2>
-</entry>
-<entry word="burðugr">
+</word>
+<word>
+burðugr
 	<m1><i><trn>of high birth</trn></i>.</m1>
-</entry>
-<entry word="burgeiss">
+</word>
+<word>
+burgeiss
 	<m1><p>m.</p> <i><trn>burgess</trn></i>.</m1>
-</entry>
-<entry word="buris">
+</word>
+<word>
+buris
 	<m1><p>m.</p> <i><trn>borax</trn></i> (<p>for.</p> word).</m1>
-</entry>
-<entry word="burr">
+</word>
+<word>
+burr
 	<m1>(-ar, -ir), <p>m.</p> <p>poet.</p> <i><trn>son</trn></i>.</m1>
-</entry>
-<entry word="burst">
+</word>
+<word>
+burst
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>bristle, bristles</trn></i>; draga ~ ór nefi em, <i><trn>to draw a bristle out</trn></i> of one’s nose, to cheat one;</m2>
 	<m2>2) <i><trn>gablehead or ridge of a house</trn></i>.</m2>
-</entry>
-<entry word="burstakollr">
+</word>
+<word>
+burstakollr
 	<m1><p>m.</p> <i><trn>bristle-scalp</trn></i>, an assumed name.</m1>
-</entry>
-<entry word="burstarhár">
+</word>
+<word>
+burstarhár
 	<m1><p>n.</p> <i><trn>bristly hair</trn></i>.</m1>
-</entry>
-<entry word="bursti">
+</word>
+<word>
+bursti
 	<m1><p>m.</p> <i><trn>bristly hair</trn></i>.</m1>
-</entry>
-<entry word="burstígull">
+</word>
+<word>
+burstígull
 	<m1><p>m.</p> <i><trn>hedgehog</trn></i>.</m1>
-</entry>
-<entry word="burt">
+</word>
+<word>
+burt
 	<m1><b>I)</b></m1>
 	<m2><p>adv.</p> = <ref>brott</ref>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p>, in the phrase, riða á ~, <i><trn>to ride a tilt</trn></i>.</m2>
-</entry>
-<entry word="burtbúningr">
+</word>
+<word>
+burtbúningr
 	<m1><p>m.</p> <i><trn>preparation to leave a place</trn></i> (vera í búningi).</m1>
-</entry>
-<entry word="burtreið">
+</word>
+<word>
+burtreið
 	<m1><p>f.</p> <i><trn>riding a tilt</trn></i>.</m1>
-</entry>
-<entry word="burtreiðarmaðr">
+</word>
+<word>
+burtreiðarmaðr
 	<m1><p>m.</p> <i><trn>tilter</trn></i>.</m1>
-</entry>
-<entry word="burtreiðarvápn">
+</word>
+<word>
+burtreiðarvápn
 	<m1><p>n.</p> <i><trn>tiltweapon</trn></i>.</m1>
-</entry>
-<entry word="burtstöng">
+</word>
+<word>
+burtstöng
 	<m1><p>f.</p> <i><trn>a lance for tilting</trn></i>.</m1>
-</entry>
-<entry word="busilkinna">
+</word>
+<word>
+busilkinna
 	<m1><p>f.</p> <i><trn>a woman with fat or chubby cheeks</trn></i>.</m1>
-</entry>
-<entry word="busl">
+</word>
+<word>
+busl
 	<m1><p>n.</p> <i><trn>bustle, commotion</trn></i> (þú váru goðin í busli miklu).</m1>
-</entry>
-<entry word="buss">
+</word>
+<word>
+buss
 	<m1><p>m.</p> <i><trn>box, boxwood</trn></i>.</m1>
-</entry>
-<entry word="bust">
+</word>
+<word>
+bust
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>bristle, bristles</trn></i>; draga ~ ór nefi em, <i><trn>to draw a bristle out</trn></i> of one’s nose, to cheat one;</m2>
 	<m2>2) <i><trn>gablehead or ridge of a house</trn></i>;</m2>
 	<m2>3) <i><trn>a kind of fish</trn></i>.</m2>
-</entry>
-<entry word="busti">
+</word>
+<word>
+busti
 	<m1><p>m.</p> = <ref>bursti</ref>.</m1>
-</entry>
-<entry word="buza">
+</word>
+<word>
+buza
 	<m1><p>f.</p> <i><trn>a sort of merchant-ship</trn></i>.</m1>
-</entry>
-<entry word="bú">
+</word>
+<word>
+bú
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>household, farming</trn></i>;</m2>
 	<m3>þat er bú, er maðr hefir málnytan smala, <i><trn>it is</trn></i> ‘bú’, <i><trn>if a man has a milking stock</trn></i>;</m3>
@@ -6676,8 +8528,9 @@ Bretland
 	<m3>eiga bú, <i><trn>to own an estate</trn></i>;</m3>
 	<m2>5) <i><trn>home, house</trn></i> (reið Hrútr heim til bús síns);</m2>
 	<m3>vera at <com>or</com> á búi með <p>e-m</p>, <i><trn>to live at one’s house</trn></i>.</m3>
-</entry>
-<entry word="búa">
+</word>
+<word>
+búa
 	<m1>(bý; bjó, bjoggum or bjuggum; búinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to prepare, make ready</trn></i>;</m2>
 	<m3>~ skip í för, <i><trn>to make a ship ready for a voyage</trn></i>;</m3>
@@ -6744,29 +8597,37 @@ Bretland
 	<m3>lítill búkr býr yfir miklu viti, <i><trn>little body holds mickle wit</trn></i>;</m3>
 	<m3>~ yfir brögðum, flærð ok vélum, <i><trn>to brood over tricks, falsehood, and deceit</trn></i>;</m3>
 	<m2>10) <p>refl.</p>, <ref>~st</ref>.</m2>
-</entry>
-<entry word="búagrettur">
+</word>
+<word>
+búagrettur
 	<m1><p>f.</p> <p>pl.</p> <i><trn>qutirrel between neighbours</trn></i>.</m1>
-</entry>
-<entry word="búakviðr">
+</word>
+<word>
+búakviðr
 	<m1><p>m.</p> <i><trn>verdict of neighbours</trn></i>.</m1>
-</entry>
-<entry word="búakvöð">
+</word>
+<word>
+búakvöð
 	<m1><p>f.</p> <i><trn>summoning of neighbours</trn></i>.</m1>
-</entry>
-<entry word="búandi">
+</word>
+<word>
+búandi
 	<m1>(<p>pl.</p> búendr), <p>m.</p> = <ref>bóndi</ref>.</m1>
-</entry>
-<entry word="búandkarl">
+</word>
+<word>
+búandkarl
 	<m1><p>m.</p> <i><trn>farmer</trn></i> (karl eða þorpari).</m1>
-</entry>
-<entry word="búandligr">
+</word>
+<word>
+búandligr
 	<m1><p>a.</p> <i><trn>peasantlike, stout, sturdy</trn></i>.</m1>
-</entry>
-<entry word="búandmaðr">
+</word>
+<word>
+búandmaðr
 	<m1><p>m.</p> = <ref>bóndi</ref>.</m1>
-</entry>
-<entry word="búast">
+</word>
+<word>
+búast
 	<m1><p>v. refl.</p> <i><trn>to make oneself ready, get ready</trn></i> (bjuggust þeir at riða austr);</m1>
 	<m2>~ ferðar sinnar, <i><trn>to make oneself ready for a journey</trn></i>; = ~ at fara (~ ór Þrándheimi; ~ út til Íslands, ~ á land upp);</m2>
 	<m2>bjuggust þeir fóstbrœðr í hernað, <i><trn>they prepared to go on a freebooting trip</trn></i>;</m2>
@@ -6777,11 +8638,13 @@ Bretland
 	<m2>~ (vel, kristiliga) við dauða sínum, <i><trn>to prepare for one’s death</trn></i>;</m2>
 	<m2>~ við vetri, <i><trn>to provide for the winter</trn></i>;</m2>
 	<m2><p>absol.</p>, ~ við, <i><trn>to make preparations</trn></i> (nú ríða hér úvinir þínir at þér; skaltu svá við ~, <i><trn>get ready to meet them</trn></i>).</m2>
-</entry>
-<entry word="búavirðing">
+</word>
+<word>
+búavirðing
 	<m1><p>f.</p> <i><trn>a fixing compensation by verdict of neighbours</trn></i> (búar).</m1>
-</entry>
-<entry word="búð">
+</word>
+<word>
+búð
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p></m2>
 	<m3>1) <i><trn>temporary dwellings booth</trn></i>;</m3>
@@ -6794,163 +8657,214 @@ Bretland
 	<m2>(= búið, búit), used as <p>adv.</p>, <i><trn>may be</trn></i>;</m2>
 	<m3>~ svá sé til ætlat, <i><trn>may be, it will come so to happen</trn></i>;</m3>
 	<m3>~ eigi hendi hann slíka úgiptu í annat sinn, <i><trn>may be he will not have such misfortune again</trn></i>.</m3>
-</entry>
-<entry word="búðardvöl">
+</word>
+<word>
+búðardvöl
 	<m1><p>f.</p> <i><trn>dwelling in a booth</trn></i>.</m1>
-</entry>
-<entry word="búðardyrr">
+</word>
+<word>
+búðardyrr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>door of a booth</trn></i>.</m1>
-</entry>
-<entry word="búðargögn">
+</word>
+<word>
+búðargögn
 	<m1><p>n.</p> <p>pl.</p> <i><trn>utensils of a booth</trn></i>.</m1>
-</entry>
-<entry word="búðarhamarr">
+</word>
+<word>
+búðarhamarr
 	<m1><p>m.</p> <i><trn>a rock upon which a booth is erected</trn></i>.</m1>
-</entry>
-<entry word="búðarketill">
+</word>
+<word>
+búðarketill
 	<m1><p>m.</p> <i><trn>booth kettle</trn></i>.</m1>
-</entry>
-<entry word="búðarkviðr">
+</word>
+<word>
+búðarkviðr
 	<m1><p>m.</p> <i><trn>a sort of verdict given by the inmates of a booth</trn></i>.</m1>
-</entry>
-<entry word="búðarlið">
+</word>
+<word>
+búðarlið
 	<m1><p>n.</p> <i><trn>the inmates of a booth</trn></i>.</m1>
-</entry>
-<entry word="búðarmaðr">
+</word>
+<word>
+búðarmaðr
 	<m1><p>m.</p> <i><trn>inmate of a booth</trn></i>.</m1>
-</entry>
-<entry word="búðarnagli">
+</word>
+<word>
+búðarnagli
 	<m1><p>m.</p> <i><trn>booth-peg</trn></i>.</m1>
-</entry>
-<entry word="búðarrúm">
+</word>
+<word>
+búðarrúm
 	<m1><p>n.</p> <i><trn>lodging in a booth</trn></i> (biðja, kveðja <p>e-n</p> ~s).</m1>
-</entry>
-<entry word="búðarsund">
+</word>
+<word>
+búðarsund
 	<m1><p>n.</p> <i><trn>passage, lane between two booths</trn></i>.</m1>
-</entry>
-<entry word="búðartopt">
+</word>
+<word>
+búðartopt
 	<m1><p>f.</p> <i><trn>the walls of a (deserted) booth</trn></i>.</m1>
-</entry>
-<entry word="búðarveggr">
+</word>
+<word>
+búðarveggr
 	<m1><p>m.</p> <i><trn>the wall of a booth</trn></i>.</m1>
-</entry>
-<entry word="búðarverðr">
+</word>
+<word>
+búðarverðr
 	<m1><p>m.</p> = <ref>búðarvörðr</ref>.</m1>
-</entry>
-<entry word="búðarvirki">
+</word>
+<word>
+búðarvirki
 	<m1><p>n.</p> <i><trn>a fortification round a booth</trn></i>.</m1>
-</entry>
-<entry word="búðarvist">
+</word>
+<word>
+búðarvist
 	<m1><p>f.</p> <i><trn>lodging in a booth</trn></i> (hafa ~ með <p>e-m</p>).</m1>
-</entry>
-<entry word="búðarvörðr">
+</word>
+<word>
+búðarvörðr
 	<m1>(<p>gen.</p> búðarvarðar), <p>m.</p></m1>
 	<m2>1) <i><trn>cooking, cookery</trn></i>;</m2>
 	<m3>halda búðarvörð, <i><trn>to take care of the cookery</trn></i>;</m3>
 	<m2>2) <i><trn>food, meat</trn></i>;</m2>
 	<m3>eigi hafða ek þína veðra mér til búðarvarðar, <i><trn>the rams of my flock I have not eaten</trn></i>;</m3>
 	<m3>ráða til búðarvarðar, <i><trn>to prepare for a meal</trn></i>.</m3>
-</entry>
-<entry word="búðseta">
+</word>
+<word>
+búðseta
 	<m1><p>f.</p> <i><trn>living in a cottage</trn></i>.</m1>
-</entry>
-<entry word="búðsetumaðr">
+</word>
+<word>
+búðsetumaðr
 	<m1><p>m.</p> <i><trn>cottager</trn></i> (þeir eru búðsetumenn en eigi bœndr).</m1>
-</entry>
-<entry word="búðunautr">
+</word>
+<word>
+búðunautr
 	<m1><p>m.</p> <i><trn>fellowinmate of, companion in, a booth</trn></i>.</m1>
-</entry>
-<entry word="búendr">
+</word>
+<word>
+búendr
 	<m1>from <ref>búandi</ref>, <i><trn>franklin</trn></i>.</m1>
-</entry>
-<entry word="búfar">
+</word>
+<word>
+búfar
 	<m1><p>n.</p> <i><trn>household condition</trn></i>.</m1>
-</entry>
-<entry word="búfé">
+</word>
+<word>
+búfé
 	<m1><p>n.</p> <i><trn>live stock, <p>esp.</p> the milch kine</trn></i>.</m1>
-</entry>
-<entry word="búfellir">
+</word>
+<word>
+búfellir
 	<m1><p>m.</p> <i><trn>starvation of livestock</trn></i>.</m1>
-</entry>
-<entry word="búfénaðr">
+</word>
+<word>
+búfénaðr
 	<m1><p>m.</p> = <ref>búfé</ref>.</m1>
-</entry>
-<entry word="búferill">
+</word>
+<word>
+búferill
 	<m1>(<p>pl.</p> ferlar), <p>m.</p> <i><trn>mover of one’s household</trn></i>.</m1>
-</entry>
-<entry word="búferli">
+</word>
+<word>
+búferli
 	<m1><p>n.</p> <i><trn>chattels belonging to a household</trn></i>; fara ferli sínu, <i><trn>to remove, change one’s household and home</trn></i>; <p>esp.</p> <i><trn>live stock</trn></i>; hafði hann með sér skuldalið <i><trn>(dependants, family)</trn></i> ok ferli <i><trn>(live stock)</trn></i>.</m1>
-</entry>
-<entry word="búferski">
+</word>
+<word>
+búferski
 	<m1><p>n.</p> <i><trn>domestic or household utensils</trn></i>.</m1>
-</entry>
-<entry word="búfjárábyrgð">
+</word>
+<word>
+búfjárábyrgð
 	<m1><p>f.</p> <i><trn>responsibility for</trn></i> <ref>búfé</ref>.</m1>
-</entry>
-<entry word="búfjáreyrir">
+</word>
+<word>
+búfjáreyrir
 	<m1><p>m.</p> <i><trn>value in live stock</trn></i>.</m1>
-</entry>
-<entry word="búfjárfóðr">
+</word>
+<word>
+búfjárfóðr
 	<m1><p>n.</p> <i><trn>food for cattle</trn></i>.</m1>
-</entry>
-<entry word="búfjárgangr">
+</word>
+<word>
+búfjárgangr
 	<m1><p>m.</p> = <ref>búfjárhagar</ref>.</m1>
-</entry>
-<entry word="búfjárhagar">
+</word>
+<word>
+búfjárhagar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>pasturefields on an estate</trn></i>, <p>esp.</p> <i><trn>the homepastures</trn></i>.</m1>
-</entry>
-<entry word="búfjárhagr">
+</word>
+<word>
+búfjárhagr
 	<m1><p>m.</p> <i><trn>condition of the live stock</trn></i>.</m1>
-</entry>
-<entry word="búfjárhald">
+</word>
+<word>
+búfjárhald
 	<m1><p>n.</p> <i><trn>keeping of live stock</trn></i>.</m1>
-</entry>
-<entry word="búfjárlaust">
+</word>
+<word>
+búfjárlaust
 	<m1><p>a.</p> <p>n.</p> <i><trn>without live stock</trn></i> (búa laust).</m1>
-</entry>
-<entry word="búfjárleiga">
+</word>
+<word>
+búfjárleiga
 	<m1><p>f.</p> <i><trn>rent of live stock</trn></i>.</m1>
-</entry>
-<entry word="búfjármatr">
+</word>
+<word>
+búfjármatr
 	<m1><p>m.</p> <i><trn>food for cattle, stores of fodder</trn></i>.</m1>
-</entry>
-<entry word="búfjárvegr">
+</word>
+<word>
+búfjárvegr
 	<m1><p>m.</p> <i><trn>cattle track</trn></i>.</m1>
-</entry>
-<entry word="búfœrsla">
+</word>
+<word>
+búfœrsla
 	<m1><p>f.</p> <i><trn>removing of one’s household</trn></i>.</m1>
-</entry>
-<entry word="búföng">
+</word>
+<word>
+búföng
 	<m1><p>n.</p> <p>pl.</p> <i><trn>household necessaries</trn></i>.</m1>
-</entry>
-<entry word="búgagn">
+</word>
+<word>
+búgagn
 	<m1><p>n.</p> <i><trn>household utensil</trn></i>, = <ref>búsgagn</ref>.</m1>
-</entry>
-<entry word="búgarðr">
+</word>
+<word>
+búgarðr
 	<m1><p>m.</p> <i><trn>farm</trn></i> (<p>esp.</p> a big one).</m1>
-</entry>
-<entry word="búgørð">
+</word>
+<word>
+búgørð
 	<m1><p>f.</p> <i><trn>making a household in a place</trn></i>.</m1>
-</entry>
-<entry word="búhagi">
+</word>
+<word>
+búhagi
 	<m1><p>m.</p> <i><trn>pasture</trn></i>.</m1>
-</entry>
-<entry word="búhlífð">
+</word>
+<word>
+búhlífð
 	<m1><p>f.</p> <i><trn>a saving of household provisions</trn></i>.</m1>
-</entry>
-<entry word="búhlutir">
+</word>
+<word>
+búhlutir
 	<m1><p>m.</p> <p>pl.</p> <i><trn>implements of husbandry</trn></i>.</m1>
-</entry>
-<entry word="búhlutr">
+</word>
+<word>
+búhlutr
 	<m1><p>m.</p> <i><trn>an implement of husbandry</trn></i>.</m1>
-</entry>
-<entry word="búhöfn">
+</word>
+<word>
+búhöfn
 	<m1><p>f.</p> <i><trn>pasture-field</trn></i>.</m1>
-</entry>
-<entry word="búhögg">
+</word>
+<word>
+búhögg
 	<m1><p>n.</p> <i><trn>slaughtering of cattle</trn></i>.</m1>
-</entry>
-<entry word="búi">
+</word>
+<word>
+búi
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>dweller, inhabitant</trn></i>, <p>esp.</p> in <p>compds.</p> (<ref>berg~</ref>, hellis~, <ref>ein~</ref>);</m2>
 	<m3>helvítis búar, <i><trn>inhabitants of hell</trn></i>;</m3>
@@ -6958,14 +8872,17 @@ Bretland
 	<m2>2) <i><trn>neighbour</trn></i> = <ref>ná~</ref> (Steinólfr ~ hans);</m2>
 	<m2>3) a law term, <i><trn>neighbour acting as juror</trn></i>;</m2>
 	<m3>kveðja búa, <i><trn>to summon the neighbours</trn></i>.</m3>
-</entry>
-<entry word="búigriðungr">
+</word>
+<word>
+búigriðungr
 	<m1><p>m.</p> <i><trn>bull kept at the mountain-dairy</trn></i>, opp. to <ref>heimagriðungr</ref>.</m1>
-</entry>
-<entry word="búimaðr">
+</word>
+<word>
+búimaðr
 	<m1><p>m.</p> <i><trn>neighbour-man</trn></i>.</m1>
-</entry>
-<entry word="búinn">
+</word>
+<word>
+búinn
 	<m1><p>pp.</p> (cf. <ref>búa</ref>),</m1>
 	<m2>1) <i><trn>prepared, fit, adapted</trn></i>;</m2>
 	<m3>ek em gamall ok lítt til ~ at <i><trn>(little fit to)</trn></i> hefna sona minna;</m3>
@@ -6984,290 +8901,379 @@ Bretland
 	<m3>þér skulut ganga með vápnum, en berjast eigi svá búit, <i><trn>not fight as yet</trn></i>;</m3>
 	<m3>at svá búnu, <i><trn>as matters stand</trn></i> (hann kvaðst ekki fýsast til Íslands at svá búnu); <i><trn>at present, as yet</trn></i> (þenna draum segjum vér engum at svá búnu);</m3>
 	<m3>við svo búit, <i><trn>thus, things being so</trn></i> (þeir skildu við svá búit).</m3>
-</entry>
-<entry word="búkarl">
+</word>
+<word>
+búkarl
 	<m1><p>m.</p> <i><trn>farmer</trn></i>, = <ref>búandkarl</ref>.</m1>
-</entry>
-<entry word="búkdigr">
+</word>
+<word>
+búkdigr
 	<m1><p>a.</p> <i><trn>thickset (in body)</trn></i>.</m1>
-</entry>
-<entry word="búketill">
+</word>
+<word>
+búketill
 	<m1><p>m.</p> <i><trn>large ketlle</trn></i>.</m1>
-</entry>
-<entry word="búkostr">
+</word>
+<word>
+búkostr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>household provisions, stores</trn></i>;</m2>
 	<m2>2) <i><trn>livelihood, trade</trn></i> (er þat ~ þeirra ok skemtan at sœkja sjóinn).</m2>
-</entry>
-<entry word="búkot">
+</word>
+<word>
+búkot
 	<m1><p>n.</p> <i><trn>small farm, cottage</trn></i>.</m1>
-</entry>
-<entry word="búkr">
+</word>
+<word>
+búkr
 	<m1>(-s, -ar), <p>m.</p></m1>
 	<m2>1) <i><trn>body, trunk</trn></i>, <p>esp.</p> <i><trn>the trunk without the head</trn></i>;</m2>
 	<m2>2) <i><trn>belly</trn></i>, = <ref>kviðr</ref>.</m2>
-</entry>
-<entry word="búkreki">
+</word>
+<word>
+búkreki
 	<m1><p>m.</p> <i><trn>skin or leather bag (for holding liquids)</trn></i>.</m1>
-</entry>
-<entry word="búlag">
+</word>
+<word>
+búlag
 	<m1><p>n.</p> <i><trn>joint housekeeping</trn></i>.</m1>
-</entry>
-<entry word="búland">
+</word>
+<word>
+búland
 	<m1><p>n.</p> <i><trn>home land</trn></i>.</m1>
-</entry>
-<entry word="búlauss">
+</word>
+<word>
+búlauss
 	<m1><p>a.</p> <i><trn>having no household</trn></i>.</m1>
-</entry>
-<entry word="búleiga">
+</word>
+<word>
+búleiga
 	<m1><p>f.</p> <i><trn>rent of cattle</trn></i>.</m1>
-</entry>
-<entry word="búlkabrún">
+</word>
+<word>
+búlkabrún
 	<m1><p>f.</p> <i><trn>the estate of the</trn></i> <ref>búlki</ref>.</m1>
-</entry>
-<entry word="búlkastokkar">
+</word>
+<word>
+búlkastokkar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>the bulwark</trn></i> fencing the <ref>búlki</ref> in the middle of the ship.</m1>
-</entry>
-<entry word="búlki">
+</word>
+<word>
+búlki
 	<m1><p>m.</p> <i><trn>cargo</trn></i> (stowed in the middle of the ship, cf. fyrir framan or aptan búlka); binda búlka, <i><trn>to bind bulk, cover in the hold</trn></i>; leysa (rjúfa, brjóta) búlka, <i><trn>to break bulk</trn></i>.</m1>
-</entry>
-<entry word="búmaðr">
+</word>
+<word>
+búmaðr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>husbandman, farmer</trn></i> (~ sáði akr sinn);</m2>
 	<m2>2) = <ref>búsýslumaðr</ref>; ~ mikill, <i><trn>a skilled, stirring, husbandman</trn></i>.</m2>
-</entry>
-<entry word="búmissa">
+</word>
+<word>
+búmissa
 	<m1><p>f.</p> <i><trn>loss in stock</trn></i>.</m1>
-</entry>
-<entry word="búnaðr">
+</word>
+<word>
+búnaðr
 	<m1>(<p>gen.</p> -ar), <p>m.</p></m1>
 	<m2>1) <i><trn>household, housekeeping</trn></i>; reisa, setja búnað = reisa, gøra bú, <i><trn>to set up a household</trn></i>; fara búnaði sínum = fara búferli, <i><trn>to remove one’s household</trn></i>;</m2>
 	<m2>2) <i><trn>equipment, dress</trn></i>, = <ref>búningr</ref>;</m2>
 	<m2>3) <i><trn>preparations</trn></i> (for a voyage, freebooting expedition, etc.);</m2>
 	<m2>4) = <ref>búningr</ref> 4.</m2>
-</entry>
-<entry word="búnaðrbálkr">
+</word>
+<word>
+búnaðrbálkr
 	<m1><p>m.</p> <i><trn>the section of the law about household matters</trn></i>.</m1>
-</entry>
-<entry word="búnaðrmaðr">
+</word>
+<word>
+búnaðrmaðr
 	<m1><p>m.</p> = <ref>búmaðr</ref>.</m1>
-</entry>
-<entry word="búnaðrmunr">
+</word>
+<word>
+búnaðrmunr
 	<m1><p>m.</p> = <ref>búningsmunr</ref>.</m1>
-</entry>
-<entry word="búnautn">
+</word>
+<word>
+búnautn
 	<m1><p>f.</p>, in the phrase, til nautnar, <i><trn>for household use</trn></i>.</m1>
-</entry>
-<entry word="búningr">
+</word>
+<word>
+búningr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>dress, attire</trn></i>;</m2>
 	<m2>2) equipment of a ship (reiði ok ~);</m2>
 	<m2>3) <i><trn>the dressing and arrangement of a table</trn></i>;</m2>
 	<m2>4) <i><trn>ornaments</trn></i> (kyrtill með búningi).</m2>
-</entry>
-<entry word="búningsbót">
+</word>
+<word>
+búningsbót
 	<m1><p>f.</p> <i><trn>improvement in dress</trn></i>.</m1>
-</entry>
-<entry word="búningslauss">
+</word>
+<word>
+búningslauss
 	<m1><p>a.</p> <i><trn>without ornaments</trn></i>.</m1>
-</entry>
-<entry word="búningsmunr">
+</word>
+<word>
+búningsmunr
 	<m1><p>m.</p> <i><trn>deference in apparel</trn></i>.</m1>
-</entry>
-<entry word="búnyt">
+</word>
+<word>
+búnyt
 	<m1><p>f.</p> <i><trn>milk of sheep and cattle</trn></i>.</m1>
-</entry>
-<entry word="búnytprestr">
+</word>
+<word>
+búnytprestr
 	<m1><p>m.</p> <i><trn>a priest having a homestead or farm</trn></i>.</m1>
-</entry>
-<entry word="búr">
+</word>
+<word>
+búr
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>women’s apartment</trn></i>;</m2>
 	<m2>2) <i><trn>pantry</trn></i> (búr þat er konur hafa matreiðu í);</m2>
 	<m2>3) <i><trn>storehouse</trn></i>.</m2>
-</entry>
-<entry word="búrakki">
+</word>
+<word>
+búrakki
 	<m1><p>m.</p> <i><trn>farmdog</trn></i>.</m1>
-</entry>
-<entry word="búráð">
+</word>
+<word>
+búráð
 	<m1><p>n.</p> <i><trn>household management</trn></i>.</m1>
-</entry>
-<entry word="búrán">
+</word>
+<word>
+búrán
 	<m1><p>n.</p> <i><trn>a kind of robbery, theft</trn></i> (to the amount of <i><trn>three cows</trn></i> at least or <i><trn>three cows’ value</trn></i>).</m1>
-</entry>
-<entry word="búrbrot">
+</word>
+<word>
+búrbrot
 	<m1><p>n.</p> <i><trn>breaking into a pantry</trn></i>.</m1>
-</entry>
-<entry word="búrdyrr">
+</word>
+<word>
+búrdyrr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>pantrydoor</trn></i>.</m1>
-</entry>
-<entry word="búrhilla">
+</word>
+<word>
+búrhilla
 	<m1><p>f.</p> <i><trn>pantryshelf</trn></i>.</m1>
-</entry>
-<entry word="búrhringr">
+</word>
+<word>
+búrhringr
 	<m1><p>m.</p> <i><trn>the door ring</trn></i> of a <ref>búrhurð</ref>.</m1>
-</entry>
-<entry word="búrhundr">
+</word>
+<word>
+búrhundr
 	<m1><p>m.</p> <i><trn>watchdog, at a storehouse</trn></i>.</m1>
-</entry>
-<entry word="búrhurð">
+</word>
+<word>
+búrhurð
 	<m1><p>f.</p> <i><trn>the door of a</trn></i> <ref>búr</ref>.</m1>
-</entry>
-<entry word="búrhvalr">
+</word>
+<word>
+búrhvalr
 	<m1><p>m.</p> <i><trn>a sort of whale, cachalot</trn></i> (?).</m1>
-</entry>
-<entry word="búrisna">
+</word>
+<word>
+búrisna
 	<m1><p>f.</p> <i><trn>munificent or hospitable housekeeping</trn></i>.</m1>
-</entry>
-<entry word="búrlykill">
+</word>
+<word>
+búrlykill
 	<m1><p>m.</p> <i><trn>pantrykey</trn></i>.</m1>
-</entry>
-<entry word="búrshringr">
+</word>
+<word>
+búrshringr
 	<m1><p>m.</p> = <ref>búrhringr</ref>.</m1>
-</entry>
-<entry word="búrshurð">
+</word>
+<word>
+búrshurð
 	<m1><p>f.</p> = <ref>búrhurð</ref>.</m1>
-</entry>
-<entry word="búsafleifar">
+</word>
+<word>
+búsafleifar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>remains of stores</trn></i>.</m1>
-</entry>
-<entry word="búsefni">
+</word>
+<word>
+búsefni
 	<m1><p>n.</p> <p>pl.</p> <i><trn>household goods</trn></i>.</m1>
-</entry>
-<entry word="búsfar">
+</word>
+<word>
+búsfar
 	<m1><p>n.</p> = <ref>búfar</ref>.</m1>
-</entry>
-<entry word="búsforráð">
+</word>
+<word>
+búsforráð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>management of household affairs</trn></i>, = <ref>búráð</ref> (taka til forráða = taka við búráðum).</m1>
-</entry>
-<entry word="búsgagn">
+</word>
+<word>
+búsgagn
 	<m1><p>n.</p> = <ref>búgagn</ref>.</m1>
-</entry>
-<entry word="búsgørð">
+</word>
+<word>
+búsgørð
 	<m1><p>f.</p> = <ref>búgørð</ref>.</m1>
-</entry>
-<entry word="búshlutir">
+</word>
+<word>
+búshlutir
 	<m1><p>m.</p> <p>pl.</p> = <ref>búhlutir</ref>.</m1>
-</entry>
-<entry word="búshœgindi">
+</word>
+<word>
+búshœgindi
 	<m1><p>n.</p> <p>pl.</p> <i><trn>help towards keeping a household</trn></i>.</m1>
-</entry>
-<entry word="búsifjar">
+</word>
+<word>
+búsifjar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>relations between neighbours</trn></i>; góðar ~, <i><trn>good neighborhood</trn></i>; var illa í sifjum þeirra, <i><trn>they were not on good terms as neighbours</trn></i>; veita em þúngar sifjar, <i><trn>to be a troublesome neighbour to one</trn></i>.</m1>
-</entry>
-<entry word="búskerfi">
+</word>
+<word>
+búskerfi
 	<m1><p>n.</p> <i><trn>household utensils</trn></i>, = <ref>búferski</ref>.</m1>
-</entry>
-<entry word="búskjóla">
+</word>
+<word>
+búskjóla
 	<m1><p>f.</p> <i><trn>milkpail</trn></i>.</m1>
-</entry>
-<entry word="búskortr">
+</word>
+<word>
+búskortr
 	<m1><p>m.</p> <i><trn>failure of stores</trn></i>.</m1>
-</entry>
-<entry word="búskylft">
+</word>
+<word>
+búskylft
 	<m1><p>a.</p> <p>n.</p>, hafa skylft, <i><trn>to have an expensive household</trn></i>.</m1>
-</entry>
-<entry word="búslitsmaðr">
+</word>
+<word>
+búslitsmaðr
 	<m1><p>m.</p> <i><trn>a</trn></i> <ref>bóndi</ref> <i><trn>without homestead</trn></i> (cf. slíta búi sínu).</m1>
-</entry>
-<entry word="búsmali">
+</word>
+<word>
+búsmali
 	<m1><p>m.</p> <i><trn>cattle</trn></i>, <p>esp.</p> <i><trn>milch cows</trn></i>.</m1>
-</entry>
-<entry word="bústaðr">
+</word>
+<word>
+bústaðr
 	<m1><p>m.</p> <i><trn>dwelling place, abode</trn></i>; taka sér stað, <i><trn>to fix one’s abode</trn></i>.</m1>
-</entry>
-<entry word="bústilskipan">
+</word>
+<word>
+bústilskipan
 	<m1><p>f.</p> <i><trn>settling of a household</trn></i>.</m1>
-</entry>
-<entry word="bústjórn">
+</word>
+<word>
+bústjórn
 	<m1><p>f.</p> <i><trn>management of household affairs</trn></i>.</m1>
-</entry>
-<entry word="bústýra">
+</word>
+<word>
+bústýra
 	<m1><p>f.</p> <i><trn>a female housekeeper</trn></i>.</m1>
-</entry>
-<entry word="búsumsvif">
+</word>
+<word>
+búsumsvif
 	<m1><p>n.</p> <p>pl.</p> <i><trn>household cares</trn></i>.</m1>
-</entry>
-<entry word="búsumsýsla">
+</word>
+<word>
+búsumsýsla
 	<m1><p>f.</p> <i><trn>managment of a</trn></i> <ref>bú</ref>.</m1>
-</entry>
-<entry word="búsýsla">
+</word>
+<word>
+búsýsla
 	<m1><p>f.</p> <i><trn>household business</trn></i>.</m1>
-</entry>
-<entry word="búsýslumaðr">
+</word>
+<word>
+búsýslumaðr
 	<m1><p>m.</p> = <ref>búmaðr</ref> (~ mikill).</m1>
-</entry>
-<entry word="búverk">
+</word>
+<word>
+búverk
 	<m1><p>n.</p> <i><trn>dairy work</trn></i> (milking, churning and the like).</m1>
-</entry>
-<entry word="búþegn">
+</word>
+<word>
+búþegn
 	<m1><p>m.</p> <i><trn>husbandman</trn></i> (bœndr ok þegnar); illr þegn, <i><trn>a bad</trn></i> (evil) <i><trn>husbandman</trn></i>.</m1>
-</entry>
-<entry word="bygð">
+</word>
+<word>
+bygð
 	<m1><p>f.</p></m1>
 	<m2>1) colonization (frá Íslands ~);</m2>
 	<m2>2) abode, habitation; setja, hefja ~ sína es staðar, <i><trn>to fix one’s abode in a place</trn></i>; fœra ~ sína, <i><trn>to remove</trn></i>; banna (lofa, leyfi) em ~, <i><trn>to forbid (allow) one to settle in a place</trn></i>;</m2>
 	<m2>3) <i><trn>inhabited land or district</trn></i>, opp. to ‘úbygðir’, <i><trn>deserts</trn></i>.</m2>
-</entry>
-<entry word="bygðarfleygr">
-	</entry>
-<entry word="bygðarfleyttr">
+</word>
+<word>
+bygðarfleygr
+</word>
+<word>
+bygðarfleyttr
 	<m1><p>a.</p> <i><trn>rumoured through the district</trn></i>.</m1>
-</entry>
-<entry word="bygðarlag">
+</word>
+<word>
+bygðarlag
 	<m1><p>n.</p> <i><trn>district, neighbourhood</trn></i>; taka sér lag í em stað, <i><trn>to settle in a place</trn></i>.</m1>
-</entry>
-<entry word="bygðarlagsmaðr">
+</word>
+<word>
+bygðarlagsmaðr
 	<m1><p>m.</p> <i><trn>inhabitant of a district</trn></i>.</m1>
-</entry>
-<entry word="bygðarland">
+</word>
+<word>
+bygðarland
 	<m1><p>n.</p> <i><trn>land for settling on</trn></i>; taka sér land es staðar, <i><trn>to settle in a place</trn></i>.</m1>
-</entry>
-<entry word="bygðarleyfl">
+</word>
+<word>
+bygðarleyfl
 	<m1><p>n.</p> <i><trn>leave to settle</trn></i>.</m1>
-</entry>
-<entry word="bygðarlýðr">
+</word>
+<word>
+bygðarlýðr
 	<m1><p>m.</p> <i><trn>inhabitants of a district</trn></i>.</m1>
-</entry>
-<entry word="bygðarmenn">
+</word>
+<word>
+bygðarmenn
 	<m1><p>m.</p> <p>pl.</p> <i><trn>inhabitants of a district</trn></i>.</m1>
-</entry>
-<entry word="bygðarrómr">
+</word>
+<word>
+bygðarrómr
 	<m1><p>m.</p> <i><trn>rumour going about in the neighbourhood</trn></i>.</m1>
-</entry>
-<entry word="bygðarstefna">
+</word>
+<word>
+bygðarstefna
 	<m1><p>f.</p> <i><trn>districtmeeting</trn></i>.</m1>
-</entry>
-<entry word="bygðfleygr">
-	</entry>
-<entry word="bygðfleyttr">
+</word>
+<word>
+bygðfleygr
+</word>
+<word>
+bygðfleyttr
 	<m1><p>a.</p> = <ref>bygðarfleyttr</ref>.</m1>
-</entry>
-<entry word="bygg">
+</word>
+<word>
+bygg
 	<m1><p>n.</p> <i><trn>barley</trn></i>.</m1>
-</entry>
-<entry word="byggbrauð">
+</word>
+<word>
+byggbrauð
 	<m1><p>n.</p> <i><trn>barley bread</trn></i>.</m1>
-</entry>
-<entry word="bygghjálmr">
+</word>
+<word>
+bygghjálmr
 	<m1><p>m.</p> <i><trn>barley rick</trn></i>.</m1>
-</entry>
-<entry word="bygghlaða">
+</word>
+<word>
+bygghlaða
 	<m1><p>f.</p> <i><trn>barley barn</trn></i>.</m1>
-</entry>
-<entry word="bygghleifr">
+</word>
+<word>
+bygghleifr
 	<m1><p>m.</p> <i><trn>barley loaf</trn></i>.</m1>
-</entry>
-<entry word="bygghús">
+</word>
+<word>
+bygghús
 	<m1><p>n.</p> = hlaða.</m1>
-</entry>
-<entry word="byggiligr">
+</word>
+<word>
+byggiligr
 	<m1><p>a.</p> <i><trn>habitable</trn></i>.</m1>
-</entry>
-<entry word="bygging">
+</word>
+<word>
+bygging
 	<m1><p>f.</p> <i><trn>letting out land for rent</trn></i> (~ jarðar).</m1>
-</entry>
-<entry word="byggja">
+</word>
+<word>
+byggja
 	<m1><b>I)</b></m1>
 	<m2>(-ða, -ðr), <p>v.</p>, older form <ref>byggva</ref>;</m2>
 	<m3>1) <i><trn>to settle in a place, as colonist</trn></i>; sumar þat, er þeir Ingólfr fóru at ~ Ísland, <i><trn>when I went out to settle in Iceland</trn></i>; Ingólfr bygði fyrstr landit, <i><trn>was the first settler</trn></i>; <p>absol.</p>, Helgi bygði norðr í Eyjafirði, <i><trn>settled in E.</trn></i>;</m3>
@@ -7279,97 +9285,126 @@ Bretland
 	<m3>1) <i><trn>to let out</trn></i> (konungr má ~ almenning hverjum sem hann vill); nú byggir maðr dýrra <i><trn>(lets out at a higher rent)</trn></i> en vandi hefir á verit;</m3>
 	<m3>2) <i><trn>to lend money at interest</trn></i> (engi skal ~ dautt fé á leigu); Hrútr bygði allt féit, <i><trn>H. put all the money out at interest</trn></i>;</m3>
 	<m3>3) ~ frændsemi, sifjar, <i><trn>to enter into a marriage with a relation or one allied by by marriage</trn></i> (in such or such degree); þat var bannat at ~ svá náit at frændsemi, <i><trn>intermarriage between so near relations was forbidden</trn></i>.</m3>
-</entry>
-<entry word="byggjandi">
+</word>
+<word>
+byggjandi
 	<m1>(<p>pl.</p> jendr), <p>m.</p> <i><trn>an inhabitant</trn></i> (borgin ok byggjendr hennar).</m1>
-</entry>
-<entry word="byggmjöl">
+</word>
+<word>
+byggmjöl
 	<m1><p>n.</p> <i><trn>barleymeal</trn></i>.</m1>
-</entry>
-<entry word="byggsáð">
+</word>
+<word>
+byggsáð
 	<m1><p>n.</p> <i><trn>barley-seed</trn></i>.</m1>
-</entry>
-<entry word="byggva">
+</word>
+<word>
+byggva
 	<m1><p>v.</p>, older form for <ref>byggja</ref>.</m1>
-</entry>
-<entry word="bylgja">
+</word>
+<word>
+bylgja
 	<m1>(<p>gen.</p> <p>pl.</p> bylgna), <p>f.</p> <i><trn>billow</trn></i>.</m1>
-</entry>
-<entry word="bylgjugangr">
+</word>
+<word>
+bylgjugangr
 	<m1><p>m.</p> <i><trn>swells sea</trn></i>.</m1>
-</entry>
-<entry word="bylgnagangr">
+</word>
+<word>
+bylgnagangr
 	<m1><p>m.</p> = <ref>bylgjugangr</ref>.</m1>
-</entry>
-<entry word="bylja">
+</word>
+<word>
+bylja
 	<m1>(bylr, buldi, bulit), <p>v.</p> <i><trn>to resound, roar</trn></i> (buldi í hömrunum).</m1>
-</entry>
-<entry word="byljóttr">
+</word>
+<word>
+byljóttr
 	<m1><p>a.</p> <i><trn>gusty</trn></i> (veðr nökkut byljótt).</m1>
-</entry>
-<entry word="bylmingr">
+</word>
+<word>
+bylmingr
 	<m1><p>m.</p> <i><trn>a sort of bread</trn></i>.</m1>
-</entry>
-<entry word="bylr">
+</word>
+<word>
+bylr
 	<m1>(<p>pl.</p> -ir, <p>dat.</p> -jum), <p>m.</p> <i><trn>squall, gust of wind</trn></i>; þá er býlirnir kómu, <i><trn>when the squalls came along</trn></i>.</m1>
-</entry>
-<entry word="byrð">
+</word>
+<word>
+byrð
 	<m1><p>f.</p> <i><trn>birth, descent</trn></i> (rare).</m1>
-</entry>
-<entry word="byrða">
+</word>
+<word>
+byrða
 	<m1><b>I)</b></m1>
 	<m2>(rða, rðr), <p>v.</p> <i><trn>to weave in</trn></i> (figures).</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> <i><trn>a large box or bin</trn></i>.</m2>
-</entry>
-<entry word="byrði">
+</word>
+<word>
+byrði
 	<m1><p>n.</p> <i><trn>board (side) of a ship</trn></i>.</m1>
-</entry>
-<entry word="byrðingr">
+</word>
+<word>
+byrðingr
 	<m1><p>m.</p> <i><trn>merchant-ship</trn></i>.</m1>
-</entry>
-<entry word="byrðingsmaðr">
+</word>
+<word>
+byrðingsmaðr
 	<m1><p>m.</p> <i><trn>a merchant seaman</trn></i>.</m1>
-</entry>
-<entry word="byrðingssegl">
+</word>
+<word>
+byrðingssegl
 	<m1><p>n.</p> <i><trn>the sail of a</trn></i> <ref>byrðingr</ref>.</m1>
-</entry>
-<entry word="byrðr">
+</word>
+<word>
+byrðr
 	<m1>(-ar, -ar), <p>f.</p> <i><trn>burden, load</trn></i>.</m1>
-</entry>
-<entry word="byrfall">
+</word>
+<word>
+byrfall
 	<m1><p>n.</p> <i><trn>dropping of a breeze</trn></i>.</m1>
-</entry>
-<entry word="byrgi">
+</word>
+<word>
+byrgi
 	<m1><b>I)</b> <p>n.</p> <i><trn>enclosure, fence</trn></i>.</m1>
 	<m1><b>II)</b> from <ref>bjarga</ref>.</m1>
-</entry>
-<entry word="byrging">
+</word>
+<word>
+byrging
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>closing, shutting up</trn></i>;</m2>
 	<m2>2) <i><trn>close, conclusion, end</trn></i>.</m2>
-</entry>
-<entry word="byrgiskona">
-	</entry>
-<entry word="hjákona">
-	</entry>
-<entry word="lagskona">
-	</entry>
-<entry word="launkona">
+</word>
+<word>
+byrgiskona
+</word>
+<word>
+hjákona
+</word>
+<word>
+lagskona
+</word>
+<word>
+launkona
 	<m1><p>f.</p> <i><trn>concubine</trn></i>.</m1>
-</entry>
-<entry word="byrgismaðr">
+</word>
+<word>
+byrgismaðr
 	<m1><p>m.</p> <i><trn>paramour</trn></i>.</m1>
-</entry>
-<entry word="byrgisskapr">
+</word>
+<word>
+byrgisskapr
 	<m1><p>m.</p> <i><trn>concubinage</trn></i>.</m1>
-</entry>
-<entry word="byrgja">
+</word>
+<word>
+byrgja
 	<m1>(-ða, -ðr), <p>v.</p></m1>
 	<m2>1) <i><trn>to close, shut</trn></i> (~ dyrr eða vindaugu); ~ sinn munn, <i><trn>to shut the mouth</trn></i>; ~ aptr húsit, <i><trn>to close the house</trn></i>; ~ en inni, <i><trn>to shut one in</trn></i> (í húsum); fig. <i><trn>to outwit one</trn></i> (~ en inni fyrir vitsmuna sakir); ~ et fyrir em, <i><trn>to exclude one from</trn></i>; ~ en úti, <i><trn>to shut one out</trn></i>; ~ et úti, <i><trn>to prevent, preclude</trn></i> (~ úti váða);</m2>
 	<m2>2) ~ <p>e-t</p> með skömmu máli, <i><trn>to comprise it within a small compass</trn></i>.</m2>
-</entry>
-<entry word="byrja">
+</word>
+<word>
+byrja
 	<m1><b>I)</b></m1>
 	<m2>(að), <p>v.</p></m2>
 	<m3>1) <i><trn>to originate</trn></i> (ór himninum ~st öll gœzka);</m3>
@@ -7385,238 +9420,308 @@ Bretland
 	<m3>sem þeim ~ði at manntali, <i><trn>in due proportion to their number</trn></i>.</m3>
 	<m1><b>III)</b></m1>
 	<m2>(að), <p>v.</p> <p>impers.</p>, em ~r vel (illa), <i><trn>one gets fair (foul) wind</trn></i> (~ði þeim vel um haustit).</m2>
-</entry>
-<entry word="byrjanligr">
+</word>
+<word>
+byrjanligr
 	<m1><p>a.</p> <i><trn>that is to begin</trn></i>.</m1>
-</entry>
-<entry word="byrjargol">
+</word>
+<word>
+byrjargol
 	<m1><p>n.</p> <i><trn>gentle breeze</trn></i>.</m1>
-</entry>
-<entry word="byrla">
+</word>
+<word>
+byrla
 	<m1>(að), <p>v.</p> <i><trn>to pour out</trn></i>; ~r hann í hornin <i><trn>he fills out the cups</trn></i>; with <p>dat.</p>, <i><trn>to serve</trn></i> (a cup) <i><trn>to one</trn></i> (Snjófrið byriaði ker mjaðar fullt konungi).</m1>
-</entry>
-<entry word="byrlari">
-	</entry>
-<entry word="skenkjari">
-	</entry>
-<entry word="vínbyrli">
+</word>
+<word>
+byrlari
+</word>
+<word>
+skenkjari
+</word>
+<word>
+vínbyrli
 	<m1><p>m.</p> <i><trn>cup-bearer</trn></i>.</m1>
-</entry>
-<entry word="byrleiði">
+</word>
+<word>
+byrleiði
 	<m1><p>n.</p> <i><trn>favourable wind</trn></i> (fá gott ~).</m1>
-</entry>
-<entry word="byrléttr">
+</word>
+<word>
+byrléttr
 	<m1><p>a.</p> <i><trn>gently blowing</trn></i>.</m1>
-</entry>
-<entry word="byrleysa">
+</word>
+<word>
+byrleysa
 	<m1><p>f.</p> <i><trn>lack of a fair wind</trn></i>.</m1>
-</entry>
-<entry word="byrli">
+</word>
+<word>
+byrli
 	<m1><p>m.</p> = <ref>byrlari</ref>.</m1>
-</entry>
-<entry word="byrligr">
+</word>
+<word>
+byrligr
 	<m1><p>a.</p> <i><trn>promising a fair wind</trn></i> (því at ekki er byrligt);</m1>
 	<m2>ekki ~ draumr, <i><trn>a bad dream</trn></i>.</m2>
-</entry>
-<entry word="byrligrlítill">
+</word>
+<word>
+byrligrlítill
 	<m1><p>a.</p> <i><trn>faintly blowing with fair wind</trn></i>.</m1>
-</entry>
-<entry word="byrr">
+</word>
+<word>
+byrr
 	<m1>(-jar, -ir), <p>m.</p> <i><trn>fair wind</trn></i>;</m1>
 	<m2><p>e-m</p> gefr vel byri (<p>acc.</p> <p>pl.</p>), <i><trn>one gets a fair wind</trn></i>;</m2>
 	<m2>bíða byrjar, liggja til byrjar, <i><trn>to wait, lie by, for a fair wind</trn></i>;</m2>
 	<m2>~ rennr á, <i><trn>a fair breeze begins to blow</trn></i>;</m2>
 	<m2>~ tekr at vaxa, <i><trn>the wind freshens</trn></i>.</m2>
-</entry>
-<entry word="byrsta">
+</word>
+<word>
+byrsta
 	<m1>(-sta, -str), <p>v.</p></m1>
 	<m2>1) <i><trn>to furnish with bristles</trn></i>;</m2>
 	<m2>2) <i><trn>to cover as with bristles</trn></i>; borg gulli byrst, <i><trn>with the gablehead mounted with gold</trn></i>;</m2>
 	<m2>3) <p>refl.</p>, ~st, <i><trn>to bristle up, to show anger</trn></i>.</m2>
-</entry>
-<entry word="byrstr">
+</word>
+<word>
+byrstr
 	<m1><p>pp.</p> <i><trn>set with bristles</trn></i>; fig. <i><trn>exasperated</trn></i>.</m1>
-</entry>
-<entry word="byrsæll">
+</word>
+<word>
+byrsæll
 	<m1><p>a.</p> <i><trn>lucky in getting fair wind</trn></i>.</m1>
-</entry>
-<entry word="byrvænligr">
-	</entry>
-<entry word="byrvænn">
+</word>
+<word>
+byrvænligr
+</word>
+<word>
+byrvænn
 	<m1><p>a.</p> <i><trn>promising a fair wind</trn></i>.</m1>
-</entry>
-<entry word="bysja">
+</word>
+<word>
+bysja
 	<m1>(busti), <p>v.</p> <i><trn>to gush</trn></i> (busti blóð á brímis eggjar).</m1>
-</entry>
-<entry word="bytna">
+</word>
+<word>
+bytna
 	<m1>(að), <p>v.</p> <i><trn>to come to the bottom</trn></i>.</m1>
-</entry>
-<entry word="bytta">
+</word>
+<word>
+bytta
 	<m1><p>f.</p> <i><trn>small tub, pail, bucket</trn></i>.</m1>
-</entry>
-<entry word="byttuaustr">
+</word>
+<word>
+byttuaustr
 	<m1><p>m.</p> <i><trn>baling</trn></i> (a ship) <i><trn>with buckets</trn></i>.</m1>
-</entry>
-<entry word="byxa">
+</word>
+<word>
+byxa
 	<m1>(-ta, -t), <p>v.</p>, ~ sér, <i><trn>to jump</trn></i> (síðan byxti hann sér á sjóinn).</m1>
-</entry>
-<entry word="byxing">
+</word>
+<word>
+byxing
 	<m1><p>f.</p> <i><trn>violent tossing</trn></i>.</m1>
-</entry>
-<entry word="bý">
+</word>
+<word>
+bý
 	<m1><b>I)</b> <p>n.</p> <i><trn>bee</trn></i>.</m1>
 	<m1><b>II)</b> from <ref>búa</ref>.</m1>
-</entry>
-<entry word="býfluga">
+</word>
+<word>
+býfluga
 	<m1><p>f.</p> = <ref>bý</ref>.</m1>
-</entry>
-<entry word="býflygi">
+</word>
+<word>
+býflygi
 	<m1><p>n.</p> = býflugur.</m1>
-</entry>
-<entry word="býfur">
+</word>
+<word>
+býfur
 	<m1><p>f.</p> <p>pl.</p> <i><trn>clumsy feet</trn></i>;</m1>
 	<m2>rétta ~, <i><trn>to stretch out the legs</trn></i>.</m2>
-</entry>
-<entry word="býjar">
-	</entry>
-<entry word="bœjar">
+</word>
+<word>
+býjar
+</word>
+<word>
+bœjar
 	<m1>from <ref>bœr</ref>, <ref>býr</ref>, <i><trn>tawn</trn></i>.</m1>
-</entry>
-<entry word="býr">
+</word>
+<word>
+býr
 	<m1>(-jar, -ir), <p>m.</p> = <ref>bœr</ref>.</m1>
-</entry>
-<entry word="býsn">
+</word>
+<word>
+býsn
 	<m1><p>n.</p> and <p>f.</p> <i><trn>wonder, portent</trn></i> (þetta eru stór ~).</m1>
-</entry>
-<entry word="býsna">
+</word>
+<word>
+býsna
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to bode, portend</trn></i> (þetta ~r tjón ok sorg);</m2>
 	<m2>2) ~ skal til batnaðar, <i><trn>things must run to an extreme before they get better</trn></i>.</m2>
-</entry>
-<entry word="býsnaveðra">
+</word>
+<word>
+býsnaveðra
 	<m1><p>n.</p> <i><trn>portentious weather</trn></i>.</m1>
-</entry>
-<entry word="býsnavetr">
+</word>
+<word>
+býsnavetr
 	<m1><p>m.</p> <i><trn>a winter off portents</trn></i>.</m1>
-</entry>
-<entry word="býstokkr">
+</word>
+<word>
+býstokkr
 	<m1><p>m.</p> <i><trn>bee-hive</trn></i>.</m1>
-</entry>
-<entry word="býta">
+</word>
+<word>
+býta
 	<m1>(-tta, -tt), <p>v.</p></m1>
 	<m2>1) <i><trn>to deal out</trn></i> (býtti Hrafn silfrinu);</m2>
 	<m2>2) <i><trn>to exchange</trn></i> (býttum við jörðum okkar).</m2>
-</entry>
-<entry word="býti">
-	</entry>
-<entry word="umkaup">
-	</entry>
-<entry word="umkeypi">
+</word>
+<word>
+býti
+</word>
+<word>
+umkaup
+</word>
+<word>
+umkeypi
 	<m1><p>n.</p> <i><trn>exchange, barter</trn></i>.</m1>
-</entry>
-<entry word="bæði">
+</word>
+<word>
+bæði
 	<m1><b>I)</b> (<p>n.</p> dual from <ref>báðir</ref>, used as), <p>conj.</p>,</m1>
 	<m2>1) ~ … ok, <i><trn>both … and</trn></i>;</m2>
 	<m3>~ vitr ok framgjarn, <i><trn>both wise and bold</trn></i>;</m3>
 	<m3>~ at lærdómi ok vitrleik ok atgervi, <i><trn>both in learning, and wisdom, and accomplishments</trn></i>;</m3>
 	<m2>2) ~ … enda, <i><trn>both … and also, and indeed</trn></i>.</m2>
 	<m1><b>II)</b> from <ref>biðja</ref>.</m1>
-</entry>
-<entry word="bægifótr">
+</word>
+<word>
+bægifótr
 	<m1><p>m.</p> <i><trn>‘lame-foot’</trn></i>, a nickname of one who was <ref>haltr</ref>.</m1>
-</entry>
-<entry word="bæging">
+</word>
+<word>
+bæging
 	<m1><p>f.</p> <i><trn>thwarting</trn></i>.</m1>
-</entry>
-<entry word="bæginn">
+</word>
+<word>
+bæginn
 	<m1><p>a.</p> <i><trn>cross-grained</trn></i>.</m1>
-</entry>
-<entry word="bægja">
+</word>
+<word>
+bægja
 	<m1>(-ða, -t), <p>v.</p></m1>
 	<m2>1) <i><trn>to make one give way, to fish</trn></i>, with <p>dat.</p>; ~ skipi ór lægi, <i><trn>to push the ship from her moorings</trn></i>; ~ heraðsvist, <i><trn>to remove from the district</trn></i>; honum bægði veðr ok bar hann til eyja þeirra er Syllingar heita, <i><trn>the weather drove him out of his course and he was carried to the Scilly Islands</trn></i>;</m2>
 	<m2>2) <i><trn>to hinder</trn></i> (ef eigi ~ nauðsyniar þeirra);</m2>
 	<m2>3) <p>refl.</p>, ~st við en, <i><trn>to quarrel or strive with one</trn></i> (þá vill hann eigi við þá ~st).</m2>
-</entry>
-<entry word="bæla">
+</word>
+<word>
+bæla
 	<m1>(-da, -dr), <p>v.</p> <i><trn>to consume by fire</trn></i> (brenna ok ~).</m1>
-</entry>
-<entry word="bælki">
+</word>
+<word>
+bælki
 	<m1>from <ref>bálkr</ref>, <i><trn>bulk, partition</trn></i>.</m1>
-</entry>
-<entry word="bæra">
+</word>
+<word>
+bæra
 	<m1>(-ði, -t), <p>v.</p> <p>impers.</p>, gekk áin undir þat þá er meirr bærði, <i><trn>when the waves</trn></i> (bárur) <i><trn>rose higher</trn></i>.</m1>
-</entry>
-<entry word="bæriligr">
+</word>
+<word>
+bæriligr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>able to be carried</trn></i> (~ á herðum);</m2>
 	<m2>2) <i><trn>fit, seemly</trn></i>.</m2>
-</entry>
-<entry word="bærr">
+</word>
+<word>
+bærr
 	<m1><p>a.</p> <i><trn>entitled to</trn></i>; ~ er hverr at ráða sínu, <i><trn>every one has a right to dispose of his own property</trn></i>.</m1>
-</entry>
-<entry word="bæsa">
+</word>
+<word>
+bæsa
 	<m1>(-ta, -tr), <p>v.</p> <i><trn>to drive cattle into the stall</trn></i> (= <ref>bása</ref>).</m1>
-</entry>
-<entry word="bæsingr">
+</word>
+<word>
+bæsingr
 	<m1><p>m.</p> (<i><trn>one born in a</trn></i> báss), <i><trn>a child of an outlawed mother</trn></i>.</m1>
-</entry>
-<entry word="bœgi">
+</word>
+<word>
+bœgi
 	<m1>from <ref>bógr</ref>, <i><trn>shoulder</trn></i>.</m1>
-</entry>
-<entry word="bœjarbiskup">
+</word>
+<word>
+bœjarbiskup
 	<m1><p>m.</p> <i><trn>town bishop</trn></i>.</m1>
-</entry>
-<entry word="bœjarbruni">
+</word>
+<word>
+bœjarbruni
 	<m1><p>m.</p> <i><trn>burning of a town</trn></i> or <i><trn>farm-house</trn></i>.</m1>
-</entry>
-<entry word="bœjarbygð">
+</word>
+<word>
+bœjarbygð
 	<m1><p>f.</p> <i><trn>town-district</trn></i>.</m1>
-</entry>
-<entry word="bœjarfólk">
+</word>
+<word>
+bœjarfólk
 	<m1><p>n.</p> = bœjarmenn.</m1>
-</entry>
-<entry word="bœjargjald">
+</word>
+<word>
+bœjargjald
 	<m1><p>n.</p> <i><trn>townrate</trn></i>.</m1>
-</entry>
-<entry word="bœjarlýðr">
+</word>
+<word>
+bœjarlýðr
 	<m1><p>m.</p> = <ref>bœjarmenn</ref>.</m1>
-</entry>
-<entry word="bœjarlögmaðr">
+</word>
+<word>
+bœjarlögmaðr
 	<m1><p>m.</p> <i><trn>town-justice</trn></i>.</m1>
-</entry>
-<entry word="bœjarmaðr">
+</word>
+<word>
+bœjarmaðr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>inhabitant of a town</trn></i>;</m2>
 	<m3><com>see</com> <ref>bœjarmenn</ref>;</m3>
 	<m2>2) <i><trn>citizen</trn></i>.</m2>
-</entry>
-<entry word="bœjarmenn">
+</word>
+<word>
+bœjarmenn
 	<m1><p>m.</p> <p>pl.</p> (<com>see</com> <ref>bœjarmaðr</ref>) <i><trn>townsfolk, townsmen</trn></i>.</m1>
-</entry>
-<entry word="bœjarseta">
+</word>
+<word>
+bœjarseta
 	<m1><p>f.</p> <i><trn>dwelling (stay) in town</trn></i>.</m1>
-</entry>
-<entry word="bœjarstarf">
+</word>
+<word>
+bœjarstarf
 	<m1><p>n.</p> <i><trn>town office</trn></i>.</m1>
-</entry>
-<entry word="bœjarsýsla">
+</word>
+<word>
+bœjarsýsla
 	<m1><p>f.</p> <i><trn>town office</trn></i>.</m1>
-</entry>
-<entry word="bœkiskógr">
+</word>
+<word>
+bœkiskógr
 	<m1><p>m.</p> <i><trn>beech-wood</trn></i> (svín er ganga í bœkiskógi).</m1>
-</entry>
-<entry word="bœklingr">
+</word>
+<word>
+bœklingr
 	<m1><p>m.</p> <i><trn>little book, booklet</trn></i>.</m1>
-</entry>
-<entry word="bœkr">
+</word>
+<word>
+bœkr
 	<m1>from <ref>bók</ref>, <i><trn>book</trn></i>.</m1>
-</entry>
-<entry word="bœli">
+</word>
+<word>
+bœli
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>den, lair</trn></i>;</m2>
 	<m2>2) <i><trn>farm, dwelling</trn></i>.</m2>
-</entry>
-<entry word="bœn">
+</word>
+<word>
+bœn
 	<m1>(<p>pl.</p> -ir), <p>f.</p> <i><trn>request, prayer</trn></i>;</m1>
 	<m2>er sú ~ allra vár, at, <i><trn>we all beg, that</trn></i>;</m2>
 	<m2>skaltu veita mér ~ þá <i><trn>(grant me the request)</trn></i>, er ek mun biðja þik;</m2>
@@ -7625,71 +9730,91 @@ Bretland
 	<m2>vera (liggja) í ~um, <i><trn>to be at prayers</trn></i>;</m2>
 	<m2>biðja ~ sinni, ~ar sinnar til guðs, <i><trn>to pray to God</trn></i>;</m2>
 	<m2>góðr ~a, <i><trn>ready or willing to grant a request</trn></i> (konungr var góðr ~a).</m2>
-</entry>
-<entry word="bœna">
+</word>
+<word>
+bœna
 	<m1>(-da, -dr), <p>v.</p> <i><trn>to request, entreat, pray</trn></i> (~ <p>e-n</p>).</m1>
-</entry>
-<entry word="bœnafullting">
+</word>
+<word>
+bœnafullting
 	<m1><p>n.</p> <i><trn>the support of prayers</trn></i>.</m1>
-</entry>
-<entry word="bœnagørð">
+</word>
+<word>
+bœnagørð
 	<m1><p>f.</p> = <ref>bœnahald</ref>.</m1>
-</entry>
-<entry word="bœnahald">
+</word>
+<word>
+bœnahald
 	<m1><p>n.</p> <i><trn>(saying) prayers</trn></i> (H. gekk hverja nótt til kirkju til ~s).</m1>
-</entry>
-<entry word="bœnahaldsmaðr">
+</word>
+<word>
+bœnahaldsmaðr
 	<m1><p>m.</p> <i><trn>one who prays, religious man</trn></i> (~ mikill).</m1>
-</entry>
-<entry word="bœnahús">
+</word>
+<word>
+bœnahús
 	<m1><p>n.</p> = <ref>bœnhús</ref>.</m1>
-</entry>
-<entry word="bœnakall">
+</word>
+<word>
+bœnakall
 	<m1><p>n.</p> <i><trn>calling upon</trn></i> (God) <i><trn>in prayer</trn></i>.</m1>
-</entry>
-<entry word="bœnakraptr">
+</word>
+<word>
+bœnakraptr
 	<m1><p>m.</p> <i><trn>power of prayer</trn></i>.</m1>
-</entry>
-<entry word="bœnarbréf">
+</word>
+<word>
+bœnarbréf
 	<m1><p>n.</p> <i><trn>petition</trn></i>.</m1>
-</entry>
-<entry word="bœnarorð">
+</word>
+<word>
+bœnarorð
 	<m1><p>n.</p> <p>pl.</p></m1>
 	<m2>1) <i><trn>entreaty, prayer</trn></i>;</m2>
 	<m2>2) <i><trn>wooing courtship</trn></i>.</m2>
-</entry>
-<entry word="bœnarstaðr">
+</word>
+<word>
+bœnarstaðr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>place of worship</trn></i>;</m2>
 	<m2>2) <i><trn>request, entreaty</trn></i> (þat er ~ minn til allrar alþýðu, at).</m2>
-</entry>
-<entry word="bœnartími">
+</word>
+<word>
+bœnartími
 	<m1><p>m.</p> <i><trn>hour of prayers</trn></i>.</m1>
-</entry>
-<entry word="bœnastaðr">
+</word>
+<word>
+bœnastaðr
 	<m1><p>m.</p></m1>
 	<m2>1) = <ref>bœnarstaðr</ref> 1.;</m2>
 	<m2>2) = <ref>bœnarstaðr</ref> 2.; á því er mér ~, at, <i><trn>I beg, that</trn></i>; gera et fyrir bœnastað <p>e-s</p>, <i><trn>to do a thing at one’s intercession</trn></i>.</m2>
-</entry>
-<entry word="bœnatraust">
+</word>
+<word>
+bœnatraust
 	<m1><p>n.</p> <i><trn>confidence in one’s prayer or intercession</trn></i> (fela sik undir ~ <p>e-s</p>).</m1>
-</entry>
-<entry word="bœnbifast">
+</word>
+<word>
+bœnbifast
 	<m1>(að), <p>v. refl.</p> <i><trn>to be moved by prayers</trn></i>.</m1>
-</entry>
-<entry word="bœndr">
+</word>
+<word>
+bœndr
 	<m1>from <ref>bóndi</ref>, <i><trn>franklin</trn></i>.</m1>
-</entry>
-<entry word="bœnheyrðr">
+</word>
+<word>
+bœnheyrðr
 	<m1><p>pp.</p> <i><trn>willing to hear one’s prayers</trn></i>; (gørast ~ við <p>e-n</p>).</m1>
-</entry>
-<entry word="bœnhús">
+</word>
+<word>
+bœnhús
 	<m1><p>n.</p> <i><trn>house of prayer, chapel</trn></i>.</m1>
-</entry>
-<entry word="bœnrœkinn">
+</word>
+<word>
+bœnrœkinn
 	<m1><p>a.</p> <i><trn>diligent in prayer</trn></i>.</m1>
-</entry>
-<entry word="bœr">
+</word>
+<word>
+bœr
 	<m1>(<p>gen.</p> bœjar, <p>pl.</p> -ir, <p>dat.</p> -jum), <p>m.</p></m1>
 	<m2>1) <i><trn>farmhouse, farmstead</trn></i>;</m2>
 	<m3>reisa, gøra, setja bœ, efna til bœjar, <i><trn>to build a farmstead</trn></i>;</m3>
@@ -7697,8 +9822,9 @@ Bretland
 	<m2>3) <i><trn>town</trn></i>;</m2>
 	<m3>í bœ ok í heraði = í kaupangri ok í heraði;</m3>
 	<m3>borgir ok bœir, <i><trn>castles and towns</trn></i>.</m3>
-</entry>
-<entry word="bœta">
+</word>
+<word>
+bœta
 	<m1>(-tta, -ttr), <p>v.</p></m1>
 	<m2>1) <i><trn>to better, improve</trn></i> (ár þær, sem mikit ~ landit);</m2>
 	<m3>~ ráð sitt <i><trn>(to better one’s condition)</trn></i> ok biðja konu;</m3>
@@ -7719,102 +9845,129 @@ Bretland
 	<m3>guð bœtti honum af þessi sótt, <i><trn>God healed him of his disease</trn></i>; with <p>gen.</p> of the disease;</m3>
 	<m3>~ <p>e-m</p> sinnar vanheilsu, <i><trn>to restore one to health</trn></i>;</m3>
 	<m3><p>refl.</p>, <p>e-m</p> bœtist, <i><trn>one gets better, is restored to health</trn></i>; with <p>gen.</p> of the disease (bœttist Búa augnaverkjarins).</m3>
-</entry>
-<entry word="bœtandi">
+</word>
+<word>
+bœtandi
 	<m1>(<p>pl.</p> -endr), <p>m.</p> <i><trn>one who has to pay weregild</trn></i>.</m1>
-</entry>
-<entry word="bœtr">
+</word>
+<word>
+bœtr
 	<m1>from <ref>bót</ref>, <i><trn>remedy</trn></i>.</m1>
-</entry>
-<entry word="bœttr">
+</word>
+<word>
+bœttr
 	<m1><p>pp.</p> (cf. <ref>bœta</ref>) <i><trn>atoned for</trn></i>; er mér ekki sonr minn at bœttari, þótt Bolli sé drepinn, <i><trn>my son’s death is none the more atoned for though B. is slain</trn></i>; ok er eigi at ~a, þótt, <i><trn>things are no better though</trn></i>.</m1>
-</entry>
-<entry word="bœxl">
+</word>
+<word>
+bœxl
 	<m1><p>n.</p> shoulder of a dragon, flipper of a whale.</m1>
-</entry>
-<entry word="böð">
+</word>
+<word>
+böð
 	<m1>(<p>gen.</p> böðvar), <p>f.</p> <p>poet.</p> <i><trn>battle</trn></i>.</m1>
-</entry>
-<entry word="böðfrœkinn">
+</word>
+<word>
+böðfrœkinn
 	<m1><p>a.</p> <i><trn>valiant in battle, warlike</trn></i>.</m1>
-</entry>
-<entry word="böðvast">
+</word>
+<word>
+böðvast
 	<m1>(að), <p>v. refl.</p> <i><trn>to become quarrelsome</trn></i> (böðvaðist at víni).</m1>
-</entry>
-<entry word="böggull">
+</word>
+<word>
+böggull
 	<m1><p>m.</p> <i><trn>a small bag, bundle</trn></i>, a nickname.</m1>
-</entry>
-<entry word="bök">
+</word>
+<word>
+bök
 	<m1>from <ref>bak</ref>, <i><trn>back</trn></i>.</m1>
-</entry>
-<entry word="böl">
+</word>
+<word>
+böl
 	<m1>(<p>dat.</p> bölvi; <p>gen.</p> <p>pl.</p> bölva), <p>n.</p> <i><trn>bale, misfortune</trn></i> (þá er bótin næst, er bölit er hæst).</m1>
-</entry>
-<entry word="bölbœn">
-	</entry>
-<entry word="fyrirbón">
+</word>
+<word>
+bölbœn
+</word>
+<word>
+fyrirbón
 	<m1><p>f.</p> <i><trn>imprecation</trn></i>.</m1>
-</entry>
-<entry word="bölfengi">
+</word>
+<word>
+bölfengi
 	<m1><p>f.</p> <i><trn>malice</trn></i>.</m1>
-</entry>
-<entry word="bölfenginn">
+</word>
+<word>
+bölfenginn
 	<m1><p>a.</p> <i><trn>evil minded</trn></i>.</m1>
-</entry>
-<entry word="böllóttr">
+</word>
+<word>
+böllóttr
 	<m1><p>a.</p> <i><trn>ballshaped, round like a ball</trn></i> (böllótt eggskurn).</m1>
-</entry>
-<entry word="böllr">
+</word>
+<word>
+böllr
 	<m1>(<p>gen.</p> ballar, <p>dat.</p> belli; <p>pl.</p> bellir, <p>acc.</p> böllu), <p>m.</p></m1>
 	<m2>1) <i><trn>ball, globe</trn></i> (~ jarðar);</m2>
 	<m2>2) ~ svínfylkingar, <i><trn>the front of a phalanx</trn></i>.</m2>
-</entry>
-<entry word="bölrann">
+</word>
+<word>
+bölrann
 	<m1><p>n.</p> <i><trn>house of woe</trn></i>.</m1>
-</entry>
-<entry word="bölrannstafir">
+</word>
+<word>
+bölrannstafir
 	<m1><p>m.</p> <p>pl.</p> <i><trn>‘evil’ runes, misfortune</trn></i>.</m1>
-</entry>
-<entry word="bölva">
+</word>
+<word>
+bölva
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to curse</trn></i>, with <p>dat.</p></m2>
 	<m2>2) <i><trn>to swear</trn></i>.</m2>
-</entry>
-<entry word="bölvafullr">
+</word>
+<word>
+bölvafullr
 	<m1><p>a.</p> <i><trn>hapless, cursed</trn></i>.</m1>
-</entry>
-<entry word="bölvasmiðr">
+</word>
+<word>
+bölvasmiðr
 	<m1><p>m.</p> <i><trn>the contriver of mischief, Loki</trn></i>.</m1>
-</entry>
-<entry word="bölvíss">
+</word>
+<word>
+bölvíss
 	<m1><p>a.</p> <i><trn>‘balewise’, malignant, mischievious</trn></i>.</m1>
-</entry>
-<entry word="bönd">
+</word>
+<word>
+bönd
 	<m1>from <ref>band</ref>, <i><trn>bond</trn></i>.</m1>
-</entry>
-<entry word="börð">
+</word>
+<word>
+börð
 	<m1>from <ref>barð</ref>, <i><trn>brim</trn></i>.</m1>
-</entry>
-<entry word="börkr">
+</word>
+<word>
+börkr
 	<m1>(<p>gen.</p> barkar, <p>dat.</p> berki), <p>m.</p> <i><trn>bark</trn></i> (á berki ok á baðmi).</m1>
-</entry>
-<entry word="börn">
+</word>
+<word>
+börn
 	<m1>from <ref>barn</ref>, <i><trn>bairn, child</trn></i>.</m1>
-</entry>
-<entry word="börr">
+</word>
+<word>
+börr
 	<m1><p>m.</p> <i><trn>a kind of tree</trn></i>;</m1>
 	<m2>~ skjaldar, <i><trn>warrior</trn></i> (<p>poet.</p>).</m2>
-</entry>
-<entry word="börur">
+</word>
+<word>
+börur
 	<m1><p>f.</p> <p>pl.</p> = <ref>barar</ref>, <ref>barir</ref>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 -brýnn
 	<m1><p>a.</p> <i><trn>-browed</trn></i> (<ref>léttbrýnn</ref>, þungbrýnn).</m1>
-</entry>
-<entry>
+</word>
+<word>
 -byggi
 	<m1>(<p>pl.</p> -byggjar), <p>m.</p> <i><trn>inhabitant</trn></i>;</m1>
 	<m2>only in <p>pl.</p> <p>compds.</p> (fram-, aptur-, stafn-, Eyr-byggjar</m2>
-</entry>
-</chapter>
+</word>

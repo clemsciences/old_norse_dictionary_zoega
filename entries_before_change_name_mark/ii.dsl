@@ -1,6 +1,5 @@
-<?xml version='1.0' encoding='utf8'?>
-<chapter>
-<entry word="í">
+<word>
+í
 	<m1><p>prep.</p></m1>
 	<m1>I. with <p>dat.</p>,</m1>
 	<m2>1) <i><trn>in, within</trn></i>; fela fé sitt í jörðu, <i><trn>to hide one’s money in the earth</trn></i>; fastir í vellinum, <i><trn>fast in the ground</trn></i>; vera í sveit, <i><trn>to live in a district</trn></i>; í öðrum löndum, <i><trn>in other lands</trn></i>;</m2>
@@ -20,297 +19,388 @@
 	<m2>3) denoting entrance into a state, condition, <i><trn>in, into</trn></i>; ganga íbönd ok eiða, <i><trn>to enter into bonds and oaths</trn></i>; falla í úvit, <i><trn>to fall into a swoom</trn></i>; taka <p>e-n</p> í frið, <i><trn>to pardon one</trn></i>; bjóða búum í setu, <i><trn>to call on the neighbours to take their seats</trn></i>;</m2>
 	<m2>4) denoting change <i><trn>into</trn></i>; skjöldrinn klofnaði í tvá hluti, <i><trn>split in two</trn></i>; brotna í spán, <i><trn>to be shivered to pieces</trn></i>; verja fé sínu í lausaeyri, <i><trn>to convert one’s property into movables</trn></i>;</m2>
 	<m2>5) denoting the object, purpose, etc.; gjalda í sonarbœtr, <i><trn>to pay as the son’s weregild</trn></i>; þiggja <p>e-t</p> vingjafir, <i><trn>to accept as a friend’s gift</trn></i>; kaupa <p>e-t</p> í skuld, <i><trn>to buy on credit</trn></i>; gøra <p>e-t</p> í hag (vil) <p>e-m</p>, <i><trn>to do something in one’s favour</trn></i>.</m2>
-</entry>
-<entry word="íblár">
+</word>
+<word>
+íblár
 	<m1><p>a.</p> <i><trn>bluish</trn></i>.</m1>
-</entry>
-<entry word="íbúa">
+</word>
+<word>
+íbúa
 	<m1><p>f.</p> <i><trn>female inmate</trn></i>.</m1>
-</entry>
-<entry word="íbúð">
+</word>
+<word>
+íbúð
 	<m1><p>f.</p> <i><trn>in-dwelling</trn></i>.</m1>
-</entry>
-<entry word="íbyggjari">
+</word>
+<word>
+íbyggjari
 	<m1><p>m.</p> <i><trn>inmate, inhabitant</trn></i>.</m1>
-</entry>
-<entry word="íð">
+</word>
+<word>
+íð
 	<m1>(<p>pl.</p> -ir), <p>f.</p> <i><trn>doing, deed</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="íendr">
+</word>
+<word>
+íendr
 	<m1><p>a.</p> <i><trn>still breathing, alive</trn></i>, opp. to <ref>ørendr</ref>.</m1>
-</entry>
-<entry word="ífang">
+</word>
+<word>
+ífang
 	<m1><p>n.</p> <i><trn>grappling with</trn></i>.</m1>
-</entry>
-<entry word="ífellt">
+</word>
+<word>
+ífellt
 	<m1><p>a.</p> <p>n.</p>, of the wind, <i><trn>filling the sails</trn></i>.</m1>
-</entry>
-<entry word="ífrá">
+</word>
+<word>
+ífrá
 	<m1><p>prep.</p>, <com>see</com> <ref>frá</ref>.</m1>
-</entry>
-<entry word="íganga">
+</word>
+<word>
+íganga
 	<m1><p>f.</p> <i><trn>undertaking, entering upon</trn></i>.</m1>
-</entry>
-<entry word="ígangr">
+</word>
+<word>
+ígangr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>beginning</trn></i>;</m2>
 	<m2>2) <i><trn>wearing of clothes</trn></i>.</m2>
-</entry>
-<entry word="ígangsklæði">
+</word>
+<word>
+ígangsklæði
 	<m1><p>n.</p> <p>pl.</p> <i><trn>wearing apparel</trn></i> (höfðu menn ~ sín).</m1>
-</entry>
-<entry word="ígildi">
+</word>
+<word>
+ígildi
 	<m1><p>n.</p> <i><trn>equivalent, equal</trn></i> (þeir þykkja vera lendra manna ~).</m1>
-</entry>
-<entry word="ígjarn">
+</word>
+<word>
+ígjarn
 	<m1><p>a.</p> <i><trn>eager for</trn></i> (<p>e-s</p>).</m1>
-</entry>
-<entry word="ígróðra">
+</word>
+<word>
+ígróðra
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>in full growth</trn></i>.</m1>
-</entry>
-<entry word="ígull">
+</word>
+<word>
+ígull
 	<m1><p>m.</p> <i><trn>sea-urchin</trn></i>.</m1>
-</entry>
-<entry word="íhlutanarmikill">
-	</entry>
-<entry word="íhlutanarsamr">
+</word>
+<word>
+íhlutanarmikill
+</word>
+<word>
+íhlutanarsamr
 	<m1><p>a.</p> <i><trn>meddlesome, interfering</trn></i>.</m1>
-</entry>
-<entry word="íhræddr">
+</word>
+<word>
+íhræddr
 	<m1><p>a.</p> <i><trn>a little timid</trn></i>.</m1>
-</entry>
-<entry word="íhuga">
+</word>
+<word>
+íhuga
 	<m1>(að), <p>v.</p> <i><trn>to consider, muse over</trn></i>.</m1>
-</entry>
-<entry word="íhugan">
+</word>
+<word>
+íhugan
 	<m1><p>f.</p> <i><trn>minding, consideraticn</trn></i>.</m1>
-</entry>
-<entry word="íhugi">
+</word>
+<word>
+íhugi
 	<m1><p>m.</p> <i><trn>minding, sympathy</trn></i>.</m1>
-</entry>
-<entry word="íhögg">
+</word>
+<word>
+íhögg
 	<m1><p>n.</p> <i><trn>striking in</trn></i>.</m1>
-</entry>
-<entry word="íkorni">
+</word>
+<word>
+íkorni
 	<m1><p>m.</p> <i><trn>squirrel</trn></i>.</m1>
-</entry>
-<entry word="íkynda">
+</word>
+<word>
+íkynda
 	<m1>(-da, -dr), <p>v.</p> <i><trn>to kindle</trn></i>;</m1>
 	<m2><p>refl.</p>, ~st, <i><trn>to be kindled, take fire</trn></i>.</m2>
-</entry>
-<entry word="ílát">
+</word>
+<word>
+ílát
 	<m1><p>n.</p> <i><trn>vessel into which a thing is put</trn></i>.</m1>
-</entry>
-<entry word="ílendast">
+</word>
+<word>
+ílendast
 	<m1>(d), <p>v. refl.</p> <i><trn>to settle in a country</trn></i>.</m1>
-</entry>
-<entry word="ílendr">
+</word>
+<word>
+ílendr
 	<m1><p>a.</p> <i><trn>settled in a place, naturalized</trn></i>.</m1>
-</entry>
-<entry word="ím">
+</word>
+<word>
+ím
 	<m1><p>n.</p> <i><trn>dust, ashes</trn></i>.</m1>
-</entry>
-<entry word="íma">
+</word>
+<word>
+íma
 	<m1><p>f.</p> <p>poet.</p> <i><trn>strife, fight, battle</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Írar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>Irishmen, the Irish</trn></i>.</m1>
-</entry>
-<entry word="írast">
+</word>
+<word>
+írast
 	<m1><p>v. refl.</p> <i><trn>to be rumoured abroad</trn></i>.</m1>
-</entry>
-<entry word="íri">
+</word>
+<word>
+íri
 	<m1><p>m.</p> <i><trn>rumour, gossip</trn></i> (rare).</m1>
-</entry>
-<entry>
+</word>
+<word>
 Írland
 	<m1><p>n.</p> <i><trn>Ireland</trn></i>.</m1>
-</entry>
-<entry word="írska">
+</word>
+<word>
+írska
 	<m1><p>f.</p> <i><trn>the Irish tongue</trn></i>.</m1>
-</entry>
-<entry word="írskr">
+</word>
+<word>
+írskr
 	<m1><p>a.</p> <i><trn>Irish</trn></i>.</m1>
-</entry>
-<entry word="ísa">
+</word>
+<word>
+ísa
 	<m1>(að), <p>v.</p> <i><trn>to cover with ice</trn></i> (íss).</m1>
-</entry>
-<entry word="ísagangr">
+</word>
+<word>
+ísagangr
 	<m1><p>m.</p> <i><trn>drifting of ice</trn></i>.</m1>
-</entry>
-<entry word="ísalauss">
+</word>
+<word>
+ísalauss
 	<m1><p>a.</p> <i><trn>ice-free</trn></i>.</m1>
-</entry>
-<entry word="ísalög">
+</word>
+<word>
+ísalög
 	<m1><p>n.</p> <p>pl.</p> <i><trn>formation or layer of ice</trn></i>.</m1>
-</entry>
-<entry word="ísarn">
+</word>
+<word>
+ísarn
 	<m1><p>n.</p> <i><trn>iron</trn></i>, = <ref>járn</ref>.</m1>
-</entry>
-<entry word="ísarnborg">
+</word>
+<word>
+ísarnborg
 	<m1><p>f.</p> <i><trn>iron plating of a ship</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="ísarnkol">
+</word>
+<word>
+ísarnkol
 	<m1><b>I)</b></m1>
 	<m2><p>n.</p> <i><trn>bellows</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>n.</p> <i><trn>iron chill or coldness</trn></i>.</m2>
-</entry>
-<entry word="ísarnkul">
+</word>
+<word>
+ísarnkul
 	<m1><p>n.</p> <i><trn>iron chill or coldness</trn></i>.</m1>
-</entry>
-<entry word="ísarnleikr">
+</word>
+<word>
+ísarnleikr
 	<m1><p>m.</p> <i><trn>battle</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="ísbrot">
+</word>
+<word>
+ísbrot
 	<m1><p>n.</p> <i><trn>broken ice</trn></i>.</m1>
-</entry>
-<entry word="ísbrún">
+</word>
+<word>
+ísbrún
 	<m1><p>f.</p> <i><trn>edge of an ice-field</trn></i>.</m1>
-</entry>
-<entry word="íshögg">
+</word>
+<word>
+íshögg
 	<m1><p>n.</p> <i><trn>ice-breaking</trn></i>.</m1>
-</entry>
-<entry word="ísjaki">
+</word>
+<word>
+ísjaki
 	<m1><p>m.</p> <i><trn>ice-floe</trn></i>.</m1>
-</entry>
-<entry word="ísjá">
+</word>
+<word>
+ísjá
 	<m1><p>f.</p> <i><trn>attention</trn></i>.</m1>
-</entry>
-<entry word="ísjáverðr">
+</word>
+<word>
+ísjáverðr
 	<m1><p>a.</p> <i><trn>worth looking into</trn></i>.</m1>
-</entry>
-<entry word="ísjón">
+</word>
+<word>
+ísjón
 	<m1><p>f.</p> <i><trn>aspect, appearance</trn></i> (þann veg er himininn ~ar).</m1>
-</entry>
-<entry word="ískaldr">
-	</entry>
-<entry word="jökulkaldr">
+</word>
+<word>
+ískaldr
+</word>
+<word>
+jökulkaldr
 	<m1><p>a.</p> <i><trn>ice-cold</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Ísland
 	<m1><p>n.</p> <i><trn>Iceland</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Íslendingr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>Icelander</trn></i>.</m1>
-</entry>
-<entry word="íslenska">
+</word>
+<word>
+íslenska
 	<m1><p>f.</p> <i><trn>the Icelandic tongue</trn></i>.</m1>
-</entry>
-<entry word="íslenskr">
+</word>
+<word>
+íslenskr
 	<m1><p>a.</p> <i><trn>Icelandic</trn></i>.</m1>
-</entry>
-<entry word="íslög">
+</word>
+<word>
+íslög
 	<m1><p>n.</p> <p>pl.</p> = ísalög.</m1>
-</entry>
-<entry word="ísmöl">
+</word>
+<word>
+ísmöl
 	<m1><p>f.</p> <i><trn>ground (broken) ice</trn></i>.</m1>
-</entry>
-<entry word="ísrek">
+</word>
+<word>
+ísrek
 	<m1><p>n.</p> <i><trn>ice-drift</trn></i>.</m1>
-</entry>
-<entry word="ísreki">
+</word>
+<word>
+ísreki
 	<m1><p>m.</p> <i><trn>ice-drift</trn></i>.</m1>
-</entry>
-<entry word="íss">
+</word>
+<word>
+íss
 	<m1>(<p>gen.</p> íss, <p>pl.</p> ísar), <p>m.</p> <i><trn>ice</trn></i>; ísa (<p>acc.</p>) leggr á vötn, <i><trn>the lakes (rivers) freeze over</trn></i>; ísa leysir, tekr af vötnum, <i><trn>the ice thaws, breaks up</trn></i>.</m1>
-</entry>
-<entry word="ístað">
+</word>
+<word>
+ístað
 	<m1>(<p>pl.</p> í-stöð), <p>n.</p> <i><trn>stirrup</trn></i>.</m1>
-</entry>
-<entry word="ístangan">
+</word>
+<word>
+ístangan
 	<m1><p>f.</p> <i><trn>instigation, pricking</trn></i>.</m1>
-</entry>
-<entry word="ístig">
+</word>
+<word>
+ístig
 	<m1><p>n.</p> = ístað.</m1>
-</entry>
-<entry word="ístr">
+</word>
+<word>
+ístr
 	<m1><p>n.</p> <i><trn>paunch-fat</trn></i>.</m1>
-</entry>
-<entry word="ístra">
+</word>
+<word>
+ístra
 	<m1><p>f.</p> <i><trn>paunch-fat</trn></i>.</m1>
-</entry>
-<entry word="ístöðulauss">
+</word>
+<word>
+ístöðulauss
 	<m1><p>a.</p> <i><trn>weak, faint-hearted</trn></i>.</m1>
-</entry>
-<entry word="ítala">
+</word>
+<word>
+ítala
 	<m1><p>f.</p> <i><trn>proportionate share in common pasture</trn></i>.</m1>
-</entry>
-<entry word="ítarligr">
+</word>
+<word>
+ítarligr
 	<m1><p>a.</p> <i><trn>fine, glorious, lordly</trn></i>.</m1>
-</entry>
-<entry word="ítr">
+</word>
+<word>
+ítr
 	<m1>(<p>acc.</p> ítran), <p>a.</p> <i><trn>glorious, excellent</trn></i>.</m1>
-</entry>
-<entry word="ítrborinn">
-	</entry>
-<entry word="ríkborinn">
-	</entry>
-<entry word="stórborinn">
-	</entry>
-<entry word="sælborinn">
+</word>
+<word>
+ítrborinn
+</word>
+<word>
+ríkborinn
+</word>
+<word>
+stórborinn
+</word>
+<word>
+sælborinn
 	<m1><p>pp.</p> <i><trn>high-born</trn></i>.</m1>
-</entry>
-<entry word="ítrhugaðr">
+</word>
+<word>
+ítrhugaðr
 	<m1><p>a.</p> <i><trn>high-mmuinded</trn></i>.</m1>
-</entry>
-<entry word="ítrlaukr">
+</word>
+<word>
+ítrlaukr
 	<m1><p>m.</p> <i><trn>beautiful leek or plant</trn></i>.</m1>
-</entry>
-<entry word="ítrmannligr">
+</word>
+<word>
+ítrmannligr
 	<m1><p>a.</p> <i><trn>of stout, noble bearing</trn></i>.</m1>
-</entry>
-<entry word="ítrskapaðr">
+</word>
+<word>
+ítrskapaðr
 	<m1><p>pp.</p> <i><trn>beautifully shaped</trn></i>.</m1>
-</entry>
-<entry word="ítrvaxinn">
+</word>
+<word>
+ítrvaxinn
 	<m1><p>pp.</p> <i><trn>of beautiful stature</trn></i>.</m1>
-</entry>
-<entry word="ítrþveginn">
+</word>
+<word>
+ítrþveginn
 	<m1><p>pp.</p> <i><trn>clean-washed, bright</trn></i> (ítrþvegnir armar).</m1>
-</entry>
-<entry word="ívera">
+</word>
+<word>
+ívera
 	<m1><p>f.</p> <i><trn>‘dwelling-in’</trn></i> (kjósa sér stað til íveru).</m1>
-</entry>
-<entry word="íviðgjarn">
+</word>
+<word>
+íviðgjarn
 	<m1><p>a.</p> <i><trn>wicked, evil</trn></i> (rare).</m1>
-</entry>
-<entry word="íviði">
+</word>
+<word>
+íviði
 	<m1><p>n.</p> (Völuspá 2)?.</m1>
-</entry>
-<entry word="íviðja">
+</word>
+<word>
+íviðja
 	<m1><p>f.</p> <i><trn>giantess, ogress</trn></i> (rare).</m1>
-</entry>
-<entry word="ívist">
+</word>
+<word>
+ívist
 	<m1><p>f.</p> = ívera; hús til ~ar, <i><trn>a house to dwell in</trn></i>.</m1>
-</entry>
-<entry word="íþrótt">
+</word>
+<word>
+íþrótt
 	<m1><p>f.</p> <i><trn>accomplishment, feat, art, skill</trn></i> (vel búinn at ~um).</m1>
-</entry>
-<entry word="íþróttalauss">
-	</entry>
-<entry word="únœfr">
-	</entry>
-<entry word="úslyngr">
+</word>
+<word>
+íþróttalauss
+</word>
+<word>
+únœfr
+</word>
+<word>
+úslyngr
 	<m1><p>a.</p> <i><trn>unskilled</trn></i>.</m1>
-</entry>
-<entry word="íþróttamaðr">
+</word>
+<word>
+íþróttamaðr
 	<m1><p>m.</p> <i><trn>one skilled in bodily exercises</trn></i>.</m1>
-</entry>
-<entry word="íþróttligr">
+</word>
+<word>
+íþróttligr
 	<m1><p>a.</p> <i><trn>skilful</trn></i>;</m1>
 	<m2>~ fimleikr, <i><trn>dexterity in feats</trn></i>.</m2>
-</entry>
-<entry word="í gegn">
+</word>
+<word>
+í gegn
 	<m1><p>prep.</p> with <p>dat.</p>, <i><trn>against</trn></i> (í gegn vindi sem forvindis);</m1>
 	<m2>í gegn eðli, <i><trn>against nature</trn></i>.</m2>
-</entry>
-<entry word="í nóg">
-	</entry>
-<entry word="nóg">
+</word>
+<word>
+í nóg
+</word>
+<word>
+nóg
 	<m1><p>adv.</p> <i><trn>enough</trn></i></m1>
-</entry>
-</chapter>
+</word>

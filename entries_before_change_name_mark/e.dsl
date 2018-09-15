@@ -1,60 +1,75 @@
-<?xml version='1.0' encoding='utf8'?>
-<chapter>
-<entry word="ebreska">
+<word>
+ebreska
 	<m1><p>f.</p> <i><trn>the Hebrew language</trn></i>.</m1>
-</entry>
-<entry word="ebreskr">
+</word>
+<word>
+ebreskr
 	<m1><p>a.</p> <i><trn>Hebraic</trn></i> (ebresk tunga).</m1>
-</entry>
-<entry word="eða">
-	</entry>
-<entry word="eðr">
+</word>
+<word>
+eða
+</word>
+<word>
+eðr
 	<m1><p>conj.</p>,</m1>
 	<m2>1) <i><trn>or</trn></i>; fyrr eða siðar, <i><trn>sooner or later</trn></i>; annathvárt … eða, <i><trn>either … or</trn></i>; hvárt … eða, <i><trn>whether (if) … or</trn></i>; hvart er … eða, <i><trn>whether … or</trn></i>;</m2>
 	<m2>2) in comparison of two unlike things, <i><trn>and</trn></i> (mikinn mun eigum vér at gera þin eða annarra heimamanna);</m2>
 	<m2>3) after a comparative, <i><trn>and perhaps</trn></i> (ek em eigi verri riddari en S. konungr, eða nökkuru betri);</m2>
 	<m2>4) introducing a question, <i><trn>but</trn></i> (ek beiti Auðgisl, — eða ertu H. vandræðaskáld?);</m2>
 	<m2>5) sometimes after a negation, = né, <i><trn>nor</trn></i> (þeir munu hvárki fyrir sjá fé sínu eða fjörvi).</m2>
-</entry>
-<entry word="edda">
+</word>
+<word>
+edda
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>great-grandmother</trn></i>;</m2>
 	<m2>2) the name of the book <i><trn>Edda</trn></i>, written by Snorri Sturluson, c. 1220.</m2>
-</entry>
-<entry word="edik">
+</word>
+<word>
+edik
 	<m1><p>n.</p> <i><trn>vinegar</trn></i>.</m1>
-</entry>
-<entry word="eðla">
+</word>
+<word>
+eðla
 	<m1><p>f.</p> <i><trn>adder, viper</trn></i>, = <ref>eyðla</ref>.</m1>
-</entry>
-<entry word="eðli">
+</word>
+<word>
+eðli
 	<m1>(in old MSS. written øðli), <p>n.</p></m1>
 	<m2>1) <i><trn>nature</trn></i>; manns ~, mannligt ~, <i><trn>human nature</trn></i>; arnar ~, <i><trn>the eagle’s nature</trn></i>; þat er í móti náttúrligu ~, <i><trn>it is against the order of nature</trn></i>;</m2>
 	<m2>2) <i><trn>origin, extraction</trn></i> (hann var valskr at ætt ok ~);</m2>
 	<m2>3) <i><trn>fœtus</trn></i> (þótti henni kviknat hafa ~ sitt).</m2>
-</entry>
-<entry word="eðliborinn">
-	</entry>
-<entry word="skírborinn">
+</word>
+<word>
+eðliborinn
+</word>
+<word>
+skírborinn
 	<m1><p>pp.</p> <i><trn>born in wedlock</trn></i>.</m1>
-</entry>
-<entry word="eðlislög">
-	</entry>
-<entry word="nattúrulög">
+</word>
+<word>
+eðlislög
+</word>
+<word>
+nattúrulög
 	<m1><p>n.</p> <p>pl.</p> <i><trn>law of nature</trn></i>.</m1>
-</entry>
-<entry word="eðlisskapan">
-	</entry>
-<entry word="eðlisskepna">
+</word>
+<word>
+eðlisskapan
+</word>
+<word>
+eðlisskepna
 	<m1><p>f.</p> <i><trn>natural condition or quality</trn></i>.</m1>
-</entry>
-<entry word="eðlisskynsemd">
+</word>
+<word>
+eðlisskynsemd
 	<m1><p>f.</p> <i><trn>native intelligence</trn></i>.</m1>
-</entry>
-<entry word="eðlvina">
+</word>
+<word>
+eðlvina
 	<m1><p>f.</p> <i><trn>friend of vipers</trn></i> (dub.).</m1>
-</entry>
-<entry word="ef">
+</word>
+<word>
+ef
 	<m1><b>I)</b></m1>
 	<m2>(older form <ref>if</ref>), <p>conj.</p></m2>
 	<m3>1) <i><trn>if, in case</trn></i> (aldri hefðir þú í borgina komit, ef ek hefða vitat); in poetry generally with subj.; vega þú gakk, ef vreiðr séir (sér), <i><trn>if thou be wroth</trn></i>;</m3>
@@ -62,59 +77,75 @@
 	<m3>3) as a relat. part., sá ef = sá er (rare).</m3>
 	<m1><b>II)</b></m1>
 	<m2><p>n.</p> <i><trn>doubt</trn></i>; ef er á <p>e-u</p>, <i><trn>it is doubtful</trn></i>; ekki er til efs, at, <i><trn>it cannot be doubted that</trn></i>; útan ef, <i><trn>without doubt</trn></i>.</m2>
-</entry>
-<entry word="efa">
+</word>
+<word>
+efa
 	<m1>(að), <p>v.</p> <i><trn>to doubt</trn></i> (engi efar þat); ~ um <p>e-t</p>, <i><trn>to doubt about a thing</trn></i>;</m1>
 	<m2><p>refl.</p>, ~st í <p>e-u</p>, <i><trn>to hesitate in, be in doubt</trn></i>; ~ um <p>e-t</p> = efa um <p>e-t</p>; with <p>gen.</p>, ~ <p>e-s</p>, <i><trn>to change one’s mind in a matter</trn></i>.</m2>
-</entry>
-<entry word="efaðsamligr">
+</word>
+<word>
+efaðsamligr
 	<m1><p>a.</p> <i><trn>doubtful</trn></i>.</m1>
-</entry>
-<entry word="efaðsemd">
+</word>
+<word>
+efaðsemd
 	<m1><p>f.</p> <i><trn>doubtfulness, uncertainty</trn></i>.</m1>
-</entry>
-<entry word="efalausliga">
+</word>
+<word>
+efalausliga
 	<m1><p>adv.</p> <i><trn>without doubt</trn></i>.</m1>
-</entry>
-<entry word="efalauss">
+</word>
+<word>
+efalauss
 	<m1><p>a.</p> <i><trn>indubitable, certain</trn></i>.</m1>
-</entry>
-<entry word="efalaust">
+</word>
+<word>
+efalaust
 	<m1><p>adv.</p> <i><trn>without doubt, certainly</trn></i>.</m1>
-</entry>
-<entry word="efan">
+</word>
+<word>
+efan
 	<m1><p>f.</p> <i><trn>doubt, doubting</trn></i>.</m1>
-</entry>
-<entry word="efanarlauss">
+</word>
+<word>
+efanarlauss
 	<m1><p>a.</p> <i><trn>undoubted</trn></i>.</m1>
-</entry>
-<entry word="efanarlaust">
+</word>
+<word>
+efanarlaust
 	<m1><p>adv.</p> <i><trn>undoubtedly, indubitably</trn></i>.</m1>
-</entry>
-<entry word="efanleikr">
+</word>
+<word>
+efanleikr
 	<m1><p>m.</p> <i><trn>doubtfulness</trn></i>; ~ sagnar, <i><trn>ambiguity of expression</trn></i>.</m1>
-</entry>
-<entry word="efanligr">
+</word>
+<word>
+efanligr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>doubtful</trn></i>;</m2>
 	<m2>2) <i><trn>hesitating, irresolute</trn></i>;</m2>
 	<m2>3) <i><trn>uncertain</trn></i> (efanligt er mannsins eðli).</m2>
-</entry>
-<entry word="efasamliga">
+</word>
+<word>
+efasamliga
 	<m1><p>adv.</p> <i><trn>doubtfully</trn></i>.</m1>
-</entry>
-<entry word="efasemd">
+</word>
+<word>
+efasemd
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>doubt</trn></i> (án ~);</m2>
 	<m2>2) <i><trn>ambiguity</trn></i> (~ andsvarsins).</m2>
-</entry>
-<entry word="efasök">
+</word>
+<word>
+efasök
 	<m1><p>f.</p> <i><trn>doubtful case</trn></i> (in law).</m1>
-</entry>
-<entry word="efja">
+</word>
+<word>
+efja
 	<m1><p>f.</p> <i><trn>mud, ooze</trn></i>.</m1>
-</entry>
-<entry word="efla">
+</word>
+<word>
+efla
 	<m1>(-da, -dr), <p>v.</p></m1>
 	<m2>1) <i><trn>to strengthen structurally, to reinforce</trn></i> (~ veggi);</m2>
 	<m3>létu þeir ~ at nýju Danavirki, <i><trn>they restored the Danish wall</trn></i>;</m3>
@@ -127,41 +158,50 @@
 	<m3>~ at brullaupi, <i><trn>to hold a wedding</trn></i>;</m3>
 	<m2>4) <i><trn>to be able</trn></i> (sem vér eflum ok orkum);</m2>
 	<m2>5) <p>refl.</p>, <ref>~st</ref>.</m2>
-</entry>
-<entry word="eflast">
+</word>
+<word>
+eflast
 	<m1><p>v. refl.</p> <i><trn>to grow strong</trn></i> (hann fann, at mótstöðumenn hans efldust);</m1>
 	<m2>~ at her, <i><trn>to gather, raise troops</trn></i>;</m2>
 	<m2>~ til ríkis, <i><trn>to win a kingdom (by force of arms)</trn></i>;</m2>
 	<m2><p>poet.</p>, ~ við <p>e-n</p>, <i><trn>to marry into one’s family</trn></i>, = <ref>mægjast</ref>.</m2>
-</entry>
-<entry word="eflaust">
+</word>
+<word>
+eflaust
 	<m1><p>adv.</p> <i><trn>undoubtedly, without doubt</trn></i> (~ má hann þat vita).</m1>
-</entry>
-<entry word="efling">
+</word>
+<word>
+efling
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>strengthening, increase in strength</trn></i>;</m2>
 	<m2>2) <i><trn>aid, support</trn></i>.</m2>
-</entry>
-<entry word="efna">
+</word>
+<word>
+efna
 	<m1><b>I)</b></m1>
 	<m2>(-da, -dr), <p>v.</p> <i><trn>to perform, fulfil</trn></i> (~ orð sín, sætt, heit);</m2>
 	<m3><p>refl.</p>, ~st, <i><trn>to turn out in a certain way</trn></i> (efndist þat ok vel; þat efnist opt illa).</m3>
 	<m1><b>II)</b></m1>
 	<m2>(að), <p>v.</p> <i><trn>to prepare, make arrangements for a thing</trn></i> (e. til vetrsetu, veizlu kaupstaðar).</m2>
-</entry>
-<entry word="efnafæð">
+</word>
+<word>
+efnafæð
 	<m1><p>f.</p> <i><trn>scarcity, want, or shortness of means</trn></i>.</m1>
-</entry>
-<entry word="efnaleysi">
+</word>
+<word>
+efnaleysi
 	<m1><p>n.</p> <i><trn>scarcity, want, or shortness of means</trn></i>.</m1>
-</entry>
-<entry word="efnaskortr">
+</word>
+<word>
+efnaskortr
 	<m1><p>m.</p> <i><trn>scarcity, want, or shortness of means</trn></i>.</m1>
-</entry>
-<entry word="efnd">
+</word>
+<word>
+efnd
 	<m1><p>f.</p> <i><trn>fulfilment of a promise</trn></i> (raun mun eptir fara um efndir).</m1>
-</entry>
-<entry word="efni">
+</word>
+<word>
+efni
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>stuff, material</trn></i> (svá skildu þeir, at allir hlutir væri smíðaðir af nökkuru efni); ek em görr af ústyrku efni, <i><trn>I am made of frail stuff</trn></i>; cf. biskups-, brúðar-, fægðar-, konu-, konungs-, mágs-, manns-, mungáts-, smíðar-efni;</m2>
 	<m2>2) <i><trn>matter of discourse, subject, theme</trn></i> (þryti mér fyrr stundin til frásagnar en efnit til umrœðu) eigi með sönnu e., <i><trn>with untrue statement, falsely</trn></i>; nú er úti mitt e., <i><trn>now my story is at an end</trn></i>;</m2>
@@ -169,17 +209,21 @@
 	<m2>4) <i><trn>cause, reason</trn></i>; látast báðir af því e., <i><trn>both die from this cause</trn></i>; fyrir þat e. <i><trn>(for that reason)</trn></i> keypti hann landit</m2>
 	<m2>5) <i><trn>state, condition, affair</trn></i>; sagði, hver e. í vóru, <i><trn>he told how matters stood</trn></i>; ek veit eigi görla e. Gunnlaugs, <i><trn>how G.’s affairs stand</trn></i>; kominn í úvænt e., <i><trn>into a critical condition</trn></i>; óttalauss í öllu e., <i><trn>in every respect</trn></i>; er þessi hlutr kom til efnis, <i><trn>when this came aboitt</trn></i>; berr þat til efnis, at, <i><trn>it happens that</trn></i>;</m2>
 	<m2>6) <p>pl.</p>, <i><trn>means</trn></i>; ok bjuggust um eptir þeim efnum, sem þeir höfðu til, <i><trn>according to their means</trn></i>; engi vóru e. annars, þar vóru engi e. önnur, <i><trn>there was no other chance or choice</trn></i>.</m2>
-</entry>
-<entry word="efniligr">
+</word>
+<word>
+efniligr
 	<m1><p>a.</p> <i><trn>hopeful, promising</trn></i> (efniligir menn); ekki efniligt, <i><trn>not advisable</trn></i>.</m1>
-</entry>
-<entry word="efning">
+</word>
+<word>
+efning
 	<m1><p>f.</p> <i><trn>keeping fulfilment</trn></i>, = <ref>efnd</ref>.</m1>
-</entry>
-<entry word="efnitré">
+</word>
+<word>
+efnitré
 	<m1><p>n.</p> <i><trn>wood-materials, timber</trn></i>.</m1>
-</entry>
-<entry word="efri">
+</word>
+<word>
+efri
 	<m1>(older form <ref>øfri</ref>), <p>a.</p> <p>compar.</p>,</m1>
 	<m2>1) <i><trn>upper</trn></i>, opp. to <ref>neðri</ref>;</m2>
 	<m3>bera efra skjöld, <i><trn>to gain the victory</trn></i>;</m3>
@@ -192,179 +236,230 @@
 	<m2>2) <i><trn>latter</trn></i>;</m2>
 	<m3>þetta var inn efra hlut sumars, <i><trn>towards the end of summer</trn></i>;</m3>
 	<m3>á efra aldri, <i><trn>advanced in years</trn></i>.</m3>
-</entry>
-<entry word="efstr">
+</word>
+<word>
+efstr
 	<m1>(older form <ref>øfstr</ref>), <p>a.</p> <p>superl.</p>,</m1>
 	<m2>1) <i><trn>uppermost</trn></i>, opp. to ‘neðstr’;</m2>
 	<m2>2) <i><trn>last</trn></i>;</m2>
 	<m3>efsti dómr, <i><trn>the last judgement</trn></i>;</m3>
 	<m3>efsta vika langaföstu, <i><trn>the last week of Lent, Passion Week</trn></i>.</m3>
-</entry>
-<entry>
+</word>
+<word>
 Egðir
 	<m1><p>m.</p> <p>pl.</p> <i><trn>the inhabitants of</trn></i> Agðir, a <ref>fylki</ref> in Norway.</m1>
-</entry>
-<entry word="egðskr">
+</word>
+<word>
+egðskr
 	<m1><p>a.</p> <i><trn>from</trn></i> Agðir.</m1>
-</entry>
-<entry word="egg">
+</word>
+<word>
+egg
 	<m1><b>I)</b></m1>
 	<m2>(<p>gen.</p> <p>pl.</p> eggja), <p>n.</p> <i><trn>egg</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(<p>gen.</p> -jar, <p>dat.</p> -ju; <p>pl.</p> -jar), <p>f.</p> edge; eyða (verja) oddi ok eggju, <i><trn>by force of arms, with might and main</trn></i>.</m2>
-</entry>
-<entry word="eggbitinn">
+</word>
+<word>
+eggbitinn
 	<m1><p>pp.</p> <i><trn>cut, wounded by an edge</trn></i>.</m1>
-</entry>
-<entry word="eggelningr">
+</word>
+<word>
+eggelningr
 	<m1><p>m.</p> <i><trn>a scythe having an ell-long edge</trn></i>.</m1>
-</entry>
-<entry word="eggfarvegr">
+</word>
+<word>
+eggfarvegr
 	<m1><p>m.</p> <i><trn>the print of an edge</trn></i>.</m1>
-</entry>
-<entry word="egghvass">
+</word>
+<word>
+egghvass
 	<m1><p>a.</p> <i><trn>sharp-edged, sharp</trn></i> (egghvast járn).</m1>
-</entry>
-<entry word="eggja">
+</word>
+<word>
+eggja
 	<m1>(að), <p>v.</p> <i><trn>to incite, egg one on to do a thing</trn></i> (e. <p>e-n</p> <p>e-s</p> <com>or</com> til <p>e-s</p> <com>or</com> á <p>e-t</p>); e. <p>e-n</p> fram, <i><trn>to urge one on</trn></i>;</m1>
 	<m2><p>refl.</p>, láta at ~st, <i><trn>to yield to another’s egging on</trn></i>; e. upp á <p>e-n</p>, <i><trn>to pick a quarrel with one, provoke one</trn></i>; <p>recipr.</p> <i><trn>to egg one another on</trn></i> (eggjuðust nú fast hvarirtveggju).</m2>
-</entry>
-<entry word="eggjabroddr">
+</word>
+<word>
+eggjabroddr
 	<m1><p>m.</p> <i><trn>sharp-edged spike</trn></i>.</m1>
-</entry>
-<entry word="eggjan">
+</word>
+<word>
+eggjan
 	<m1><p>f.</p> <i><trn>egging on, goading</trn></i>.</m1>
-</entry>
-<entry word="eggjanarfífl">
+</word>
+<word>
+eggjanarfífl
 	<m1><p>n.</p> <i><trn>fool, cat’s paw</trn></i>.</m1>
-</entry>
-<entry word="eggjanarorð">
+</word>
+<word>
+eggjanarorð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>inciting (egging) words</trn></i>.</m1>
-</entry>
-<entry word="eggjari">
+</word>
+<word>
+eggjari
 	<m1><p>m.</p> <i><trn>egger-on, inciter</trn></i>.</m1>
-</entry>
-<entry word="eggleikr">
+</word>
+<word>
+eggleikr
 	<m1><p>m.</p> <p>poet.</p> <i><trn>play with sharp weapons, battle</trn></i>.</m1>
-</entry>
-<entry word="eggmóðr">
+</word>
+<word>
+eggmóðr
 	<m1><p>a.</p> <p>poet.</p> <i><trn>sword-smitten</trn></i>.</m1>
-</entry>
-<entry word="eggskurn">
+</word>
+<word>
+eggskurn
 	<m1><p>f.</p> <i><trn>egg-shell</trn></i>.</m1>
-</entry>
-<entry word="eggsteinn">
+</word>
+<word>
+eggsteinn
 	<m1><p>m.</p> <i><trn>sharp-edged stone</trn></i>.</m1>
-</entry>
-<entry word="eggteinn">
+</word>
+<word>
+eggteinn
 	<m1><p>m.</p> <i><trn>‘edge-twig’, the steeled edge of a sword</trn></i>; svá at fal báða eggteina sverðsins, <i><trn>so that both edges of the sword were hidden</trn></i>.</m1>
-</entry>
-<entry word="eggtíð">
+</word>
+<word>
+eggtíð
 	<m1><p>f.</p> <i><trn>egg-season</trn></i>.</m1>
-</entry>
-<entry word="eggver">
+</word>
+<word>
+eggver
 	<m1><p>n.</p> <i><trn>‘eggfield’</trn></i> (a place where eggs of sea-birds are gathered).</m1>
-</entry>
-<entry word="eggvölr">
+</word>
+<word>
+eggvölr
 	<m1><p>m.</p> <i><trn>the steeled edge of an axe</trn></i> (hann snerpir eggvölinn).</m1>
-</entry>
-<entry>
+</word>
+<word>
 Egiptaland
 	<m1><p>n.</p> <i><trn>the land of Egypt</trn></i>.</m1>
-</entry>
-<entry word="egipzkr">
+</word>
+<word>
+egipzkr
 	<m1><p>a.</p> <i><trn>Egyptian</trn></i>.</m1>
-</entry>
-<entry word="egna">
+</word>
+<word>
+egna
 	<m1>(-da, -dr), <p>v.</p></m1>
 	<m2>1) <i><trn>to use as a bait</trn></i>, with <p>dat.</p> (e. oxahöfði a öngul);</m2>
 	<m2>2) <i><trn>to furnish with a bait, to bait</trn></i>, with <p>acc.</p> (e. snöru, net, gildru);</m2>
 	<m2>3) <i><trn>to bait for</trn></i> (e. aurriða); e. veiði, <i><trn>to set bait for the prey</trn></i>;</m2>
 	<m2>4) <i><trn>to incite, provoke</trn></i>.</m2>
-</entry>
-<entry word="ei">
+</word>
+<word>
+ei
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>ever</trn></i>, = <ref>ey</ref>, <ref>æ</ref>;</m2>
 	<m3>ei ok ei, <i><trn>forever and ever</trn></i>;</m3>
 	<m2>2) <i><trn>not</trn></i>, = <ref>eigi</ref> (as <ref>aldri</ref> for <ref>aldrigi</ref>).</m2>
-</entry>
-<entry word="eið">
+</word>
+<word>
+eið
 	<m1><p>n.</p> <i><trn>isthmus, neck of land</trn></i> (mjött e.).</m1>
-</entry>
-<entry word="eiða">
+</word>
+<word>
+eiða
 	<m1><p>f.</p> <p>poet.</p> <i><trn>mother</trn></i> (rare).</m1>
-</entry>
-<entry word="eiðabrigði">
+</word>
+<word>
+eiðabrigði
 	<m1><p>n.</p> <i><trn>breach of oath</trn></i>.</m1>
-</entry>
-<entry word="eiðafullting">
-	</entry>
-<entry word="eiðhjálp">
+</word>
+<word>
+eiðafullting
+</word>
+<word>
+eiðhjálp
 	<m1><p>n.</p> <i><trn>oath-help</trn></i>.</m1>
-</entry>
-<entry word="eiðakona">
+</word>
+<word>
+eiðakona
 	<m1><p>f.</p> <i><trn>female compurgator</trn></i>.</m1>
-</entry>
-<entry word="eiðalið">
+</word>
+<word>
+eiðalið
 	<m1><p>n.</p> <i><trn>oath helpers, compurgators</trn></i>.</m1>
-</entry>
-<entry word="eiðamál">
+</word>
+<word>
+eiðamál
 	<m1><p>n.</p> <i><trn>the matter of taking an oath</trn></i>.</m1>
-</entry>
-<entry word="eiðbróðir">
+</word>
+<word>
+eiðbróðir
 	<m1><p>m.</p> <i><trn>a sworn confederate</trn></i>.</m1>
-</entry>
-<entry word="eiðbundinn">
+</word>
+<word>
+eiðbundinn
 	<m1><p>pp.</p> <i><trn>oath-bound</trn></i>.</m1>
-</entry>
-<entry word="eiðfall">
+</word>
+<word>
+eiðfall
 	<m1><p>n.</p> <i><trn>failing in one’s oath</trn></i>.</m1>
-</entry>
-<entry word="eiðfœra">
+</word>
+<word>
+eiðfœra
 	<m1>(-ða, -ðr), <p>v.</p> <i><trn>to charge one with a thing by an oath</trn></i>.</m1>
-</entry>
-<entry word="eiðfœring">
-	</entry>
-<entry word="eiðfœrsla">
+</word>
+<word>
+eiðfœring
+</word>
+<word>
+eiðfœrsla
 	<m1><p>f.</p> <i><trn>charging by an oath</trn></i>.</m1>
-</entry>
-<entry word="eiðfœrr">
+</word>
+<word>
+eiðfœrr
 	<m1><p>a.</p> <i><trn>able, competent to take an oath</trn></i>.</m1>
-</entry>
-<entry word="eiðlaust">
+</word>
+<word>
+eiðlaust
 	<m1><p>adv.</p> <i><trn>without an oath</trn></i>.</m1>
-</entry>
-<entry word="eiðr">
+</word>
+<word>
+eiðr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>oath</trn></i>; vinna, sverja eið, <i><trn>to take (swear) an oath</trn></i>; rjúfa eið, <i><trn>to break an oath</trn></i>; ganga til eiða, <i><trn>to proceed to the taking of oaths</trn></i>; eigi verðr einn eiðr alla, <i><trn>a single oath does not clear all men</trn></i>.</m1>
-</entry>
-<entry word="eiðrof">
+</word>
+<word>
+eiðrof
 	<m1><p>n.</p> <i><trn>breach of an oath</trn></i>.</m1>
-</entry>
-<entry word="eiðrofi">
+</word>
+<word>
+eiðrofi
 	<m1><p>m.</p> <i><trn>violator of an oath, perjurer</trn></i>.</m1>
-</entry>
-<entry word="eiðspjall">
+</word>
+<word>
+eiðspjall
 	<m1><p>n.</p> <i><trn>taking of an oath</trn></i>; hlýða til ~s <p>e-s</p>, <i><trn>to listen to one’s oath</trn></i>.</m1>
-</entry>
-<entry word="eiðstafr">
+</word>
+<word>
+eiðstafr
 	<m1><p>m.</p> <i><trn>oath-formula</trn></i>.</m1>
-</entry>
-<entry word="eiðsvari">
+</word>
+<word>
+eiðsvari
 	<m1><p>m.</p> <i><trn>one bound by oath, liege-man</trn></i>.</m1>
-</entry>
-<entry word="eiðsœrr">
+</word>
+<word>
+eiðsœrr
 	<m1><p>a.</p> <i><trn>that may be sworn to, absolutely true</trn></i>.</m1>
-</entry>
-<entry word="eiðunning">
+</word>
+<word>
+eiðunning
 	<m1><p>f.</p> <i><trn>the taking of an oath</trn></i>.</m1>
-</entry>
-<entry word="eiðvarr">
+</word>
+<word>
+eiðvarr
 	<m1><p>a.</p> <i><trn>cautious (conscientious) as to an oath</trn></i>.</m1>
-</entry>
-<entry word="eiðvætti">
+</word>
+<word>
+eiðvætti
 	<m1><p>n.</p> <i><trn>testimony on oath</trn></i>.</m1>
-</entry>
-<entry word="eiga">
+</word>
+<word>
+eiga
 	<m1><b>I)</b></m1>
 	<m2>(á, átta, áttr), <p>v.</p></m2>
 	<m3>1) <i><trn>to own, possess</trn></i> (Starkaðr átti hest góðan);</m3>
@@ -429,15 +524,18 @@ Egiptaland
 	<m3>1) <i><trn>possession</trn></i>;</m3>
 	<m4>kasta sinni eigu, leggja sína eigu, í <p>e-t</p>, <i><trn>to take possession of</trn></i>;</m4>
 	<m3>2) <i><trn>property</trn></i>.</m3>
-</entry>
-<entry word="eigandi">
+</word>
+<word>
+eigandi
 	<m1>(<p>pl.</p> eigendr), <p>m.</p> <i><trn>owner, possessor</trn></i>.</m1>
-</entry>
-<entry word="eigi">
+</word>
+<word>
+eigi
 	<m1><p>adv.</p> <i><trn>not</trn></i>;</m1>
 	<m2>~ … ok, <i><trn>nor</trn></i> (~ vil ek ok þat mitt ráð kalla).</m2>
-</entry>
-<entry word="eigin">
+</word>
+<word>
+eigin
 	<m1><b>I)</b></m1>
 	<m2><p>n.</p></m2>
 	<m3>1) <i><trn>one’s own, one’s property</trn></i>;</m3>
@@ -445,626 +543,829 @@ Egiptaland
 	<m1><b>II)</b></m1>
 	<m2><p>a.</p> <p>indecl.</p> <i><trn>own</trn></i>, = <ref>~n</ref> (var jarðaðr í sinni ~ borg);</m2>
 	<m3>this ‘~’ may also be considered as the first part of a compound.</m3>
-</entry>
-<entry word="eiginborg">
+</word>
+<word>
+eiginborg
 	<m1><p>f.</p> <i><trn>one’s own town</trn></i>.</m1>
-</entry>
-<entry word="eiginbóndi">
-	</entry>
-<entry word="eiginmaðr">
-	</entry>
-<entry word="nauðmaðr">
+</word>
+<word>
+eiginbóndi
+</word>
+<word>
+eiginmaðr
+</word>
+<word>
+nauðmaðr
 	<m1><p>m.</p> <i><trn>husband</trn></i>.</m1>
-</entry>
-<entry word="eiginbrœðr">
+</word>
+<word>
+eiginbrœðr
 	<m1><p>m.</p> <p>pl.</p> <i><trn>one’s own brothers</trn></i>.</m1>
-</entry>
-<entry word="eigindóttir">
+</word>
+<word>
+eigindóttir
 	<m1><p>f.</p> <i><trn>one’s own daughter</trn></i>.</m1>
-</entry>
-<entry word="eigingiptast">
+</word>
+<word>
+eigingiptast
 	<m1>(<com>see</com> <ref>gipta</ref>), <p>v. refl.</p>, <i><trn>to marry, be married to</trn></i> (of a woman).</m1>
-</entry>
-<entry word="eigingirnd">
-	</entry>
-<entry word="eigingirni">
+</word>
+<word>
+eigingirnd
+</word>
+<word>
+eigingirni
 	<m1><p>f.</p> <i><trn>selfishness</trn></i>.</m1>
-</entry>
-<entry word="eigingjarnligr">
+</word>
+<word>
+eigingjarnligr
 	<m1><p>a.</p> <i><trn>selfish</trn></i>.</m1>
-</entry>
-<entry word="eiginhúsfrú">
-	</entry>
-<entry word="eiginkona">
-	</entry>
-<entry word="eiginkván">
+</word>
+<word>
+eiginhúsfrú
+</word>
+<word>
+eiginkona
+</word>
+<word>
+eiginkván
 	<m1><p>f.</p> <i><trn>wife</trn></i>.</m1>
-</entry>
-<entry word="eiginkvángaðr">
-	</entry>
-<entry word="eiginkvæntr">
+</word>
+<word>
+eiginkvángaðr
+</word>
+<word>
+eiginkvæntr
 	<m1><p>pp.</p> <i><trn>lawfully married</trn></i> (of a man).</m1>
-</entry>
-<entry word="eiginkyn">
+</word>
+<word>
+eiginkyn
 	<m1><p>n.</p> <i><trn>peculiarity</trn></i>.</m1>
-</entry>
-<entry word="eiginlauss">
+</word>
+<word>
+eiginlauss
 	<m1><p>a.</p> <i><trn>having no property, poor</trn></i>.</m1>
-</entry>
-<entry word="eiginleikr">
+</word>
+<word>
+eiginleikr
 	<m1><p>m.</p> <i><trn>quality, peculiarity</trn></i>.</m1>
-</entry>
-<entry word="eiginliga">
+</word>
+<word>
+eiginliga
 	<m1><p>adv.</p> <i><trn>properly, strictly</trn></i>.</m1>
-</entry>
-<entry word="eiginligr">
+</word>
+<word>
+eiginligr
 	<m1><p>a.</p> <i><trn>one’s own, personal, particular</trn></i>; sjá eiginligum augum, <i><trn>with one’s own eyes</trn></i>; eiginligt nafn, <i><trn>proper name</trn></i>.</m1>
-</entry>
-<entry word="eiginn">
+</word>
+<word>
+eiginn
 	<m1><p>a.</p> <i><trn>own, proper</trn></i> (með samþykt ~ar konu).</m1>
-</entry>
-<entry word="eiginnafn">
-	</entry>
-<entry word="eignarnafn">
-	</entry>
-<entry word="einkarnafn">
+</word>
+<word>
+eiginnafn
+</word>
+<word>
+eignarnafn
+</word>
+<word>
+einkarnafn
 	<m1><p>n.</p> <i><trn>proper name</trn></i>.</m1>
-</entry>
-<entry word="eiginorð">
+</word>
+<word>
+eiginorð
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>possession</trn></i>; fá <p>e-t</p> at ~i, <i><trn>to get possession of</trn></i>, opp. to ‘fá <p>e-t</p> at láni’;</m2>
 	<m2>2) <i><trn>wedding, marriage</trn></i> (bjóða <p>e-m</p> konu til ~s).</m2>
-</entry>
-<entry word="eiginraun">
+</word>
+<word>
+eiginraun
 	<m1><p>f.</p> <i><trn>one’s own experience</trn></i>.</m1>
-</entry>
-<entry word="eigintunga">
+</word>
+<word>
+eigintunga
 	<m1><p>f.</p> <i><trn>one’s own native tongue</trn></i>.</m1>
-</entry>
-<entry word="eign">
+</word>
+<word>
+eign
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>property, possession</trn></i>; kasta sinni e., leggja e. sína, á <p>e-t</p>, <i><trn>to take possession of</trn></i>;</m2>
 	<m2>2) <i><trn>estate, landed property</trn></i>, <p>esp.</p> <p>pl.</p> (hann átti eignir í Vík austr).</m2>
-</entry>
-<entry word="eigna">
+</word>
+<word>
+eigna
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to assign, attribute to one</trn></i> (~ <p>e-m</p> <p>e-t</p>); ~ sér <p>e-t</p>, <i><trn>to declare a thing to be one’s own property, to take to oneself</trn></i>; ~ sér land, <i><trn>to take land into one’s own hands</trn></i>;</m2>
 	<m3><p>refl.</p>, ~st, <i><trn>to become the owner of, to get</trn></i>;</m3>
 	<m2>2) <i><trn>to dedicate to, name after one</trn></i> (~ <p>e-m</p> kvæði, ~ Þór hof).</m2>
-</entry>
-<entry word="eignaðr">
+</word>
+<word>
+eignaðr
 	<m1><p>pp.</p> <i><trn>having, possessions or property</trn></i> (vel ~).</m1>
-</entry>
-<entry word="eignalauss">
+</word>
+<word>
+eignalauss
 	<m1><p>a.</p> <i><trn>having no property, destitute</trn></i>.</m1>
-</entry>
-<entry word="eignarákall">
+</word>
+<word>
+eignarákall
 	<m1><p>n.</p> <i><trn>claim of ownership</trn></i>.</m1>
-</entry>
-<entry word="eignarbróðir">
+</word>
+<word>
+eignarbróðir
 	<m1><p>m.</p> <i><trn>one’s own brother</trn></i>.</m1>
-</entry>
-<entry word="eignarhlutr">
+</word>
+<word>
+eignarhlutr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>private share, property</trn></i>;</m2>
 	<m2>2) <i><trn>part of an estate</trn></i>.</m2>
-</entry>
-<entry word="eignarjörð">
-	</entry>
-<entry word="föðurleif">
-	</entry>
-<entry word="föðurleifð">
-	</entry>
-<entry word="ættleifð">
+</word>
+<word>
+eignarjörð
+</word>
+<word>
+föðurleif
+</word>
+<word>
+föðurleifð
+</word>
+<word>
+ættleifð
 	<m1><p>f.</p> <i><trn>patrimony</trn></i>.</m1>
-</entry>
-<entry word="eignarkona">
+</word>
+<word>
+eignarkona
 	<m1><p>f.</p> = <ref>eiginkona</ref>.</m1>
-</entry>
-<entry word="eignarlýrittr">
+</word>
+<word>
+eignarlýrittr
 	<m1><p>m.</p> <i><trn>legal title of ownership</trn></i>.</m1>
-</entry>
-<entry word="eignarmaðr">
+</word>
+<word>
+eignarmaðr
 	<m1><p>m.</p> <i><trn>owner, possessor</trn></i>.</m1>
-</entry>
-<entry word="eignarsonr">
+</word>
+<word>
+eignarsonr
 	<m1><p>m.</p> <i><trn>one’s own son</trn></i>.</m1>
-</entry>
-<entry word="eignarspúsa">
+</word>
+<word>
+eignarspúsa
 	<m1><p>f.</p> = <ref>eignarkona</ref>.</m1>
-</entry>
-<entry word="eignarvili">
+</word>
+<word>
+eignarvili
 	<m1><p>m.</p> <i><trn>one’s own will</trn></i>.</m1>
-</entry>
-<entry word="eignarvitni">
-	</entry>
-<entry word="eignarvætti">
+</word>
+<word>
+eignarvitni
+</word>
+<word>
+eignarvætti
 	<m1><p>n.</p> <i><trn>witness of ownership</trn></i>.</m1>
-</entry>
-<entry word="eignaskipti">
+</word>
+<word>
+eignaskipti
 	<m1><p>n.</p> <i><trn>exchange of land</trn></i>.</m1>
-</entry>
-<entry word="eigóðr">
+</word>
+<word>
+eigóðr
 	<m1><p>a.</p> <i><trn>‘evergood’, beloved</trn></i>, as a nickname.</m1>
-</entry>
-<entry word="eigrœnn">
-	</entry>
-<entry word="sígrœnn">
+</word>
+<word>
+eigrœnn
+</word>
+<word>
+sígrœnn
 	<m1><p>a.</p> <i><trn>evergreen</trn></i>.</m1>
-</entry>
-<entry word="eiguligr">
+</word>
+<word>
+eiguligr
 	<m1><p>a.</p> <i><trn>worth having, precious</trn></i>.</m1>
-</entry>
-<entry word="eik">
+</word>
+<word>
+eik
 	<m1>(<p>gen.</p> eikar and eikr, <p>pl.</p> eikr), <p>f.</p> <i><trn>oak</trn></i>, also <i><trn>a tree</trn></i> in general.</m1>
-</entry>
-<entry word="eikarkefli">
+</word>
+<word>
+eikarkefli
 	<m1><p>m.</p> <i><trn>oaken stick</trn></i>.</m1>
-</entry>
-<entry word="eikarstofn">
-	</entry>
-<entry word="eikarstubbi">
+</word>
+<word>
+eikarstofn
+</word>
+<word>
+eikarstubbi
 	<m1><p>m.</p> <i><trn>oak stump, oak stub</trn></i>.</m1>
-</entry>
-<entry word="eiki">
+</word>
+<word>
+eiki
 	<m1><p>n.</p> <i><trn>oak timber</trn></i>.</m1>
-</entry>
-<entry word="eikiáss">
+</word>
+<word>
+eikiáss
 	<m1><p>m.</p> <i><trn>oaken beam</trn></i>.</m1>
-</entry>
-<entry word="eikikylfa">
+</word>
+<word>
+eikikylfa
 	<m1><p>f.</p> <i><trn>oaken club</trn></i>.</m1>
-</entry>
-<entry word="eikiköstr">
+</word>
+<word>
+eikiköstr
 	<m1><p>m.</p> <i><trn>pile of oak wood</trn></i>.</m1>
-</entry>
-<entry word="eikinn">
+</word>
+<word>
+eikinn
 	<m1><p>a.</p> <i><trn>wild, vehement (of fire)</trn></i>.</m1>
-</entry>
-<entry word="eikiskógr">
+</word>
+<word>
+eikiskógr
 	<m1><p>m.</p> <i><trn>oak wood, oak forest</trn></i>.</m1>
-</entry>
-<entry word="eikistobbi">
+</word>
+<word>
+eikistobbi
 	<m1><p>m.</p> <i><trn>stump of an oak</trn></i>.</m1>
-</entry>
-<entry word="eikistokkr">
+</word>
+<word>
+eikistokkr
 	<m1><p>m.</p> <i><trn>oak stock</trn></i>.</m1>
-</entry>
-<entry word="eikisúla">
+</word>
+<word>
+eikisúla
 	<m1><p>f.</p> <i><trn>oaken column</trn></i>.</m1>
-</entry>
-<entry word="eikitindaðr">
+</word>
+<word>
+eikitindaðr
 	<m1><p>pp.</p> <i><trn>with oaken pegs</trn></i>.</m1>
-</entry>
-<entry word="eikiviðr">
+</word>
+<word>
+eikiviðr
 	<m1><p>m.</p> <i><trn>oak wood, oak timber</trn></i>.</m1>
-</entry>
-<entry word="eikivöndr">
+</word>
+<word>
+eikivöndr
 	<m1><p>m.</p> <i><trn>twig of an oak tree</trn></i>.</m1>
-</entry>
-<entry word="eikja">
+</word>
+<word>
+eikja
 	<m1><p>f.</p> <i><trn>a small ferry-boat</trn></i>.</m1>
-</entry>
-<entry word="eikjukarfi">
+</word>
+<word>
+eikjukarfi
 	<m1><p>m.</p> = <ref>eikja</ref>.</m1>
-</entry>
-<entry word="eiligr">
+</word>
+<word>
+eiligr
 	<m1><p>a.</p> <i><trn>eternal</trn></i> (rare).</m1>
-</entry>
-<entry word="eilífð">
+</word>
+<word>
+eilífð
 	<m1><p>f.</p> <i><trn>eternity, eternal life</trn></i>.</m1>
-</entry>
-<entry word="eilífðarfriðr">
+</word>
+<word>
+eilífðarfriðr
 	<m1><p>m.</p> <i><trn>everlasting peace</trn></i>.</m1>
-</entry>
-<entry word="eilífðaryndi">
+</word>
+<word>
+eilífðaryndi
 	<m1><p>n.</p> <i><trn>everlasting hafipiness</trn></i>.</m1>
-</entry>
-<entry word="eilífðarömbun">
+</word>
+<word>
+eilífðarömbun
 	<m1><p>f.</p> <i><trn>eternal recompense</trn></i>.</m1>
-</entry>
-<entry word="eilífi">
+</word>
+<word>
+eilífi
 	<m1><p>n.</p> = <ref>eilífð</ref>.</m1>
-</entry>
-<entry word="eilífisfagnaðr">
+</word>
+<word>
+eilífisfagnaðr
 	<m1><p>m.</p> <i><trn>everlasting joy</trn></i>.</m1>
-</entry>
-<entry word="eilífleikr">
+</word>
+<word>
+eilífleikr
 	<m1><p>m.</p> <i><trn>eternity</trn></i>.</m1>
-</entry>
-<entry word="eilífliga">
+</word>
+<word>
+eilífliga
 	<m1><p>adv.</p> <i><trn>eternally, to all eternity</trn></i>.</m1>
-</entry>
-<entry word="eilífligr">
+</word>
+<word>
+eilífligr
 	<m1><p>a.</p> <i><trn>eternal, everlasting</trn></i>.</m1>
-</entry>
-<entry word="eilífr">
+</word>
+<word>
+eilífr
 	<m1><p>a.</p> <i><trn>eternal, everlasting</trn></i>; at eilífu, <i><trn>for ever and ever</trn></i>.</m1>
-</entry>
-<entry word="eilítill">
+</word>
+<word>
+eilítill
 	<m1><p>a.</p> <i><trn>very small, very little</trn></i>.</m1>
-</entry>
-<entry word="eimi">
-	</entry>
-<entry word="eimr">
+</word>
+<word>
+eimi
+</word>
+<word>
+eimr
 	<m1><p>m.</p> <i><trn>reek, vapour</trn></i>.</m1>
-</entry>
-<entry word="eimuni">
+</word>
+<word>
+eimuni
 	<m1><p>m.</p> <i><trn>an ever memorabe thing</trn></i>; þat er þeim ~, <i><trn>they will never foget it</trn></i>.</m1>
-</entry>
-<entry word="eimyrja">
+</word>
+<word>
+eimyrja
 	<m1><p>f.</p> <i><trn>embers</trn></i> (eldr ok ~; all er ægir sem í eimyrju hrœri).</m1>
-</entry>
-<entry word="eina">
+</word>
+<word>
+eina
 	<m1><p>adv.</p> <i><trn>only, alone</trn></i>.</m1>
-</entry>
-<entry word="einangr">
+</word>
+<word>
+einangr
 	<m1><p>m.</p> <i><trn>a great strait</trn></i> (vaskr öruggr, í ~i).</m1>
-</entry>
-<entry word="einangra">
+</word>
+<word>
+einangra
 	<m1>(að), <p>v.</p> <i><trn>to put one in a strait</trn></i>.</m1>
-</entry>
-<entry word="einarðarfátt">
+</word>
+<word>
+einarðarfátt
 	<m1><p>a.</p> <p>n.</p>, <p>e-m</p> verðr ~ <i><trn>one fails in courage</trn></i>.</m1>
-</entry>
-<entry word="einarðarlauss">
+</word>
+<word>
+einarðarlauss
 	<m1><p>a.</p> <i><trn>wavering, treacherous</trn></i>.</m1>
-</entry>
-<entry word="einarðarleysi">
+</word>
+<word>
+einarðarleysi
 	<m1><p>n.</p> <i><trn>inconstancy, unreliableness</trn></i>.</m1>
-</entry>
-<entry word="einarðarmaðr">
+</word>
+<word>
+einarðarmaðr
 	<m1><p>m.</p> <i><trn>a steadfast, trusty man</trn></i>.</m1>
-</entry>
-<entry word="einarðliga">
+</word>
+<word>
+einarðliga
 	<m1><p>adv.</p> <i><trn>firmly, heartily</trn></i>.</m1>
-</entry>
-<entry word="einarðligr">
+</word>
+<word>
+einarðligr
 	<m1><p>a.</p> <i><trn>firm, determined-looking, faithful</trn></i>.</m1>
-</entry>
-<entry word="einarðmæltr">
+</word>
+<word>
+einarðmæltr
 	<m1><p>a.</p> <i><trn>frank, out-spoken</trn></i>.</m1>
-</entry>
-<entry word="einarðr">
+</word>
+<word>
+einarðr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>single</trn></i> (einart þak);</m2>
 	<m2>2) <i><trn>firm, determined, reliable</trn></i>.</m2>
-</entry>
-<entry word="einart">
+</word>
+<word>
+einart
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>incessantly</trn></i>;</m2>
 	<m2>2) <i><trn>straight, directly</trn></i>.</m2>
-</entry>
-<entry word="einbakaðr">
+</word>
+<word>
+einbakaðr
 	<m1><p>pp.</p> <i><trn>once-baked</trn></i>.</m1>
-</entry>
-<entry word="einbani">
+</word>
+<word>
+einbani
 	<m1><p>m.</p> <i><trn>single-handed slayer</trn></i>.</m1>
-</entry>
-<entry word="einberni">
+</word>
+<word>
+einberni
 	<m1><p>n.</p> <i><trn>only child</trn></i>.</m1>
-</entry>
-<entry word="einbeygðr">
+</word>
+<word>
+einbeygðr
 	<m1><p>pp.</p> <i><trn>sole, only</trn></i> (~ kostr).</m1>
-</entry>
-<entry word="einbjarga">
+</word>
+<word>
+einbjarga
 	<m1><p>a.</p> indecl <i><trn>self-supporting, independent</trn></i>.</m1>
-</entry>
-<entry word="einbreiðr">
+</word>
+<word>
+einbreiðr
 	<m1><p>a.</p> <i><trn>of a single breadth, half a yard broad</trn></i> (of stuff).</m1>
-</entry>
-<entry word="einbúi">
+</word>
+<word>
+einbúi
 	<m1><p>m.</p> <i><trn>single dweller</trn></i>.</m1>
-</entry>
-<entry word="einbœli">
+</word>
+<word>
+einbœli
 	<m1><p>n.</p> <i><trn>single household</trn></i>.</m1>
-</entry>
-<entry word="eindaga">
+</word>
+<word>
+eindaga
 	<m1>(að), <p>v.</p> <i><trn>to fix a day for a thing</trn></i> (~ fé, þing, leigu, brullaup).</m1>
-</entry>
-<entry word="eindagi">
+</word>
+<word>
+eindagi
 	<m1><p>m.</p> <i><trn>a fixed time, term</trn></i>.</m1>
-</entry>
-<entry word="eindrœgr">
+</word>
+<word>
+eindrœgr
 	<m1><p>a.</p> <i><trn>incessant, continuous</trn></i> (gerum þeim eindrœgja hríðina).</m1>
-</entry>
-<entry word="eindœmi">
+</word>
+<word>
+eindœmi
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>the right to be sole arbiter in a case</trn></i>;</m2>
 	<m2>2) <i><trn>an unexampled thing</trn></i>.</m2>
-</entry>
-<entry word="eineggjáðr">
+</word>
+<word>
+eineggjáðr
 	<m1><p>pp.</p> <i><trn>one-edged</trn></i>.</m1>
-</entry>
-<entry word="eineiði">
+</word>
+<word>
+eineiði
 	<m1>(= eins eiðr), <p>n.</p> <i><trn>silence oath</trn></i>.</m1>
-</entry>
-<entry word="eineign">
+</word>
+<word>
+eineign
 	<m1><p>f.</p> <i><trn>sole ownership</trn></i>.</m1>
-</entry>
-<entry word="eineygðr">
+</word>
+<word>
+eineygðr
 	<m1><p>a.</p> <i><trn>one-eyed</trn></i>.</m1>
-</entry>
-<entry word="einfalda">
+</word>
+<word>
+einfalda
 	<m1>(að), <p>v.</p> <i><trn>to use in the singular</trn></i>; ~ ákall, <i><trn>to address with ‘thou’</trn></i>.</m1>
-</entry>
-<entry word="einfaldleikr">
+</word>
+<word>
+einfaldleikr
 	<m1><p>m.</p> <i><trn>simplicity</trn></i>.</m1>
-</entry>
-<entry word="einfaldliga">
+</word>
+<word>
+einfaldliga
 	<m1><p>adv.</p> <i><trn>simply, singly</trn></i>.</m1>
-</entry>
-<entry word="einfaldligleikr">
+</word>
+<word>
+einfaldligleikr
 	<m1><p>m.</p> = <ref>einfaldleikr</ref>.</m1>
-</entry>
-<entry word="einfaldr">
+</word>
+<word>
+einfaldr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>simple</trn></i>; <i><trn>single</trn></i>;</m2>
 	<m2>2) <i><trn>weak in intellect, silly</trn></i>;</m2>
 	<m2>3) <i><trn>plain, common</trn></i> (~ bóndi).</m2>
-</entry>
-<entry word="einfarar">
+</word>
+<word>
+einfarar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>walking-alone</trn></i>.</m1>
-</entry>
-<entry word="einfeldi">
+</word>
+<word>
+einfeldi
 	<m1><p>f.</p> <i><trn>simplicity, weak intellect</trn></i>.</m1>
-</entry>
-<entry word="einfeldr">
+</word>
+<word>
+einfeldr
 	<m1><p>a.</p> <i><trn>bent on one thing, resolute</trn></i>.</m1>
-</entry>
-<entry word="einferðir">
+</word>
+<word>
+einferðir
 	<m1><p>f.</p> <p>pl.</p> = <ref>einfarar</ref>.</m1>
-</entry>
-<entry word="einfyndr">
+</word>
+<word>
+einfyndr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>belonging to the finder alone</trn></i> (hvalr ~);</m2>
 	<m2>2) <i><trn>as finder entitled to the whole</trn></i> (~ at hval).</m2>
-</entry>
-<entry word="einfœrr">
+</word>
+<word>
+einfœrr
 	<m1><p>a.</p> <i><trn>able to go alone</trn></i>.</m1>
-</entry>
-<entry word="einfœtingr">
+</word>
+<word>
+einfœtingr
 	<m1><p>m.</p> <i><trn>one-legged man</trn></i>.</m1>
-</entry>
-<entry word="einfœttr">
+</word>
+<word>
+einfœttr
 	<m1><p>pp.</p> <i><trn>one-legged</trn></i>.</m1>
-</entry>
-<entry word="einför">
+</word>
+<word>
+einför
 	<m1><p>f.</p>, <com>see</com> <ref>einfarar</ref>.</m1>
-</entry>
-<entry word="einga">
+</word>
+<word>
+einga
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>only, single</trn></i>; e. barn, <i><trn>only child</trn></i>; e. vinr, <i><trn>only friend, intimate friend</trn></i>.</m1>
-</entry>
-<entry word="einganga">
+</word>
+<word>
+einganga
 	<m1><p>f.</p> <i><trn>solitary walk</trn></i>; ganga eingöngu, <i><trn>to walk alone</trn></i>.</m1>
-</entry>
-<entry word="eingetinn">
+</word>
+<word>
+eingetinn
 	<m1><p>pp.</p> <i><trn>only begotten</trn></i>.</m1>
-</entry>
-<entry word="einhama">
+</word>
+<word>
+einhama
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>single-shaped</trn></i>.</m1>
-</entry>
-<entry word="einhamr">
+</word>
+<word>
+einhamr
 	<m1><p>a.</p> <i><trn>single-shaped</trn></i>, opp. to ‘hamrammr’;</m1>
 	<m2>Þrándr var kallaðr eigi ~, <i><trn>Th. was thought to be a werewolf</trn></i>.</m2>
-</entry>
-<entry word="einharðr">
+</word>
+<word>
+einharðr
 	<m1><p>a.</p> = <ref>einarðr</ref>.</m1>
-</entry>
-<entry word="einhendis">
+</word>
+<word>
+einhendis
 	<m1><p>adv.</p> <i><trn>straight, off-hand</trn></i>.</m1>
-</entry>
-<entry word="einhendr">
+</word>
+<word>
+einhendr
 	<m1><p>a.</p> <i><trn>one-handed</trn></i>.</m1>
-</entry>
-<entry word="einherjar">
+</word>
+<word>
+einherjar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>the dead warriors</trn></i> (in Valhalla) <p>sing.</p>, einheri, <i><trn>great champion</trn></i> (of Thor).</m1>
-</entry>
-<entry word="einhjal">
+</word>
+<word>
+einhjal
 	<m1><p>n.</p> <i><trn>private talk (between two)</trn></i>.</m1>
-</entry>
-<entry word="einhleypingr">
-	</entry>
-<entry word="einhleypismaðr">
+</word>
+<word>
+einhleypingr
+</word>
+<word>
+einhleypismaðr
 	<m1><p>m.</p> <i><trn>single person without hearth or home</trn></i>.</m1>
-</entry>
-<entry word="einhleypr">
+</word>
+<word>
+einhleypr
 	<m1><p>a.</p> <i><trn>single, unmarried</trn></i>.</m1>
-</entry>
-<entry word="einhlítr">
+</word>
+<word>
+einhlítr
 	<m1><p>a.</p> <i><trn>fully sufficient, adequate</trn></i> (til <p>e-s</p>, <i><trn>to</trn></i>); látt sér <p>e-t</p> einhlítt, <i><trn>to rest satisfied with</trn></i>; vera sér ~, <i><trn>not to need the help of others</trn></i>.</m1>
-</entry>
-<entry word="einhugaðliga">
+</word>
+<word>
+einhugaðliga
 	<m1><p>a.</p>, <i><trn>unanimously</trn></i>.</m1>
-</entry>
-<entry word="einhugi">
+</word>
+<word>
+einhugi
 	<m1><p>a.</p> <i><trn>wholly intent on</trn></i> (á <p>e-t</p>).</m1>
-</entry>
-<entry word="einhugsa">
+</word>
+<word>
+einhugsa
 	<m1>(að), <p>v.</p> <i><trn>to make up one’s mind</trn></i>.</m1>
-</entry>
-<entry word="einhverfa">
+</word>
+<word>
+einhverfa
 	<m1>(-ða, -ðr), <p>v.</p> <i><trn>to turn a thing in one direction</trn></i>; ~ ætlan sína fyrir sér, <i><trn>to decide upon doing a thing</trn></i>.</m1>
-</entry>
-<entry word="einhverfr">
+</word>
+<word>
+einhverfr
 	<m1><p>a.</p> <i><trn>determined</trn></i>.</m1>
-</entry>
-<entry word="einhverr">
+</word>
+<word>
+einhverr
 	<m1><p>pron.</p>, <com>see</com> <ref>einnhverr</ref>; einhvers staðar, <i><trn>somewhere</trn></i>.</m1>
-</entry>
-<entry word="einhyrndr">
+</word>
+<word>
+einhyrndr
 	<m1><p>a.</p> <i><trn>one-horned</trn></i>.</m1>
-</entry>
-<entry word="einhyrningr">
+</word>
+<word>
+einhyrningr
 	<m1><p>m.</p> <i><trn>unicorn</trn></i>.</m1>
-</entry>
-<entry word="einigr">
+</word>
+<word>
+einigr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>any</trn></i>;</m2>
 	<m2>2) <i><trn>no</trn></i>, = <ref>engi</ref>.</m2>
-</entry>
-<entry word="eining">
+</word>
+<word>
+eining
 	<m1><p>f.</p> <i><trn>unity</trn></i> (þrennr í ~u).</m1>
-</entry>
-<entry word="einir">
+</word>
+<word>
+einir
 	<m1>(<p>gen.</p> einis), <p>m.</p> <i><trn>juniper</trn></i>.</m1>
-</entry>
-<entry word="einjárnungr">
+</word>
+<word>
+einjárnungr
 	<m1><p>m.</p> <i><trn>a cutting tool or weapon made of one piece of iron</trn></i>.</m1>
-</entry>
-<entry word="einka">
+</word>
+<word>
+einka
 	<m1>(að), <p>v.</p> <i><trn>to appoint for a particular use</trn></i> (~ <p>e-t</p> til <p>e-s</p>).</m1>
-</entry>
-<entry word="einkagjöf">
+</word>
+<word>
+einkagjöf
 	<m1><p>f.</p> <i><trn>special gift</trn></i>.</m1>
-</entry>
-<entry word="einkagrið">
+</word>
+<word>
+einkagrið
 	<m1><p>n.</p> <i><trn>special truce</trn></i>.</m1>
-</entry>
-<entry word="einkagripr">
+</word>
+<word>
+einkagripr
 	<m1><p>m.</p> <i><trn>special family heirloom</trn></i>.</m1>
-</entry>
-<entry word="einkajartegn">
+</word>
+<word>
+einkajartegn
 	<m1><p>n.</p> <i><trn>special token</trn></i>.</m1>
-</entry>
-<entry word="einkaleyfi">
-	</entry>
-<entry word="einkalof">
+</word>
+<word>
+einkaleyfi
+</word>
+<word>
+einkalof
 	<m1><p>n.</p> <i><trn>special lease</trn></i>.</m1>
-</entry>
-<entry word="einkamaðr">
+</word>
+<word>
+einkamaðr
 	<m1><p>m.</p> <i><trn>a person of special rank, dignitary</trn></i>.</m1>
-</entry>
-<entry word="einkamál">
+</word>
+<word>
+einkamál
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>special agreement</trn></i>;</m2>
 	<m2>2) <i><trn>privilege</trn></i>.</m2>
-</entry>
-<entry word="einkanliga">
+</word>
+<word>
+einkanliga
 	<m1><p>adv.</p> <i><trn>especially, particularly</trn></i>.</m1>
-</entry>
-<entry word="einkanligr">
+</word>
+<word>
+einkanligr
 	<m1><p>a.</p> <i><trn>special, extraordinary</trn></i>.</m1>
-</entry>
-<entry word="einkanna">
+</word>
+<word>
+einkanna
 	<m1>(að), <p>v.</p> = <ref>einka</ref>, <i><trn>to assign specially</trn></i>.</m1>
-</entry>
-<entry word="einkannahlutr">
+</word>
+<word>
+einkannahlutr
 	<m1><p>m.</p> <i><trn>a distinguishing mark or feature</trn></i>.</m1>
-</entry>
-<entry word="einkar">
+</word>
+<word>
+einkar
 	<m1><p>adv.</p> <i><trn>very, exceedingly</trn></i> (e. fagr, hræddr); e. mjök, <i><trn>very much</trn></i> e. skjótt, <i><trn>with great speed</trn></i>; e. vel, <i><trn>extremely well</trn></i>; in <p>compds.</p> with nouns = <ref>einka-</ref>.</m1>
-</entry>
-<entry word="einkareðli">
+</word>
+<word>
+einkareðli
 	<m1><p>n.</p> <i><trn>special nature</trn></i>.</m1>
-</entry>
-<entry word="einkarskriptargangr">
+</word>
+<word>
+einkarskriptargangr
 	<m1><p>m.</p> <i><trn>special confession</trn></i>.</m1>
-</entry>
-<entry word="einkastæla">
+</word>
+<word>
+einkastæla
 	<m1><p>f.</p> <i><trn>particular or personal happiness</trn></i>.</m1>
-</entry>
-<entry word="einkavinr">
+</word>
+<word>
+einkavinr
 	<m1><p>m.</p> <i><trn>a particular friend</trn></i>.</m1>
-</entry>
-<entry word="einka-">
+</word>
+<word>
+einka-
 	<m1>in <p>compds.</p>, <i><trn>special, particular</trn></i>.</m1>
-</entry>
-<entry word="einkenna">
+</word>
+<word>
+einkenna
 	<m1>(-da, -dr), <p>v.</p> <i><trn>to furnish with a distinctive mark, disinguish, signalize</trn></i>.</m1>
-</entry>
-<entry word="einkenniligr">
+</word>
+<word>
+einkenniligr
 	<m1><p>a.</p> <i><trn>especial, particular</trn></i>.</m1>
-</entry>
-<entry word="einkenning">
-	</entry>
-<entry word="greining">
+</word>
+<word>
+einkenning
+</word>
+<word>
+greining
 	<m1><p>f.</p> <i><trn>distinction</trn></i>.</m1>
-</entry>
-<entry word="einkum">
+</word>
+<word>
+einkum
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>chiefly, especially</trn></i>;</m2>
 	<m2>2) <i><trn>very</trn></i> (e. góðr, e. bezt).</m2>
-</entry>
-<entry word="einkunn">
+</word>
+<word>
+einkunn
 	<m1><p>f.</p> <i><trn>mark of ownership (on animals)</trn></i>.</m1>
-</entry>
-<entry word="einkvæntr">
+</word>
+<word>
+einkvæntr
 	<m1><p>pp.</p> <i><trn>having only one wife</trn></i>.</m1>
-</entry>
-<entry word="einkynna">
+</word>
+<word>
+einkynna
 	<m1>(-da, -dr), <p>v.</p> <i><trn>to mark</trn></i> (animals).</m1>
-</entry>
-<entry word="einlagi">
+</word>
+<word>
+einlagi
 	<m1><p>a.</p>, vera, gerast ~ um <p>e-t</p>, <i><trn>to act alone in a thing</trn></i>.</m1>
-</entry>
-<entry word="einlát">
+</word>
+<word>
+einlát
 	<m1><p>n.</p> <i><trn>deserting one’s wife or husband</trn></i> (cf. ‘láta konu eina’).</m1>
-</entry>
-<entry word="einleikr">
+</word>
+<word>
+einleikr
 	<m1><p>m.</p> <i><trn>unity</trn></i>.</m1>
-</entry>
-<entry word="einleitr">
+</word>
+<word>
+einleitr
 	<m1><p>a.</p> <i><trn>singular in one’s behaviour, odd</trn></i>.</m1>
-</entry>
-<entry word="einlitr">
+</word>
+<word>
+einlitr
 	<m1><p>a.</p> <i><trn>of one colour</trn></i>.</m1>
-</entry>
-<entry word="einlyndi">
+</word>
+<word>
+einlyndi
 	<m1><p>n.</p> <i><trn>obstinacy, stubbornness</trn></i>.</m1>
-</entry>
-<entry word="einlyndr">
-	</entry>
-<entry word="þráhaldr">
-	</entry>
-<entry word="þrályndr">
+</word>
+<word>
+einlyndr
+</word>
+<word>
+þráhaldr
+</word>
+<word>
+þrályndr
 	<m1><p>a.</p> <i><trn>obstinate, stubborn</trn></i>.</m1>
-</entry>
-<entry word="einlæti">
+</word>
+<word>
+einlæti
 	<m1><p>n.</p></m1>
 	<m2>1) = <ref>einlyndi</ref>;</m2>
 	<m2>2) = <ref>einlát</ref>;</m2>
 	<m3>ætla konu ~, <i><trn>to intend to desert one’s wife</trn></i>.</m3>
-</entry>
-<entry word="einman">
+</word>
+<word>
+einman
 	<m1><p>n.</p> <i><trn>solitude</trn></i>; búa í ~i, <i><trn>to live in solitude</trn></i>.</m1>
-</entry>
-<entry word="einmana">
+</word>
+<word>
+einmana
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>solitary lonely, friendless</trn></i>.</m1>
-</entry>
-<entry word="einmani">
+</word>
+<word>
+einmani
 	<m1><p>a.</p> = <ref>einmana</ref>.</m1>
-</entry>
-<entry word="einmáll">
+</word>
+<word>
+einmáll
 	<m1><p>a.</p> <i><trn>opinionated</trn></i>.</m1>
-</entry>
-<entry word="einmánaðarsamkváma">
+</word>
+<word>
+einmánaðarsamkváma
 	<m1><p>f.</p> <i><trn>a meeting held in</trn></i> <ref>einmánaðr</ref>.</m1>
-</entry>
-<entry word="einmánaðr">
+</word>
+<word>
+einmánaðr
 	<m1><p>m.</p> <i><trn>the last month of winter</trn></i> (part of March and April).</m1>
-</entry>
-<entry word="einmenningr">
+</word>
+<word>
+einmenningr
 	<m1><p>m.</p>, drekka einmenning, <i><trn>to empty the drinking-horn each one by himself</trn></i>.</m1>
-</entry>
-<entry word="einmóðliga">
+</word>
+<word>
+einmóðliga
 	<m1><p>adv.</p> <i><trn>firmly</trn></i>, resolutely.</m1>
-</entry>
-<entry word="einmæli">
+</word>
+<word>
+einmæli
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>private talk or conference</trn></i>;</m2>
 	<m2>2) <i><trn>common talk</trn></i> (var þat allra manna ~).</m2>
-</entry>
-<entry word="einmælingr">
+</word>
+<word>
+einmælingr
 	<m1><p>m.</p> <i><trn>one meal only</trn></i>; hafa einmæling, <i><trn>to eat one meal a day</trn></i>.</m1>
-</entry>
-<entry word="einmælt">
+</word>
+<word>
+einmælt
 	<m1><p>adv.</p> <i><trn>one a day, one meal a day</trn></i> (eta, drekka ~).</m1>
-</entry>
-<entry word="einmæltr">
+</word>
+<word>
+einmæltr
 	<m1><p>pp.</p> <i><trn>unanimously said</trn></i> (þat var einmælt, at).</m1>
-</entry>
-<entry word="einn">
+</word>
+<word>
+einn
 	<m1><p>card. numb.</p> and <p>pron.</p></m1>
 	<m2>1) <i><trn>one</trn></i>;</m2>
 	<m3>~ skal við ~ eiga, <i><trn>one shall fight against one</trn></i>;</m3>
@@ -1104,11 +1405,13 @@ Egiptaland
 	<m3>því at eins, <i><trn>only in that case</trn></i>;</m3>
 	<m3>údauðr at eins, <i><trn>merely not dead, all but dead, barely alive</trn></i>;</m3>
 	<m3>at einu = at eins.</m3>
-</entry>
-<entry word="einnefna">
+</word>
+<word>
+einnefna
 	<m1>(-da, -dr), <p>v.</p> <i><trn>to appoint</trn></i>.</m1>
-</entry>
-<entry word="einnhverr">
+</word>
+<word>
+einnhverr
 	<m1>(einhver, eitthvert), <p>indef. pron.</p>; except in <p>nom.</p> and <p>acc.</p> <p>sing.</p> <p>masc.</p> and <p>neut.</p> ein- is generally <p>indecl.</p>;</m1>
 	<m2>1) <i><trn>some, some one</trn></i>;</m2>
 	<m3>einnhvern dag, <i><trn>some day</trn></i>;</m3>
@@ -1116,1038 +1419,1348 @@ Egiptaland
 	<m3>as a noun (meðan ~ várr búandanna er lífs);</m3>
 	<m2>2) as an intensive with <p>superl.</p> ágætastr maðr ~, <i><trn>one of the very foremost men</trn></i>;</m2>
 	<m2>3) <i><trn>each, each one</trn></i>, usually in two words (ór þeirra fjórðungi sem ór einum hverjum öðrum).</m2>
-</entry>
-<entry word="einnig">
-	</entry>
-<entry word="einnug">
+</word>
+<word>
+einnig
+</word>
+<word>
+einnug
 	<m1>(= einn veg), <p>adv.</p> <i><trn>in the same way, likewise, also</trn></i>; á ~ (= á einn veg), <i><trn>in the same manner</trn></i>.</m1>
-</entry>
-<entry word="einnættr">
+</word>
+<word>
+einnættr
 	<m1><p>a.</p> <i><trn>one night old</trn></i>.</m1>
-</entry>
-<entry word="einráðinn">
+</word>
+<word>
+einráðinn
 	<m1><p>pp.</p> <i><trn>having made up one’s mind, resolved</trn></i> (í <p>e-u</p>, til <p>e-s</p>, <i><trn>upon)</trn></i>; hafa einráðit at gera <p>e-t</p>, <i><trn>to have made up one’s mind to do a thing</trn></i>.</m1>
-</entry>
-<entry word="einráðr">
-	</entry>
-<entry word="úáhlýðinn">
+</word>
+<word>
+einráðr
+</word>
+<word>
+úáhlýðinn
 	<m1><p>a.</p> <i><trn>self-willed</trn></i>.</m1>
-</entry>
-<entry word="einreikull">
+</word>
+<word>
+einreikull
 	<m1><p>a.</p> <i><trn>inclined to roam about alone</trn></i>.</m1>
-</entry>
-<entry word="einræði">
+</word>
+<word>
+einræði
 	<m1><p>n.</p> <i><trn>self-willed</trn></i>.</m1>
-</entry>
-<entry word="einrœða">
+</word>
+<word>
+einrœða
 	<m1><p>f.</p> <i><trn>private conference</trn></i>.</m1>
-</entry>
-<entry word="einrœnligr">
+</word>
+<word>
+einrœnligr
 	<m1><p>a.</p> <i><trn>strange, odd</trn></i>.</m1>
-</entry>
-<entry word="einrœnn">
+</word>
+<word>
+einrœnn
 	<m1><p>a.</p> <i><trn>singular in his behaviour</trn></i>.</m1>
-</entry>
-<entry word="eins">
+</word>
+<word>
+eins
 	<m1><p>adv.</p> <i><trn>alike, in the same way</trn></i>; ~ ok, <i><trn>as</trn></i> (bar e. víð ok í Valþjófsstöðum); <i><trn>as if</trn></i> (e. ok væri hann með öllu óttalauss); allt e. ok, <i><trn>just as</trn></i> (allt e. ok rakkar metja með tungu); allt e. = allt at einu, <com>see</com> <ref>einn</ref> 3; at eins, <com>see</com> <ref>einn</ref> 7.</m1>
-</entry>
-<entry word="einsamall">
+</word>
+<word>
+einsamall
 	<m1><p>a.</p> <i><trn>alone</trn></i> (rare) = einn saman.</m1>
-</entry>
-<entry word="einseta">
+</word>
+<word>
+einseta
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>solitude</trn></i>;</m2>
 	<m2>2) <i><trn>solitary life, hermit’s life</trn></i>;</m2>
 	<m2>3) <i><trn>hermitage</trn></i>.</m2>
-</entry>
-<entry word="einsetubróðir">
+</word>
+<word>
+einsetubróðir
 	<m1><p>m.</p> <i><trn>anchoret, recluse, hermit</trn></i>.</m1>
-</entry>
-<entry word="einsetuklefi">
-	</entry>
-<entry word="einsetukofi">
+</word>
+<word>
+einsetuklefi
+</word>
+<word>
+einsetukofi
 	<m1><p>m.</p> <i><trn>hermit’s cell</trn></i>.</m1>
-</entry>
-<entry word="einsetukona">
+</word>
+<word>
+einsetukona
 	<m1><p>f.</p> <i><trn>hermitess, anchoress</trn></i>.</m1>
-</entry>
-<entry word="einsetulifnaðr">
+</word>
+<word>
+einsetulifnaðr
 	<m1><p>m.</p> <i><trn>the life of an anchoret, hermit’s life</trn></i>.</m1>
-</entry>
-<entry word="einsetuligr">
+</word>
+<word>
+einsetuligr
 	<m1><p>a.</p> <i><trn>pertaining, to</trn></i> <ref>einseta</ref>.</m1>
-</entry>
-<entry word="einsetulíf">
+</word>
+<word>
+einsetulíf
 	<m1><p>n.</p> = <ref>einsetulifnaðr</ref>.</m1>
-</entry>
-<entry word="einsetumaðr">
-	</entry>
-<entry word="einsetumunkr">
+</word>
+<word>
+einsetumaðr
+</word>
+<word>
+einsetumunkr
 	<m1><p>m.</p> = <ref>einsetubróðir</ref>.</m1>
-</entry>
-<entry word="einshverr">
+</word>
+<word>
+einshverr
 	<m1><p>indef. pron.</p> = <ref>einnhverr</ref>.</m1>
-</entry>
-<entry word="einskapan">
+</word>
+<word>
+einskapan
 	<m1><p>f.</p> <i><trn>the right to fix one’s own terms</trn></i>.</m1>
-</entry>
-<entry word="einskipa">
+</word>
+<word>
+einskipa
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>with a single ship</trn></i> (þú sigldir ~).</m1>
-</entry>
-<entry word="einskirr">
+</word>
+<word>
+einskirr
 	<m1><p>a.</p> <i><trn>perfectly clear</trn></i> (einskírt veðr).</m1>
-</entry>
-<entry word="einskjaldar">
+</word>
+<word>
+einskjaldar
 	<m1><p>adv.</p> <i><trn>under the same shield, acting together</trn></i>.</m1>
-</entry>
-<entry word="einskora">
+</word>
+<word>
+einskora
 	<m1>(að), <p>v.</p>, ~ hug sinn, <i><trn>to make up one’s mind</trn></i>.</m1>
-</entry>
-<entry word="einskærligr">
+</word>
+<word>
+einskærligr
 	<m1><p>a.</p> <i><trn>pure</trn></i>.</m1>
-</entry>
-<entry word="einsliga">
+</word>
+<word>
+einsliga
 	<m1><p>adv.</p> <i><trn>privately, singly</trn></i>.</m1>
-</entry>
-<entry word="einsligr">
+</word>
+<word>
+einsligr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>single</trn></i> = <ref>einfaldr</ref>; einslig tala, <i><trn>singular number</trn></i>;</m2>
 	<m2>2) <i><trn>private</trn></i> (einslig áminning);</m2>
 	<m2>3) <i><trn>especial, particular</trn></i>.</m2>
-</entry>
-<entry word="einstaðar">
+</word>
+<word>
+einstaðar
 	<m1><p>adv.</p> <i><trn>in some place</trn></i>.</m1>
-</entry>
-<entry word="einstaka">
+</word>
+<word>
+einstaka
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>single, occurring nov and then, here and there</trn></i>.</m1>
-</entry>
-<entry word="einstapi">
+</word>
+<word>
+einstapi
 	<m1><p>m.</p> <i><trn>a kind of fern</trn></i>.</m1>
-</entry>
-<entry word="einstigi">
+</word>
+<word>
+einstigi
 	<m1><p>n.</p> <i><trn>narrow path</trn></i>.</m1>
-</entry>
-<entry word="einstrengja">
+</word>
+<word>
+einstrengja
 	<m1>(-da, -dr), <p>v.</p> <i><trn>to make firm</trn></i>; ~ þá ætlan fyrir sér at, <i><trn>to resolve firmly</trn></i>.</m1>
-</entry>
-<entry word="einstœðr">
+</word>
+<word>
+einstœðr
 	<m1><p>a.</p> <i><trn>solitary, bereaved</trn></i>.</m1>
-</entry>
-<entry word="einsvígi">
+</word>
+<word>
+einsvígi
 	<m1><p>n.</p> <i><trn>single combat</trn></i>, = <ref>einvígi</ref>.</m1>
-</entry>
-<entry word="einsýnn">
+</word>
+<word>
+einsýnn
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>one-eyed</trn></i>;</m2>
 	<m2>2) <i><trn>evident, obvious</trn></i>; at einsýnu, <i><trn>evidently</trn></i>.</m2>
-</entry>
-<entry word="einsætt">
+</word>
+<word>
+einsætt
 	<m1><p>a.</p> <p>n.</p> <i><trn>clear, evident</trn></i>, only in the phrase, <p>e-t</p> er einsxtt, <i><trn>is the only thing to be done</trn></i>.</m1>
-</entry>
-<entry word="einsögn">
+</word>
+<word>
+einsögn
 	<m1><p>f.</p> <i><trn>a single person’s statement</trn></i>.</m1>
-</entry>
-<entry word="eintal">
+</word>
+<word>
+eintal
 	<m1><p>n.</p> <i><trn>private conference</trn></i> (ganga á ~).</m1>
-</entry>
-<entry word="eintalat">
+</word>
+<word>
+eintalat
 	<m1><p>pp.</p> <p>n.</p>, varð þeim ~ um Helgu, <i><trn>they talked of nothing but H.</trn></i>.</m1>
-</entry>
-<entry word="einteiti">
+</word>
+<word>
+einteiti
 	<m1><p>a.</p> <i><trn>in high spirits, quite merry</trn></i>.</m1>
-</entry>
-<entry word="eintómi">
+</word>
+<word>
+eintómi
 	<m1><p>a.</p> <i><trn>quite unoccupied, disengaged</trn></i>.</m1>
-</entry>
-<entry word="eintrjánungr">
+</word>
+<word>
+eintrjánungr
 	<m1><p>m.</p> <i><trn>a boat made of a single tree</trn></i>.</m1>
-</entry>
-<entry word="einugi">
+</word>
+<word>
+einugi
 	<m1>neut, <p>dat.</p> from <ref>engi</ref>; e. feti framarr, <i><trn>not a step further</trn></i>.</m1>
-</entry>
-<entry word="einurð">
+</word>
+<word>
+einurð
 	<m1><p>f.</p> = <ref>einörð</ref>.</m1>
-</entry>
-<entry word="einvala">
+</word>
+<word>
+einvala
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>chosen, select</trn></i>; ~ kappi, <i><trn>great champion</trn></i>; ~ lið, <i><trn>picked troops</trn></i>.</m1>
-</entry>
-<entry word="einvald">
+</word>
+<word>
+einvald
 	<m1><p>n.</p> <i><trn>absolute government, sole sovereinity</trn></i>; tiundi vetr ~s hans, <i><trn>the tenth year of his reign</trn></i>.</m1>
-</entry>
-<entry word="einvaldi">
+</word>
+<word>
+einvaldi
 	<m1><p>m.</p> <i><trn>monarch, sovereign</trn></i> (~ <p>e-s</p> <com>or</com> yfir <p>e-u</p>).</m1>
-</entry>
-<entry word="einvaldr">
+</word>
+<word>
+einvaldr
 	<m1><p>m.</p> = <ref>einvaldi</ref>.</m1>
-</entry>
-<entry word="einvaldsherra">
-	</entry>
-<entry word="einvaldshöfðingi">
+</word>
+<word>
+einvaldsherra
+</word>
+<word>
+einvaldshöfðingi
 	<m1><p>m.</p> <i><trn>autocrat, monarch</trn></i>.</m1>
-</entry>
-<entry word="einvaldskonungr">
+</word>
+<word>
+einvaldskonungr
 	<m1><p>m.</p> <i><trn>absolute king</trn></i>.</m1>
-</entry>
-<entry word="einvaldsríki">
+</word>
+<word>
+einvaldsríki
 	<m1><p>n.</p> <i><trn>absolute sway, empire</trn></i>.</m1>
-</entry>
-<entry word="einvalinn">
+</word>
+<word>
+einvalinn
 	<m1><p>pp.</p> <i><trn>select, picked</trn></i>.</m1>
-</entry>
-<entry word="einvild">
+</word>
+<word>
+einvild
 	<m1><p>f.</p> <i><trn>self-will</trn></i>.</m1>
-</entry>
-<entry word="einvili">
+</word>
+<word>
+einvili
 	<m1><p>m.</p> <i><trn>self-will</trn></i>.</m1>
-</entry>
-<entry word="einvirðing">
+</word>
+<word>
+einvirðing
 	<m1><p>f.</p> <i><trn>one’s own choice</trn></i>; af ~u, <i><trn>especially</trn></i>.</m1>
-</entry>
-<entry word="einvirðuliga">
+</word>
+<word>
+einvirðuliga
 	<m1><p>adv.</p> <i><trn>exceedingly, especially</trn></i>.</m1>
-</entry>
-<entry word="einvirðuligr">
+</word>
+<word>
+einvirðuligr
 	<m1><p>a.</p> <i><trn>especial</trn></i>.</m1>
-</entry>
-<entry word="einvirki">
+</word>
+<word>
+einvirki
 	<m1><p>m.</p> <i><trn>single worker, a poor husbandman who has no servants</trn></i>.</m1>
-</entry>
-<entry word="einvist">
+</word>
+<word>
+einvist
 	<m1><p>f.</p> <i><trn>solitude</trn></i>; vera ~um, <i><trn>to live alone</trn></i>.</m1>
-</entry>
-<entry word="einvígi">
+</word>
+<word>
+einvígi
 	<m1><p>n.</p> <i><trn>single combat, duel</trn></i>.</m1>
-</entry>
-<entry word="einvígismaðr">
+</word>
+<word>
+einvígismaðr
 	<m1><p>m.</p> <i><trn>one who fights in single combat, a duellist</trn></i>.</m1>
-</entry>
-<entry word="einvænn">
+</word>
+<word>
+einvænn
 	<m1><p>a.</p> <i><trn>in a hopeless state, sinking fast</trn></i> (liggja, vera, ~).</m1>
-</entry>
-<entry word="einvöldugr">
+</word>
+<word>
+einvöldugr
 	<m1><p>a.</p> <i><trn>absolute</trn></i>.</m1>
-</entry>
-<entry word="einvörðungum">
+</word>
+<word>
+einvörðungum
 	<m1><p>adv.</p> <i><trn>particularly</trn></i>.</m1>
-</entry>
-<entry word="einyrki">
+</word>
+<word>
+einyrki
 	<m1><p>m.</p> = <ref>einvirki</ref>.</m1>
-</entry>
-<entry word="einþykki">
+</word>
+<word>
+einþykki
 	<m1><p>n.</p> <i><trn>self-will</trn></i>.</m1>
-</entry>
-<entry word="einþykkr">
+</word>
+<word>
+einþykkr
 	<m1><p>a.</p> <i><trn>self-willed, stubborn</trn></i>.</m1>
-</entry>
-<entry word="einæri">
+</word>
+<word>
+einæri
 	<m1><p>n.</p> <i><trn>term of one year</trn></i>.</m1>
-</entry>
-<entry word="einærr">
+</word>
+<word>
+einærr
 	<m1><p>a.</p> <i><trn>lasting one year, of one year</trn></i> (einær tíund).</m1>
-</entry>
-<entry word="einætl">
+</word>
+<word>
+einætl
 	<m1><p>n.</p> <p>pl.</p>, only in the phrase, eta <p>e-t</p> einætum, <i><trn>to eat alone, in private</trn></i>.</m1>
-</entry>
-<entry word="einörð">
+</word>
+<word>
+einörð
 	<m1>(<p>gen.</p> -arðar), <p>f.</p></m1>
 	<m2>1) <i><trn>franknes, boldness, fairness</trn></i> (hafa ~ til at ganga við <p>e-u</p>);</m2>
 	<m3>~ várrar frásagnar, <i><trn>the fairness of our story</trn></i>;</m3>
 	<m2>2) <i><trn>fidelity, loyalty</trn></i> (at landsfólkit mundi snúit frá ~inni við konung);</m2>
 	<m2>3) <i><trn>firm conviction</trn></i> (þat er ~ mín, at þat er at engum kosti rétt).</m2>
-</entry>
-<entry word="eir">
+</word>
+<word>
+eir
 	<m1><p>n.</p> <i><trn>brass, copper</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Eir
 	<m1><p>f.</p> <i><trn>one of the heathen goddesses</trn></i>.</m1>
-</entry>
-<entry word="eira">
+</word>
+<word>
+eira
 	<m1>(-ða, -t), <p>v.</p></m1>
 	<m2>1) <i><trn>to spare</trn></i>, with <p>dat.</p> (at þeir skyldu ~ konum ok kirkjum);</m2>
 	<m3>~ undan <p>e-u</p>, <i><trn>to yield to</trn></i>;</m3>
 	<m2>2) <p>e-m</p> eirir <p>e-t</p> vel (illa), <i><trn>it agrees well (ill) with one, he is well pleased (displeased) with it</trn></i> (Eiríki konungi eirði þetta stórilla);</m2>
 	<m3>honum eirir illa, ef, <i><trn>he is annoyed, if</trn></i>;</m3>
 	<m2>3) ~ <p>e-n</p> af <p>e-u</p>, <i><trn>to deprive one of</trn></i>.</m2>
-</entry>
-<entry word="eiraltari">
+</word>
+<word>
+eiraltari
 	<m1><p>n.</p> <i><trn>brazen altar</trn></i>.</m1>
-</entry>
-<entry word="eirbaugr">
+</word>
+<word>
+eirbaugr
 	<m1><p>m.</p> brazen ring.</m1>
-</entry>
-<entry word="eirð">
+</word>
+<word>
+eirð
 	<m1><p>f.</p> <i><trn>clemency, mercy</trn></i>.</m1>
-</entry>
-<entry word="eirguð">
+</word>
+<word>
+eirguð
 	<m1><p>m.</p> <i><trn>an idol of brass</trn></i>.</m1>
-</entry>
-<entry word="eirhjálmr">
+</word>
+<word>
+eirhjálmr
 	<m1><p>m.</p> <i><trn>brazen helmet</trn></i>.</m1>
-</entry>
-<entry word="eirinn">
+</word>
+<word>
+eirinn
 	<m1><p>a.</p> <i><trn>forbearing, lenient</trn></i>.</m1>
-</entry>
-<entry word="eirker">
+</word>
+<word>
+eirker
 	<m1><p>n.</p> <i><trn>brazen vessel</trn></i>.</m1>
-</entry>
-<entry word="eirketill">
+</word>
+<word>
+eirketill
 	<m1><p>m.</p> <i><trn>brazen kettle</trn></i>.</m1>
-</entry>
-<entry word="eirkross">
+</word>
+<word>
+eirkross
 	<m1><p>m.</p> <i><trn>brazen cross</trn></i>.</m1>
-</entry>
-<entry word="eirkyrtill">
+</word>
+<word>
+eirkyrtill
 	<m1><p>m.</p> <i><trn>brazen cloak</trn></i>.</m1>
-</entry>
-<entry word="eirligr">
+</word>
+<word>
+eirligr
 	<m1><p>a.</p> <i><trn>brazen</trn></i>.</m1>
-</entry>
-<entry word="eirnökkvi">
+</word>
+<word>
+eirnökkvi
 	<m1><p>m.</p> <i><trn>brazen boat</trn></i>.</m1>
-</entry>
-<entry word="eirormr">
+</word>
+<word>
+eirormr
 	<m1><p>m.</p> <i><trn>brazen serpent</trn></i>.</m1>
-</entry>
-<entry word="eirpeningr">
+</word>
+<word>
+eirpeningr
 	<m1><p>m.</p> <i><trn>brass coin, copper coin</trn></i>.</m1>
-</entry>
-<entry word="eirpípa">
+</word>
+<word>
+eirpípa
 	<m1><p>f.</p> <i><trn>brass tube</trn></i>.</m1>
-</entry>
-<entry word="eirskjöldr">
+</word>
+<word>
+eirskjöldr
 	<m1><p>m.</p> <i><trn>brazen shield</trn></i>.</m1>
-</entry>
-<entry word="eirsteypari">
+</word>
+<word>
+eirsteypari
 	<m1><p>m.</p> <i><trn>brass-founder</trn></i>.</m1>
-</entry>
-<entry word="eirstólpi">
+</word>
+<word>
+eirstólpi
 	<m1><p>m.</p> <i><trn>pillar of brass</trn></i>.</m1>
-</entry>
-<entry word="eirteinn">
+</word>
+<word>
+eirteinn
 	<m1><p>m.</p> <i><trn>brass wire</trn></i>.</m1>
-</entry>
-<entry word="eiruxi">
+</word>
+<word>
+eiruxi
 	<m1><p>m.</p> <i><trn>brazen ox</trn></i> (image).</m1>
-</entry>
-<entry word="eisa">
+</word>
+<word>
+eisa
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>glowing embers</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(að), <p>v.</p></m2>
 	<m3>1) <i><trn>to rush on</trn></i>; ganga eisanda, <i><trn>to go dashing through the waves</trn></i> (of a ship); eisandi úðr, <i><trn>foaming wave</trn></i>;</m3>
 	<m3>2) eisa eldum, <i><trn>to shower down embers</trn></i>.</m3>
-</entry>
-<entry word="eiskald">
+</word>
+<word>
+eiskald
 	<m1><p>n.</p> <i><trn>heart</trn></i>.</m1>
-</entry>
-<entry word="eiskra">
+</word>
+<word>
+eiskra
 	<m1>(að), <p>v.</p> <i><trn>to roar, rage</trn></i>.</m1>
-</entry>
-<entry word="eiskran">
+</word>
+<word>
+eiskran
 	<m1><p>f.</p> <i><trn>roaring, raging</trn></i>.</m1>
-</entry>
-<entry word="eisköld">
+</word>
+<word>
+eisköld
 	<m1><p>f.</p> <p>poet.</p> <i><trn>heart</trn></i>.</m1>
-</entry>
-<entry word="eista">
+</word>
+<word>
+eista
 	<m1>(<p>gen.</p> <p>pl.</p> eistna), <p>n.</p> <i><trn>testicle, stone</trn></i> (eistun þrútnuðu).</m1>
-</entry>
-<entry>
+</word>
+<word>
 Eistland
 	<m1><p>n.</p> <i><trn>Esthonia</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Eistr
-</entry>
-<entry>
+</word>
+<word>
 Eistrir
 	<m1><p>m.</p> <p>pl.</p> the Esthonians.</m1>
-</entry>
-<entry word="eistriestir">
+</word>
+<word>
+eistriestir
 	<m1><p>a.</p> <i><trn>Esthonian</trn></i>.</m1>
-</entry>
-<entry word="eitla">
+</word>
+<word>
+eitla
 	<m1>(að), <p>v.</p>, only in the phrase, ~ augum, <i><trn>to look stern</trn></i>.</m1>
-</entry>
-<entry word="eitr">
+</word>
+<word>
+eitr
 	<m1><p>n.</p> <i><trn>poison</trn></i> (kasta eitri í drylk); fig. bitterness, malice.</m1>
-</entry>
-<entry word="eitra">
+</word>
+<word>
+eitra
 	<m1>(að), <p>v.</p> <i><trn>to poison</trn></i> (~ smyrsl).</m1>
-</entry>
-<entry word="eitraðr">
+</word>
+<word>
+eitraðr
 	<m1>poisonous (eitrat hatr).</m1>
-</entry>
-<entry word="eitrá">
+</word>
+<word>
+eitrá
 	<m1><p>f.</p> <i><trn>poisonous stream</trn></i>.</m1>
-</entry>
-<entry word="eitrblandinn">
+</word>
+<word>
+eitrblandinn
 	<m1><p>pp.</p> <i><trn>impregnated, tainted with poison, poisoned, envenomed</trn></i>.</m1>
-</entry>
-<entry word="eitrblásinn">
+</word>
+<word>
+eitrblásinn
 	<m1><p>pp.</p> <i><trn>swollen up with poison</trn></i>.</m1>
-</entry>
-<entry word="eitrblástr">
+</word>
+<word>
+eitrblástr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>inflammation from poison</trn></i>;</m2>
 	<m2>2) <i><trn>poisonous breath</trn></i>.</m2>
-</entry>
-<entry word="eitrbólginn">
+</word>
+<word>
+eitrbólginn
 	<m1><p>pp.</p> = <ref>eitrblásinn</ref>.</m1>
-</entry>
-<entry word="eitrdalr">
+</word>
+<word>
+eitrdalr
 	<m1><p>m.</p> <i><trn>‘venom dale’</trn></i>.</m1>
-</entry>
-<entry word="eitrdrep">
+</word>
+<word>
+eitrdrep
 	<m1><p>n.</p> <i><trn>deadly poison, poisoning</trn></i>.</m1>
-</entry>
-<entry word="eitrdrepinn">
+</word>
+<word>
+eitrdrepinn
 	<m1><p>pp.</p> <i><trn>killed by poison, poisoned</trn></i>.</m1>
-</entry>
-<entry word="eitrdropi">
+</word>
+<word>
+eitrdropi
 	<m1><p>m.</p> <i><trn>drop of poison</trn></i>.</m1>
-</entry>
-<entry word="eitreggjaðr">
+</word>
+<word>
+eitreggjaðr
 	<m1><p>pp.</p> <i><trn>having a poisoned edge</trn></i>.</m1>
-</entry>
-<entry word="eitrfár">
+</word>
+<word>
+eitrfár
 	<m1><p>a.</p> <i><trn>venomous</trn></i> (~ ormr).</m1>
-</entry>
-<entry word="eitrfluga">
+</word>
+<word>
+eitrfluga
 	<m1><p>f.</p> <i><trn>venomous insect</trn></i>.</m1>
-</entry>
-<entry word="eitrfullr">
+</word>
+<word>
+eitrfullr
 	<m1><p>a.</p> <i><trn>kind of poison</trn></i>.</m1>
-</entry>
-<entry word="eitrherðr">
+</word>
+<word>
+eitrherðr
 	<m1><p>pp.</p> <i><trn>tempered in poison</trn></i> (sverðit var eitrhert í).</m1>
-</entry>
-<entry word="eitrkaldr">
+</word>
+<word>
+eitrkaldr
 	<m1><p>a.</p> <i><trn>deadly cold</trn></i>.</m1>
-</entry>
-<entry word="eitrkveisa">
+</word>
+<word>
+eitrkveisa
 	<m1><p>f.</p> <i><trn>venomous sore</trn></i>, a nickname.</m1>
-</entry>
-<entry word="eitrkvikja">
+</word>
+<word>
+eitrkvikja
 	<m1><p>f.</p> <i><trn>venomous yeast</trn></i>.</m1>
-</entry>
-<entry word="eitrkvikvendi">
+</word>
+<word>
+eitrkvikvendi
 	<m1><p>n.</p> <i><trn>venomous creature</trn></i>.</m1>
-</entry>
-<entry word="eitrligr">
+</word>
+<word>
+eitrligr
 	<m1><p>a.</p> <i><trn>poisonous</trn></i>.</m1>
-</entry>
-<entry word="eitrmaðkr">
+</word>
+<word>
+eitrmaðkr
 	<m1><p>m.</p> <i><trn>venomous maggot</trn></i>.</m1>
-</entry>
-<entry word="eitrnaðra">
+</word>
+<word>
+eitrnaðra
 	<m1><p>f.</p> <i><trn>poisonous adder</trn></i>.</m1>
-</entry>
-<entry word="eitrormr">
+</word>
+<word>
+eitrormr
 	<m1><p>m.</p> <i><trn>poisonous serpent</trn></i>.</m1>
-</entry>
-<entry word="eitrpadda">
+</word>
+<word>
+eitrpadda
 	<m1><p>f.</p> <i><trn>venomous toad</trn></i>.</m1>
-</entry>
-<entry word="eitrsfullr">
+</word>
+<word>
+eitrsfullr
 	<m1><p>a.</p> <i><trn>full of venom</trn></i>.</m1>
-</entry>
-<entry word="eitrtandraðr">
+</word>
+<word>
+eitrtandraðr
 	<m1><p>pp.</p> <i><trn>glittering with poison</trn></i>, = <ref>eitrfár</ref>.</m1>
-</entry>
-<entry word="eitt">
+</word>
+<word>
+eitt
 	<m1>from <ref>einn</ref>, <i><trn>one</trn></i>.</m1>
-</entry>
-<entry word="eivesandi">
+</word>
+<word>
+eivesandi
 	<m1><p>pr. p.</p> <i><trn>everlasting, eternal</trn></i>.</m1>
-</entry>
-<entry word="eivist">
+</word>
+<word>
+eivist
 	<m1><p>f.</p> = <ref>eilífi</ref>.</m1>
-</entry>
-<entry word="ek">
+</word>
+<word>
+ek
 	<m1><b>I)</b> <p>pers. pron.</p> <i><trn>I</trn></i>;</m1>
 	<m2>in poetry and old prose a pronominal <i>k</i> is suffixed to the verb, emk = em ek, vask = vas ek; sák = sá ek; mundak = munda ek; even if preceded by ek: ek sék, ek sitk; a preceding <i>g</i> becomes by assimilation <i>k</i>, hykk = hygg ek; the pronominal <i>k</i> is inserted between the suffixed negative, <i>-a</i> or <i>-at</i>, and the verb, sáka = sá ek-a, <i><trn>I saw not</trn></i>; veitka = veit ek-a, <i><trn>I know not</trn></i>.</m2>
 	<m1><b>II)</b> from <ref>aka</ref>.</m1>
-</entry>
-<entry word="ekja">
+</word>
+<word>
+ekja
 	<m1><p>f.</p> <i><trn>carting, carrying in a cart</trn></i> (sumir tóku til ekju).</m1>
-</entry>
-<entry word="ekjuvegr">
+</word>
+<word>
+ekjuvegr
 	<m1><p>m.</p> <i><trn>cart-road</trn></i>.</m1>
-</entry>
-<entry word="ekkalauss">
+</word>
+<word>
+ekkalauss
 	<m1><p>a.</p> <i><trn>griefless</trn></i>.</m1>
-</entry>
-<entry word="ekki">
+</word>
+<word>
+ekki
 	<m1><b>I)</b></m1>
 	<m2><p>m.</p> <i><trn>heavy, sobbing, sorrow, grief</trn></i> (angr ok ~).</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>nom.</p> and <p>acc.</p> <p>neut.</p> <p>sing.</p> of <ref>engi</ref>, <i><trn>nothing, nought</trn></i>; also used as <p>adv.</p>, <i><trn>not</trn></i>, = <ref>eigi</ref>.</m2>
-</entry>
-<entry word="ekkja">
+</word>
+<word>
+ekkja
 	<m1><p>f.</p> <i><trn>widow</trn></i> (var þat lítit, at bera ekkju nafn); <p>poet.</p> <i><trn>woman</trn></i>.</m1>
-</entry>
-<entry word="ekkjubúnaðr">
+</word>
+<word>
+ekkjubúnaðr
 	<m1><p>m.</p> <i><trn>widow’s weeds</trn></i>.</m1>
-</entry>
-<entry word="ekkjudómr">
+</word>
+<word>
+ekkjudómr
 	<m1><p>m.</p> <i><trn>widowhood</trn></i>.</m1>
-</entry>
-<entry word="ekkjulífi">
+</word>
+<word>
+ekkjulífi
 	<m1><p>n.</p> <i><trn>widowed life</trn></i>.</m1>
-</entry>
-<entry word="ekkjusonr">
+</word>
+<word>
+ekkjusonr
 	<m1><p>m.</p> <i><trn>widow’s son</trn></i>.</m1>
-</entry>
-<entry word="ekla">
+</word>
+<word>
+ekla
 	<m1><p>f.</p> <i><trn>dearth, want</trn></i>.</m1>
-</entry>
-<entry word="ekra">
+</word>
+<word>
+ekra
 	<m1><p>f.</p> <i><trn>corn-field, acre</trn></i>.</m1>
-</entry>
-<entry word="el">
-	</entry>
-<entry word="œli">
+</word>
+<word>
+el
+</word>
+<word>
+œli
 	<m1>from <ref>ala</ref>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 él
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>shower of rain, snow or hail</trn></i>;</m2>
 	<m2>2) fig. <i><trn>a hot fight</trn></i>.</m2>
-</entry>
-<entry word="elda">
+</word>
+<word>
+elda
 	<m1>(elda, eldr), <p>v.</p></m1>
 	<m2>1) <i><trn>to light, kindle a fire</trn></i> (hann eldir undir katlinum); with <p>dat.</p> of the fuel (~ viði);</m2>
 	<m2>2) <i><trn>to kindle, light, set fire to</trn></i>, with <p>acc.</p>; ~ vita, <i><trn>to kindle a beacon</trn></i>; fig., e. hug <p>e-s</p>, <i><trn>to kindle one’s mind</trn></i>; ek skal yðra húð e. knáliga með klungrum, <i><trn>I shall make you smart</trn></i>;</m2>
 	<m2>3) <i><trn>to heat, warm</trn></i> (~ hús, ~ ofn til brauðs) <i><trn>to smelt</trn></i>; fig. ~ grátt silfr, <i><trn>to be bad friends</trn></i>;</m2>
 	<m2>4) <p>impers.</p>, eldi hér lengi af með þeim brœðrum, <i><trn>the spark of resentment was long felt among the brothers</trn></i>;</m2>
 	<m2>5) <i><trn>it clears up</trn></i>; eldi nokkut élit (<p>acc.</p>), <i><trn>the shower cleared up a little</trn></i>; nótt (<p>acc.</p>) eldir, <i><trn>the night brightens, the day dawns</trn></i>.</m2>
-</entry>
-<entry word="eldahús">
+</word>
+<word>
+eldahús
 	<m1><p>n.</p> = <ref>eldhús</ref>.</m1>
-</entry>
-<entry word="eldaskáli">
+</word>
+<word>
+eldaskáli
 	<m1><p>m.</p> = <ref>eldhús</ref>.</m1>
-</entry>
-<entry word="eldast">
+</word>
+<word>
+eldast
 	<m1>(d), <p>v. refl.</p> <i><trn>to grow, old</trn></i>; hann tekr nú at ~ mjök, <i><trn>he is beginning to age fast</trn></i>.</m1>
-</entry>
-<entry word="eldbakaðr">
+</word>
+<word>
+eldbakaðr
 	<m1><p>pp.</p> <i><trn>baked on embers</trn></i>.</m1>
-</entry>
-<entry word="eldberi">
+</word>
+<word>
+eldberi
 	<m1><p>m.</p> <i><trn>fire-pan, brasier</trn></i>.</m1>
-</entry>
-<entry word="eldbrandr">
-	</entry>
-<entry word="eldistokkr">
-	</entry>
-<entry word="eldstokkr">
+</word>
+<word>
+eldbrandr
+</word>
+<word>
+eldistokkr
+</word>
+<word>
+eldstokkr
 	<m1><p>m.</p> <i><trn>firebrand</trn></i>.</m1>
-</entry>
-<entry word="eldbruni">
+</word>
+<word>
+eldbruni
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>fire, conflagration</trn></i>;</m2>
 	<m2>2) <i><trn>cauterization</trn></i> (at grœða með eldbruna).</m2>
-</entry>
-<entry word="eldböllr">
+</word>
+<word>
+eldböllr
 	<m1><p>m.</p> <i><trn>fireball</trn></i>.</m1>
-</entry>
-<entry word="eldfimr">
+</word>
+<word>
+eldfimr
 	<m1><p>a.</p> <i><trn>inflammable, easily combustible</trn></i>.</m1>
-</entry>
-<entry word="eldfœri">
+</word>
+<word>
+eldfœri
 	<m1><p>n.</p> <p>pl.</p> <i><trn>an apparatus for striking fire, tinder-box</trn></i>.</m1>
-</entry>
-<entry word="eldgróf">
-	</entry>
-<entry word="eldgröf">
+</word>
+<word>
+eldgróf
+</word>
+<word>
+eldgröf
 	<m1><p>f.</p> <i><trn>fire-pit</trn></i>.</m1>
-</entry>
-<entry word="eldhús">
+</word>
+<word>
+eldhús
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>‘fire-house’, hall or sitting-room</trn></i>;</m2>
 	<m2>2) <i><trn>kitchen</trn></i>.</m2>
-</entry>
-<entry word="eldhúsdyrr">
+</word>
+<word>
+eldhúsdyrr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>doorway of an eldhús</trn></i>.</m1>
-</entry>
-<entry word="eldhúsfífl">
+</word>
+<word>
+eldhúsfífl
 	<m1><p>n.</p> <i><trn>an idiot who sits all day by the fire</trn></i>.</m1>
-</entry>
-<entry word="eldhúshurð">
+</word>
+<word>
+eldhúshurð
 	<m1><p>f.</p> <i><trn>door of an eldhús</trn></i>.</m1>
-</entry>
-<entry word="eldhússkot">
+</word>
+<word>
+eldhússkot
 	<m1><p>n.</p> (<com>see</com> <ref>skot</ref>).</m1>
-</entry>
-<entry word="eldi">
+</word>
+<word>
+eldi
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>procreation</trn></i> (hafa eðli til barna eldis);</m2>
 	<m2>2) <i><trn>fetus, offspring</trn></i> (eldi þat, er fram, kemr af kviði konunnar); komast frá eldi sínu, <i><trn>to be delivered of a child</trn></i>;</m2>
 	<m2>3) <i><trn>maintenance, feeding</trn></i> (þar er ekki gesta eldi mælt).</m2>
-</entry>
-<entry word="eldibrandr">
+</word>
+<word>
+eldibrandr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>firewood, fuel</trn></i>;</m2>
 	<m2>2) <i><trn>firebrand</trn></i>.</m2>
-</entry>
-<entry word="eldiligr">
+</word>
+<word>
+eldiligr
 	<m1><p>a.</p> elderly, old-looking.</m1>
-</entry>
-<entry word="elding">
+</word>
+<word>
+elding
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>firing, heating, warming</trn></i> (ofnar til ~ar);</m2>
 	<m2>2) <i><trn>smelting, refining</trn></i> (gull þat, er stenzt e.);</m2>
 	<m2>3) <i><trn>lightning</trn></i> (því nast flugu ~ar ok reiðar);</m2>
 	<m2>4) <i><trn>daybreak, dawn</trn></i> (= nætr-~).</m2>
-</entry>
-<entry word="eldingaflaug">
-	</entry>
-<entry word="eldingaflug">
+</word>
+<word>
+eldingaflaug
+</word>
+<word>
+eldingaflug
 	<m1><p>n.</p>, flash of lightning.</m1>
-</entry>
-<entry word="eldingamánaðr">
+</word>
+<word>
+eldingamánaðr
 	<m1><p>m.</p> <i><trn>a month in which lightning is frequent</trn></i>.</m1>
-</entry>
-<entry word="eldiskíð">
+</word>
+<word>
+eldiskíð
 	<m1><p>n.</p> <i><trn>piece of firewood</trn></i>.</m1>
-</entry>
-<entry word="elditorf">
+</word>
+<word>
+elditorf
 	<m1><p>n.</p> <i><trn>turf for fuel</trn></i>.</m1>
-</entry>
-<entry word="eldiviðarfátt">
+</word>
+<word>
+eldiviðarfátt
 	<m1><p>a.</p> <p>n.</p>, <p>e-m</p> verðr ~, <i><trn>one becomes short of fuel</trn></i>.</m1>
-</entry>
-<entry word="eldiviðarleysi">
+</word>
+<word>
+eldiviðarleysi
 	<m1><p>n.</p> <i><trn>want of fuel</trn></i>.</m1>
-</entry>
-<entry word="eldiviðarstika">
+</word>
+<word>
+eldiviðarstika
 	<m1><p>f.</p> <i><trn>stick of firewood</trn></i>.</m1>
-</entry>
-<entry word="eldiviðr">
+</word>
+<word>
+eldiviðr
 	<m1><p>m.</p> <i><trn>firewood, fuel</trn></i>.</m1>
-</entry>
-<entry word="eldker">
+</word>
+<word>
+eldker
 	<m1><p>n.</p> <i><trn>brasier</trn></i>.</m1>
-</entry>
-<entry word="eldkveikja">
+</word>
+<word>
+eldkveikja
 	<m1><p>f.</p> <i><trn>fire-lighter</trn></i>; fást mun annat til eld-kveikna, <i><trn>something else will be got to light a fire with</trn></i>.</m1>
-</entry>
-<entry word="eldligr">
+</word>
+<word>
+eldligr
 	<m1><p>a.</p> <i><trn>fiery, of fire</trn></i> (~ stólpi).</m1>
-</entry>
-<entry word="eldnæmr">
+</word>
+<word>
+eldnæmr
 	<m1><p>a.</p> <i><trn>easily catching fire, flammable</trn></i>.</m1>
-</entry>
-<entry word="eldr">
+</word>
+<word>
+eldr
 	<m1><b>I)</b></m1>
 	<m2>(-s, -ar), <p>m.</p> <i><trn>fire</trn></i>; taka eld, drepa (upp) eld, <i><trn>to strike fire</trn></i>: kveikja (upp) eld, <i><trn>to light a fire</trn></i>; bregða (koma, skjóta) eldi í <p>e-t</p>, láta (leggja) eld í <p>e-t</p>, <i><trn>to set fire to, to set on fire</trn></i>; e. varð lauss ok lék skjótt, <i><trn>a fire broke out and spread rapidly</trn></i>; e. hraut af sverðum þeirra, <i><trn>sparks of fire flew from their swords</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>pp.</p> <i><trn>grown old, worn by age</trn></i>; kvazt e. vera mjök frá úfriði, <i><trn>said that he was too old for fighting</trn></i>.</m2>
-</entry>
-<entry word="eldsbruni">
+</word>
+<word>
+eldsbruni
 	<m1><p>m.</p> <i><trn>burning of fire</trn></i>.</m1>
-</entry>
-<entry word="eldsdaunn">
+</word>
+<word>
+eldsdaunn
 	<m1><p>m.</p> smell of pre (kenna eldsdaun).</m1>
-</entry>
-<entry word="eldsfullr">
+</word>
+<word>
+eldsfullr
 	<m1><p>a.</p> <i><trn>full of fire</trn></i>.</m1>
-</entry>
-<entry word="eldsgangr">
+</word>
+<word>
+eldsgangr
 	<m1><p>m.</p> <i><trn>raging of fire, conflagration</trn></i>.</m1>
-</entry>
-<entry word="eldsglór">
+</word>
+<word>
+eldsglór
 	<m1><p>n.</p> <i><trn>glare of fire</trn></i>.</m1>
-</entry>
-<entry word="eldsgneisti">
+</word>
+<word>
+eldsgneisti
 	<m1><p>m.</p> <i><trn>spark of fire</trn></i>.</m1>
-</entry>
-<entry word="eldsgólf">
+</word>
+<word>
+eldsgólf
 	<m1><p>n.</p> <i><trn>hearth-floor</trn></i>.</m1>
-</entry>
-<entry word="eldsgögn">
+</word>
+<word>
+eldsgögn
 	<m1><p>n.</p> <p>pl.</p> <i><trn>materials for firing</trn></i>.</m1>
-</entry>
-<entry word="eldsgørð">
+</word>
+<word>
+eldsgørð
 	<m1><p>f.</p> <i><trn>making fire</trn></i>.</m1>
-</entry>
-<entry word="eldshiti">
+</word>
+<word>
+eldshiti
 	<m1><p>m.</p> <i><trn>fiery heat</trn></i>.</m1>
-</entry>
-<entry word="eldskáli">
+</word>
+<word>
+eldskáli
 	<m1><p>m.</p> = <ref>eldaskáli</ref>.</m1>
-</entry>
-<entry word="eldskíð">
+</word>
+<word>
+eldskíð
 	<m1><p>n.</p> = <ref>eldiskíð</ref>.</m1>
-</entry>
-<entry word="eldskíða">
+</word>
+<word>
+eldskíða
 	<m1><p>f.</p> = <ref>eldskíð</ref>, <ref>eldiskíð</ref>.</m1>
-</entry>
-<entry word="eldskveykja">
+</word>
+<word>
+eldskveykja
 	<m1><p>f.</p> = <ref>eldkveikja</ref>.</m1>
-</entry>
-<entry word="eldsliki">
+</word>
+<word>
+eldsliki
 	<m1><p>n.</p> <i><trn>shape (likeness) of fire</trn></i> (í eldslíki).</m1>
-</entry>
-<entry word="eldslitr">
+</word>
+<word>
+eldslitr
 	<m1><p>m.</p> <i><trn>fiery hue</trn></i>.</m1>
-</entry>
-<entry word="eldsljós">
+</word>
+<word>
+eldsljós
 	<m1><p>n.</p> <i><trn>fire-light</trn></i>.</m1>
-</entry>
-<entry word="eldslogi">
+</word>
+<word>
+eldslogi
 	<m1><p>m.</p> <i><trn>flame of fire</trn></i>.</m1>
-</entry>
-<entry word="eldsmatr">
+</word>
+<word>
+eldsmatr
 	<m1><p>m.</p> <i><trn>food of fire</trn></i>.</m1>
-</entry>
-<entry word="eldsneyti">
+</word>
+<word>
+eldsneyti
 	<m1><p>n.</p> <i><trn>fuel</trn></i>.</m1>
-</entry>
-<entry word="eldspísl">
+</word>
+<word>
+eldspísl
 	<m1><p>f.</p> <i><trn>torture by fire</trn></i>.</m1>
-</entry>
-<entry word="eldssókn">
+</word>
+<word>
+eldssókn
 	<m1><p>f.</p> <i><trn>fetching of fire</trn></i>.</m1>
-</entry>
-<entry word="eldsstólpi">
+</word>
+<word>
+eldsstólpi
 	<m1><p>m.</p> <i><trn>pillar of fire</trn></i>.</m1>
-</entry>
-<entry word="eldstó">
+</word>
+<word>
+eldstó
 	<m1>(<p>pl.</p> -stóar), <i><trn>fire-place, hearth</trn></i>.</m1>
-</entry>
-<entry word="eldsuppkváma">
+</word>
+<word>
+eldsuppkváma
 	<m1><p>f.</p> <i><trn>volcanic eruption</trn></i>.</m1>
-</entry>
-<entry word="eldsváði">
+</word>
+<word>
+eldsváði
 	<m1><p>m.</p> <i><trn>danger of fire</trn></i>; <i><trn>conflagration</trn></i>.</m1>
-</entry>
-<entry word="eldsvélar">
+</word>
+<word>
+eldsvélar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>fire devices</trn></i>.</m1>
-</entry>
-<entry word="eldsverk">
+</word>
+<word>
+eldsverk
 	<m1><p>n.</p> <i><trn>tending the fire</trn></i>.</m1>
-</entry>
-<entry word="eldsviðr">
+</word>
+<word>
+eldsviðr
 	<m1><p>m.</p> eldiviðr.</m1>
-</entry>
-<entry word="eldsvimr">
+</word>
+<word>
+eldsvimr
 	<m1><p>m.</p> <i><trn>gleam of fire</trn></i>.</m1>
-</entry>
-<entry word="eldsvirki">
+</word>
+<word>
+eldsvirki
 	<m1><p>n.</p> <i><trn>tinder-box</trn></i>.</m1>
-</entry>
-<entry word="eldsætinn">
-	</entry>
-<entry word="eldsætr">
+</word>
+<word>
+eldsætinn
+</word>
+<word>
+eldsætr
 	<m1><p>a.</p> <i><trn>habitually sitting by the fire</trn></i> (for warmth).</m1>
-</entry>
-<entry word="eldtinna">
+</word>
+<word>
+eldtinna
 	<m1><p>f.</p> <i><trn>flint to strike fire with</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Elfarbyggjar
-</entry>
-<entry>
+</word>
+<word>
 Elfargrímar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>the dwellers on the banks of the Gotha</trn></i> (Gautelfr).</m1>
-</entry>
-<entry>
+</word>
+<word>
 Elfarkvíslir
 	<m1><p>f.</p> <p>pl.</p> <i><trn>the arms of the Gotha, also used of the mouths of the Nile</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Elfarsker
 	<m1><p>n.</p> <p>pl.</p> <i><trn>the skerries at the mouth of the Gotha</trn></i>.</m1>
-</entry>
-<entry word="elfr">
+</word>
+<word>
+elfr
 	<m1>(<p>gen.</p> elfar, <p>dat.</p> and <p>acc.</p> elfi), <p>f.</p> <i><trn>river</trn></i>; <p>esp.</p> as prop. name in Saxelfr, <i><trn>the Elbe</trn></i>; Gautelfr <com>or</com> Elfr, <i><trn>the river Gotha</trn></i> (in Sweden); Raumelfr (in Norway).</m1>
-</entry>
-<entry word="elfskr">
+</word>
+<word>
+elfskr
 	<m1><p>a.</p> <i><trn>from the river Gotha</trn></i>.</m1>
-</entry>
-<entry word="elgfróði">
+</word>
+<word>
+elgfróði
 	<m1><p>m.</p> <i><trn>centaur</trn></i> (a monster half man and half elk).</m1>
-</entry>
-<entry word="elgjagröf">
+</word>
+<word>
+elgjagröf
 	<m1><p>f.</p> <i><trn>elk pit</trn></i>.</m1>
-</entry>
-<entry word="elgjahold">
+</word>
+<word>
+elgjahold
 	<m1><p>n.</p> <i><trn>flesh of the elk</trn></i>.</m1>
-</entry>
-<entry word="elgjaveiðr">
+</word>
+<word>
+elgjaveiðr
 	<m1><p>f.</p> <i><trn>elk-hunting</trn></i>.</m1>
-</entry>
-<entry word="elgr">
+</word>
+<word>
+elgr
 	<m1>(-s, -ir), <p>m.</p> <i><trn>elk</trn></i>.</m1>
-</entry>
-<entry word="elgskógr">
+</word>
+<word>
+elgskógr
 	<m1><p>m.</p> <i><trn>a forest with elks</trn></i>.</m1>
-</entry>
-<entry word="eligr">
+</word>
+<word>
+eligr
 	<m1><p>a.</p> <i><trn>mean, poor</trn></i>, = æligr.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Elivágar
 	<m1><p>m.</p> <p>pl.</p> (mythological name).</m1>
-</entry>
-<entry word="elja">
+</word>
+<word>
+elja
 	<m1><p>f.</p> <i><trn>a rival wife</trn></i> (þær konur eru eljur er einn mann eigu).</m1>
-</entry>
-<entry word="eljan">
+</word>
+<word>
+eljan
 	<m1><p>f.</p> <i><trn>endurance, energy</trn></i>.</m1>
-</entry>
-<entry word="eljanarlauss">
+</word>
+<word>
+eljanarlauss
 	<m1><p>a.</p> wanting <i><trn>energy, inactive</trn></i>.</m1>
-</entry>
-<entry word="eljaragletta">
+</word>
+<word>
+eljaragletta
 	<m1><p>f.</p> <i><trn>pertness, sarcasm</trn></i>.</m1>
-</entry>
-<entry word="eljun">
+</word>
+<word>
+eljun
 	<m1><p>f.</p> = <ref>eljan</ref>.</m1>
-</entry>
-<entry word="eljunarleysi">
+</word>
+<word>
+eljunarleysi
 	<m1><p>n.</p> <i><trn>want of energy, weakness</trn></i>.</m1>
-</entry>
-<entry word="eljunfrœkn">
+</word>
+<word>
+eljunfrœkn
 	<m1><p>a.</p> <i><trn>doughty</trn></i> (seldusk eiða ~ir).</m1>
-</entry>
-<entry word="eljunlauss">
+</word>
+<word>
+eljunlauss
 	<m1><p>a.</p> = <ref>eljanarlauss</ref>.</m1>
-</entry>
-<entry word="eljunleysi">
+</word>
+<word>
+eljunleysi
 	<m1><p>n.</p> = <ref>eljunarleysi</ref>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 élkaldr
 	<m1><p>a.</p> <i><trn>ice-cold</trn></i> (of a stream).</m1>
-</entry>
-<entry word="ella">
+</word>
+<word>
+ella
 	<m1><p>adv.</p> and <p>conj.</p></m1>
 	<m2>1) <i><trn>else, otherwise</trn></i> (skaltu eigi annat þora en fara ella skal ek drepa þik); eða ella, <i><trn>or else</trn></i>; eða heit hvers manns níðingr ella, <i><trn>or else be called the ‘nithing’ of every man</trn></i>;</m2>
 	<m2>2) <i><trn>or, or else</trn></i> (annathvárt at koma honum á mitt vald, ella drepa hann sjálfr).</m2>
-</entry>
-<entry word="ellar">
+</word>
+<word>
+ellar
 	<m1><p>adv.</p> and <p>conj.</p> = <ref>ella</ref>, <ref>elligar</ref>.</m1>
-</entry>
-<entry word="elli">
+</word>
+<word>
+elli
 	<m1><p>f.</p> <i><trn>old age</trn></i> (fyrir e. sakir).</m1>
-</entry>
-<entry word="ellibelgr">
+</word>
+<word>
+ellibelgr
 	<m1><p>m.</p> <i><trn>the ‘slough’ of old age</trn></i> (kasta ellibelginum).</m1>
-</entry>
-<entry word="ellibjúgr">
+</word>
+<word>
+ellibjúgr
 	<m1><p>a.</p> <i><trn>bowed down with age</trn></i>.</m1>
-</entry>
-<entry word="ellidagar">
+</word>
+<word>
+ellidagar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>old days</trn></i>.</m1>
-</entry>
-<entry word="ellidauðr">
+</word>
+<word>
+ellidauðr
 	<m1><p>a.</p> verða ~, <i><trn>to die of old age</trn></i>.</m1>
-</entry>
-<entry word="elliði">
+</word>
+<word>
+elliði
 	<m1><p>m.</p> <i><trn>a kind of ship</trn></i>.</m1>
-</entry>
-<entry word="ellidómr">
+</word>
+<word>
+ellidómr
 	<m1><p>m.</p> <i><trn>old age</trn></i>.</m1>
-</entry>
-<entry word="ellifti">
+</word>
+<word>
+ellifti
 	<m1><p>ord. numb.</p> <i><trn>the eleventh</trn></i>.</m1>
-</entry>
-<entry word="ellifu">
+</word>
+<word>
+ellifu
 	<m1><p>card. numb.</p> <i><trn>eleven</trn></i>.</m1>
-</entry>
-<entry word="elligar">
+</word>
+<word>
+elligar
 	<m1><p>adv.</p> and <p>conj.</p> = <ref>ella</ref>.</m1>
-</entry>
-<entry word="elliglöp">
+</word>
+<word>
+elliglöp
 	<m1><p>n.</p> <p>pl.</p> <i><trn>dotage of old age</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 élligr
 	<m1><p>a.</p> <i><trn>showery-looking</trn></i> (þótti mér nökkut él-ligt vera).</m1>
-</entry>
-<entry word="ellihamr">
+</word>
+<word>
+ellihamr
 	<m1><p>m.</p> = <ref>ellibelgr</ref>.</m1>
-</entry>
-<entry word="ellihrumr">
+</word>
+<word>
+ellihrumr
 	<m1><p>a.</p> <i><trn>decrepit with age</trn></i>.</m1>
-</entry>
-<entry word="ellihærur">
+</word>
+<word>
+ellihærur
 	<m1><p>f.</p> <p>pl.</p> <i><trn>hoariness of age</trn></i>.</m1>
-</entry>
-<entry word="ellikarl">
+</word>
+<word>
+ellikarl
 	<m1><p>m.</p> <i><trn>old man</trn></i>.</m1>
-</entry>
-<entry word="ellilyf">
+</word>
+<word>
+ellilyf
 	<m1><p>n.</p> <i><trn>medicine to keep off old age</trn></i>.</m1>
-</entry>
-<entry word="ellimóðr">
+</word>
+<word>
+ellimóðr
 	<m1><p>a.</p> <i><trn>weary with age</trn></i>.</m1>
-</entry>
-<entry word="ellisjúkr">
+</word>
+<word>
+ellisjúkr
 	<m1><p>a.</p> <i><trn>infirm through age</trn></i>.</m1>
-</entry>
-<entry word="ellistoð">
+</word>
+<word>
+ellistoð
 	<m1><p>f.</p> <i><trn>stay of old age</trn></i>.</m1>
-</entry>
-<entry word="ellitíð">
+</word>
+<word>
+ellitíð
 	<m1><p>f.</p> <i><trn>time of old age</trn></i>.</m1>
-</entry>
-<entry word="ellivafa">
+</word>
+<word>
+ellivafa
 	<m1><p>f.</p> <i><trn>decrepitude, infirmity of age</trn></i>.</m1>
-</entry>
-<entry word="ellivamm">
+</word>
+<word>
+ellivamm
 	<m1><p>n.</p> <i><trn>blemish of old age</trn></i>.</m1>
-</entry>
-<entry word="elliþokki">
+</word>
+<word>
+elliþokki
 	<m1><p>m.</p> <i><trn>oldish look</trn></i> (hratt hón af sér elli-þokka).</m1>
-</entry>
-<entry word="ellri">
+</word>
+<word>
+ellri
 	<m1><p>a.</p> <p>compar.</p> <i><trn>elder, older</trn></i>.</m1>
-</entry>
-<entry word="ellztr">
+</word>
+<word>
+ellztr
 	<m1><p>a.</p> <p>superl.</p> <i><trn>eldest, oldest</trn></i> (~ brœðranna; hinn ellzti sonr).</m1>
-</entry>
-<entry word="elma">
+</word>
+<word>
+elma
 	<m1><p>f.</p> <i><trn>branch, twig</trn></i>.</m1>
-</entry>
-<entry word="elna">
+</word>
+<word>
+elna
 	<m1>(að), <p>v.</p> <i><trn>to wax, grow</trn></i>; sótt elnar á hendr <p>e-m</p>, <p>e-m</p> elnar sóttin, <i><trn>one’s illness becomes worse</trn></i>.</m1>
-</entry>
-<entry word="elptr">
+</word>
+<word>
+elptr
 	<m1><b>I)</b> (<p>gen.</p> elptar), <p>f.</p> <i><trn>swan</trn></i> (= <ref>álpt</ref>).</m1>
 	<m1><b>II)</b> <p>pl.</p> from <ref>álpt</ref>, <i><trn>swan</trn></i>.</m1>
-</entry>
-<entry word="elri">
+</word>
+<word>
+elri
 	<m1><p>n.</p> <i><trn>alder</trn></i>.</m1>
-</entry>
-<entry word="elrir">
+</word>
+<word>
+elrir
 	<m1>(<p>gen.</p> -is), <p>m.</p> <i><trn>alder</trn></i>.</m1>
-</entry>
-<entry word="elrishundr">
+</word>
+<word>
+elrishundr
 	<m1><p>m.</p> <i><trn>the wind</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="elska">
+</word>
+<word>
+elska
 	<m1><b>I)</b></m1>
 	<m2>(að), <p>v.</p> <i><trn>to love</trn></i> (hann ~ði ekki annat goð meir en Frey);</m2>
 	<m3><p>refl.</p>, ~st at <p>e-m</p>, <i><trn>to grow fond of</trn></i>; <p>recipr.</p>, <i><trn>to love one another</trn></i> (höfðu þau Jón ~zt frá barnœsku).</m3>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> love (= <ref>ást</ref>); hafa elsku á <p>e-m</p>, <i><trn>to love one</trn></i>; leggja elsku á <p>e-n</p> <com>or</com> við <p>e-n</p>, <i><trn>to take a fancy for, to fall in love with one</trn></i>.</m2>
-</entry>
-<entry word="elskanliga">
+</word>
+<word>
+elskanliga
 	<m1><p>adv.</p> <i><trn>lovingly</trn></i>.</m1>
-</entry>
-<entry word="elskanligr">
+</word>
+<word>
+elskanligr
 	<m1><p>a.</p> <i><trn>beloved, lovable</trn></i>.</m1>
-</entry>
-<entry word="elskari">
+</word>
+<word>
+elskari
 	<m1><p>m.</p> <i><trn>lover</trn></i> (e. <p>e-s</p>).</m1>
-</entry>
-<entry word="elskhugamaðr">
+</word>
+<word>
+elskhugamaðr
 	<m1><p>m.</p> <i><trn>lover</trn></i>, = <ref>elskari</ref>.</m1>
-</entry>
-<entry word="elskhugi">
+</word>
+<word>
+elskhugi
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>love</trn></i>;</m2>
 	<m2>2) <i><trn>beloved person</trn></i> (minn ágætr ~).</m2>
-</entry>
-<entry word="elskr">
+</word>
+<word>
+elskr
 	<m1><p>a.</p> <i><trn>fondly attached to one</trn></i> (e. at <p>e-m</p>), of persons and animals.</m1>
-</entry>
-<entry word="elskuband">
+</word>
+<word>
+elskuband
 	<m1><p>n.</p> <i><trn>tie (bond) of love</trn></i>.</m1>
-</entry>
-<entry word="elskubragð">
+</word>
+<word>
+elskubragð
 	<m1><p>n.</p> <i><trn>deed of love</trn></i>.</m1>
-</entry>
-<entry word="elskufullr">
+</word>
+<word>
+elskufullr
 	<m1><p>a.</p> <i><trn>full of love</trn></i>.</m1>
-</entry>
-<entry word="elskugrátr">
+</word>
+<word>
+elskugrátr
 	<m1><p>m.</p> <i><trn>tears of love</trn></i>.</m1>
-</entry>
-<entry word="elskugrein">
+</word>
+<word>
+elskugrein
 	<m1><p>f.</p> <i><trn>a special kind of love</trn></i>.</m1>
-</entry>
-<entry word="elskuleysi">
+</word>
+<word>
+elskuleysi
 	<m1><p>n.</p> <i><trn>lovelessness</trn></i>.</m1>
-</entry>
-<entry word="elskuliga">
+</word>
+<word>
+elskuliga
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>lovingly</trn></i>;</m2>
 	<m2>2) <i><trn>heartily, delightfully</trn></i>.</m2>
-</entry>
-<entry word="elskuligr">
+</word>
+<word>
+elskuligr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>affectionate</trn></i>;</m2>
 	<m2>2) <i><trn>beloved, dear</trn></i> (e. faðir!); ~ <p>e-m</p>, <i><trn>dear to one</trn></i>.</m2>
-</entry>
-<entry word="elta">
+</word>
+<word>
+elta
 	<m1>(elta, eltr), <p>v.</p></m1>
 	<m2>1) <i><trn>to knead</trn></i> (e. leir); ek skal yðra búð e. <i><trn>(belabour)</trn></i> með klungrum;</m2>
 	<m2>2) <i><trn>to chase, pursue</trn></i>; e. óxn með vendi, <i><trn>to drive cattle with a goad</trn></i>; e. sauði, <i><trn>to run after sheep</trn></i>;</m2>
 	<m3><p>refl.</p>, eltast eptir <p>e-m</p>, <i><trn>to pursue eagerly</trn></i>.</m3>
-</entry>
-<entry word="elting">
+</word>
+<word>
+elting
 	<m1>(<p>pl.</p> -ar), <p>f.</p> <i><trn>pursuing, chasing</trn></i>.</m1>
-</entry>
-<entry word="em">
-	</entry>
-<entry word="eru">
-	</entry>
-<entry word="óru">
-	</entry>
-<entry word="séð">
-	</entry>
-<entry word="sém">
-	</entry>
-<entry word="var">
-	</entry>
-<entry word="váru">
+</word>
+<word>
+em
+</word>
+<word>
+eru
+</word>
+<word>
+óru
+</word>
+<word>
+séð
+</word>
+<word>
+sém
+</word>
+<word>
+var
+</word>
+<word>
+váru
 	<m1>from <ref>vera</ref>.</m1>
-</entry>
-<entry word="embætta">
+</word>
+<word>
+embætta
 	<m1>(-tta, -tt), <p>v.</p></m1>
 	<m2>1) <i><trn>to attend, serve, wait upon</trn></i>, e. <p>e-m</p> (eiga gestum. at e.); e. fé, <i><trn>to attend to the cattle, to milk</trn></i>;</m2>
 	<m2>2) <i><trn>to administer the sacrament to one</trn></i> (e. <p>e-m</p>).</m2>
-</entry>
-<entry word="embætti">
+</word>
+<word>
+embætti
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>service</trn></i>, = <ref>þjónosta</ref> 1; veita <p>e-m</p> e., <i><trn>to serve one</trn></i>; bindast í <p>e-s</p> e., <i><trn>to enter one’s service</trn></i>; guðligt e., <i><trn>holy service</trn></i>; hefi ek mörg vandræði þolat í þinu e., <i><trn>in your service</trn></i>;</m2>
 	<m2>2) <i><trn>the sacrament, eucharist</trn></i>, = <ref>þjónosta</ref> 3;</m2>
 	<m2>3) <i><trn>office</trn></i> (biskupligt e.); bjóða <p>e-m</p> af e., <i><trn>to depose one from office</trn></i>.</m2>
-</entry>
-<entry word="embættisfœrr">
+</word>
+<word>
+embættisfœrr
 	<m1><p>a.</p> <i><trn>able to perform one’s duties</trn></i>.</m1>
-</entry>
-<entry word="embættisgørð">
+</word>
+<word>
+embættisgørð
 	<m1><p>f.</p> <i><trn>performance of a (religious) duty</trn></i>.</m1>
-</entry>
-<entry word="embættislauss">
+</word>
+<word>
+embættislauss
 	<m1><p>a.</p> <i><trn>holding no office</trn></i> (of a priest).</m1>
-</entry>
-<entry word="embættismaðr">
+</word>
+<word>
+embættismaðr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>servant</trn></i>;</m2>
 	<m2>2) <i><trn>priest</trn></i>.</m2>
-</entry>
-<entry word="emenda">
-	</entry>
-<entry word="emendera">
+</word>
+<word>
+emenda
+</word>
+<word>
+emendera
 	<m1>(að), <p>v.</p> <i><trn>to emend</trn></i> (a book).</m1>
-</entry>
-<entry word="emja">
+</word>
+<word>
+emja
 	<m1>(að), <p>v.</p> <i><trn>to howl, shriek</trn></i>.</m1>
-</entry>
-<entry word="emjan">
+</word>
+<word>
+emjan
 	<m1><p>f.</p> <i><trn>howling, shrieking</trn></i>.</m1>
-</entry>
-<entry word="en">
+</word>
+<word>
+en
 	<m1><b>I)</b></m1>
 	<m2><p>conj.</p></m2>
 	<m3>1) <i><trn>but</trn></i>;</m3>
@@ -2162,8 +2775,9 @@ Elivágar
 	<m3>2) as a <p>rel. pron.</p>, = <ref>er</ref>;</m3>
 	<m4>mína dóttur, ~ (= <ref>er</ref>) allra meyja er fegrst, <i><trn>who is the fairest of all maidens</trn></i>;</m4>
 	<m3>3) <i><trn>when</trn></i>, = <ref>er</ref>, þá er (þeir vóru í hjá, ~ upp var lesit).</m3>
-</entry>
-<entry word="enda">
+</word>
+<word>
+enda
 	<m1><b>I)</b></m1>
 	<m2><p>conj.</p></m2>
 	<m3>1) with subj. (a standing phrase in the law connecting the latter clause of a conditional premiss) <i><trn>if, and if, and in case that, and supposing that</trn></i>;</m3>
@@ -2191,449 +2805,579 @@ Elivágar
 	<m4>ef honum endist aldr til, <i><trn>if he lives so long</trn></i>;</m4>
 	<m4>meðan mér ~st lífdagar, meðan ek endumst, <i><trn>as long as I live</trn></i>;</m4>
 	<m4><i><trn>to turn out, to end</trn></i> (well or ill), <i><trn>to do</trn></i> (enda mun þat fám bóndum vel ~st at synja mér mægðar).</m4>
-</entry>
-<entry word="endadagr">
+</word>
+<word>
+endadagr
 	<m1><p>m.</p> <i><trn>the last day, day of death</trn></i> (vita sinn endadag).</m1>
-</entry>
-<entry word="endafjöl">
+</word>
+<word>
+endafjöl
 	<m1><p>f.</p> <i><trn>end-board (of a chest)</trn></i>.</m1>
-</entry>
-<entry word="endalauss">
+</word>
+<word>
+endalauss
 	<m1><p>a.</p> <i><trn>endless, eternal</trn></i> (endalaus pína, farsæld).</m1>
-</entry>
-<entry word="endaliga">
+</word>
+<word>
+endaliga
 	<m1><p>adv.</p> <i><trn>definitively, finally</trn></i>.</m1>
-</entry>
-<entry word="endaligr">
+</word>
+<word>
+endaligr
 	<m1><p>a.</p> <i><trn>definitive, final</trn></i> (endaligt svar).</m1>
-</entry>
-<entry word="endalok">
-	</entry>
-<entry word="niðrlok">
+</word>
+<word>
+endalok
+</word>
+<word>
+niðrlok
 	<m1><p>n.</p> <p>pl.</p> <i><trn>end, conclusion</trn></i>.</m1>
-</entry>
-<entry word="endalykt">
+</word>
+<word>
+endalykt
 	<m1><p>f.</p> = <ref>endalok</ref>.</m1>
-</entry>
-<entry word="endamark">
+</word>
+<word>
+endamark
 	<m1><p>n.</p> <i><trn>end, limit</trn></i>;</m1>
 	<m2>endamörk ríkis þíns, <i><trn>the end of thy reign</trn></i>.</m2>
-</entry>
-<entry word="endamerki">
+</word>
+<word>
+endamerki
 	<m1><p>n.</p> <i><trn>limit, boundary</trn></i>.</m1>
-</entry>
-<entry word="endamjór">
+</word>
+<word>
+endamjór
 	<m1><p>a.</p> <i><trn>thin at the end, tapering</trn></i>; gera eigi endamjótt við <p>e-n</p>, <i><trn>not to leave one in the lurch, treat one well to the end</trn></i>.</m1>
-</entry>
-<entry word="endaþarmr">
+</word>
+<word>
+endaþarmr
 	<m1><p>m.</p> <i><trn>rectum</trn></i>.</m1>
-</entry>
-<entry word="endemi">
-	</entry>
-<entry word="endimi">
+</word>
+<word>
+endemi
+</word>
+<word>
+endimi
 	<m1><p>n.</p> = <ref>eindœmi</ref> 2, <i><trn>something unexampled or unheard of</trn></i> (þat er undr ok ~);</m1>
 	<m2>heyr á ~, <i><trn>for shame!</trn></i>.</m2>
-</entry>
-<entry word="endemismaðr">
+</word>
+<word>
+endemismaðr
 	<m1><p>m.</p> <i><trn>a monster, an extraordinary person</trn></i>.</m1>
-</entry>
-<entry word="endemligr">
-	</entry>
-<entry word="undrligr">
+</word>
+<word>
+endemligr
+</word>
+<word>
+undrligr
 	<m1><p>a.</p> <i><trn>wonderful, strange</trn></i>.</m1>
-</entry>
-<entry word="endi">
+</word>
+<word>
+endi
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>the end (extremity) of an object</trn></i> (þar var skáli mikill ok dyrr á báðum endum);</m2>
 	<m2>2) <i><trn>conclusion, end, issue</trn></i> (hvern enda eiga mundi málit); gera enda á <p>e-u</p>, koma enda á <p>e-t</p>, <i><trn>to bring to an end</trn></i>; vera á enda, <i><trn>to be at an end</trn></i>; S. var vistum með föður sínum til enda, <i><trn>S. stayed with his father to the end</trn></i>; eigi er fyrir enda um gert með þeim, <i><trn>their difference is not settled between them</trn></i> upphaf ok endir, <i><trn>beginning and end</trn></i>; hér skal nú ok endir á verða, <i><trn>here it shall come to an end</trn></i>; sá varð endir á, at, <i><trn>the end of it was, that</trn></i>; til alls endis, <i><trn>to the very end</trn></i>.</m2>
-</entry>
-<entry word="endiland">
+</word>
+<word>
+endiland
 	<m1><p>n.</p> <i><trn>borderland</trn></i>.</m1>
-</entry>
-<entry word="endilangr">
+</word>
+<word>
+endilangr
 	<m1><p>a.</p> <i><trn>along the whole extent of, from one end to the other</trn></i> (ríða um endilangt herað); ok lagðist þar ~, <i><trn>at full length</trn></i>; um endilangt, at endilöngu, <i><trn>lengthways</trn></i>.</m1>
-</entry>
-<entry word="endilauss">
+</word>
+<word>
+endilauss
 	<m1><p>a.</p> = <ref>endalauss</ref>.</m1>
-</entry>
-<entry word="endileysa">
+</word>
+<word>
+endileysa
 	<m1><p>f.</p> <i><trn>nonsense</trn></i> (endilokleysa).</m1>
-</entry>
-<entry word="endiliga">
+</word>
+<word>
+endiliga
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>finally</trn></i> (staðfesta ~);</m2>
 	<m2>2) <i><trn>completely</trn></i>.</m2>
-</entry>
-<entry word="endiligr">
+</word>
+<word>
+endiligr
 	<m1><p>a.</p> = <ref>endaligr</ref>.</m1>
-</entry>
-<entry word="endilok">
+</word>
+<word>
+endilok
 	<m1><p>n.</p> <p>pl.</p> = <ref>endalok</ref>; til ~a heims, <i><trn>to the end of the world</trn></i>.</m1>
-</entry>
-<entry word="endilykt">
+</word>
+<word>
+endilykt
 	<m1><p>f.</p> = <ref>endalykt</ref>.</m1>
-</entry>
-<entry word="endilönd">
+</word>
+<word>
+endilönd
 	<m1><p>n.</p> <i><trn>confines</trn></i>.</m1>
-</entry>
-<entry word="endimark">
+</word>
+<word>
+endimark
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>limit, end</trn></i>;</m2>
 	<m2>2) <i><trn>boundary</trn></i>;</m2>
 	<m2>3) <i><trn>aim, end</trn></i>.</m2>
-</entry>
-<entry word="endimerki">
+</word>
+<word>
+endimerki
 	<m1><p>n.</p> = <ref>endamerki</ref>.</m1>
-</entry>
-<entry word="ending">
+</word>
+<word>
+ending
 	<m1><p>f.</p> <i><trn>ending, termination</trn></i>.</m1>
-</entry>
-<entry word="endir">
+</word>
+<word>
+endir
 	<m1><p>m.</p> <p>esp.</p> in <p>nom.</p>, = <ref>endi</ref> (upphaf ok ~ míns máls).</m1>
-</entry>
-<entry word="endlangr">
+</word>
+<word>
+endlangr
 	<m1><p>a.</p> = <ref>endilangr</ref>.</m1>
-</entry>
-<entry word="endr">
+</word>
+<word>
+endr
 	<m1><b>I)</b> <p>adv.</p></m1>
 	<m2>1) <i><trn>in times of yore, formerly</trn></i>, = endr fyrir löngu;</m2>
 	<m2>2) <i><trn>again</trn></i> (svá kom Óðins son endr at hamri);</m2>
 	<m2>3) endr á sinnum, endr ok stundum, <i><trn>from time to time, now and then</trn></i>.</m2>
 	<m1><b>II)</b> <p>pl.</p> from <ref>önd</ref>, <i><trn>duck</trn></i>.</m1>
-</entry>
-<entry word="endranær">
+</word>
+<word>
+endranær
 	<m1><p>adv.</p> <i><trn>at other times, else</trn></i> (bæði þá á endramer).</m1>
-</entry>
-<entry word="endrbati">
+</word>
+<word>
+endrbati
 	<m1><p>m.</p> = <ref>endrbót</ref>.</m1>
-</entry>
-<entry word="endrbatna">
+</word>
+<word>
+endrbatna
 	<m1>(að), <p>v.</p> <i><trn>to get well again, recover</trn></i>.</m1>
-</entry>
-<entry word="endrbeiða">
+</word>
+<word>
+endrbeiða
 	<m1>(-dda, -ddr), <p>v.</p> <i><trn>to ask again</trn></i>.</m1>
-</entry>
-<entry word="endrbera">
+</word>
+<word>
+endrbera
 	<m1>(<com>see</com> <ref>bera</ref>), <p>v.</p> <i><trn>to regenerate</trn></i>.</m1>
-</entry>
-<entry word="endrborinn">
+</word>
+<word>
+endrborinn
 	<m1><p>pp.</p> <i><trn>reborn, regenerated</trn></i>.</m1>
-</entry>
-<entry word="endrbót">
+</word>
+<word>
+endrbót
 	<m1><p>f.</p> <i><trn>restoration, regeneration</trn></i>.</m1>
-</entry>
-<entry word="endrbúa">
+</word>
+<word>
+endrbúa
 	<m1>(<com>see</com> <ref>búa</ref>), <p>v.</p> <i><trn>to renew, restore</trn></i>.</m1>
-</entry>
-<entry word="endrbœta">
+</word>
+<word>
+endrbœta
 	<m1>(-tta, -ttr), <p>v.</p> <i><trn>to repair, restore</trn></i> (þat þarf at ~, er áðr hefir farizt).</m1>
-</entry>
-<entry word="endrbœtari">
+</word>
+<word>
+endrbœtari
 	<m1><p>m.</p> <i><trn>restorer</trn></i>.</m1>
-</entry>
-<entry word="endrbœting">
+</word>
+<word>
+endrbœting
 	<m1><p>f.</p> <i><trn>restoration, restitution</trn></i>.</m1>
-</entry>
-<entry word="endrbœtingr">
+</word>
+<word>
+endrbœtingr
 	<m1><p>m.</p> <i><trn>a thing that wants repair</trn></i>.</m1>
-</entry>
-<entry word="endrfórna">
+</word>
+<word>
+endrfórna
 	<m1>(að), <p>v.</p> <i><trn>to present again</trn></i>.</m1>
-</entry>
-<entry word="endrfœða">
+</word>
+<word>
+endrfœða
 	<m1>(-dda, -ddr), <p>v.</p> <i><trn>to regenerate</trn></i>, = <ref>endrbera</ref>, <ref>endrgeta</ref>.</m1>
-</entry>
-<entry word="endrförn">
+</word>
+<word>
+endrförn
 	<m1><p>f.</p> <i><trn>presenting, again</trn></i>.</m1>
-</entry>
-<entry word="endrgefendr">
+</word>
+<word>
+endrgefendr
 	<m1><p>m.</p> <p>pl.</p> <i><trn>those who give again</trn></i>.</m1>
-</entry>
-<entry word="endrgeta">
+</word>
+<word>
+endrgeta
 	<m1>(<com>see</com> <ref>geta</ref>), <p>v.</p> = <ref>endrfœða</ref>.</m1>
-</entry>
-<entry word="endrgetnaðr">
+</word>
+<word>
+endrgetnaðr
 	<m1><p>m.</p> <i><trn>regeneration</trn></i>.</m1>
-</entry>
-<entry word="endrgetning">
+</word>
+<word>
+endrgetning
 	<m1><p>f.</p> = <ref>endrgetnaðr</ref>.</m1>
-</entry>
-<entry word="endrgjald">
+</word>
+<word>
+endrgjald
 	<m1><p>n.</p> <i><trn>repayment, return</trn></i>.</m1>
-</entry>
-<entry word="endrgjalda">
+</word>
+<word>
+endrgjalda
 	<m1>(<com>see</com> <ref>gjalda</ref>), <p>v.</p> <i><trn>to pay back, to repay</trn></i>.</m1>
-</entry>
-<entry word="endrgrœða">
+</word>
+<word>
+endrgrœða
 	<m1>(-dda, -ddr), <p>v.</p> <i><trn>to heal again</trn></i>.</m1>
-</entry>
-<entry word="endrhreinsa">
+</word>
+<word>
+endrhreinsa
 	<m1>(að), <p>v.</p> <i><trn>to purify again</trn></i>.</m1>
-</entry>
-<entry word="endrhrœra">
+</word>
+<word>
+endrhrœra
 	<m1>(-ða, -ðr), <p>v.</p> <i><trn>to move again</trn></i>.</m1>
-</entry>
-<entry word="endrlausn">
+</word>
+<word>
+endrlausn
 	<m1><p>f.</p> <i><trn>redemption</trn></i>.</m1>
-</entry>
-<entry word="endrlifga">
+</word>
+<word>
+endrlifga
 	<m1>(að), <p>v.</p> <i><trn>to call to life again</trn></i>.</m1>
-</entry>
-<entry word="endrlifna">
+</word>
+<word>
+endrlifna
 	<m1>(að), <p>v.</p> <i><trn>to return to life, to revive</trn></i>.</m1>
-</entry>
-<entry word="endrminnast">
+</word>
+<word>
+endrminnast
 	<m1>(<com>see</com> <ref>minna</ref>), <p>v. refl.</p> <i><trn>to remember, call to mind</trn></i>, with <p>gen.</p></m1>
-</entry>
-<entry word="endrminning">
+</word>
+<word>
+endrminning
 	<m1><p>f.</p> <i><trn>remembrance, recollection</trn></i>.</m1>
-</entry>
-<entry word="endrmæli">
+</word>
+<word>
+endrmæli
 	<m1><p>n.</p> <i><trn>repetition</trn></i> (verðr þat at ~ einu).</m1>
-</entry>
-<entry word="endrmœðing">
+</word>
+<word>
+endrmœðing
 	<m1><p>f.</p> <i><trn>tribulation</trn></i>.</m1>
-</entry>
-<entry word="endrnýja">
+</word>
+<word>
+endrnýja
 	<m1>(að), <p>v.</p> <i><trn>to renew, repeat</trn></i>; <p>impers.</p> (~ði sóttina í annat sinn).</m1>
-</entry>
-<entry word="endrnýjan">
-	</entry>
-<entry word="endrnýjung">
+</word>
+<word>
+endrnýjan
+</word>
+<word>
+endrnýjung
 	<m1><p>f.</p> <i><trn>renewal</trn></i>.</m1>
-</entry>
-<entry word="endrreisa">
+</word>
+<word>
+endrreisa
 	<m1>(-ta, -tr), <p>v.</p> <i><trn>to raise again</trn></i>.</m1>
-</entry>
-<entry word="endrrísa">
+</word>
+<word>
+endrrísa
 	<m1>(<com>see</com> <ref>rísa</ref>), <p>v.</p> <i><trn>to arise again</trn></i>.</m1>
-</entry>
-<entry word="endrrjóða">
+</word>
+<word>
+endrrjóða
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>downcast, dispirited</trn></i>.</m1>
-</entry>
-<entry word="endrsemja">
+</word>
+<word>
+endrsemja
 	<m1><p>f.</p> (<com>see</com> <ref>semja</ref>), <p>v.</p> <i><trn>to renew</trn></i>.</m1>
-</entry>
-<entry word="endrskapa">
+</word>
+<word>
+endrskapa
 	<m1>(<com>see</com> <ref>skapa</ref>), <p>v.</p> <i><trn>to create anew, recreate</trn></i>.</m1>
-</entry>
-<entry word="endrsmíða">
+</word>
+<word>
+endrsmíða
 	<m1>(að), <p>v.</p> <i><trn>to rebuild</trn></i>.</m1>
-</entry>
-<entry word="endrtaka">
+</word>
+<word>
+endrtaka
 	<m1>(<com>see</com> <ref>taka</ref>), <p>v.</p> <i><trn>to resume, take up again</trn></i> (~ til <p>e-s</p>).</m1>
-</entry>
-<entry word="endrtryggja">
+</word>
+<word>
+endrtryggja
 	<m1>(-ða, -ðr), <p>v.</p> <i><trn>to make secure again, reconcile</trn></i>.</m1>
-</entry>
-<entry word="endrþaga">
+</word>
+<word>
+endrþaga
 	<m1><p>f.</p> <i><trn>renewed silence</trn></i>.</m1>
-</entry>
-<entry word="eng">
+</word>
+<word>
+eng
 	<m1>1) (<p>gen.</p> -jar, <p>pl.</p> -jar), <p>f.</p> <i><trn>meadow, meadow-land</trn></i> (hann villtist í enginni); <p>pl.</p> <i><trn>outlying grass-fields</trn></i>.</m1>
 	<m1>2) <p>n.</p> <i><trn>meadow, meadow-land</trn></i> (tún ok eng; akr ok engi).</m1>
-</entry>
-<entry word="engi">
+</word>
+<word>
+engi
 	<m1><b>I)</b></m1>
 	<m2>(<p>neut.</p> ekki), <p>indef. pron.</p></m2>
 	<m3>1) <i><trn>no, none, no one</trn></i>; hafa ekki <p>e-s</p>, <i><trn>to have nothing of it</trn></i>; <i><trn>lose it altogether</trn></i> (er búit við, at þú hafir þá ekki dýrsins); old <p>dat.</p> einugi = engu (fátt er svá illt, at einugi dugi);</m3>
 	<m3>2) <i><trn>any</trn></i>, after a negative (aldri fyrr fekk hann þvílíkan sigr í engri herferð); after comparative (þessir dvergar kunnu betr smíða af járni en engir aðrir).</m3>
 	<m1><b>II)</b></m1>
 	<m2><p>n.</p> <i><trn>meadow, meadow-land</trn></i> (tún ok eng; akr ok engi).</m2>
-</entry>
-<entry word="engibúi">
+</word>
+<word>
+engibúi
 	<m1><p>m.</p> <i><trn>a neighbour who has to appear in an</trn></i> engidómr.</m1>
-</entry>
-<entry word="engidalr">
+</word>
+<word>
+engidalr
 	<m1><p>m.</p> <i><trn>meadow-valley</trn></i>.</m1>
-</entry>
-<entry word="engidómr">
+</word>
+<word>
+engidómr
 	<m1><p>m.</p> <i><trn>a court to decide the possesszon of a contested meadow</trn></i>.</m1>
-</entry>
-<entry word="engill">
+</word>
+<word>
+engill
 	<m1>(<p>pl.</p> englar), <p>m.</p> <i><trn>angel</trn></i>.</m1>
-</entry>
-<entry word="engilligr">
+</word>
+<word>
+engilligr
 	<m1><p>a.</p> <i><trn>angelical</trn></i> (engillig ásjóna).</m1>
-</entry>
-<entry>
+</word>
+<word>
 Engilsnes
 	<m1><p>n.</p> <i><trn>Cape San Angelo</trn></i>.</m1>
-</entry>
-<entry word="engilykkja">
+</word>
+<word>
+engilykkja
 	<m1><p>f.</p> <i><trn>an enclosed piece of meadow</trn></i>.</m1>
-</entry>
-<entry word="engimark">
+</word>
+<word>
+engimark
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>boundwy of a meadow</trn></i>;</m2>
 	<m2>2) <i><trn>the meadow within the boundary</trn></i>.</m2>
-</entry>
-<entry word="engishöfn">
+</word>
+<word>
+engishöfn
 	<m1><p>f.</p> <i><trn>possession of a meadow</trn></i>.</m1>
-</entry>
-<entry word="engiskipti">
+</word>
+<word>
+engiskipti
 	<m1><p>n.</p> <i><trn>division of a meadow</trn></i>.</m1>
-</entry>
-<entry word="engiskiptisbúi">
+</word>
+<word>
+engiskiptisbúi
 	<m1><p>m.</p> = <ref>engibúi</ref>.</m1>
-</entry>
-<entry word="engismaðr">
+</word>
+<word>
+engismaðr
 	<m1><p>m.</p> <i><trn>owner of a meadow</trn></i>.</m1>
-</entry>
-<entry word="engisprett">
+</word>
+<word>
+engisprett
 	<m1><p>n.</p> <i><trn>grasshopper, locust</trn></i>.</m1>
-</entry>
-<entry word="engiteigr">
+</word>
+<word>
+engiteigr
 	<m1><p>m.</p> <i><trn>strip of meadow-land</trn></i>.</m1>
-</entry>
-<entry word="engiverk">
+</word>
+<word>
+engiverk
 	<m1><p>n.</p> <i><trn>meadow-work</trn></i>; um engi-verk, <i><trn>during the time of mowing the meadows</trn></i>.</m1>
-</entry>
-<entry word="engivöxtr">
+</word>
+<word>
+engivöxtr
 	<m1><p>m.</p> <i><trn>that which grows upon meadows</trn></i>.</m1>
-</entry>
-<entry word="engjadómr">
+</word>
+<word>
+engjadómr
 	<m1><p>m.</p> = <ref>engidómr</ref>.</m1>
-</entry>
-<entry word="engjagrasnautn">
+</word>
+<word>
+engjagrasnautn
 	<m1><p>n.</p> <i><trn>right of grazing, or making hay in the</trn></i> engjar.</m1>
-</entry>
-<entry word="engjamerki">
+</word>
+<word>
+engjamerki
 	<m1><p>n.</p> <i><trn>boundary between meadow-lands</trn></i>.</m1>
-</entry>
-<entry word="engjaskipti">
+</word>
+<word>
+engjaskipti
 	<m1><p>m.</p> = <ref>engiskipti</ref>.</m1>
-</entry>
-<entry word="engjateigr">
+</word>
+<word>
+engjateigr
 	<m1><p>m.</p> = <ref>engiteigr</ref>.</m1>
-</entry>
-<entry word="engjavöxtr">
+</word>
+<word>
+engjavöxtr
 	<m1><p>m.</p> = <ref>engivöxtr</ref>.</m1>
-</entry>
-<entry word="englaflokkr">
+</word>
+<word>
+englaflokkr
 	<m1><p>m.</p> <i><trn>host of angels</trn></i>.</m1>
-</entry>
-<entry word="englafylki">
+</word>
+<word>
+englafylki
 	<m1><p>n.</p> <i><trn>one of the nine hosts of angels</trn></i>.</m1>
-</entry>
-<entry word="englalið">
+</word>
+<word>
+englalið
 	<m1><p>n.</p> coll. angels.</m1>
-</entry>
-<entry word="englalíf">
+</word>
+<word>
+englalíf
 	<m1><p>n.</p> <i><trn>life of angels</trn></i>.</m1>
-</entry>
-<entry word="englamjöl">
+</word>
+<word>
+englamjöl
 	<m1><p>n.</p> <i><trn>‘angel-meal’, manna</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Englandsfar
 	<m1><p>n.</p> <i><trn>a ship that sails to England</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Englandsfari
 	<m1><p>m.</p> <i><trn>one who makes voyages to England</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Englandshaf
 	<m1><p>n.</p> <i><trn>the German Ocean</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Englandssjör
 	<m1><p>m.</p> <i><trn>the English Channel</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Englar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>the English, Englishmen</trn></i> (var kominn herr Englanna).</m1>
-</entry>
-<entry word="englarödd">
+</word>
+<word>
+englarödd
 	<m1><p>f.</p> <i><trn>Angelic voice</trn></i>.</m1>
-</entry>
-<entry word="englaskari">
+</word>
+<word>
+englaskari
 	<m1><p>m.</p> <i><trn>host angels</trn></i>.</m1>
-</entry>
-<entry word="englasveit">
+</word>
+<word>
+englasveit
 	<m1><p>f.</p> <i><trn>host angels</trn></i>.</m1>
-</entry>
-<entry word="englasýn">
+</word>
+<word>
+englasýn
 	<m1><p>f.</p> <i><trn>vision of angels</trn></i>.</m1>
-</entry>
-<entry word="englasöngr">
+</word>
+<word>
+englasöngr
 	<m1><p>m.</p> <i><trn>song of angels</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Englismaðr
 	<m1><p>m.</p> <i><trn>Englishman</trn></i>.</m1>
-</entry>
-<entry word="enn">
+</word>
+<word>
+enn
 	<m1><b>I)</b></m1>
 	<m2>(en, et), the oldest form of the <p>def. art.</p>, = <ref>inn</ref>, <ref>hinn</ref>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>adv.</p></m2>
 	<m3>1) <i><trn>yet, still</trn></i> (hann er enn ungr ok bernskr);</m3>
 	<m3>2) with <p>compar.</p>, enn betri, verri, <i><trn>still better, worse</trn></i>.</m3>
-</entry>
-<entry word="enna">
+</word>
+<word>
+enna
 	<m1><p>adv.</p> = enn-na, <i><trn>yet</trn></i>; eigi enna, <i><trn>not yet</trn></i> (eigi veit ek enna).</m1>
-</entry>
-<entry word="enni">
+</word>
+<word>
+enni
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>forehead</trn></i> (þó spratt honum sveiti um enni);</m2>
 	<m2>2) <i><trn>a steep crag</trn></i> (in place-names).</m2>
-</entry>
-<entry word="ennibreiðr">
+</word>
+<word>
+ennibreiðr
 	<m1><p>a.</p> <i><trn>having a broad forehead</trn></i>.</m1>
-</entry>
-<entry word="ennidúkr">
+</word>
+<word>
+ennidúkr
 	<m1><p>m.</p> <i><trn>head-band fillet</trn></i>.</m1>
-</entry>
-<entry word="ennileðr">
+</word>
+<word>
+ennileðr
 	<m1><p>n.</p> <i><trn>skin of the forehead of animals</trn></i>.</m1>
-</entry>
-<entry word="ennisbrattr">
+</word>
+<word>
+ennisbrattr
 	<m1><p>a.</p> <i><trn>having a straight-up forehead</trn></i>.</m1>
-</entry>
-<entry word="ennisnauðr">
+</word>
+<word>
+ennisnauðr
 	<m1><p>a.</p> <i><trn>having a low forehead</trn></i>.</m1>
-</entry>
-<entry word="ennispænir">
+</word>
+<word>
+ennispænir
 	<m1><p>m.</p> <p>pl.</p> <i><trn>ornamental work on ships of war both fore and aft</trn></i>.</m1>
-</entry>
-<entry word="ennisvell">
+</word>
+<word>
+ennisvell
 	<m1><p>n.</p> <i><trn>an icy slope</trn></i>.</m1>
-</entry>
-<entry word="ennisvöxtr">
+</word>
+<word>
+ennisvöxtr
 	<m1><p>m.</p> <i><trn>shape of the fore-head</trn></i>.</m1>
-</entry>
-<entry word="enska">
+</word>
+<word>
+enska
 	<m1><p>f.</p> <i><trn>the Engish language</trn></i>.</m1>
-</entry>
-<entry word="enskr">
+</word>
+<word>
+enskr
 	<m1><p>a.</p> <i><trn>Enghsh</trn></i>; enskir menn, <i><trn>Englishmen</trn></i>.</m1>
-</entry>
-<entry word="eplaát">
+</word>
+<word>
+eplaát
 	<m1><p>n.</p> <i><trn>eating of apples (fruit)</trn></i>.</m1>
-</entry>
-<entry word="eplagarðr">
+</word>
+<word>
+eplagarðr
 	<m1><p>n.</p> <i><trn>orchard</trn></i>.</m1>
-</entry>
-<entry word="eplakyn">
+</word>
+<word>
+eplakyn
 	<m1><p>n.</p> <i><trn>a kind of apples or fruit</trn></i>.</m1>
-</entry>
-<entry word="epli">
+</word>
+<word>
+epli
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>apple</trn></i>;</m2>
 	<m2>2) <i><trn>tree-fruit</trn></i> (in general).</m2>
-</entry>
-<entry word="epliberandi">
+</word>
+<word>
+epliberandi
 	<m1><p>pr. p.</p> <i><trn>bearing apples</trn></i>.</m1>
-</entry>
-<entry word="eplóttr">
+</word>
+<word>
+eplóttr
 	<m1><p>a.</p> <i><trn>dapple grey</trn></i> (of a horse).</m1>
-</entry>
-<entry word="ept">
+</word>
+<word>
+ept
 	<m1><p>prep.</p> = <ref>eptir</ref> (rare).</m1>
-</entry>
-<entry word="eptir">
+</word>
+<word>
+eptir
 	<m1>prep with <p>dat.</p> and <p>acc.</p>;</m1>
 	<m1>I. with <p>dat.</p></m1>
 	<m2>1) with verbs of motion, <i><trn>after</trn></i> (ríða, róa, fara, ganga, senda <p>e-m</p>);</m2>
@@ -2681,202 +3425,261 @@ Englismaðr
 	<m2>3) before the rel. part., ~ er = ~ þat er, <i><trn>after</trn></i> (ef maðr, andast á þingi ~ er menn eru á braut farnir);</m2>
 	<m2>4) ~ á, <i><trn>afterwards, later on</trn></i>;</m2>
 	<m3><i><trn>in addition</trn></i>.</m3>
-</entry>
-<entry word="eptirbátr">
+</word>
+<word>
+eptirbátr
 	<m1><p>m.</p> <i><trn>a boat in tow</trn></i>;</m1>
 	<m2>fig., vera ~ <p>e-s</p>, <i><trn>to be inferior to one</trn></i>.</m2>
-</entry>
-<entry word="eptirburðr">
+</word>
+<word>
+eptirburðr
 	<m1><p>m.</p> <i><trn>afterbirth</trn></i>.</m1>
-</entry>
-<entry word="eptirdvöl">
+</word>
+<word>
+eptirdvöl
 	<m1><p>f.</p> <i><trn>stay</trn></i>;</m1>
 	<m2>eiga ~, <i><trn>to make a stay</trn></i>.</m2>
-</entry>
-<entry word="eptirdœmi">
+</word>
+<word>
+eptirdœmi
 	<m1><p>n.</p> <i><trn>example</trn></i>.</m1>
-</entry>
-<entry word="eptirfarandi">
+</word>
+<word>
+eptirfarandi
 	<m1><p>pr. p.</p> <i><trn>following, subsequent</trn></i>.</m1>
-</entry>
-<entry word="eptirferð">
+</word>
+<word>
+eptirferð
 	<m1><p>f.</p> <i><trn>pursuit</trn></i>.</m1>
-</entry>
-<entry word="eptirfrétt">
+</word>
+<word>
+eptirfrétt
 	<m1><p>f.</p> <i><trn>inquiry</trn></i>.</m1>
-</entry>
-<entry word="eptirfœriligr">
+</word>
+<word>
+eptirfœriligr
 	<m1><p>a.</p> <i><trn>investigable</trn></i>.</m1>
-</entry>
-<entry word="eptirför">
+</word>
+<word>
+eptirför
 	<m1><p>f.</p> = <ref>eptirferð</ref>;</m1>
 	<m2>veita <p>e-m</p> ~, <i><trn>to pursue one</trn></i>.</m2>
-</entry>
-<entry word="eptirganga">
+</word>
+<word>
+eptirganga
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>prosecution of a suit to get redress</trn></i>;</m2>
 	<m2>2) <i><trn>support, aid</trn></i>;</m2>
 	<m2>3) <i><trn>imitation</trn></i> (í eptirgöngu hans dœma).</m2>
-</entry>
-<entry word="eptirgangr">
+</word>
+<word>
+eptirgangr
 	<m1><p>m.</p> = <ref>eptirganga</ref> 2.</m1>
-</entry>
-<entry word="eptirgengi">
+</word>
+<word>
+eptirgengi
 	<m1><p>n.</p> = <ref>eptirganga</ref> 2.</m1>
-</entry>
-<entry word="eptirglíkjari">
-	</entry>
-<entry word="eptirlíkjari">
+</word>
+<word>
+eptirglíkjari
+</word>
+<word>
+eptirlíkjari
 	<m1><p>m.</p> <i><trn>imitator</trn></i>.</m1>
-</entry>
-<entry word="eptirgöngukona">
+</word>
+<word>
+eptirgöngukona
 	<m1><p>f.</p> (a female) <i><trn>underling</trn></i> (ek mun eigi vera ~ hennar).</m1>
-</entry>
-<entry word="eptirgöngumaðr">
+</word>
+<word>
+eptirgöngumaðr
 	<m1><p>m.</p> <i><trn>a supporter, follower</trn></i>.</m1>
-</entry>
-<entry word="eptirgørð">
+</word>
+<word>
+eptirgørð
 	<m1><p>f.</p> <i><trn>funeral honours</trn></i>, <p>esp.</p> <i><trn>gifts for the soul of the dead</trn></i>.</m1>
-</entry>
-<entry word="eptirkomandi">
+</word>
+<word>
+eptirkomandi
 	<m1><p>pr. p.</p> <i><trn>following, future</trn></i>.</m1>
-</entry>
-<entry word="eptirkomari">
+</word>
+<word>
+eptirkomari
 	<m1><p>m.</p> = <ref>eptirglíkjari</ref>.</m1>
-</entry>
-<entry word="eptirkomendr">
+</word>
+<word>
+eptirkomendr
 	<m1><p>m.</p> <p>pl.</p> <i><trn>offspring, descendants</trn></i>.</m1>
-</entry>
-<entry word="eptirkæra">
+</word>
+<word>
+eptirkæra
 	<m1><p>f.</p> <i><trn>prosecution</trn></i> (taka málit til eptirkæru).</m1>
-</entry>
-<entry word="eptirlatligr">
+</word>
+<word>
+eptirlatligr
 	<m1><p>a.</p> <i><trn>agreeable, pleasing</trn></i>.</m1>
-</entry>
-<entry word="eptirlátr">
-	</entry>
-<entry word="eptirlátsamr">
+</word>
+<word>
+eptirlátr
+</word>
+<word>
+eptirlátsamr
 	<m1><p>a.</p> <i><trn>indulgent</trn></i>; sér ~, <i><trn>self-indulgent</trn></i>.</m1>
-</entry>
-<entry word="eptirleifar">
+</word>
+<word>
+eptirleifar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>remains</trn></i>.</m1>
-</entry>
-<entry word="eptirleit">
+</word>
+<word>
+eptirleit
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>search</trn></i>;</m2>
 	<m2>2) <i><trn>application to a person</trn></i>.</m2>
-</entry>
-<entry word="eptirleitan">
+</word>
+<word>
+eptirleitan
 	<m1><p>f.</p> = <ref>eptirleit</ref>.</m1>
-</entry>
-<entry word="eptirlífi">
+</word>
+<word>
+eptirlífi
 	<m1><p>n.</p> <i><trn>indulgence, self-indulgence</trn></i>.</m1>
-</entry>
-<entry word="eptirlífismaðr">
+</word>
+<word>
+eptirlífismaðr
 	<m1><p>m.</p> <i><trn>self-indulgent man</trn></i>.</m1>
-</entry>
-<entry word="eptirlífissynd">
+</word>
+<word>
+eptirlífissynd
 	<m1><p>f.</p> <i><trn>the sin of self-indulgence</trn></i>.</m1>
-</entry>
-<entry word="eptirlífr">
+</word>
+<word>
+eptirlífr
 	<m1><p>a.</p> <i><trn>self-indulgent</trn></i>.</m1>
-</entry>
-<entry word="eptirlíking">
+</word>
+<word>
+eptirlíking
 	<m1><p>f.</p> <i><trn>imitation</trn></i>.</m1>
-</entry>
-<entry word="eptirlíkja">
+</word>
+<word>
+eptirlíkja
 	<m1>(-ta, -t), <p>v.</p> <i><trn>to imitate</trn></i>, with <p>dat.</p></m1>
-</entry>
-<entry word="eptirlíkjandi">
+</word>
+<word>
+eptirlíkjandi
 	<m1>(<p>pl.</p> -endr), <p>m.</p> <i><trn>imitator</trn></i>.</m1>
-</entry>
-<entry word="eptirlæti">
+</word>
+<word>
+eptirlæti
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>complaisance, compliance</trn></i>;</m2>
 	<m2>2) <i><trn>indulgence, gratification of one’s desires</trn></i>;</m2>
 	<m2>3) <i><trn>enjoyment</trn></i>.</m2>
-</entry>
-<entry word="eptirlætislífi">
+</word>
+<word>
+eptirlætislífi
 	<m1><p>n.</p> <i><trn>life of self-indulgence</trn></i>.</m1>
-</entry>
-<entry word="eptirlætisþjónosta">
+</word>
+<word>
+eptirlætisþjónosta
 	<m1><p>f.</p> <i><trn>act of indulgence</trn></i>.</m1>
-</entry>
-<entry word="eptirmál">
+</word>
+<word>
+eptirmál
 	<m1><p>n.</p> <i><trn>an action on behalf of a person slain against the slaver</trn></i>;</m1>
 	<m2>eiga ~ eptir <p>e-n</p>, um <p>e-n</p>, <i><trn>to have, the right and duty to take aclion against the slayer</trn></i>.</m2>
-</entry>
-<entry word="eptirmáli">
+</word>
+<word>
+eptirmáli
 	<m1><p>m.</p> <i><trn>epilogue</trn></i>, opp. to <ref>formáli</ref>.</m1>
-</entry>
-<entry word="eptirmáll">
+</word>
+<word>
+eptirmáll
 	<m1><p>a.</p> <i><trn>compliant</trn></i> (<p>e-m</p> <com>or</com> við <p>e-n</p>, <i><trn>with</trn></i>).</m1>
-</entry>
-<entry word="eptirmálsmaðr">
+</word>
+<word>
+eptirmálsmaðr
 	<m1><p>m.</p> <i><trn>prosecutor in a blood-feud</trn></i> (<ref>eptirmál</ref>).</m1>
-</entry>
-<entry word="eptirmælandi">
+</word>
+<word>
+eptirmælandi
 	<m1>(<p>pl.</p> -endr), <p>m.</p> = <ref>eptirmálsmaðr</ref>.</m1>
-</entry>
-<entry word="eptirmæli">
+</word>
+<word>
+eptirmæli
 	<m1><p>n.</p></m1>
 	<m2>1) = <ref>eptirmál</ref>;</m2>
 	<m2>2) <i><trn>compliance, indulgence</trn></i>;</m2>
 	<m3>veita <p>e-m</p> ~, <i><trn>to take one’s part</trn></i>;</m3>
 	<m2>3) <i><trn>good report</trn></i>.</m2>
-</entry>
-<entry word="eptirmælismaðr">
+</word>
+<word>
+eptirmælismaðr
 	<m1><p>m.</p> <i><trn>a person who is</trn></i> <ref>eptirmáll</ref>.</m1>
-</entry>
-<entry word="eptirrás">
+</word>
+<word>
+eptirrás
 	<m1><p>f.</p> <i><trn>running after, pursuit</trn></i>.</m1>
-</entry>
-<entry word="eptirreið">
+</word>
+<word>
+eptirreið
 	<m1><p>f.</p> <i><trn>pursuit on horseback</trn></i>.</m1>
-</entry>
-<entry word="eptirreikna">
+</word>
+<word>
+eptirreikna
 	<m1>(að), <p>v.</p> <i><trn>to reflect on</trn></i>.</m1>
-</entry>
-<entry word="eptirróðr">
+</word>
+<word>
+eptirróðr
 	<m1><p>m.</p> <i><trn>rowing in pursuit of one</trn></i>.</m1>
-</entry>
-<entry word="eptirrýningarmaðr">
+</word>
+<word>
+eptirrýningarmaðr
 	<m1><p>m.</p> <i><trn>one clever at detectingwhat is unknown</trn></i> (~ um stuldi).</m1>
-</entry>
-<entry word="eptirrýningarsamr">
+</word>
+<word>
+eptirrýningarsamr
 	<m1><p>a.</p> <i><trn>clever at detection</trn></i>.</m1>
-</entry>
-<entry word="eptirseta">
+</word>
+<word>
+eptirseta
 	<m1><p>f.</p> <i><trn>remaining behind</trn></i>.</m1>
-</entry>
-<entry word="eptirsjá">
+</word>
+<word>
+eptirsjá
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>looking after, attention, care</trn></i>;</m2>
 	<m2>2) <i><trn>regret, grief</trn></i>;</m2>
 	<m3><p>e-m</p> er ~ at <p>e-u</p>, <i><trn>one misses a thing, grieves at the loss of</trn></i>.</m3>
-</entry>
-<entry word="eptirskoðan">
+</word>
+<word>
+eptirskoðan
 	<m1><p>f.</p> <i><trn>examination, search</trn></i>.</m1>
-</entry>
-<entry word="eptirsókn">
+</word>
+<word>
+eptirsókn
 	<m1><p>f.</p> <i><trn>a seeking after, pursuing</trn></i>.</m1>
-</entry>
-<entry word="eptirstaða">
+</word>
+<word>
+eptirstaða
 	<m1><p>f.</p> <i><trn>what remains, arrears</trn></i>.</m1>
-</entry>
-<entry word="eptirstaðsi">
+</word>
+<word>
+eptirstaðsi
 	<m1><p>a.</p> <i><trn>remaining behind</trn></i>; verða ~, <i><trn>to remain behind</trn></i>.</m1>
-</entry>
-<entry word="eptirsýn">
+</word>
+<word>
+eptirsýn
 	<m1><p>f.</p> <i><trn>looking after one</trn></i>.</m1>
-</entry>
-<entry word="eptri">
+</word>
+<word>
+eptri
 	<m1><p>a.</p> <p>compar.</p></m1>
 	<m2>1) <i><trn>aftermost, hindmost</trn></i>, opp. to <ref>fremri</ref> ~ fótr <i><trn>the hind leg</trn></i>; hit eptra austrrúm, <i><trn>the hindmost pumping place</trn></i>;</m2>
 	<m2>2) <i><trn>later, latter</trn></i>, opp. to <ref>fyrri</ref>.</m2>
-</entry>
-<entry word="er">
-	<m1><b>I)</b> (older form <ref>es</ref>), rel. part. in old poems and in law phrases ‘es’ is suffixed to a demonstrative or interrogative word, <p>pron.</p> or <p>adv.</p>, as <i>s</i>: sás, sús, þats, þeims, þærs; þars, þás, þegars, síðans, hveims, hvars, , = sá es, sú es, þar es, þá es, </m1>
+</word>
+<word>
+er
+	<m1><b>I)</b> (older form <ref>es</ref>), rel. part. in old poems and in law phrases ‘es’ is suffixed to a demonstrative or interrogative word, <p>pron.</p> or <p>adv.</p>, as <i>s</i>: sás, sús, þats, þeims, þærs; þars, þás, þegars, síðans, hveims, hvars, &c., = sá es, sú es, þar es, þá es, &c.</m1>
 	<m2>I. used as a <p>rel. pron.</p>, <p>indecl.</p>, <i><trn>who, which, that</trn></i>;</m2>
 	<m3>1) Mörðr hét maðr, er (<p>nom.</p>) kallaðr var gígja;</m3>
 	<m4>grös fögr, er (<p>acc.</p>) hón hafði í hendi;</m4>
@@ -2916,21 +3719,25 @@ Englismaðr
 	<m4>ek em þess sæll, er okkart félag sleit, <i><trn>I am happy that</trn></i>;</m4>
 	<m4>skyldi fara fyrst leyniliga, en þó kom þar, er allir vissu, <i><trn>but it came to this, that every one knew of it</trn></i>.</m4>
 	<m1><b>II)</b> from <ref>vera</ref>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 ér
 	<m1><p>nom.</p> <p>pl.</p> to <ref>þú</ref>, <i><trn>ye</trn></i>, = þér.</m1>
-</entry>
-<entry word="erði">
+</word>
+<word>
+erði
 	<m1><p>n.</p> <i><trn>a heavy beam</trn></i> (Grettir þreif ~ tvau, er lágu í skipinu).</m1>
-</entry>
-<entry word="erendalok">
+</word>
+<word>
+erendalok
 	<m1><p>n.</p> <p>pl.</p> <i><trn>the result (issue) of one’s errand</trn></i>.</m1>
-</entry>
-<entry word="erendamaðr">
+</word>
+<word>
+erendamaðr
 	<m1><p>m.</p> <i><trn>errandman, messenger</trn></i>.</m1>
-</entry>
-<entry word="erendi">
+</word>
+<word>
+erendi
 	<m1><b>I)</b></m1>
 	<m2>(also erindi, etc.), <p>n.</p></m2>
 	<m3>1) <i><trn>errand, message, mission, business</trn></i>;</m3>
@@ -2945,370 +3752,484 @@ Englismaðr
 	<m4>tala langt ~ ok snjallt, <i><trn>to make a long and eloquent speech</trn></i>.</m4>
 	<m1><b>II)</b></m1>
 	<m2>(from ‘ør’ and <ref>önd</ref>), <p>n.</p> <com>see</com> <ref>ørendi</ref>.</m2>
-</entry>
-<entry word="erendislauss">
+</word>
+<word>
+erendislauss
 	<m1><p>a.</p> <i><trn>without effect, vain</trn></i>; fara at erendislausu, <i><trn>to go on a fool’s errand</trn></i>.</m1>
-</entry>
-<entry word="erendisleysa">
+</word>
+<word>
+erendisleysa
 	<m1><p>f.</p> <i><trn>failure of one’s errand</trn></i>.</m1>
-</entry>
-<entry word="erendlaust">
+</word>
+<word>
+erendlaust
 	<m1><p>adv.</p> <i><trn>in vain, to no purpose</trn></i> (fara ~).</m1>
-</entry>
-<entry word="erendleysa">
+</word>
+<word>
+erendleysa
 	<m1><p>f.</p> = <ref>erendisleysa</ref>.</m1>
-</entry>
-<entry word="erendreki">
-	</entry>
-<entry word="sendiboði">
-	</entry>
-<entry word="sendimaðr">
+</word>
+<word>
+erendreki
+</word>
+<word>
+sendiboði
+</word>
+<word>
+sendimaðr
 	<m1><p>m.</p> <i><trn>messenger</trn></i>.</m1>
-</entry>
-<entry word="erfa">
+</word>
+<word>
+erfa
 	<m1>(-ða, -ðr), <p>v.</p></m1>
 	<m2>1) <i><trn>to honour with a funeral feast</trn></i> (síðan lét Egill ~ sonu sina eptir fornum sið);</m2>
 	<m2>2) <i><trn>to inherit</trn></i> (erfir hón allt þat eptir börn sín).</m2>
-</entry>
-<entry word="erfð">
+</word>
+<word>
+erfð
 	<m1><p>f.</p> <i><trn>inheritance</trn></i>;</m1>
 	<m2>taka ~, <i><trn>to take possession of an inheritance</trn></i>;</m2>
 	<m2>taka, eignast <p>e-t</p> at ~, <i><trn>to get or come into possession of by inheritance</trn></i>.</m2>
-</entry>
-<entry word="erfðabálkr">
+</word>
+<word>
+erfðabálkr
 	<m1><p>m.</p> <i><trn>the section of law treating of inheritance</trn></i>.</m1>
-</entry>
-<entry word="erfðaeinkunn">
+</word>
+<word>
+erfðaeinkunn
 	<m1><p>f.</p> <i><trn>hereditary mark</trn></i> (on cattle).</m1>
-</entry>
-<entry word="erfðafé">
+</word>
+<word>
+erfðafé
 	<m1><p>n.</p> <i><trn>heritage, inheritance</trn></i>.</m1>
-</entry>
-<entry word="erfðagoðorð">
+</word>
+<word>
+erfðagoðorð
 	<m1><p>n.</p> <i><trn>hereditary priesthood</trn></i>.</m1>
-</entry>
-<entry word="erfðajörð">
+</word>
+<word>
+erfðajörð
 	<m1><p>f.</p> <i><trn>hereditary estate</trn></i>.</m1>
-</entry>
-<entry word="erfðaland">
+</word>
+<word>
+erfðaland
 	<m1><p>n.</p> <i><trn>patrimony, land of inheritance</trn></i>.</m1>
-</entry>
-<entry word="erfðamark">
+</word>
+<word>
+erfðamark
 	<m1><p>n.</p> = <ref>erfðaeinkunn</ref>.</m1>
-</entry>
-<entry word="erfðamál">
+</word>
+<word>
+erfðamál
 	<m1><p>n.</p> <i><trn>lawsuit concerning an inheritance</trn></i>.</m1>
-</entry>
-<entry word="erfðarjörð">
+</word>
+<word>
+erfðarjörð
 	<m1><p>f.</p>, <com>see</com> <ref>erfðajörð</ref>.</m1>
-</entry>
-<entry word="erfðarland">
+</word>
+<word>
+erfðarland
 	<m1><p>n.</p>, <com>see</com> <ref>erfðaland</ref>.</m1>
-</entry>
-<entry word="erfðarmaðr">
+</word>
+<word>
+erfðarmaðr
 	<m1><p>m.</p>, <com>see</com> <ref>erfðamaðr</ref>.</m1>
-</entry>
-<entry word="erfðarpartr">
+</word>
+<word>
+erfðarpartr
 	<m1><p>m.</p> <i><trn>share of inheritance</trn></i>.</m1>
-</entry>
-<entry word="erfðarúmagi">
+</word>
+<word>
+erfðarúmagi
 	<m1><p>m.</p> <i><trn>an</trn></i> <ref>úmagi</ref>, <i><trn>having an inherited right to receive support</trn></i>.</m1>
-</entry>
-<entry word="erfðaskipan">
+</word>
+<word>
+erfðaskipan
 	<m1><p>f.</p> <i><trn>law or ordinance relating to inheritance</trn></i>.</m1>
-</entry>
-<entry word="erfðaöldr">
+</word>
+<word>
+erfðaöldr
 	<m1><p>m.</p> <i><trn>funeral feast</trn></i>.</m1>
-</entry>
-<entry word="erfi">
+</word>
+<word>
+erfi
 	<m1><p>n.</p> <i><trn>funeral feast</trn></i> (gøra e. <p>e-s</p>, e. eptir <p>e-n</p>; drekka e. <p>e-s</p>, eptir <p>e-n</p>).</m1>
-</entry>
-<entry word="erfiða">
+</word>
+<word>
+erfiða
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to toil, labour</trn></i>;</m2>
 	<m2>2) ~ <p>e-m</p>, <i><trn>to cause one trouble</trn></i>; ~ sér í <p>e-u</p>, <i><trn>to trouble oneself with</trn></i>;</m2>
 	<m2>3) <i><trn>to till</trn></i> (~ jörðina);</m2>
 	<m2>4) impers, ~ði sóttarfar hans, <i><trn>his illness grew more severe</trn></i>.</m2>
-</entry>
-<entry word="erfiðari">
-	</entry>
-<entry word="orkumaðr">
+</word>
+<word>
+erfiðari
+</word>
+<word>
+orkumaðr
 	<m1><p>m.</p> <i><trn>labourer</trn></i>.</m1>
-</entry>
-<entry word="erfiðdrýgi">
+</word>
+<word>
+erfiðdrýgi
 	<m1><p>n.</p> <i><trn>labor, laboriousness</trn></i>.</m1>
-</entry>
-<entry word="erfiðdrœgr">
+</word>
+<word>
+erfiðdrœgr
 	<m1><p>a.</p> <i><trn>difficult to do</trn></i> (varð þeim þat erfiðdrœgt).</m1>
-</entry>
-<entry word="erfiði">
+</word>
+<word>
+erfiði
 	<m1><p>n.</p> <i><trn>trouble, toil, labor</trn></i>; höfum ~ ok ekki erendi, <i><trn>we have the toil, but no result</trn></i>.</m1>
-</entry>
-<entry word="erfidisdauði">
+</word>
+<word>
+erfidisdauði
 	<m1><p>m.</p> <i><trn>painful death</trn></i>.</m1>
-</entry>
-<entry word="erfidislaun">
+</word>
+<word>
+erfidislaun
 	<m1><p>n.</p> <p>pl.</p> <i><trn>recompense for labour or suffering</trn></i>.</m1>
-</entry>
-<entry word="erfidisléttir">
+</word>
+<word>
+erfidisléttir
 	<m1><p>m.</p> <i><trn>relief, labour</trn></i>.</m1>
-</entry>
-<entry word="erfidisliga">
+</word>
+<word>
+erfidisliga
 	<m1><p>adv.</p> = <ref>erfiðliga</ref>.</m1>
-</entry>
-<entry word="erfidismunir">
+</word>
+<word>
+erfidismunir
 	<m1><p>m.</p> <p>pl.</p> <i><trn>exertion, difficulty</trn></i>.</m1>
-</entry>
-<entry word="erfidisneyð">
+</word>
+<word>
+erfidisneyð
 	<m1><p>f.</p> <i><trn>grinding labour</trn></i>.</m1>
-</entry>
-<entry word="erfidisorka">
+</word>
+<word>
+erfidisorka
 	<m1><p>f.</p> <i><trn>hard, weary labour</trn></i>.</m1>
-</entry>
-<entry word="erfidissamr">
+</word>
+<word>
+erfidissamr
 	<m1><p>a.</p> <i><trn>toilsome</trn></i>.</m1>
-</entry>
-<entry word="erfidisverk">
+</word>
+<word>
+erfidisverk
 	<m1><p>n.</p> <i><trn>hard or heavy, work</trn></i>.</m1>
-</entry>
-<entry word="erfiðliga">
+</word>
+<word>
+erfiðliga
 	<m1><p>adv.</p> <i><trn>with pain and toil</trn></i>; <p>e-t</p> horfir ~, <i><trn>it looks hard</trn></i>; búa ~ við <p>e-n</p>, <i><trn>to treat one harshly</trn></i>; varð mér þar ~st um, <i><trn>there I met with the greatest difficulties</trn></i>.</m1>
-</entry>
-<entry word="erfiðligr">
+</word>
+<word>
+erfiðligr
 	<m1><p>a.</p> <i><trn>toilsome, difficult, adverse</trn></i> (margir hlutir erfiðligir).</m1>
-</entry>
-<entry word="erfiðlífi">
+</word>
+<word>
+erfiðlífi
 	<m1><p>n.</p> <i><trn>toilsome life</trn></i>.</m1>
-</entry>
-<entry word="erfiðr">
+</word>
+<word>
+erfiðr
 	<m1><p>a.</p> <i><trn>difficult, hard, troublesome</trn></i>; oss verðr erfitt at þjóna Norðmönnum, <i><trn>it will be hard for us</trn></i>; Guðrún var erfið á gripakaupum, <i><trn>G. was troublesome (extravagant) in buying finery</trn></i>; hvíldist Helgi, því at honum var orðit erfitt, <i><trn>for he was exhausted</trn></i>; þó at honum væri málit erfitt, <i><trn>though he spoke with difficulty</trn></i>.</m1>
-</entry>
-<entry word="erfidrápa">
+</word>
+<word>
+erfidrápa
 	<m1><p>f.</p> <i><trn>funeral poem</trn></i>.</m1>
-</entry>
-<entry word="erfiflokkr">
+</word>
+<word>
+erfiflokkr
 	<m1><p>m.</p> <i><trn>a short funeral poem</trn></i>.</m1>
-</entry>
-<entry word="erfikvæði">
+</word>
+<word>
+erfikvæði
 	<m1><p>n.</p> = <ref>erfidrápa</ref>.</m1>
-</entry>
-<entry word="erfingi">
+</word>
+<word>
+erfingi
 	<m1>(<p>pl.</p> -jar), <p>m.</p> <i><trn>heir, child</trn></i> (þau áttu engan erfingja).</m1>
-</entry>
-<entry word="erfingjalauss">
+</word>
+<word>
+erfingjalauss
 	<m1><p>a.</p> <i><trn>childless</trn></i> (deyja-lauss).</m1>
-</entry>
-<entry word="erfinyti">
+</word>
+<word>
+erfinyti
 	<m1>(<p>gen.</p> -nytja), <p>m.</p> <i><trn>heir, child</trn></i> (ek á ungan erfinytja).</m1>
-</entry>
-<entry word="erfisgørð">
+</word>
+<word>
+erfisgørð
 	<m1><p>f.</p> <i><trn>holding, a funeral, feast</trn></i> (þá eyddist ~in).</m1>
-</entry>
-<entry word="erfiveizla">
+</word>
+<word>
+erfiveizla
 	<m1><p>f.</p> <i><trn>funeral feast</trn></i>.</m1>
-</entry>
-<entry word="erfivörðr">
+</word>
+<word>
+erfivörðr
 	<m1><p>m.</p> <p>poet.</p> <i><trn>heir</trn></i>.</m1>
-</entry>
-<entry word="erfiöl">
+</word>
+<word>
+erfiöl
 	<m1><p>n.</p> <i><trn>funeral feast</trn></i>, = <ref>erfiveizla</ref>.</m1>
-</entry>
-<entry word="erfskinn">
+</word>
+<word>
+erfskinn
 	<m1><p>n.</p> <i><trn>the skin of the glutton</trn></i>.</m1>
-</entry>
-<entry word="ergi">
+</word>
+<word>
+ergi
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>lewdness, lust</trn></i>;</m2>
 	<m2>2) <i><trn>wickedness, devilry</trn></i> (með allri ~ ok skelmisskap);</m2>
 	<m2>3) <i><trn>unmanliness, unwarrior-like behavior with a strong connotation of effeminacy and passive homosexuality</trn></i>.</m2>
-</entry>
-<entry word="ergjast">
+</word>
+<word>
+ergjast
 	<m1>(ð), <p>v. refl.</p> <i><trn>to lose courage, grow faint-hearted</trn></i> (svá ergist hverr sem hann eldist).</m1>
-</entry>
-<entry word="erindi">
-	</entry>
-<entry word="eyrendi">
-	</entry>
-<entry word="eyrindi">
+</word>
+<word>
+erindi
+</word>
+<word>
+eyrendi
+</word>
+<word>
+eyrindi
 	<m1><p>n.</p>; <com>see</com> <ref>erendi</ref>.</m1>
-</entry>
-<entry word="erja">
+</word>
+<word>
+erja
 	<m1>(er, arða, arinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to plough</trn></i> (~ jörð sína);</m2>
 	<m2>2) <i><trn>to scratch, scrape</trn></i> (hann lætr erja skóinn um legginn).</m2>
-</entry>
-<entry word="erjusamr">
+</word>
+<word>
+erjusamr
 	<m1><p>a.</p> <i><trn>intrusive</trn></i>.</m1>
-</entry>
-<entry word="erkibiskup">
+</word>
+<word>
+erkibiskup
 	<m1><p>m.</p> <i><trn>archbishop</trn></i>.</m1>
-</entry>
-<entry word="erkibiskupligr">
+</word>
+<word>
+erkibiskupligr
 	<m1><p>a.</p> <i><trn>archiepiscopal</trn></i>.</m1>
-</entry>
-<entry word="erkibiskupsdómr">
+</word>
+<word>
+erkibiskupsdómr
 	<m1><p>m.</p> <i><trn>archbishopric</trn></i>.</m1>
-</entry>
-<entry word="erkibiskupsdœmi">
+</word>
+<word>
+erkibiskupsdœmi
 	<m1><p>n.</p> <i><trn>archbishopric</trn></i>.</m1>
-</entry>
-<entry word="erkibiskupsefni">
+</word>
+<word>
+erkibiskupsefni
 	<m1><p>m.</p> <i><trn>archbishop-elect</trn></i>.</m1>
-</entry>
-<entry word="erkibiskupsgarðr">
+</word>
+<word>
+erkibiskupsgarðr
 	<m1><p>m.</p> <i><trn>archbishop’s dvelling</trn></i>.</m1>
-</entry>
-<entry word="erkibiskupskosningr">
+</word>
+<word>
+erkibiskupskosningr
 	<m1><p>m.</p> <i><trn>election of an archbishop</trn></i>.</m1>
-</entry>
-<entry word="erkibiskupsstóll">
+</word>
+<word>
+erkibiskupsstóll
 	<m1><p>m.</p> <i><trn>archiepiscopal seat</trn></i> (cf. erki-stóll).</m1>
-</entry>
-<entry word="erkibýsn">
+</word>
+<word>
+erkibýsn
 	<m1><p>f.</p> <i><trn>great portent</trn></i>.</m1>
-</entry>
-<entry word="erkidjákn">
+</word>
+<word>
+erkidjákn
 	<m1><p>m.</p> <i><trn>archdeacon</trn></i>.</m1>
-</entry>
-<entry word="erkiprestr">
+</word>
+<word>
+erkiprestr
 	<m1><p>m.</p> <i><trn>archpriest</trn></i>.</m1>
-</entry>
-<entry word="erkistóll">
+</word>
+<word>
+erkistóll
 	<m1><p>m.</p> = <ref>erkibiskupsstóll</ref>.</m1>
-</entry>
-<entry word="erlendast">
-	</entry>
-<entry>
+</word>
+<word>
+erlendast
+</word>
+<word>
 ørlendast
 	<m1><p>v. refl.</p> <i><trn>to go into exile</trn></i>.</m1>
-</entry>
-<entry word="erlending">
+</word>
+<word>
+erlending
 	<m1><p>f.</p> <i><trn>exile</trn></i>.</m1>
-</entry>
-<entry word="erlendis">
-	</entry>
-<entry>
+</word>
+<word>
+erlendis
+</word>
+<word>
 ørlendis
 	<m1><p>adv.</p> <i><trn>abroad, in a foreign land</trn></i>.</m1>
-</entry>
-<entry word="erlendisvíg">
+</word>
+<word>
+erlendisvíg
 	<m1><p>n.</p> <i><trn>a manslaughter committed abroad</trn></i>.</m1>
-</entry>
-<entry word="erlendr">
-	</entry>
-<entry>
+</word>
+<word>
+erlendr
+</word>
+<word>
 ørlendr
 	<m1><p>a.</p> <i><trn>foreign</trn></i>.</m1>
-</entry>
-<entry word="ermadrög">
+</word>
+<word>
+ermadrög
 	<m1><p>n.</p> <p>pl.</p> <i><trn>sleeves reaching down to the feet</trn></i>.</m1>
-</entry>
-<entry word="ermakápa">
+</word>
+<word>
+ermakápa
 	<m1><p>f.</p> <i><trn>cloak with sleeves</trn></i>.</m1>
-</entry>
-<entry word="ermakjós">
+</word>
+<word>
+ermakjós
 	<m1><p>f.</p> <i><trn>‘sleeve-bag’, wide sleeve</trn></i>.</m1>
-</entry>
-<entry word="ermalangr">
+</word>
+<word>
+ermalangr
 	<m1><p>a.</p> <i><trn>with long sleeves</trn></i>.</m1>
-</entry>
-<entry word="ermalauss">
+</word>
+<word>
+ermalauss
 	<m1><p>a.</p> <i><trn>sleeveless</trn></i>.</m1>
-</entry>
-<entry word="ermastúka">
+</word>
+<word>
+ermastúka
 	<m1><p>f.</p> <i><trn>short sleeve</trn></i>.</m1>
-</entry>
-<entry word="ermitaklæði">
+</word>
+<word>
+ermitaklæði
 	<m1><p>n.</p> <p>pl.</p> <i><trn>hermit clothes</trn></i>.</m1>
-</entry>
-<entry word="ermitalífi">
+</word>
+<word>
+ermitalífi
 	<m1><p>n.</p> <i><trn>hermit life</trn></i>.</m1>
-</entry>
-<entry word="ermiti">
+</word>
+<word>
+ermiti
 	<m1><p>m.</p> <i><trn>hermit</trn></i>, = <ref>einsetumaðr</ref>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Ermland
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>Armenia</trn></i>;</m2>
 	<m2>2) <i><trn>a province in Prussia</trn></i>.</m2>
-</entry>
-<entry word="ermlauss">
+</word>
+<word>
+ermlauss
 	<m1><p>a.</p> <i><trn>sleeveless, without sleeves</trn></i> = <ref>ermalauss</ref>.</m1>
-</entry>
-<entry word="ermr">
+</word>
+<word>
+ermr
 	<m1>(<p>gen.</p> -ar, <p>dat.</p> and <p>acc.</p> -i; <p>pl.</p> -ar), <p>f.</p> <i><trn>sleeve</trn></i>.</m1>
-</entry>
-<entry word="ermskr">
+</word>
+<word>
+ermskr
 	<m1><p>a.</p> <i><trn>Armenian</trn></i>.</m1>
-</entry>
-<entry word="ern">
+</word>
+<word>
+ern
 	<m1><p>a.</p> <i><trn>brisk, vigorous</trn></i>.</m1>
-</entry>
-<entry word="ernligr">
+</word>
+<word>
+ernligr
 	<m1><p>a.</p> <i><trn>vigorous-looking, sturdy</trn></i>.</m1>
-</entry>
-<entry word="erpi">
+</word>
+<word>
+erpi
 	<m1><p>n.</p> <i><trn>a kind of wood</trn></i>.</m1>
-</entry>
-<entry word="erriligr">
+</word>
+<word>
+erriligr
 	<m1><p>a.</p> = <ref>ernligr</ref>.</m1>
-</entry>
-<entry word="erta">
+</word>
+<word>
+erta
 	<m1>(erta, ertr), <p>v.</p> <i><trn>to taunt, tease</trn></i> (er eigi gatt at ~ illt skap);</m1>
 	<m2><p>refl.</p>, ~st við <p>e-n</p>, <i><trn>to lease one</trn></i>.</m2>
-</entry>
-<entry word="erting">
+</word>
+<word>
+erting
 	<m1>(<p>pl.</p> -ar), <p>f.</p> <i><trn>teasing, provocation</trn></i> (margskonar ~ar).</m1>
-</entry>
-<entry word="ertingamaðr">
+</word>
+<word>
+ertingamaðr
 	<m1><p>m.</p> <i><trn>one who will stand teasing</trn></i> (engi-maðr).</m1>
-</entry>
-<entry word="ertla">
+</word>
+<word>
+ertla
 	<m1><p>f.</p> <i><trn>wagtail</trn></i> (bird).</m1>
-</entry>
-<entry word="ertr">
+</word>
+<word>
+ertr
 	<m1>(<p>gen.</p> ertra), <p>f.</p> <p>pl.</p> <i><trn>pease</trn></i>.</m1>
-</entry>
-<entry word="ertraakr">
+</word>
+<word>
+ertraakr
 	<m1><p>m.</p> <i><trn>pea-field</trn></i>.</m1>
-</entry>
-<entry word="ertrareitr">
+</word>
+<word>
+ertrareitr
 	<m1><p>m.</p> <i><trn>bed of pease</trn></i>.</m1>
-</entry>
-<entry word="ertraréttr">
+</word>
+<word>
+ertraréttr
 	<m1><p>m.</p> <i><trn>dish of pease</trn></i>.</m1>
-</entry>
-<entry word="ertrasoð">
+</word>
+<word>
+ertrasoð
 	<m1><p>n.</p> <i><trn>pea-soup</trn></i>.</m1>
-</entry>
-<entry word="ertravellingr">
+</word>
+<word>
+ertravellingr
 	<m1><p>m.</p> <i><trn>pea-soup</trn></i>.</m1>
-</entry>
-<entry word="es">
+</word>
+<word>
+es
 	<m1>old form for <ref>er</ref>, rel. part., and 3rd pers. <p>sing.</p> from <ref>vera</ref>.</m1>
-</entry>
-<entry word="eski">
+</word>
+<word>
+eski
 	<m1><p>n.</p> <i><trn>ashen box</trn></i> (~ Friggjar).</m1>
-</entry>
-<entry word="eskimær">
+</word>
+<word>
+eskimær
 	<m1><p>f.</p> <i><trn>a lady’s maid</trn></i>.</m1>
-</entry>
-<entry word="eskingr">
+</word>
+<word>
+eskingr
 	<m1><p>m.</p> <i><trn>fine snow</trn></i> (like ashes).</m1>
-</entry>
-<entry word="eskistöng">
+</word>
+<word>
+eskistöng
 	<m1><p>f.</p> <i><trn>ash pole</trn></i>.</m1>
-</entry>
-<entry word="espingr">
-	</entry>
-<entry word="skipbátr">
+</word>
+<word>
+espingr
+</word>
+<word>
+skipbátr
 	<m1><p>m.</p> <i><trn>a ship’s boat</trn></i>.</m1>
-</entry>
-<entry word="ess">
+</word>
+<word>
+ess
 	<m1><p>n.</p> <i><trn>riding horse, steed</trn></i>.</m1>
-</entry>
-<entry word="eta">
+</word>
+<word>
+eta
 	<m1><b>I)</b></m1>
 	<m2>(et; át, átum; etinn), <p>v.</p></m2>
 	<m3>1) <i><trn>to eat</trn></i> (~ kjöt, mat sinn, dagverð);</m3>
@@ -3321,14 +4242,17 @@ Ermland
 	<m3>1) <i><trn>crib, manger</trn></i>;</m3>
 	<m4>standa öllum fótum í etu, <i><trn>to live at rack and manger</trn></i>;</m4>
 	<m3>2) <p>pl.</p>, etur, <i><trn>cancer</trn></i> (etur í andliti).</m3>
-</entry>
-<entry word="etall">
+</word>
+<word>
+etall
 	<m1><p>a.</p> <i><trn>consuming</trn></i> (~ ryðr).</m1>
-</entry>
-<entry word="etari">
+</word>
+<word>
+etari
 	<m1><p>m.</p> <i><trn>great eater, glutton</trn></i>.</m1>
-</entry>
-<entry word="etja">
+</word>
+<word>
+etja
 	<m1>(et, atta, attr), <p>v.</p></m1>
 	<m2>1) <i><trn>to incite, egg (goad) on to fight</trn></i>, with <p>dat.</p>; ~ hestum, <i><trn>to make horses fight</trn></i>; with <p>acc.</p>, ~ <p>e-n</p> til þolinmœði, <i><trn>to exhort one to patience</trn></i>;</m2>
 	<m2>2) ~ hamingju, afli, við <p>e-n</p>, <i><trn>to match one’s luck, strength, with anolher’s</trn></i>; ~ kappi við <p>e-n</p>, <i><trn>to contend in rivalry, vie with one</trn></i>; ~ ráðum, hvárt …, <i><trn>to consider, if …</trn></i>; ~ saman manndrápum, <i><trn>to incite two parties to manslaughter</trn></i>;</m2>
@@ -3336,20 +4260,25 @@ Ermland
 	<m2>4) <i><trn>to put forth</trn></i>; hann etr fram skallanum, <i><trn>he exposes his bare skull</trn></i> (to the blows);</m2>
 	<m2>5) <i><trn>to cause to be eaten</trn></i>; ~ heyvi, heyjum, <i><trn>to feed cattle upon hay</trn></i>;</m2>
 	<m2>6) <p>refl.</p>, etjast við <p>e-n</p>, <i><trn>to contend with one</trn></i>; ef menn etjast vitnum á, <i><trn>if men contend (plead) with witnesses</trn></i>.</m2>
-</entry>
-<entry word="etjukostr">
+</word>
+<word>
+etjukostr
 	<m1><p>m.</p> <i><trn>hard condition</trn></i>.</m1>
-</entry>
-<entry word="etjutík">
+</word>
+<word>
+etjutík
 	<m1><p>f.</p> <i><trn>female hound, bitch-hound</trn></i>.</m1>
-</entry>
-<entry word="etki">
+</word>
+<word>
+etki
 	<m1><p>neut.</p> <p>sing.</p> from <ref>engi</ref> and <p>adv.</p> = <ref>ekki</ref>.</m1>
-</entry>
-<entry word="etustallr">
+</word>
+<word>
+etustallr
 	<m1><p>m.</p> <i><trn>crib, manger</trn></i> (U. fal hann í etustalli), = <ref>eta</ref> 1.</m1>
-</entry>
-<entry word="ey">
+</word>
+<word>
+ey
 	<m1><b>I)</b></m1>
 	<m2><p>adv.</p></m2>
 	<m3>1) <i><trn>always, ever</trn></i>, = <ref>ei</ref>, <ref>æ</ref>;</m3>
@@ -3357,17 +4286,22 @@ Ermland
 	<m4>ey manni þat veit, <i><trn>no man knows</trn></i>.</m4>
 	<m1><b>II)</b></m1>
 	<m2>(<p>gen.</p> eyjar, <p>dat.</p> ey and eyju; <p>pl.</p> eyjar), <p>f.</p> <i><trn>an island</trn></i>.</m2>
-</entry>
-<entry word="eybui">
-	</entry>
-<entry word="eyjamaðr">
-	</entry>
-<entry word="eyjarmaðr">
-	</entry>
-<entry word="eylendingr">
+</word>
+<word>
+eybui
+</word>
+<word>
+eyjamaðr
+</word>
+<word>
+eyjarmaðr
+</word>
+<word>
+eylendingr
 	<m1><p>m.</p> <i><trn>islander</trn></i>.</m1>
-</entry>
-<entry word="eyða">
+</word>
+<word>
+eyða
 	<m1>(-dda, -ddr), <p>v.</p></m1>
 	<m2>1) <i><trn>to make empty</trn></i> (auðr), <i><trn>clear of, deprive of its contents</trn></i> (~ allan fjörðinn bæði at mönnum ok fé); ~ bygð (bœi ok borgir, heröð), <i><trn>to desolate, lay waste</trn></i>;</m2>
 	<m2>2) <i><trn>to desert, depart from</trn></i> (féllu sumir, en sumir eyddu hálfrýmin); ~ veizluna, <i><trn>to break up the feast</trn></i>; ~ þing, <i><trn>to dissolve the meeting</trn></i>;</m2>
@@ -3375,324 +4309,421 @@ Ermland
 	<m2>4) <i><trn>to spend, squander</trn></i> (~ fé, peningum);</m2>
 	<m2>5) <i><trn>to render void in law, annul</trn></i>, with <p>acc.</p> or <p>dat.</p> (~ vígsmál <com>or</com> vígsmálum);</m2>
 	<m2>6) <p>refl.</p>, eyðast, <i><trn>to come to nought</trn></i>; eyddist erfisgørðin fyrir honum, <i><trn>he let the funeral feast drop</trn></i>.</m2>
-</entry>
-<entry word="eyði">
+</word>
+<word>
+eyði
 	<m1><p>n.</p> <i><trn>waste or ruinous state</trn></i>; leggja í ~, <i><trn>to lay waste</trn></i>; vera (liggja) í ~, <i><trn>to be deserted or ruined</trn></i>.</m1>
-</entry>
-<entry word="eyðiborg">
+</word>
+<word>
+eyðiborg
 	<m1><p>f.</p> <i><trn>deserted town or castle</trn></i>.</m1>
-</entry>
-<entry word="eyðibygð">
+</word>
+<word>
+eyðibygð
 	<m1><p>f.</p> <i><trn>desert country</trn></i>.</m1>
-</entry>
-<entry word="eyðidalr">
+</word>
+<word>
+eyðidalr
 	<m1><p>m.</p> <i><trn>desolate valley</trn></i>.</m1>
-</entry>
-<entry word="eyðiey">
+</word>
+<word>
+eyðiey
 	<m1><p>f.</p> <i><trn>desert island</trn></i>.</m1>
-</entry>
-<entry word="eyðifjall">
+</word>
+<word>
+eyðifjall
 	<m1><p>n.</p> <i><trn>wild (barren) mountain</trn></i>.</m1>
-</entry>
-<entry word="eyðifjörðr">
+</word>
+<word>
+eyðifjörðr
 	<m1><p>m.</p> <i><trn>desolale firth</trn></i>.</m1>
-</entry>
-<entry word="eyðihaf">
+</word>
+<word>
+eyðihaf
 	<m1><p>n.</p> <i><trn>a sea whose coasts are desolate</trn></i>.</m1>
-</entry>
-<entry word="eyðihus">
+</word>
+<word>
+eyðihus
 	<m1><p>n.</p> <p>pl.</p> <i><trn>deserted dwellings</trn></i>.</m1>
-</entry>
-<entry word="eyðijorð">
+</word>
+<word>
+eyðijorð
 	<m1><p>f.</p> <i><trn>deserted farm</trn></i>.</m1>
-</entry>
-<entry word="eyðiland">
+</word>
+<word>
+eyðiland
 	<m1><p>n.</p> <i><trn>desert land</trn></i>.</m1>
-</entry>
-<entry word="eyðiliga">
+</word>
+<word>
+eyðiliga
 	<m1><p>adv.</p> <i><trn>in a desolate state</trn></i>.</m1>
-</entry>
-<entry word="eyðiligr">
+</word>
+<word>
+eyðiligr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>perishable</trn></i>;</m2>
 	<m2>2) <i><trn>sad, cheerless</trn></i> (mér sýnist siðr þeirra veikligr ok ~).</m2>
-</entry>
-<entry word="eyðimörk">
+</word>
+<word>
+eyðimörk
 	<m1><p>f.</p> <i><trn>desert wilderness</trn></i>.</m1>
-</entry>
-<entry word="eyðirjóðr">
+</word>
+<word>
+eyðirjóðr
 	<m1><p>n.</p> <i><trn>desert clearing</trn></i>.</m1>
-</entry>
-<entry word="eyðiskemma">
+</word>
+<word>
+eyðiskemma
 	<m1><p>f.</p> <i><trn>a deserted bower</trn></i>.</m1>
-</entry>
-<entry word="eyðisker">
+</word>
+<word>
+eyðisker
 	<m1><p>n.</p> <i><trn>desolate rock, skerry</trn></i>.</m1>
-</entry>
-<entry word="eyðiskógr">
+</word>
+<word>
+eyðiskógr
 	<m1><p>m.</p> <i><trn>wild wood</trn></i>.</m1>
-</entry>
-<entry word="eyðistaðr">
+</word>
+<word>
+eyðistaðr
 	<m1><p>m.</p> <i><trn>barren, desolate place</trn></i>.</m1>
-</entry>
-<entry word="eyðitröð">
+</word>
+<word>
+eyðitröð
 	<m1><p>f.</p> <i><trn>deserted pen (for cattle)</trn></i>.</m1>
-</entry>
-<entry word="eyðiveggr">
+</word>
+<word>
+eyðiveggr
 	<m1><p>m.</p> <i><trn>ruinous wall</trn></i>.</m1>
-</entry>
-<entry word="eyði-">
+</word>
+<word>
+eyði-
 	<m1>in <p>compds.</p>, <i><trn>deserted, uninhabited</trn></i>.</m1>
-</entry>
-<entry word="eyðla">
+</word>
+<word>
+eyðla
 	<m1><p>f.</p> <i><trn>adder</trn></i>, = <ref>eðla</ref>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Eyfirðingar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>the men of</trn></i> or <i><trn>from Eyjafirth</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Eyfirzkr
 	<m1><p>a.</p> <i><trn>belonging to Eyjafirth</trn></i>.</m1>
-</entry>
-<entry word="eyfit">
+</word>
+<word>
+eyfit
 	<m1><p>adv.</p> <p>poet.</p> <i><trn>not at all</trn></i> (~ hefi ek fé);</m1>
 	<m2>~ eitt, <i><trn>nothing at all</trn></i>.</m2>
-</entry>
-<entry word="eygðr">
+</word>
+<word>
+eygðr
 	<m1><p>a.</p> = <ref>eygr</ref>.</m1>
-</entry>
-<entry word="eygja">
+</word>
+<word>
+eygja
 	<m1>(-ða, -ðr), <p>v.</p></m1>
 	<m2>1) <i><trn>to furnish with a loop or eye</trn></i> (e. snöru);</m2>
 	<m2>2) <i><trn>to look</trn></i> (til <p>e-s</p>, <i><trn>at one</trn></i>).</m2>
-</entry>
-<entry word="eygló">
+</word>
+<word>
+eygló
 	<m1><p>f.</p> <i><trn>‘the everglowing’</trn></i>, <p>poet.</p> <i><trn>the sun</trn></i>.</m1>
-</entry>
-<entry word="eygr">
+</word>
+<word>
+eygr
 	<m1><p>a.</p> <i><trn>having eves of a certain kind</trn></i>; vel e., <i><trn>with fine eyes</trn></i>; mjök e., <i><trn>large-eyed</trn></i>.</m1>
-</entry>
-<entry word="eyjar">
+</word>
+<word>
+eyjar
 	<m1>from <ref>ey</ref>, <i><trn>island</trn></i>.</m1>
-</entry>
-<entry word="eyjarendi">
+</word>
+<word>
+eyjarendi
 	<m1><p>m.</p> <i><trn>point of an island</trn></i>.</m1>
-</entry>
-<entry word="eyjarengi">
+</word>
+<word>
+eyjarengi
 	<m1><p>n.</p> <i><trn>meadow along a river</trn></i>.</m1>
-</entry>
-<entry word="eyjarkálfr">
+</word>
+<word>
+eyjarkálfr
 	<m1><p>m.</p> <i><trn>a small island close to a larger one</trn></i>.</m1>
-</entry>
-<entry word="eyjarnef">
+</word>
+<word>
+eyjarnef
 	<m1><p>n.</p> = <ref>eyjarendi</ref>.</m1>
-</entry>
-<entry word="eyjarskeggi">
+</word>
+<word>
+eyjarskeggi
 	<m1>(<p>pl.</p> -skeggjar), <p>m.</p> = <ref>eyjarmaðr</ref>.</m1>
-</entry>
-<entry word="eyjarskekill">
-	</entry>
-<entry word="eyjarskiki">
+</word>
+<word>
+eyjarskekill
+</word>
+<word>
+eyjarskiki
 	<m1><p>m.</p> <i><trn>strip of an island, small island</trn></i>.</m1>
-</entry>
-<entry word="eyjarsund">
+</word>
+<word>
+eyjarsund
 	<m1><p>n.</p> = <ref>eyjasund</ref>.</m1>
-</entry>
-<entry word="eyjarvist">
+</word>
+<word>
+eyjarvist
 	<m1><p>f.</p> <i><trn>stay in an island</trn></i>.</m1>
-</entry>
-<entry word="eyjasund">
+</word>
+<word>
+eyjasund
 	<m1><p>n.</p> <i><trn>a strait between islands</trn></i> (öll ~ ok firdir).</m1>
-</entry>
-<entry word="eyjóttr">
+</word>
+<word>
+eyjóttr
 	<m1><p>a.</p> <i><trn>full of islands</trn></i>.</m1>
-</entry>
-<entry word="eyk">
-	</entry>
-<entry word="jók">
-	</entry>
-<entry word="yki">
+</word>
+<word>
+eyk
+</word>
+<word>
+jók
+</word>
+<word>
+yki
 	<m1>from <ref>auka</ref>.</m1>
-</entry>
-<entry word="eykhestr">
+</word>
+<word>
+eykhestr
 	<m1><p>m.</p> <i><trn>cart-horse</trn></i>.</m1>
-</entry>
-<entry word="eyki">
+</word>
+<word>
+eyki
 	<m1><p>n.</p> <i><trn>vehicle, cart</trn></i>.</m1>
-</entry>
-<entry word="eykjafóðr">
+</word>
+<word>
+eykjafóðr
 	<m1><p>n.</p> <i><trn>fodder for</trn></i> eyk(i)r.</m1>
-</entry>
-<entry word="eykjagerfi">
+</word>
+<word>
+eykjagerfi
 	<m1><p>n.</p> = <ref>eykreiði</ref>.</m1>
-</entry>
-<entry word="eykjareiði">
+</word>
+<word>
+eykjareiði
 	<m1><p>m.</p> = <ref>eykreiði</ref>.</m1>
-</entry>
-<entry word="eykr">
+</word>
+<word>
+eykr
 	<m1>(-jar, -ir), <p>m.</p> <i><trn>beast of draught</trn></i>.</m1>
-</entry>
-<entry word="eykreiði">
+</word>
+<word>
+eykreiði
 	<m1><p>m.</p> <i><trn>harness of an</trn></i> eykr.</m1>
-</entry>
-<entry word="eykt">
+</word>
+<word>
+eykt
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>half-past three o’clock, p. m.</trn></i> (var þat nær e. dags);</m2>
 	<m2>2) <i><trn>time of three hours</trn></i> (þá er þógn hafði verit nær hálfa e.).</m2>
-</entry>
-<entry word="eyktarhelgr">
+</word>
+<word>
+eyktarhelgr
 	<m1><p>f.</p> = nónhelgr.</m1>
-</entry>
-<entry word="eyktarstaðr">
+</word>
+<word>
+eyktarstaðr
 	<m1><p>m.</p> <i><trn>the place of the sun at half past three, p. m.</trn></i> (sól sezt í eyktarstað).</m1>
-</entry>
-<entry word="eyktartíð">
+</word>
+<word>
+eyktartíð
 	<m1><p>f.</p> = nóntíð.</m1>
-</entry>
-<entry word="eyktheilagr">
+</word>
+<word>
+eyktheilagr
 	<m1><p>a.</p> <i><trn>to be kept holy from</trn></i> eykt <i><trn>(half past three) of the preceding day</trn></i>, = nónheilagr.</m1>
-</entry>
-<entry word="eyland">
+</word>
+<word>
+eyland
 	<m1><p>n.</p> <i><trn>island</trn></i>.</m1>
-</entry>
-<entry word="eyma">
+</word>
+<word>
+eyma
 	<m1>(-da, -t), <p>v.</p></m1>
 	<m2>1) <i><trn>to commiserate, pity</trn></i>; e. sík, <i><trn>to lament</trn></i>;</m2>
 	<m2>2) <p>impers.</p>, eymir af <p>e-u</p>, <i><trn>one feels sore after something</trn></i>.</m2>
-</entry>
-<entry word="eymd">
+</word>
+<word>
+eymd
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>misery, wretchedness</trn></i>; sjá e. á <p>e-m</p>, <i><trn>to pity one</trn></i>;</m2>
 	<m2>2) <i><trn>stinginess, meanness</trn></i>.</m2>
-</entry>
-<entry word="eymdardagr">
+</word>
+<word>
+eymdardagr
 	<m1><p>m.</p> <i><trn>day of distress</trn></i>.</m1>
-</entry>
-<entry word="eymdarligr">
+</word>
+<word>
+eymdarligr
 	<m1><p>a.</p> <i><trn>piteous, pitiful</trn></i>.</m1>
-</entry>
-<entry word="eymdarorð">
+</word>
+<word>
+eymdarorð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>wailing, lamentalion</trn></i>.</m1>
-</entry>
-<entry word="eymdartíð">
+</word>
+<word>
+eymdartíð
 	<m1><p>f.</p> <i><trn>time of distress or tribulation</trn></i>.</m1>
-</entry>
-<entry word="eymdartíðindi">
+</word>
+<word>
+eymdartíðindi
 	<m1><p>n.</p> <p>pl.</p> <i><trn>disastrous news</trn></i>.</m1>
-</entry>
-<entry word="eymdartími">
+</word>
+<word>
+eymdartími
 	<m1><p>m.</p> = <ref>eymdartíð</ref>.</m1>
-</entry>
-<entry word="eyra">
+</word>
+<word>
+eyra
 	<m1>(<p>pl.</p> eyru), <p>n.</p> <i><trn>ear</trn></i> (eyrum hlýðir gestr, en augum skoðar); setja hnefa við e. <p>e-m</p>, <i><trn>to give one a box on the ear</trn></i>; leiða <p>e-n</p> af eyrum, <i><trn>to get rid of one</trn></i>; koma <p>e-m</p> til eyrna, <i><trn>to come to one’s ears, of news</trn></i>; hafa nef í e. <p>e-m</p>, <i><trn>to put the nose in one’s ear, to whisper to one</trn></i>, of a tell-tale.</m1>
-</entry>
-<entry word="eyrartangi">
+</word>
+<word>
+eyrartangi
 	<m1><p>m.</p> <i><trn>point of a gravel-bank</trn></i> (eyrr).</m1>
-</entry>
-<entry word="eyrarúna">
+</word>
+<word>
+eyrarúna
 	<m1><p>f.</p> <p>poet.</p> <i><trn>mistress, wife</trn></i>.</m1>
-</entry>
-<entry word="eyrir">
+</word>
+<word>
+eyrir
 	<m1>(<p>gen.</p> -is, <p>pl.</p> aurar), <p>m.</p></m1>
 	<m2>1) <i><trn>ounce of silver, the eighth part of a mark</trn></i> (átta aurar í mörk); hringr, er stendr sex aura, <i><trn>a ring weighing or worth six aurar</trn></i>; verðr þá at hálfri mörk vaðmála e., <i><trn>then the</trn></i> ~ <i><trn>is equal to half a mark in wadmal</trn></i>; e. brendr = e. brends silfrs, <i><trn>an ounce of pure silver</trn></i>;</m2>
 	<m2>2) <i><trn>ounce</trn></i> (svá var haglit stórt, at hvert haglkornit vá eyri);</m2>
 	<m2>3) <i><trn>money in general, property</trn></i>; ljósir aurar verða at löngum trega, <i><trn>bright silver brings long, woe</trn></i>; ilir af aurum, <i><trn>a miser</trn></i>; gefin til aura (= til fjár), <i><trn>wedded for money</trn></i>; hann vissi ekki aura sinna tal, <i><trn>he knew not the tale (extent) of his riches</trn></i>; lausir aurar, opp. to ‘fastr ~’, <i><trn>movables, chattels</trn></i> (lönd ok lausir aurar); fríðr ~ (= frítt fé, <ref>kvikfé</ref>), <i><trn>cattle</trn></i>;</m2>
 	<m2>4) <i><trn>money, currency</trn></i>; Flosi spurði í hverjum aurum hann vildi fyrir hafa, <i><trn>asked in what money he wished to be paid</trn></i>.</m2>
-</entry>
-<entry word="eyrisbót">
+</word>
+<word>
+eyrisbót
 	<m1><p>f.</p> <i><trn>a fine of an</trn></i> eyrir.</m1>
-</entry>
-<entry word="eyriskaup">
+</word>
+<word>
+eyriskaup
 	<m1><p>n.</p> <i><trn>a bargain to the amount of an</trn></i> eyrir.</m1>
-</entry>
-<entry word="eyrislag">
+</word>
+<word>
+eyrislag
 	<m1><p>n.</p> <i><trn>the worth of an</trn></i> eyrir (~ lérepts).</m1>
-</entry>
-<entry word="eyrisland">
+</word>
+<word>
+eyrisland
 	<m1><p>n.</p> <i><trn>land yielding a rent of an</trn></i> eyrir.</m1>
-</entry>
-<entry word="eyrisskaði">
+</word>
+<word>
+eyrisskaði
 	<m1><p>m.</p> <i><trn>loss to the amount of an</trn></i> eyrir.</m1>
-</entry>
-<entry word="eyristíund">
+</word>
+<word>
+eyristíund
 	<m1><p>f.</p> <i><trn>tithe of an</trn></i> eyrir.</m1>
-</entry>
-<entry word="eyristollr">
+</word>
+<word>
+eyristollr
 	<m1><p>m.</p> <i><trn>toll of an</trn></i> eyrir.</m1>
-</entry>
-<entry word="eyrisþungi">
+</word>
+<word>
+eyrisþungi
 	<m1><p>m.</p> <i><trn>the weight of an ounce</trn></i>.</m1>
-</entry>
-<entry word="eyrna">
-	</entry>
-<entry>
+</word>
+<word>
+eyrna
+</word>
+<word>
 ørna
 	<m1><p>gen.</p> <p>pl.</p>, <com>see</com> <ref>erendi</ref> 3.</m1>
-</entry>
-<entry word="eyrnablað">
+</word>
+<word>
+eyrnablað
 	<m1><p>n.</p> <i><trn>lobe of the ear</trn></i>.</m1>
-</entry>
-<entry word="eyrnabora">
+</word>
+<word>
+eyrnabora
 	<m1><p>f.</p> <i><trn>orifice of the ear</trn></i>.</m1>
-</entry>
-<entry word="eyrnabúnaðr">
+</word>
+<word>
+eyrnabúnaðr
 	<m1><p>m.</p> <i><trn>ornament of the ear</trn></i>.</m1>
-</entry>
-<entry word="eyrnagull">
+</word>
+<word>
+eyrnagull
 	<m1><p>n.</p> <i><trn>earring</trn></i>.</m1>
-</entry>
-<entry word="eyrnaheill">
+</word>
+<word>
+eyrnaheill
 	<m1><p>a.</p> <i><trn>having sound ears</trn></i>.</m1>
-</entry>
-<entry word="eyrnalof">
+</word>
+<word>
+eyrnalof
 	<m1><p>n.</p> <i><trn>vain praise</trn></i>.</m1>
-</entry>
-<entry word="eyrnamark">
+</word>
+<word>
+eyrnamark
 	<m1><p>n.</p> <i><trn>earmark</trn></i>, on sheep and cattle.</m1>
-</entry>
-<entry word="eyrr">
+</word>
+<word>
+eyrr
 	<m1>(<p>gen.</p> eyrar, <p>dat.</p> and <p>acc.</p> eyri; <p>pl.</p> eyrar), <p>f.</p> <i><trn>sand or gravelbank, either of the banks of rivers</trn></i> (áreyrar, dalseyrar) or <i><trn>of a small point of land running into the sea, a spit</trn></i>.</m1>
-</entry>
-<entry word="eyrsilfr">
-	</entry>
-<entry word="kviksilfr">
+</word>
+<word>
+eyrsilfr
+</word>
+<word>
+kviksilfr
 	<m1><p>n.</p> <i><trn>quicksilver, mercury</trn></i>.</m1>
-</entry>
-<entry word="eyrskár">
+</word>
+<word>
+eyrskár
 	<m1>(<p>acc.</p> -skáan), <p>a.</p> <i><trn>galloping over the gravel banks</trn></i>.</m1>
-</entry>
-<entry word="eyröggr">
+</word>
+<word>
+eyröggr
 	<m1><p>a.</p> = ørrugr.</m1>
-</entry>
-<entry word="eys">
-	</entry>
-<entry word="jós">
+</word>
+<word>
+eys
+</word>
+<word>
+jós
 	<m1>from <ref>ausa</ref>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Eystrasalt
 	<m1><p>n.</p> <i><trn>the Baltic</trn></i>.</m1>
-</entry>
-<entry word="eystri">
+</word>
+<word>
+eystri
 	<m1><p>a.</p> <p>compar.</p> <i><trn>more eastern</trn></i>; hit eystra, <i><trn>the eastern way</trn></i>.</m1>
-</entry>
-<entry word="eyvana">
+</word>
+<word>
+eyvana
 	<m1><p>a.</p> <i><trn>much used to</trn></i>.</m1>
-</entry>
-<entry word="eyverskr">
+</word>
+<word>
+eyverskr
 	<m1><p>a.</p> <i><trn>pertaining to the Orkneys, from the Orkneys</trn></i>.</m1>
-</entry>
-<entry word="eyvit">
+</word>
+<word>
+eyvit
 	<m1><p>adv.</p> = <ref>eyfit</ref>.</m1>
-</entry>
-<entry word="eyvitar">
+</word>
+<word>
+eyvitar
 	<m1>(for ‘ey vættar’), <p>adv.</p> <i><trn>not, not at all</trn></i>.</m1>
-</entry>
-<entry word="eyvitu">
+</word>
+<word>
+eyvitu
 	<m1><p>adv.</p> <i><trn>not, not at all</trn></i>.</m1>
-</entry>
-<entry word="eyþolinn">
+</word>
+<word>
+eyþolinn
 	<m1><p>m.</p> <i><trn>the rivet in a clasp knife</trn></i></m1>
-</entry>
-</chapter>
+</word>

@@ -1,34 +1,39 @@
-<?xml version='1.0' encoding='utf8'?>
-<chapter>
-<entry>
+<word>
 Haðar
-</entry>
-<entry>
+</word>
+<word>
 Heði
 	<m1>from ‘Höðr’.</m1>
-</entry>
-<entry word="hadda">
+</word>
+<word>
+hadda
 	<m1><p>f.</p> <i><trn>pot-hook, pot-handle</trn></i>.</m1>
-</entry>
-<entry word="haddbjartr">
+</word>
+<word>
+haddbjartr
 	<m1><p>a.</p> <i><trn>light-haired</trn></i>, = <ref>bjarthaddaðr</ref>.</m1>
-</entry>
-<entry word="haddblik">
+</word>
+<word>
+haddblik
 	<m1><p>n.</p> <i><trn>bleaching the hair</trn></i>.</m1>
-</entry>
-<entry word="haddr">
+</word>
+<word>
+haddr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>a lady’s hair</trn></i>.</m1>
-</entry>
-<entry word="haðna">
+</word>
+<word>
+haðna
 	<m1><p>f.</p> <i><trn>a young she-goat</trn></i>.</m1>
-</entry>
-<entry word="haf">
+</word>
+<word>
+haf
 	<m1><b>I)</b></m1>
 	<m2><p>n.</p> <i><trn>the sea</trn></i>, <p>esp.</p> <i><trn>the high sea, ocean</trn></i>; sigla (láta) í ~, sigla á ~ út, <i><trn>to put to sea</trn></i>; hann dó í hafi, <i><trn>he died at sea</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>n.</p> <i><trn>lifting</trn></i> (úlíkligr til hafs).</m2>
-</entry>
-<entry word="hafa">
+</word>
+<word>
+hafa
 	<m1>(hefi; hafða, höfðum; hafðr), <p>v.</p></m1>
 	<m2>1) <i><trn>to have</trn></i> (þeir höfðu sjau skip ok flest stór);</m2>
 	<m3>~ elda, <i><trn>to keep up a five</trn></i>;</m3>
@@ -131,11 +136,13 @@ Heði
 	<m3>haf ekki slíkt við, <i><trn>do not say so</trn></i>;</m3>
 	<m3>haf þú lítit við at eggja sonu þina, <i><trn>refrain from egging on thy sons</trn></i>;</m3>
 	<m2>15) <p>refl.</p>, <ref>~st</ref>.</m2>
-</entry>
-<entry word="hafandi">
+</word>
+<word>
+hafandi
 	<m1><p>pr. p.</p> <i><trn>being with child</trn></i>.</m1>
-</entry>
-<entry word="hafast">
+</word>
+<word>
+hafast
 	<m1><p>v. refl.</p> <i><trn>to dwell, abide</trn></i>;</m1>
 	<m2>þeir höfðust mjök í ferðum, <i><trn>they spent much of their life in travelling</trn></i>;</m2>
 	<m2>~ vel, <i><trn>to do well, thrive</trn></i> (vaxa ok vel ~);</m2>
@@ -144,175 +151,232 @@ Heði
 	<m2>~ við, <i><trn>to dwell, stay</trn></i> (hér mun ek við ~);</m2>
 	<m2>~ vel við, <i><trn>to bear oneself well up</trn></i>;</m2>
 	<m2>~ orð við, <i><trn>to speak to one another</trn></i>.</m2>
-</entry>
-<entry word="hafbára">
+</word>
+<word>
+hafbára
 	<m1><p>f.</p> <i><trn>wave</trn></i>.</m1>
-</entry>
-<entry word="haffugl">
+</word>
+<word>
+haffugl
 	<m1><p>m.</p> <i><trn>sea-bird</trn></i>.</m1>
-</entry>
-<entry word="haffœrandi">
+</word>
+<word>
+haffœrandi
 	<m1><p>pr. p.</p> <i><trn>sea-going, sea-worthy</trn></i>.</m1>
-</entry>
-<entry word="hafgerðingr">
+</word>
+<word>
+hafgerðingr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>tremendous waves</trn></i>.</m1>
-</entry>
-<entry word="hafgjálfr">
+</word>
+<word>
+hafgjálfr
 	<m1><p>n.</p> <i><trn>roar of the sea</trn></i>.</m1>
-</entry>
-<entry word="hafgola">
+</word>
+<word>
+hafgola
 	<m1><p>f.</p> <i><trn>sea-breeze</trn></i>.</m1>
-</entry>
-<entry word="hafgufa">
-	</entry>
-<entry word="sjógýgr">
-	</entry>
-<entry word="sjókona">
-	</entry>
-<entry word="sækona">
+</word>
+<word>
+hafgufa
+</word>
+<word>
+sjógýgr
+</word>
+<word>
+sjókona
+</word>
+<word>
+sækona
 	<m1><p>f.</p> <i><trn>mermaid</trn></i>.</m1>
-</entry>
-<entry word="hafhallt">
+</word>
+<word>
+hafhallt
 	<m1><p>adv.</p> <i><trn>standing seawards</trn></i>.</m1>
-</entry>
-<entry word="hafhrútr">
+</word>
+<word>
+hafhrútr
 	<m1><p>m.</p> <i><trn>sea-ram</trn></i>.</m1>
-</entry>
-<entry word="hafíss">
+</word>
+<word>
+hafíss
 	<m1><p>m.</p> <i><trn>drift ice</trn></i>.</m1>
-</entry>
-<entry word="hafkaldr">
+</word>
+<word>
+hafkaldr
 	<m1><p>a.</p> <i><trn>cold as the sea</trn></i>.</m1>
-</entry>
-<entry word="hafleið">
+</word>
+<word>
+hafleið
 	<m1><p>f.</p> <i><trn>standing seawards</trn></i>;</m1>
 	<m2>stefna ~, <i><trn>to stand seawards</trn></i>.</m2>
-</entry>
-<entry word="hafleiðis">
+</word>
+<word>
+hafleiðis
 	<m1><p>adv.</p> <i><trn>seawards</trn></i>.</m1>
-</entry>
-<entry word="hafligr">
+</word>
+<word>
+hafligr
 	<m1><p>a.</p> <i><trn>marine</trn></i>.</m1>
-</entry>
-<entry word="hafna">
+</word>
+<word>
+hafna
 	<m1>(að), <p>v.</p> <i><trn>to forsake, abandon</trn></i>, with <p>dat.</p> (~ fornum sið, blótum ok heiðnum góðum);</m1>
 	<m2>kýr ~ði átinu, <i><trn>the cow left off eating</trn></i>.</m2>
-</entry>
-<entry word="hafnan">
+</word>
+<word>
+hafnan
 	<m1><p>f.</p> <i><trn>abandonment, forsaking</trn></i> (~ heimsins, veraldar).</m1>
-</entry>
-<entry word="hafnar">
+</word>
+<word>
+hafnar
 	<m1>from <ref>höfn</ref>, <i><trn>haven</trn></i>.</m1>
-</entry>
-<entry word="hafnardyrr">
+</word>
+<word>
+hafnardyrr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>entrance of a haven</trn></i> (höfn).</m1>
-</entry>
-<entry word="hafnarfeldr">
+</word>
+<word>
+hafnarfeldr
 	<m1><p>m.</p> <i><trn>a shaggy cloak for everyday use</trn></i>.</m1>
-</entry>
-<entry word="hafnarmark">
-	</entry>
-<entry word="hafnarmerki">
+</word>
+<word>
+hafnarmark
+</word>
+<word>
+hafnarmerki
 	<m1><p>n.</p> <i><trn>harbour mark</trn></i>.</m1>
-</entry>
-<entry word="hafnartollr">
+</word>
+<word>
+hafnartollr
 	<m1><p>m.</p> <i><trn>harbour toll</trn></i>.</m1>
-</entry>
-<entry word="hafnarvaðmál">
-	</entry>
-<entry word="hafnarváð">
+</word>
+<word>
+hafnarvaðmál
+</word>
+<word>
+hafnarváð
 	<m1><p>n.</p> <i><trn>plain stuff</trn></i>.</m1>
-</entry>
-<entry word="hafnborg">
+</word>
+<word>
+hafnborg
 	<m1><p>f.</p> <i><trn>sea borough, sea-port</trn></i>.</m1>
-</entry>
-<entry word="hafnest">
+</word>
+<word>
+hafnest
 	<m1><p>n.</p> <i><trn>provisions for a voyage</trn></i>.</m1>
-</entry>
-<entry word="hafnleysa">
+</word>
+<word>
+hafnleysa
 	<m1><p>f.</p> <i><trn>harbourless coast</trn></i>.</m1>
-</entry>
-<entry word="hafnleysi">
+</word>
+<word>
+hafnleysi
 	<m1><p>n.</p> <i><trn>harbourless coast</trn></i>.</m1>
-</entry>
-<entry word="hafnligr">
+</word>
+<word>
+hafnligr
 	<m1><p>a.</p> <i><trn>harbour-like</trn></i>.</m1>
-</entry>
-<entry word="hafr">
+</word>
+<word>
+hafr
 	<m1>(-rs, -rar), <p>m.</p> <i><trn>he-goat, buck</trn></i>.</m1>
-</entry>
-<entry word="hafrbelgr">
+</word>
+<word>
+hafrbelgr
 	<m1><p>m.</p> = hafrstaka.</m1>
-</entry>
-<entry word="hafrek">
+</word>
+<word>
+hafrek
 	<m1><p>m.</p> <i><trn>wreck, jetsam</trn></i>.</m1>
-</entry>
-<entry word="hafreka">
+</word>
+<word>
+hafreka
 	<m1><p>a.</p> <i><trn>tossed or driven about on the sea</trn></i>.</m1>
-</entry>
-<entry word="hafrekinn">
+</word>
+<word>
+hafrekinn
 	<m1><p>pp.</p> <i><trn>tossed or driven about on the sea</trn></i>.</m1>
-</entry>
-<entry word="hafrstaka">
+</word>
+<word>
+hafrstaka
 	<m1><p>f.</p> <i><trn>goat’s skin</trn></i>.</m1>
-</entry>
-<entry word="hafrœðr">
+</word>
+<word>
+hafrœðr
 	<m1><p>a.</p> <i><trn>sea-worthy</trn></i> (~ sexæringr).</m1>
-</entry>
-<entry word="hafsbotn">
+</word>
+<word>
+hafsbotn
 	<m1><p>m.</p> <i><trn>gulf</trn></i> (firðir ok ~ar).</m1>
-</entry>
-<entry word="hafsgeil">
+</word>
+<word>
+hafsgeil
 	<m1><p>f.</p> <i><trn>sea-lane</trn></i>.</m1>
-</entry>
-<entry word="hafskip">
+</word>
+<word>
+hafskip
 	<m1><p>n.</p> <i><trn>a sea-going ship</trn></i>.</m1>
-</entry>
-<entry word="hafskrimsl">
-	</entry>
-<entry word="sjóskrimsl">
-	</entry>
-<entry word="sæskrímsl">
+</word>
+<word>
+hafskrimsl
+</word>
+<word>
+sjóskrimsl
+</word>
+<word>
+sæskrímsl
 	<m1><p>n.</p> <i><trn>sea-monster</trn></i>.</m1>
-</entry>
-<entry word="hafsmegin">
+</word>
+<word>
+hafsmegin
 	<m1><p>n.</p> <i><trn>the main, high sea</trn></i>.</m1>
-</entry>
-<entry word="hafstormr">
+</word>
+<word>
+hafstormr
 	<m1><p>m.</p> <i><trn>storm at sea</trn></i>.</m1>
-</entry>
-<entry word="hafstrambr">
+</word>
+<word>
+hafstrambr
 	<m1><p>m.</p> <i><trn>fabulous sea-monster</trn></i>.</m1>
-</entry>
-<entry word="haft">
+</word>
+<word>
+haft
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>bond, chain</trn></i>; <p>esp.</p> <p>pl.</p>, höft, <i><trn>fetters</trn></i>;</m2>
 	<m3>sitja í höftum, <i><trn>to be in fetters</trn></i>;</m3>
 	<m3>halda <p>e-n</p> í höftum, <i><trn>to keep one in bonds</trn></i>;</m3>
 	<m2>2) <p>pl.</p>, höft, <i><trn>gods</trn></i>.</m2>
-</entry>
-<entry word="hafta">
+</word>
+<word>
+hafta
 	<m1><p>f.</p> <i><trn>female prisoner, bondwoman</trn></i> (~ ok hernuma).</m1>
-</entry>
-<entry word="haftr">
+</word>
+<word>
+haftr
 	<m1><p>m.</p> <i><trn>male prisoner, bondman</trn></i>.</m1>
-</entry>
-<entry word="haftyrðill">
+</word>
+<word>
+haftyrðill
 	<m1><p>m.</p> <i><trn>little auk</trn></i>.</m1>
-</entry>
-<entry word="hafvelktr">
+</word>
+<word>
+hafvelktr
 	<m1><p>pp.</p> <i><trn>sea-tossed</trn></i>.</m1>
-</entry>
-<entry word="hafviðri">
+</word>
+<word>
+hafviðri
 	<m1><i><trn>sea-breeze</trn></i>.</m1>
-</entry>
-<entry word="hafvilla">
+</word>
+<word>
+hafvilla
 	<m1><p>f.</p> <i><trn>loss of one’s course at sea</trn></i>.</m1>
-</entry>
-<entry word="hafvillr">
+</word>
+<word>
+hafvillr
 	<m1><p>a.</p> <i><trn>having lost one’s course at sea</trn></i>.</m1>
-</entry>
-<entry word="haga">
+</word>
+<word>
+haga
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to manage, arrange</trn></i>, with <p>dat.</p> (svá skulu vér ~ inngöngu vorri);</m2>
 	<m3>fénu var ~t til gæzlu, <i><trn>the money was taken into keeping</trn></i>;</m3>
@@ -320,82 +384,107 @@ Heði
 	<m3>~ svá til, at, <i><trn>to arrange or contrive it so that</trn></i>;</m3>
 	<m3>~ <p>e-m</p> til <p>e-s</p>, <i><trn>to turn out so and so for one</trn></i> (þat ~ði Ólafi til mikils harms);</m3>
 	<m2>2) <i><trn>to suit, be suitable</trn></i> (skip með þeim farmi, sem ek veit vel ~r til Íslands).</m2>
-</entry>
-<entry word="hagabeit">
+</word>
+<word>
+hagabeit
 	<m1><p>f.</p> <i><trn>grazing</trn></i>.</m1>
-</entry>
-<entry word="hagagarðr">
+</word>
+<word>
+hagagarðr
 	<m1><p>m.</p> <i><trn>fence round a pasture-field</trn></i>.</m1>
-</entry>
-<entry word="hagfastr">
+</word>
+<word>
+hagfastr
 	<m1><p>a.</p> <i><trn>grazing constantly on the same pasture</trn></i>.</m1>
-</entry>
-<entry word="hagfátt">
+</word>
+<word>
+hagfátt
 	<m1><p>a.</p> <p>n.</p> <i><trn>short of grazing</trn></i> (málnytu verðr hag-fátt).</m1>
-</entry>
-<entry word="hagfeldr">
+</word>
+<word>
+hagfeldr
 	<m1><p>a.</p> <i><trn>meet, fit, suitable</trn></i> (ek mun þér ~; hagfelt erindi).</m1>
-</entry>
-<entry word="hagi">
+</word>
+<word>
+hagi
 	<m1><p>m.</p> <i><trn>pasture, field for grazing</trn></i>;</m1>
 	<m2>var hestum ~ fenginn, <i><trn>the horses were put out to grass</trn></i>.</m2>
-</entry>
-<entry word="hagjörð">
+</word>
+<word>
+hagjörð
 	<m1><p>f.</p> <i><trn>pasture land</trn></i>.</m1>
-</entry>
-<entry word="hagkeypi">
+</word>
+<word>
+hagkeypi
 	<m1><p>n.</p> <i><trn>good bargain</trn></i>.</m1>
-</entry>
-<entry word="hagl">
+</word>
+<word>
+hagl
 	<m1><p>n.</p> <i><trn>hail</trn></i>.</m1>
-</entry>
-<entry word="hagleikr">
+</word>
+<word>
+hagleikr
 	<m1><p>m.</p> <i><trn>skill in handicraft</trn></i>.</m1>
-</entry>
-<entry word="hagleiksgørð">
+</word>
+<word>
+hagleiksgørð
 	<m1><p>f.</p> <i><trn>fine workmanship</trn></i>.</m1>
-</entry>
-<entry word="hagleiksmaðr">
+</word>
+<word>
+hagleiksmaðr
 	<m1><p>m.</p> <i><trn>handicraftsman, artist</trn></i>.</m1>
-</entry>
-<entry word="haglhrið">
+</word>
+<word>
+haglhrið
 	<m1><p>f.</p> <i><trn>hail-storm</trn></i>.</m1>
-</entry>
-<entry word="hagliga">
+</word>
+<word>
+hagliga
 	<m1><p>adv.</p> <i><trn>skilfully, handily, neatly</trn></i>.</m1>
-</entry>
-<entry word="hagligr">
+</word>
+<word>
+hagligr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>skilful, handy, neat</trn></i>;</m2>
 	<m2>2) <i><trn>fit, proper, convenient</trn></i>.</m2>
-</entry>
-<entry word="haglkorn">
+</word>
+<word>
+haglkorn
 	<m1><p>n.</p> <i><trn>hailstone</trn></i>.</m1>
-</entry>
-<entry word="haglsteinn">
+</word>
+<word>
+haglsteinn
 	<m1><p>m.</p> <i><trn>hailstone</trn></i>.</m1>
-</entry>
-<entry word="haglvindr">
+</word>
+<word>
+haglvindr
 	<m1><p>m.</p> <i><trn>hail-storm</trn></i>.</m1>
-</entry>
-<entry word="hagmýrr">
+</word>
+<word>
+hagmýrr
 	<m1><p>f.</p> <i><trn>pasture, marsh</trn></i>.</m1>
-</entry>
-<entry word="hagmæltr">
-	</entry>
-<entry word="tölugr">
+</word>
+<word>
+hagmæltr
+</word>
+<word>
+tölugr
 	<m1><p>a.</p> <i><trn>well-spoken</trn></i>.</m1>
-</entry>
-<entry word="hagna">
+</word>
+<word>
+hagna
 	<m1>(að), <p>v.</p> <i><trn>to be meet for one</trn></i>; hvárum ykkrum hefir betr ~t, <i><trn>which of you has had the best luck?</trn></i>.</m1>
-</entry>
-<entry word="hagnaðr">
+</word>
+<word>
+hagnaðr
 	<m1>(<p>gen.</p> -ar), <p>m.</p> <i><trn>advantage</trn></i>.</m1>
-</entry>
-<entry word="hagnýta">
+</word>
+<word>
+hagnýta
 	<m1>(-tta, -ttr), <p>v.</p> <i><trn>to make use of, have profit of</trn></i>.</m1>
-</entry>
-<entry word="hagr">
+</word>
+<word>
+hagr
 	<m1><b>I)</b></m1>
 	<m2><p>a.</p> <i><trn>handy, skilful</trn></i> (~ maðr á tré ok járn).</m2>
 	<m1><b>II)</b></m1>
@@ -403,63 +492,83 @@ Heði
 	<m3>1) <i><trn>state, condition, affairs</trn></i> (hvat er nú um hagi þína?);</m3>
 	<m3>2) <i><trn>means</trn></i> (ef hann hefir eigi hag til at fœra þau fram);</m3>
 	<m3>3) <i><trn>favour, advantage</trn></i>; í hag <p>e-m</p>, <i><trn>to one’s advantage</trn></i> at högum, <i><trn>suitably</trn></i>.</m3>
-</entry>
-<entry word="hagráð">
+</word>
+<word>
+hagráð
 	<m1><p>n.</p> <i><trn>opportunity</trn></i>.</m1>
-</entry>
-<entry word="hagráðr">
+</word>
+<word>
+hagráðr
 	<m1><p>a.</p> <i><trn>giving wise counsel</trn></i>.</m1>
-</entry>
-<entry word="hagræða">
+</word>
+<word>
+hagræða
 	<m1>(-rædda, -rætt), <p>v.</p> <i><trn>to put right</trn></i> (fyrir sér).</m1>
-</entry>
-<entry word="hagræði">
+</word>
+<word>
+hagræði
 	<m1><p>n.</p> <i><trn>service</trn></i> (gera <p>e-m</p> ~).</m1>
-</entry>
-<entry word="hagskeytr">
-	</entry>
-<entry word="happskeytr">
+</word>
+<word>
+hagskeytr
+</word>
+<word>
+happskeytr
 	<m1><p>a.</p> <i><trn>a good shot</trn></i>.</m1>
-</entry>
-<entry word="hagskipti">
+</word>
+<word>
+hagskipti
 	<m1><p>n.</p> <i><trn>fair bargain</trn></i>.</m1>
-</entry>
-<entry word="hagsmunir">
+</word>
+<word>
+hagsmunir
 	<m1><p>m.</p> <p>pl.</p> <i><trn>profit, advantage</trn></i>.</m1>
-</entry>
-<entry word="hagspakligr">
+</word>
+<word>
+hagspakligr
 	<m1><p>a.</p> <i><trn>practical, wise</trn></i>.</m1>
-</entry>
-<entry word="hagspeki">
+</word>
+<word>
+hagspeki
 	<m1><p>f.</p> <i><trn>forethought, good sense</trn></i>.</m1>
-</entry>
-<entry word="hagstœðr">
+</word>
+<word>
+hagstœðr
 	<m1><p>a.</p> fair, favourable (~ byrr).</m1>
-</entry>
-<entry word="hagtœkr">
+</word>
+<word>
+hagtœkr
 	<m1><p>a.</p> <i><trn>practical</trn></i>.</m1>
-</entry>
-<entry word="hagþorn">
-	</entry>
-<entry word="hagþyrnir">
+</word>
+<word>
+hagþorn
+</word>
+<word>
+hagþyrnir
 	<m1><p>m.</p> <i><trn>hawthorn</trn></i>.</m1>
-</entry>
-<entry word="haka">
+</word>
+<word>
+haka
 	<m1>(<p>gen.</p> höku), <p>f.</p> <i><trn>chin</trn></i>.</m1>
-</entry>
-<entry word="halabroddr">
+</word>
+<word>
+halabroddr
 	<m1><p>m.</p> <i><trn>point of a tail</trn></i>.</m1>
-</entry>
-<entry word="halaferð">
+</word>
+<word>
+halaferð
 	<m1><p>f.</p> <i><trn>the rear</trn></i>.</m1>
-</entry>
-<entry word="halalangr">
+</word>
+<word>
+halalangr
 	<m1><p>a.</p> <i><trn>long-tailed</trn></i>.</m1>
-</entry>
-<entry word="halatafl">
+</word>
+<word>
+halatafl
 	<m1><p>n.</p> <i><trn>a kind of game</trn></i>.</m1>
-</entry>
-<entry word="hald">
+</word>
+<word>
+hald
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>hold, fastening</trn></i>;</m2>
 	<m2>2) <i><trn>keeping in repair</trn></i> (fyrir ~ kirkju);</m2>
@@ -470,8 +579,9 @@ Heði
 	<m2>4) <i><trn>custody</trn></i> (Ólafr konungr tók þá við ~i Hræreks konungs);</m2>
 	<m2>5) <i><trn>esteem</trn></i> (vera með <p>e-m</p> í góðu ~i);</m2>
 	<m2>6) <i><trn>keeping, observance</trn></i> (cf. <ref>jóla~</ref>, drottinsdaga ~).</m2>
-</entry>
-<entry word="halda">
+</word>
+<word>
+halda
 	<m1>(held; hélt, héldum; haldinn), <p>v.</p></m1>
 	<m1>I. with <p>dat.</p></m1>
 	<m2>1) <i><trn>to hold fast</trn></i> (Gunnarr var kyrr svá at honum hélt einn maðr);</m2>
@@ -537,8 +647,9 @@ Heði
 	<m2>hélt þá við atgöngu (<p>acc.</p>), <i><trn>they were near coming to fight</trn></i>;</m2>
 	<m2>heldr nú við hót, <i><trn>it is little short of threats</trn></i>;</m2>
 	<m1>IV. <p>refl.</p>, <ref>~st</ref>.</m1>
-</entry>
-<entry word="haldast">
+</word>
+<word>
+haldast
 	<m1><p>v. refl.</p> <i><trn>to hold oneself, stay</trn></i> (mátti hann eigi þar ~);</m1>
 	<m2><i><trn>to hold out, continue, last</trn></i> (hélzt vinátta með þeim);</m2>
 	<m2><i><trn>to be kept safe and sound</trn></i>;</m2>
@@ -548,49 +659,61 @@ Heði
 	<m2><p>impers.</p>, <p>e-m</p> helzt vel (illa) á <p>e-u</p>, <i><trn>one has good (bad) luck with a thing</trn></i> (mér helzt lítt á sauðamönnum);</m2>
 	<m2>~ við, <i><trn>to stay, remain</trn></i>;</m2>
 	<m2>~ við <p>e-m</p>, <i><trn>to resist, make a stand against one</trn></i> (hélzt þá ekki við honum).</m2>
-</entry>
-<entry word="haldgóðr">
+</word>
+<word>
+haldgóðr
 	<m1><p>a.</p> <i><trn>lasting, durable</trn></i>.</m1>
-</entry>
-<entry word="haldinn">
+</word>
+<word>
+haldinn
 	<m1><p>pp.</p></m1>
 	<m2>1) <i><trn>in such and such a state</trn></i>;</m2>
 	<m3>vel ~, <i><trn>in good condition, well to do, doing well</trn></i>;</m3>
 	<m3>þungliga ~, <i><trn>very ill</trn></i>;</m3>
 	<m2>2) <i><trn>satisfied with</trn></i> (Hrani sagðist ekki af því ~ vera);</m2>
 	<m2>3) heilu ok höldnu, <i><trn>safely, safe and sound</trn></i>.</m2>
-</entry>
-<entry word="haldinorðr">
+</word>
+<word>
+haldinorðr
 	<m1><p>a.</p> <i><trn>discreet, close</trn></i>.</m1>
-</entry>
-<entry word="haldinyrði">
+</word>
+<word>
+haldinyrði
 	<m1><p>n.</p> <i><trn>discreetness</trn></i>.</m1>
-</entry>
-<entry word="haldkvæmast">
+</word>
+<word>
+haldkvæmast
 	<m1>(d), <p>v. refl.</p> <i><trn>to avail, be of use to</trn></i> (~ <p>e-m</p>).</m1>
-</entry>
-<entry word="haldkvæmd">
+</word>
+<word>
+haldkvæmd
 	<m1><p>f.</p> <i><trn>convenience, comfort</trn></i>.</m1>
-</entry>
-<entry word="haldkvæmiligr">
+</word>
+<word>
+haldkvæmiligr
 	<m1><p>a.</p> <i><trn>convenient</trn></i>.</m1>
-</entry>
-<entry word="haldkvæmr">
+</word>
+<word>
+haldkvæmr
 	<m1><p>a.</p> <i><trn>convenient, useful</trn></i>.</m1>
-</entry>
-<entry word="haldsamr">
+</word>
+<word>
+haldsamr
 	<m1><p>a.</p> <i><trn>holding close</trn></i>;</m1>
 	<m2>vera ~ á <p>e-u</p>, <i><trn>to keep it close</trn></i>.</m2>
-</entry>
-<entry word="haldsemi">
+</word>
+<word>
+haldsemi
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>fast holding</trn></i>;</m2>
 	<m2>2) <i><trn>closeness, stinginess</trn></i>.</m2>
-</entry>
-<entry word="hali">
+</word>
+<word>
+hali
 	<m1><p>m.</p> <i><trn>tail</trn></i>; leika (veifast um) lausum hala, <i><trn>to play with a loose tail, to be unrestrained</trn></i>; bera brattan halann, <i><trn>to cock up the tail, to be proud</trn></i>; draga eptir sér halann, <i><trn>to drag the tail, to play the coward</trn></i>.</m1>
-</entry>
-<entry word="halla">
+</word>
+<word>
+halla
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to incline or turn sideways</trn></i>, with <p>dat.</p> (~ keri, skipi);</m2>
 	<m2>2) <i><trn>to sway to the wrong side</trn></i> (= ~ til um. <p>e-t</p>);</m2>
@@ -607,40 +730,52 @@ Heði
 	<m3><i><trn>to lie over</trn></i> (þá tók mjök at ~st Ormrinn);</m3>
 	<m3>á þá ~ðist bardaginn, <i><trn>the battle turned against them</trn></i>;</m3>
 	<m3>~st eptir <p>e-u</p>, <i><trn>to sway towards a thing</trn></i>.</m3>
-</entry>
-<entry word="hallar">
+</word>
+<word>
+hallar
 	<m1>from <ref>höll</ref>, <i><trn>hall</trn></i>.</m1>
-</entry>
-<entry word="hallarbúnaðr">
-	</entry>
-<entry word="hallarbúningr">
+</word>
+<word>
+hallarbúnaðr
+</word>
+<word>
+hallarbúningr
 	<m1><p>m.</p> <i><trn>hangings of a hall</trn></i>.</m1>
-</entry>
-<entry word="hallardyrr">
+</word>
+<word>
+hallardyrr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>door of a hall</trn></i>.</m1>
-</entry>
-<entry word="hallargólf">
+</word>
+<word>
+hallargólf
 	<m1><p>n.</p> <i><trn>floor of a hall</trn></i>.</m1>
-</entry>
-<entry word="hallarveggr">
+</word>
+<word>
+hallarveggr
 	<m1><p>m.</p> wall of a hall.</m1>
-</entry>
-<entry word="halllendi">
+</word>
+<word>
+halllendi
 	<m1><p>n.</p> <i><trn>slope, declivity</trn></i>.</m1>
-</entry>
-<entry word="halllendr">
+</word>
+<word>
+halllendr
 	<m1><p>a.</p> <i><trn>sloping</trn></i>.</m1>
-</entry>
-<entry word="hallmæla">
+</word>
+<word>
+hallmæla
 	<m1>(-ta, -t), <p>v.</p> <i><trn>to speak ill of one</trn></i> (~ <p>e-m</p>).</m1>
-</entry>
-<entry word="hallmæli">
+</word>
+<word>
+hallmæli
 	<m1><p>n.</p> <p>pl.</p> <i><trn>blame, reproof</trn></i>.</m1>
-</entry>
-<entry word="halloki">
+</word>
+<word>
+halloki
 	<m1><p>a.</p>, fara, verða ~ fyrir <p>e-m</p>, <i><trn>to be overcome, defeated</trn></i>.</m1>
-</entry>
-<entry word="hallr">
+</word>
+<word>
+hallr
 	<m1><b>I)</b></m1>
 	<m2><p>a.</p></m2>
 	<m3>1) <i><trn>leaning to one side, lying over, sloping</trn></i> (vóru jakarnir hallir mjök út af skerinu); bera hallt höfuðit, <i><trn>to carry the head on one side</trn></i>; standa höllum fœti, <i><trn>to stand unevenly</trn></i>; verðr hallt á <p>e-n</p>, <i><trn>one is worsted</trn></i>;</m3>
@@ -649,128 +784,168 @@ Heði
 	<m2><p>m.</p></m2>
 	<m3>1) <i><trn>slope, hill</trn></i>;</m3>
 	<m3>2) <i><trn>big stone</trn></i> (enn harði ~).</m3>
-</entry>
-<entry word="hallæri">
+</word>
+<word>
+hallæri
 	<m1><p>n.</p> <i><trn>bad season, famine</trn></i>.</m1>
-</entry>
-<entry word="halp">
-	</entry>
-<entry word="helpr">
-	</entry>
-<entry word="holpinn">
-	</entry>
-<entry word="hulpu">
-	</entry>
-<entry word="hylpi">
+</word>
+<word>
+halp
+</word>
+<word>
+helpr
+</word>
+<word>
+holpinn
+</word>
+<word>
+hulpu
+</word>
+<word>
+hylpi
 	<m1>from <ref>hjálpa</ref>.</m1>
-</entry>
-<entry word="halr">
+</word>
+<word>
+halr
 	<m1>(-s, -ir), <p>m.</p> <p>poet.</p> <i><trn>man</trn></i>.</m1>
-</entry>
-<entry word="haltr">
+</word>
+<word>
+haltr
 	<m1><p>a.</p> <i><trn>limping, lame, halting</trn></i>; ~ eptra fœti, <i><trn>lame of the hind leg</trn></i>.</m1>
-</entry>
-<entry word="haltra">
+</word>
+<word>
+haltra
 	<m1>(að), <p>v.</p> <i><trn>to halt, limp</trn></i>.</m1>
-</entry>
-<entry word="halzi">
+</word>
+<word>
+halzi
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>holding</trn></i> (with <p>gen.</p>).</m1>
-</entry>
-<entry word="hamalt">
+</word>
+<word>
+hamalt
 	<m1><p>a.</p> <p>n.</p>, only in the phrase, fylkja ~, <i><trn>to draw up in a wedge shaped column</trn></i> (= <ref>svínfylkja</ref>).</m1>
-</entry>
-<entry word="hamargnipa">
+</word>
+<word>
+hamargnipa
 	<m1><p>f.</p> <i><trn>peak of a crag</trn></i>.</m1>
-</entry>
-<entry word="hamarklettr">
+</word>
+<word>
+hamarklettr
 	<m1><p>m.</p> <i><trn>crag, rock</trn></i>.</m1>
-</entry>
-<entry word="hamarr">
+</word>
+<word>
+hamarr
 	<m1>(<p>gen.</p> -s, <p>dat.</p> hamri, <p>pl.</p> hamrar), <p>m.</p></m1>
 	<m2>1) <i><trn>hammer</trn></i>; hann gerði hamar yfir, <i><trn>he made the sign of the hammer over it</trn></i>;</m2>
 	<m2>2) <i><trn>back of an axe</trn></i>;</m2>
 	<m2>3) <i><trn>crag, precipice</trn></i> (þar stendr ~ mikill fyrir þeim); þrítugur ~, <i><trn>a crag thirty fathoms high</trn></i>.</m2>
-</entry>
-<entry word="hamarrifa">
+</word>
+<word>
+hamarrifa
 	<m1><p>f.</p> <i><trn>rift in a crag</trn></i>.</m1>
-</entry>
-<entry word="hamarskaft">
+</word>
+<word>
+hamarskaft
 	<m1><p>n.</p> <i><trn>shaft of a hammer</trn></i>.</m1>
-</entry>
-<entry word="hamarskalli">
+</word>
+<word>
+hamarskalli
 	<m1><p>m.</p> <i><trn>head of a hammer</trn></i>.</m1>
-</entry>
-<entry word="hamarskúti">
+</word>
+<word>
+hamarskúti
 	<m1><p>m.</p> <i><trn>jutting or overhanging crag</trn></i>.</m1>
-</entry>
-<entry word="hamarsmark">
+</word>
+<word>
+hamarsmark
 	<m1><p>n.</p> <i><trn>sign of the hammer</trn></i>.</m1>
-</entry>
-<entry word="hamarsmuðr">
+</word>
+<word>
+hamarsmuðr
 	<m1><p>m.</p> <i><trn>the thin end of a hammer</trn></i>.</m1>
-</entry>
-<entry word="hamarspor">
+</word>
+<word>
+hamarspor
 	<m1><p>n.</p> <i><trn>a hammers print</trn></i>.</m1>
-</entry>
-<entry word="hamast">
+</word>
+<word>
+hamast
 	<m1>(að), <p>v. refl.</p></m1>
 	<m2>1) <i><trn>to assume the shape of an animal</trn></i> (~ í arnarlíki);</m2>
 	<m2>2) <i><trn>to rage</trn></i> (like a berserk).</m2>
-</entry>
-<entry word="hamði">
+</word>
+<word>
+hamði
 	<m1>from ‘hemja’.</m1>
-</entry>
-<entry word="hamfar">
+</word>
+<word>
+hamfar
 	<m1><p>n.</p> <i><trn>travelling in the shape of an animal</trn></i> (fara ~i, í hamförum).</m1>
-</entry>
-<entry word="hamfarir">
+</word>
+<word>
+hamfarir
 	<m1><p>f.</p> <p>pl.</p> <i><trn>travelling in the shape of an animal</trn></i> (fara hamfari, í hamförum).</m1>
-</entry>
-<entry word="hamföng">
+</word>
+<word>
+hamföng
 	<m1><p>n.</p> <p>pl.</p> <i><trn>fury, frenzy</trn></i>.</m1>
-</entry>
-<entry word="hamhleypa">
+</word>
+<word>
+hamhleypa
 	<m1><p>f.</p> <i><trn>a human being who travels in the shape of an animal</trn></i>; <i><trn>a witch that goes in ham-farir</trn></i>.</m1>
-</entry>
-<entry word="hamingja">
+</word>
+<word>
+hamingja
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>guardian spirit</trn></i>;</m2>
 	<m2>2) <i><trn>luck, good fortune</trn></i>.</m2>
-</entry>
-<entry word="hamingjudrjúgr">
+</word>
+<word>
+hamingjudrjúgr
 	<m1><p>a.</p> lucky.</m1>
-</entry>
-<entry word="hamingjuhjól">
+</word>
+<word>
+hamingjuhjól
 	<m1><p>n.</p> <i><trn>wheel of fortune</trn></i>.</m1>
-</entry>
-<entry word="hamingjuhlutr">
+</word>
+<word>
+hamingjuhlutr
 	<m1><p>m.</p> lucky <i><trn>chance</trn></i>.</m1>
-</entry>
-<entry word="hamingjuleysi">
+</word>
+<word>
+hamingjuleysi
 	<m1><p>n.</p> <i><trn>want of luck</trn></i>.</m1>
-</entry>
-<entry word="hamingjumikill">
+</word>
+<word>
+hamingjumikill
 	<m1><p>a.</p> <i><trn>very lucky</trn></i>.</m1>
-</entry>
-<entry word="hamingjumót">
+</word>
+<word>
+hamingjumót
 	<m1><p>n.</p> <i><trn>lucky appearance</trn></i> (~ er á þér).</m1>
-</entry>
-<entry word="hamingjuraun">
+</word>
+<word>
+hamingjuraun
 	<m1><p>f.</p> <i><trn>trial of fortune</trn></i>.</m1>
-</entry>
-<entry word="hamingjusamligr">
+</word>
+<word>
+hamingjusamligr
 	<m1><p>a.</p> <i><trn>lucky-looking</trn></i>.</m1>
-</entry>
-<entry word="hamingjuskipti">
+</word>
+<word>
+hamingjuskipti
 	<m1><p>n.</p> <i><trn>turn (vicissitude) of fortune</trn></i>.</m1>
-</entry>
-<entry word="hamingjuskortr">
+</word>
+<word>
+hamingjuskortr
 	<m1><p>m.</p> <i><trn>lack of good luck</trn></i>.</m1>
-</entry>
-<entry word="hamingjutjón">
+</word>
+<word>
+hamingjutjón
 	<m1><p>n.</p> <i><trn>bad luck</trn></i>.</m1>
-</entry>
-<entry word="hamla">
+</word>
+<word>
+hamla
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>oar-thong, grummet</trn></i>;</m2>
 	<m3>láta síga á hömlu, <i><trn>to pull backwards</trn></i> (stern foremost);</m3>
@@ -780,580 +955,763 @@ Heði
 	<m3>1) <i><trn>to pull backwards</trn></i>;</m3>
 	<m3>2) <i><trn>to stop, hinder</trn></i> (~ <p>e-m</p>);</m3>
 	<m3>3) <i><trn>to maim, mutilate</trn></i> (sumir vóru ~ðir at höndum eða fótum).</m3>
-</entry>
-<entry word="hampr">
+</word>
+<word>
+hampr
 	<m1><p>m.</p> <i><trn>hemp</trn></i>.</m1>
-</entry>
-<entry word="hamr">
+</word>
+<word>
+hamr
 	<m1>(-s, -ir), <p>m.</p></m1>
 	<m2>1) <i><trn>skin, slough</trn></i>; hleypa hömum, <i><trn>to cast the slough</trn></i> (of snakes);</m2>
 	<m2>2) <i><trn>shape, form</trn></i>; skipta hömum, <i><trn>to change one’s shape</trn></i>.</m2>
-</entry>
-<entry word="hamrafjall">
+</word>
+<word>
+hamrafjall
 	<m1><p>n.</p> <i><trn>craggy mountain</trn></i>.</m1>
-</entry>
-<entry word="hamraklif">
+</word>
+<word>
+hamraklif
 	<m1><p>n.</p> <i><trn>cleft between two crags</trn></i>.</m1>
-</entry>
-<entry word="hamramr">
+</word>
+<word>
+hamramr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>able to change one’s shape</trn></i>;</m2>
 	<m2>2) <i><trn>seized with warlike fury</trn></i> (berserks-gangr).</m2>
-</entry>
-<entry word="hamraskarð">
+</word>
+<word>
+hamraskarð
 	<m1><p>n.</p> = hamraklif.</m1>
-</entry>
-<entry word="hamremi">
+</word>
+<word>
+hamremi
 	<m1><p>f.</p> <i><trn>the state of being</trn></i> hamramr 2.</m1>
-</entry>
-<entry word="hams">
+</word>
+<word>
+hams
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>snake’s slough</trn></i> (ormar skriða or hamsi á vár);</m2>
 	<m2>2) <i><trn>husk</trn></i>.</m2>
-</entry>
-<entry word="hamstoli">
-	</entry>
-<entry word="hamstolinn">
+</word>
+<word>
+hamstoli
+</word>
+<word>
+hamstolinn
 	<m1><p>a.</p> <i><trn>deprived of one’s wits, frantic, furious</trn></i>.</m1>
-</entry>
-<entry word="hanagalan">
+</word>
+<word>
+hanagalan
 	<m1><p>f.</p> <i><trn>cock-crew</trn></i>.</m1>
-</entry>
-<entry word="handa">
+</word>
+<word>
+handa
 	<m1>(= til ~), <p>prep.</p> with <p>dat.</p> <i><trn>to, for</trn></i> (~ Oddi).</m1>
-</entry>
-<entry word="handaband">
+</word>
+<word>
+handaband
 	<m1><p>n.</p> <i><trn>shaking of hands</trn></i>.</m1>
-</entry>
-<entry word="handafesti">
-	</entry>
-<entry word="handafestr">
+</word>
+<word>
+handafesti
+</word>
+<word>
+handafestr
 	<m1><p>f.</p> <i><trn>a hold for the hands</trn></i>.</m1>
-</entry>
-<entry word="handafl">
+</word>
+<word>
+handafl
 	<m1><p>n.</p> <i><trn>strength of hand</trn></i>; lesa sik upp <i><trn>(to haul oneself up)</trn></i> með ~i.</m1>
-</entry>
-<entry word="handagangr">
+</word>
+<word>
+handagangr
 	<m1><p>m.</p> <i><trn>grasping after a thing</trn></i>.</m1>
-</entry>
-<entry word="handagørvi">
+</word>
+<word>
+handagørvi
 	<m1><p>f.</p> <i><trn>‘hand-gear’, gloves</trn></i>.</m1>
-</entry>
-<entry word="handakast">
+</word>
+<word>
+handakast
 	<m1><p>n.</p> = handalæti.</m1>
-</entry>
-<entry word="handaklapp">
+</word>
+<word>
+handaklapp
 	<m1><p>n.</p> <i><trn>clapping of hands</trn></i>.</m1>
-</entry>
-<entry word="handalæti">
+</word>
+<word>
+handalæti
 	<m1><p>n.</p> <p>pl.</p> <i><trn>gestures with the arms</trn></i>.</m1>
-</entry>
-<entry word="handan">
+</word>
+<word>
+handan
 	<m1><p>adv.</p> <i><trn>from beyond</trn></i>; heðan ok ~, <i><trn>hither and thither</trn></i>; fyrir ~, with <p>acc.</p> <i><trn>beyond, on the other side of</trn></i>.</m1>
-</entry>
-<entry word="handar">
-	</entry>
-<entry word="hendi">
-	</entry>
-<entry word="hendr">
+</word>
+<word>
+handar
+</word>
+<word>
+hendi
+</word>
+<word>
+hendr
 	<m1>from <ref>hönd</ref>, <i><trn>hand</trn></i>.</m1>
-</entry>
-<entry word="handarbak">
+</word>
+<word>
+handarbak
 	<m1><p>n.</p> <i><trn>back of the hand</trn></i>.</m1>
-</entry>
-<entry word="handargagn">
+</word>
+<word>
+handargagn
 	<m1><p>n.</p> <i><trn>use of the hand</trn></i>; leggja <p>e-t</p> til ~s <i><trn>to lay it so as to be ready at hand</trn></i>.</m1>
-</entry>
-<entry word="handargrip">
-	</entry>
-<entry word="handfang">
+</word>
+<word>
+handargrip
+</word>
+<word>
+handfang
 	<m1><p>n.</p> <i><trn>span</trn></i>.</m1>
-</entry>
-<entry word="handarhald">
+</word>
+<word>
+handarhald
 	<m1><p>n.</p> <i><trn>handle</trn></i>.</m1>
-</entry>
-<entry word="handarhögg">
+</word>
+<word>
+handarhögg
 	<m1><p>n.</p> <i><trn>a blow on one’s hand</trn></i>.</m1>
-</entry>
-<entry word="handarjaðarr">
+</word>
+<word>
+handarjaðarr
 	<m1><p>m.</p> <i><trn>hand’s edge</trn></i>; vera undir handarjaðri <p>e-s</p>, <i><trn>to be in one’s hands, in one’s power</trn></i>.</m1>
-</entry>
-<entry word="handarkriki">
+</word>
+<word>
+handarkriki
 	<m1><p>m.</p> <i><trn>arm-pit</trn></i>.</m1>
-</entry>
-<entry word="handarmein">
+</word>
+<word>
+handarmein
 	<m1><p>n.</p> <i><trn>sore in the hand</trn></i>.</m1>
-</entry>
-<entry word="handarsár">
+</word>
+<word>
+handarsár
 	<m1><p>n.</p> <i><trn>wound in the hand</trn></i>.</m1>
-</entry>
-<entry word="handarstubbr">
-	</entry>
-<entry word="handarstúfr">
+</word>
+<word>
+handarstubbr
+</word>
+<word>
+handarstúfr
 	<m1><p>m.</p> <i><trn>stump</trn></i> (of an arm).</m1>
-</entry>
-<entry word="handarvanr">
-	</entry>
-<entry word="handlauss">
+</word>
+<word>
+handarvanr
+</word>
+<word>
+handlauss
 	<m1><p>a.</p> <i><trn>handless</trn></i>.</m1>
-</entry>
-<entry word="handaskömm">
+</word>
+<word>
+handaskömm
 	<m1><p>f.</p> <i><trn>shame for one’s hands</trn></i>.</m1>
-</entry>
-<entry word="handastaðr">
+</word>
+<word>
+handastaðr
 	<m1><p>m.</p> <i><trn>print of the hands</trn></i>.</m1>
-</entry>
-<entry word="handaverk">
+</word>
+<word>
+handaverk
 	<m1><p>n.</p> <p>pl.</p> one’s <i><trn>handwork, doings</trn></i>.</m1>
-</entry>
-<entry word="handbani">
+</word>
+<word>
+handbani
 	<m1><p>m.</p> <i><trn>actual slayer</trn></i>, opp. to <ref>ráðbani</ref>.</m1>
-</entry>
-<entry word="handbjalla">
-	</entry>
-<entry word="handklukka">
+</word>
+<word>
+handbjalla
+</word>
+<word>
+handklukka
 	<m1><p>f.</p> <i><trn>hand-bell</trn></i>.</m1>
-</entry>
-<entry word="handbjörg">
+</word>
+<word>
+handbjörg
 	<m1><p>f.</p> <i><trn>‘hand-supply’</trn></i>; lifa við ~ sina, <i><trn>to earn one’s own living</trn></i>; fœra <p>e-n</p> fram með ~ sinni, <i><trn>to support a person by one’s labour</trn></i>.</m1>
-</entry>
-<entry word="handbogi">
+</word>
+<word>
+handbogi
 	<m1><p>m.</p> <i><trn>hand-bow</trn></i>, opp. to <ref>lásbogi</ref>.</m1>
-</entry>
-<entry word="handbyndi">
+</word>
+<word>
+handbyndi
 	<m1><p>n.</p> <i><trn>encumbrance</trn></i> (<p>e-m</p> verðr ~ at <p>e-u</p>).</m1>
-</entry>
-<entry word="handbærr">
+</word>
+<word>
+handbærr
 	<m1><p>a.</p> <i><trn>ready at hand</trn></i>.</m1>
-</entry>
-<entry word="handfátt">
+</word>
+<word>
+handfátt
 	<m1><p>a.</p> <p>n.</p> <i><trn>lack of hands</trn></i> (~ varð upp at bera).</m1>
-</entry>
-<entry word="handfesta">
+</word>
+<word>
+handfesta
 	<m1><b>I)</b></m1>
 	<m2>(-sta, -str), <p>v.</p> <i><trn>to strike a bargain by shaking hands, to pledge</trn></i> (~ heit sitt); biskup handfesti <i><trn>(betrothed)</trn></i> jungfrú Ingiborg.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> <i><trn>striking a bargain by joining hands</trn></i>.</m2>
-</entry>
-<entry word="handfestr">
+</word>
+<word>
+handfestr
 	<m1><p>f.</p> <i><trn>striking a bargain by joining hands</trn></i>.</m1>
-</entry>
-<entry word="handfyllr">
+</word>
+<word>
+handfyllr
 	<m1><p>f.</p> <i><trn>handful</trn></i>.</m1>
-</entry>
-<entry word="handganga">
+</word>
+<word>
+handganga
 	<m1><p>f.</p> <i><trn>surrender, submission</trn></i>.</m1>
-</entry>
-<entry word="handgenginn">
+</word>
+<word>
+handgenginn
 	<m1><p>pp.</p> <i><trn>that has become a retainer to the king</trn></i> (gørast ~ <p>e-m</p>).</m1>
-</entry>
-<entry word="handgóðr">
+</word>
+<word>
+handgóðr
 	<m1><p>a.</p> <i><trn>handy, adroit</trn></i>.</m1>
-</entry>
-<entry word="handhafl">
+</word>
+<word>
+handhafl
 	<m1><p>m.</p> <i><trn>having in hand</trn></i> (vera ~ at <p>e-u</p>).</m1>
-</entry>
-<entry word="handhaltr">
+</word>
+<word>
+handhaltr
 	<m1><p>a.</p> <i><trn>having a lame hand</trn></i>.</m1>
-</entry>
-<entry word="handhæfi">
+</word>
+<word>
+handhæfi
 	<m1><p>n.</p> <i><trn>hand-instrument</trn></i>.</m1>
-</entry>
-<entry word="handhöfn">
+</word>
+<word>
+handhöfn
 	<m1><p>f.</p> <i><trn>hand-instrument</trn></i>.</m1>
-</entry>
-<entry word="handhögg">
+</word>
+<word>
+handhögg
 	<m1><p>n.</p> <i><trn>hacking off one’s hand</trn></i>.</m1>
-</entry>
-<entry word="handhöggva">
+</word>
+<word>
+handhöggva
 	<m1>(<com>see</com> <ref>höggva</ref>), <p>v.</p> <i><trn>to hack one’s hand off</trn></i>.</m1>
-</entry>
-<entry word="handiðjan">
+</word>
+<word>
+handiðjan
 	<m1><p>f.</p> <i><trn>hand-work</trn></i>.</m1>
-</entry>
-<entry word="handklæði">
+</word>
+<word>
+handklæði
 	<m1><p>n.</p> <i><trn>hand-towel</trn></i>.</m1>
-</entry>
-<entry word="handkrœkjast">
+</word>
+<word>
+handkrœkjast
 	<m1>(t), <p>v. refl.</p> <i><trn>to make trial of strength by pulling with bent hands</trn></i>.</m1>
-</entry>
-<entry word="handkvern">
+</word>
+<word>
+handkvern
 	<m1><p>f.</p> <i><trn>quern, hand-mill</trn></i>.</m1>
-</entry>
-<entry word="handla">
+</word>
+<word>
+handla
 	<m1>(að), <p>v.</p> = höndla.</m1>
-</entry>
-<entry word="handlag">
+</word>
+<word>
+handlag
 	<m1><p>n.</p> <i><trn>joining hands</trn></i>.</m1>
-</entry>
-<entry word="handlami">
+</word>
+<word>
+handlami
 	<m1><p>a.</p> <i><trn>with a lame hand</trn></i>.</m1>
-</entry>
-<entry word="handlatr">
+</word>
+<word>
+handlatr
 	<m1><p>a.</p> <i><trn>lazy to use one’s hands</trn></i>.</m1>
-</entry>
-<entry word="handlaug">
+</word>
+<word>
+handlaug
 	<m1><p>f.</p> <i><trn>water for washing the hands</trn></i> (bera inn ~ar).</m1>
-</entry>
-<entry word="handleggr">
+</word>
+<word>
+handleggr
 	<m1><p>m.</p> <i><trn>arm, fore-arm</trn></i>.</m1>
-</entry>
-<entry word="handlektari">
+</word>
+<word>
+handlektari
 	<m1><p>m.</p> <i><trn>hand-lectern</trn></i>.</m1>
-</entry>
-<entry word="handléttir">
+</word>
+<word>
+handléttir
 	<m1><p>m.</p> <i><trn>lending a hand</trn></i>.</m1>
-</entry>
-<entry word="handlín">
+</word>
+<word>
+handlín
 	<m1><p>n.</p> <i><trn>sleeves</trn></i>.</m1>
-</entry>
-<entry word="handmegin">
+</word>
+<word>
+handmegin
 	<m1><p>n.</p> <i><trn>strength of hand, working power</trn></i>.</m1>
-</entry>
-<entry word="handmeiddr">
+</word>
+<word>
+handmeiddr
 	<m1><p>pp.</p> <i><trn>with maimed hands</trn></i>.</m1>
-</entry>
-<entry word="handnuminn">
+</word>
+<word>
+handnuminn
 	<m1><p>pp.</p> <i><trn>seized, caught</trn></i>.</m1>
-</entry>
-<entry word="handrammr">
-	</entry>
-<entry word="handsterkr">
+</word>
+<word>
+handrammr
+</word>
+<word>
+handsterkr
 	<m1><p>a.</p> <i><trn>strong-handed</trn></i>.</m1>
-</entry>
-<entry word="handrið">
+</word>
+<word>
+handrið
 	<m1><p>n.</p> <i><trn>hand-rail</trn></i>.</m1>
-</entry>
-<entry word="handrif">
+</word>
+<word>
+handrif
 	<m1><p>n.</p> <i><trn>‘reefing cord’</trn></i>, in the phrase, svipta af ~i, <i><trn>to reef a sail</trn></i>.</m1>
-</entry>
-<entry word="handsal">
+</word>
+<word>
+handsal
 	<m1><p>n.</p></m1>
 	<m2>1) = handaband;</m2>
 	<m2>2) <i><trn>pledge, bargain</trn></i>; taka við handsölum á <p>e-u</p>, <i><trn>to undertake the trust or charge of a thing</trn></i>; eiga handsól við <p>e-n</p>, <i><trn>to make a bargain</trn></i> with one; bjóða handsól fyrir <p>e-n</p>, <i><trn>to offer bail for one</trn></i>.</m2>
-</entry>
-<entry word="handsala">
+</word>
+<word>
+handsala
 	<m1>(að), <p>v.</p> <i><trn>to make over (confirm) by shaking hands</trn></i>.</m1>
-</entry>
-<entry word="handsax">
+</word>
+<word>
+handsax
 	<m1><p>n.</p> <i><trn>short sword, dagger</trn></i>; leika at handsöxum, <i><trn>to play with daggers (by throwing them in the air and catching them by the hilt)</trn></i>.</m1>
-</entry>
-<entry word="handseinn">
+</word>
+<word>
+handseinn
 	<m1><p>a.</p> <i><trn>slow with the hand</trn></i>.</m1>
-</entry>
-<entry word="handselja">
+</word>
+<word>
+handselja
 	<m1>(<com>see</com> <ref>selja</ref>), <p>v.</p> <i><trn>to make over</trn></i>; handseld sök, <i><trn>a suit conducted by proxy</trn></i>.</m1>
-</entry>
-<entry word="handsíðr">
+</word>
+<word>
+handsíðr
 	<m1><p>a.</p> <i><trn>long-armed</trn></i>.</m1>
-</entry>
-<entry word="handskot">
+</word>
+<word>
+handskot
 	<m1><p>n.</p> <i><trn>throwing by hand</trn></i>, opp. to <ref>bogaskot</ref>.</m1>
-</entry>
-<entry word="handsleggja">
+</word>
+<word>
+handsleggja
 	<m1><p>f.</p> <i><trn>hand-sledge</trn></i>.</m1>
-</entry>
-<entry word="handsløngva">
+</word>
+<word>
+handsløngva
 	<m1><p>f.</p> <i><trn>hand sling</trn></i>.</m1>
-</entry>
-<entry word="handstinnr">
+</word>
+<word>
+handstinnr
 	<m1><p>a.</p> <i><trn>with brawny hands</trn></i>; róa handstinnan, <i><trn>to pull strongly</trn></i>.</m1>
-</entry>
-<entry word="handstyrkja">
+</word>
+<word>
+handstyrkja
 	<m1>(t), <p>v.</p> ~ sik upp, <i><trn>to haul oneself up</trn></i>.</m1>
-</entry>
-<entry word="handstyrkr">
+</word>
+<word>
+handstyrkr
 	<m1><p>a.</p> = <ref>handsterkr</ref>.</m1>
-</entry>
-<entry word="handtak">
+</word>
+<word>
+handtak
 	<m1><p>n.</p> = <ref>handaband</ref>.</m1>
-</entry>
-<entry word="handtaka">
+</word>
+<word>
+handtaka
 	<m1><p>v.</p></m1>
 	<m2>1) <i><trn>to seize, lay hold of</trn></i>;</m2>
 	<m2>2) <i><trn>to stipulate</trn></i>.</m2>
-</entry>
-<entry word="handtygill">
+</word>
+<word>
+handtygill
 	<m1><p>m.</p> <i><trn>an arm-strap</trn></i>.</m1>
-</entry>
-<entry word="handvega">
+</word>
+<word>
+handvega
 	<m1>(<com>see</com> <ref>vega</ref>), <p>v.</p> <i><trn>to weigh in the hand</trn></i>.</m1>
-</entry>
-<entry word="handvegr">
+</word>
+<word>
+handvegr
 	<m1><p>m.</p> <i><trn>shoulder-seam</trn></i>.</m1>
-</entry>
-<entry word="handvætta">
+</word>
+<word>
+handvætta
 	<m1>(-tta, -ttr), <p>v.</p> = handvega.</m1>
-</entry>
-<entry word="handvömm">
+</word>
+<word>
+handvömm
 	<m1><p>f.</p> <i><trn>maladroitness, blundering</trn></i>.</m1>
-</entry>
-<entry word="handøx">
+</word>
+<word>
+handøx
 	<m1><p>f.</p> <i><trn>hand-axe</trn></i>.</m1>
-</entry>
-<entry word="hang">
+</word>
+<word>
+hang
 	<m1><p>n.</p> <i><trn>coil (of a serpent)</trn></i>; köttrinn beygði hangit (v. r. kenginn), <i><trn>the cat bent its back</trn></i>.</m1>
-</entry>
-<entry word="hanga">
+</word>
+<word>
+hanga
 	<m1>(hangi; hékk, héngum; hanginn), <p>v.</p></m1>
 	<m2>1) <i><trn>to hang, be suspended</trn></i> (hvers manns alvæpni hékk yfir rúmi hans);</m2>
 	<m2>2) <i><trn>to cling to, hang fast to</trn></i>; weak pret. (hangdi naðran á lifrinni);</m2>
 	<m2>3) <i><trn>to be hanged</trn></i> (gengr þú at ~).</m2>
-</entry>
-<entry word="hangaguð">
-	</entry>
-<entry word="hangatýr">
+</word>
+<word>
+hangaguð
+</word>
+<word>
+hangatýr
 	<m1><p>m.</p> <i><trn>god (lord) of the hanged</trn></i> (viz. Odin).</m1>
-</entry>
-<entry word="hangi">
+</word>
+<word>
+hangi
 	<m1><p>m.</p> <i><trn>a body ~ng on a gallows</trn></i> (hann settist undir hanga).</m1>
-</entry>
-<entry word="hani">
+</word>
+<word>
+hani
 	<m1><p>m.</p> <i><trn>cock</trn></i>.</m1>
-</entry>
-<entry word="hanki">
+</word>
+<word>
+hanki
 	<m1><p>m.</p> <i><trn>hasp or clasp (of a chest)</trn></i>.</m1>
-</entry>
-<entry word="hann">
+</word>
+<word>
+hann
 	<m1><p>pers. pron.</p> <i><trn>he</trn></i>.</m1>
-</entry>
-<entry word="hannyrð">
-	</entry>
-<entry word="hannørð">
+</word>
+<word>
+hannyrð
+</word>
+<word>
+hannørð
 	<m1><p>f.</p> <i><trn>skill, fine work</trn></i>.</m1>
-</entry>
-<entry word="happ">
+</word>
+<word>
+happ
 	<m1><p>n.</p> <i><trn>good luck</trn></i>.</m1>
-</entry>
-<entry word="happaráð">
+</word>
+<word>
+happaráð
 	<m1><p>n.</p> <i><trn>happy counsel</trn></i>.</m1>
-</entry>
-<entry word="happaverk">
+</word>
+<word>
+happaverk
 	<m1><p>n.</p> <i><trn>happy deed</trn></i>.</m1>
-</entry>
-<entry word="happfróðr">
+</word>
+<word>
+happfróðr
 	<m1><p>a.</p> <i><trn>wise in season</trn></i>.</m1>
-</entry>
-<entry word="hapt">
+</word>
+<word>
+hapt
 	<m1><p>n.</p> <i><trn>bond</trn></i>; <com>see</com> <ref>haft</ref>.</m1>
-</entry>
-<entry word="hara">
+</word>
+<word>
+hara
 	<m1><p>v.</p> <i><trn>to stare, grin</trn></i> (?).</m1>
-</entry>
-<entry word="harða">
+</word>
+<word>
+harða
 	<m1><p>adv.</p> <i><trn>very</trn></i> (= harðla).</m1>
-</entry>
-<entry word="harðangr">
+</word>
+<word>
+harðangr
 	<m1><p>m.</p> <i><trn>hard times, distress</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Harðar
-</entry>
-<entry>
+</word>
+<word>
 Herði
 	<m1>from ‘Hörðr’.</m1>
-</entry>
-<entry word="harðbrjóstaðr">
-	</entry>
-<entry word="harðhugaðr">
+</word>
+<word>
+harðbrjóstaðr
+</word>
+<word>
+harðhugaðr
 	<m1><p>a.</p> <i><trn>hard-hearted</trn></i>.</m1>
-</entry>
-<entry word="harðbýll">
+</word>
+<word>
+harðbýll
 	<m1><p>a.</p> <i><trn>a hard householder</trn></i>.</m1>
-</entry>
-<entry word="harðdrœgi">
+</word>
+<word>
+harðdrœgi
 	<m1><p>f.</p> <i><trn>the being</trn></i> harðdrœgr.</m1>
-</entry>
-<entry word="harðdrœgr">
+</word>
+<word>
+harðdrœgr
 	<m1><p>a.</p> <i><trn>hard to manage</trn></i>.</m1>
-</entry>
-<entry word="harðeygr">
+</word>
+<word>
+harðeygr
 	<m1><p>a.</p> <i><trn>hard-eyed</trn></i>.</m1>
-</entry>
-<entry word="harðfari">
+</word>
+<word>
+harðfari
 	<m1><p>m.</p> <i><trn>‘fast-goer’</trn></i>.</m1>
-</entry>
-<entry word="harðfarliga">
+</word>
+<word>
+harðfarliga
 	<m1><p>adv.</p> <i><trn>harshly, vehemently</trn></i>.</m1>
-</entry>
-<entry word="harðfengi">
+</word>
+<word>
+harðfengi
 	<m1><p>f.</p> <i><trn>hardihood, valour</trn></i>.</m1>
-</entry>
-<entry word="harðfengiliga">
+</word>
+<word>
+harðfengiliga
 	<m1><p>adv.</p> = harðfengliga.</m1>
-</entry>
-<entry word="harðfenginn">
+</word>
+<word>
+harðfenginn
 	<m1><p>a.</p> = harðfengr.</m1>
-</entry>
-<entry word="harðfengliga">
+</word>
+<word>
+harðfengliga
 	<m1><p>adv.</p> <i><trn>hardily, valiantly</trn></i>.</m1>
-</entry>
-<entry word="harðfengr">
+</word>
+<word>
+harðfengr
 	<m1><p>a.</p> <i><trn>hardy, valiant</trn></i>.</m1>
-</entry>
-<entry word="harðfenni">
+</word>
+<word>
+harðfenni
 	<m1><p>n.</p> <i><trn>hard snow</trn></i>.</m1>
-</entry>
-<entry word="harðfœri">
+</word>
+<word>
+harðfœri
 	<m1><p>f.</p> <i><trn>stubbornness</trn></i>.</m1>
-</entry>
-<entry word="harðfœrr">
+</word>
+<word>
+harðfœrr
 	<m1><p>a.</p> <i><trn>hard to overcome</trn></i>.</m1>
-</entry>
-<entry word="harðgörr">
+</word>
+<word>
+harðgörr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>hardy, stout</trn></i>;</m2>
 	<m2>2) <i><trn>strong built</trn></i> (harðgört skip).</m2>
-</entry>
-<entry word="harðhendi">
+</word>
+<word>
+harðhendi
 	<m1><p>f.</p> <i><trn>hard-handedness</trn></i>.</m1>
-</entry>
-<entry word="harðhendiliga">
+</word>
+<word>
+harðhendiliga
 	<m1><p>adv.</p> <i><trn>with hard hand</trn></i>.</m1>
-</entry>
-<entry word="harðhendr">
+</word>
+<word>
+harðhendr
 	<m1><p>a.</p> <i><trn>hard handed</trn></i>.</m1>
-</entry>
-<entry word="harðindi">
+</word>
+<word>
+harðindi
 	<m1><p>n.</p> <p>pl.</p></m1>
 	<m2>1) <i><trn>hardness</trn></i>;</m2>
 	<m2>2) <i><trn>hardship, severity</trn></i>.</m2>
-</entry>
-<entry word="harðkvæli">
+</word>
+<word>
+harðkvæli
 	<m1><p>n.</p> = harmkvæli.</m1>
-</entry>
-<entry word="harðla">
+</word>
+<word>
+harðla
 	<m1><p>adv.</p> <i><trn>very</trn></i> (~ mikill, lítill).</m1>
-</entry>
-<entry word="harðleikinn">
+</word>
+<word>
+harðleikinn
 	<m1><p>a.</p> <i><trn>playing a hard, rough game</trn></i>; verða <p>e-m</p> ~, <i><trn>to play roughly with one</trn></i>; fá harðleikit, <i><trn>to be roughly treated</trn></i>.</m1>
-</entry>
-<entry word="harðleikni">
+</word>
+<word>
+harðleikni
 	<m1><p>f.</p> <i><trn>rough game</trn></i>.</m1>
-</entry>
-<entry word="harðleikr">
+</word>
+<word>
+harðleikr
 	<m1><p>m.</p> <i><trn>hardness, harshness</trn></i>.</m1>
-</entry>
-<entry word="harðleitr">
+</word>
+<word>
+harðleitr
 	<m1><p>a.</p> <i><trn>hard-looking</trn></i>.</m1>
-</entry>
-<entry word="harðliga">
+</word>
+<word>
+harðliga
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>forcibly, sternly</trn></i>;</m2>
 	<m2>2) <i><trn>fast</trn></i> (riða ~).</m2>
-</entry>
-<entry word="harðligr">
-	</entry>
-<entry word="þungyrkr">
+</word>
+<word>
+harðligr
+</word>
+<word>
+þungyrkr
 	<m1><p>a.</p> <i><trn>hard, severe</trn></i>.</m1>
-</entry>
-<entry word="harðlífi">
+</word>
+<word>
+harðlífi
 	<m1><p>n.</p> <i><trn>hard life, chastisement</trn></i>.</m1>
-</entry>
-<entry word="harðlundaðr">
+</word>
+<word>
+harðlundaðr
 	<m1><p>a.</p> <i><trn>hard-tempered</trn></i>.</m1>
-</entry>
-<entry word="harðlyndi">
+</word>
+<word>
+harðlyndi
 	<m1><p>n.</p> <i><trn>hard temper</trn></i>.</m1>
-</entry>
-<entry word="harðlyndr">
+</word>
+<word>
+harðlyndr
 	<m1><p>a.</p> = harðlundaðr.</m1>
-</entry>
-<entry word="harðmannligr">
+</word>
+<word>
+harðmannligr
 	<m1><p>a.</p> <i><trn>hardy, manly</trn></i>.</m1>
-</entry>
-<entry word="harðmenni">
+</word>
+<word>
+harðmenni
 	<m1><p>n.</p> <i><trn>hardy man</trn></i>.</m1>
-</entry>
-<entry word="harðmóðigr">
+</word>
+<word>
+harðmóðigr
 	<m1><p>a.</p> <i><trn>hard of mood</trn></i>.</m1>
-</entry>
-<entry word="harðmæli">
+</word>
+<word>
+harðmæli
 	<m1><p>n.</p> <i><trn>hard language</trn></i>.</m1>
-</entry>
-<entry word="harðmæltr">
+</word>
+<word>
+harðmæltr
 	<m1><p>a.</p> = harðorðr.</m1>
-</entry>
-<entry word="harðna">
+</word>
+<word>
+harðna
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to harden</trn></i>;</m2>
 	<m2>2) <i><trn>to become severe</trn></i> (of weather); <i><trn>to grow worse</trn></i>; ~ði matlífi þeirra, <i><trn>they ran short of provisions</trn></i>.</m2>
-</entry>
-<entry word="harðorðr">
+</word>
+<word>
+harðorðr
 	<m1><p>a.</p> <i><trn>hard-spoken</trn></i>.</m1>
-</entry>
-<entry word="harðr">
+</word>
+<word>
+harðr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>hard</trn></i> (~ steinn, skafl);</m2>
 	<m2>2) <i><trn>hard, stern, severe</trn></i> (~ í skapi, í hjarta);</m2>
 	<m2>3) <i><trn>hardy</trn></i>; fólk hart ok illit at sœkja, <i><trn>hardy and difficult to assail</trn></i>; ~ í horn at taka, <i><trn>hard to take by the horns, stubborn</trn></i>; ~ bardagi, <i><trn>hard-fought battle</trn></i>; leika <p>e-n</p> bart, <i><trn>to treat one harshly</trn></i>; ríða hart, <i><trn>to ride fast</trn></i>.</m2>
-</entry>
-<entry word="harðráðr">
+</word>
+<word>
+harðráðr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>firm, determined</trn></i> (maðr vitr ok ~);</m2>
 	<m2>2) <i><trn>severe, tyrannical</trn></i>.</m2>
-</entry>
-<entry word="harðreiðr">
+</word>
+<word>
+harðreiðr
 	<m1><p>a.</p> <i><trn>hard to ride on</trn></i>.</m1>
-</entry>
-<entry word="harðrétti">
+</word>
+<word>
+harðrétti
 	<m1><p>n.</p> <i><trn>hardship</trn></i>.</m1>
-</entry>
-<entry word="harðræði">
+</word>
+<word>
+harðræði
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>hardiness, hardihood, firmness</trn></i>;</m2>
 	<m2>2) <i><trn>hardness, harshness</trn></i>.</m2>
-</entry>
-<entry word="harðskeyti">
+</word>
+<word>
+harðskeyti
 	<m1><p>f.</p> <i><trn>hard shooting</trn></i>.</m1>
-</entry>
-<entry word="harðskeytr">
+</word>
+<word>
+harðskeytr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>shooting hard</trn></i>;</m2>
 	<m2>2) <i><trn>hard, severe</trn></i>.</m2>
-</entry>
-<entry word="harðskipaðr">
+</word>
+<word>
+harðskipaðr
 	<m1><p>pp.</p> <i><trn>manned with hardy men</trn></i>.</m1>
-</entry>
-<entry word="harðsleginn">
+</word>
+<word>
+harðsleginn
 	<m1><p>pp.</p> <i><trn>hard-hammered</trn></i>.</m1>
-</entry>
-<entry word="harðslœgr">
+</word>
+<word>
+harðslœgr
 	<m1><p>a.</p> <i><trn>hard to mow</trn></i> (~ teigr).</m1>
-</entry>
-<entry word="harðsnúinn">
+</word>
+<word>
+harðsnúinn
 	<m1><p>pp.</p> <i><trn>‘hard-twisted’, staunch, stubborn</trn></i>.</m1>
-</entry>
-<entry word="harðsóttr">
+</word>
+<word>
+harðsóttr
 	<m1><p>pp.</p> <i><trn>hard to get, difficult</trn></i>.</m1>
-</entry>
-<entry word="harðsteinn">
+</word>
+<word>
+harðsteinn
 	<m1><p>m.</p> <i><trn>whetstone</trn></i>.</m1>
-</entry>
-<entry word="harðtœkr">
+</word>
+<word>
+harðtœkr
 	<m1><p>a.</p> <i><trn>hard, exacting</trn></i>.</m1>
-</entry>
-<entry word="harðúðigr">
+</word>
+<word>
+harðúðigr
 	<m1><p>a.</p> <i><trn>hard-minded</trn></i>.</m1>
-</entry>
-<entry word="harðvaxinn">
+</word>
+<word>
+harðvaxinn
 	<m1><p>pp.</p> <i><trn>strong-built, brawny</trn></i>.</m1>
-</entry>
-<entry word="harðyrði">
+</word>
+<word>
+harðyrði
 	<m1><p>n.</p> <p>pl.</p> <i><trn>hard words</trn></i>.</m1>
-</entry>
-<entry word="harðyrki">
+</word>
+<word>
+harðyrki
 	<m1><p>m.</p> <i><trn>hard worker</trn></i>.</m1>
-</entry>
-<entry word="harðýðgi">
+</word>
+<word>
+harðýðgi
 	<m1><p>f.</p> <i><trn>hardness of heart, severity</trn></i>.</m1>
-</entry>
-<entry word="hark">
-	</entry>
-<entry word="skark">
+</word>
+<word>
+hark
+</word>
+<word>
+skark
 	<m1><p>n.</p> <i><trn>noise, tumult</trn></i>.</m1>
-</entry>
-<entry word="harka">
+</word>
+<word>
+harka
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>hardness, hardiness</trn></i>.</m2>
 	<m1><b>II)</b></m1>
@@ -1361,505 +1719,669 @@ Herði
 	<m3>1) <i><trn>to scrape together</trn></i> (~ <p>e-u</p> saman);</m3>
 	<m3>2) <p>e-m</p> ~r, ~r fyrir <p>e-m</p>, <i><trn>things go ill with one</trn></i>; ~r um <p>e-t</p>, <i><trn>it goes badly</trn></i>; ~st um, <i><trn>to be in a bad way</trn></i>;</m3>
 	<m3>3) <p>refl.</p>, ~st, <i><trn>to make a tumult</trn></i>.</m3>
-</entry>
-<entry word="harkageta">
+</word>
+<word>
+harkageta
 	<m1><p>f.</p> <i><trn>coarse, scanty food</trn></i>.</m1>
-</entry>
-<entry word="harkalið">
+</word>
+<word>
+harkalið
 	<m1><p>n.</p> <i><trn>rabble</trn></i>.</m1>
-</entry>
-<entry word="harkamenn">
+</word>
+<word>
+harkamenn
 	<m1><p>m.</p> <p>pl.</p> <i><trn>tramps, scamps</trn></i>.</m1>
-</entry>
-<entry word="harkasamliga">
+</word>
+<word>
+harkasamliga
 	<m1><p>adv.</p> <i><trn>coarsely</trn></i>.</m1>
-</entry>
-<entry word="harki">
-	</entry>
-<entry word="hrati">
+</word>
+<word>
+harki
+</word>
+<word>
+hrati
 	<m1><p>m.</p> <i><trn>rubbish, trash</trn></i>.</m1>
-</entry>
-<entry word="harma">
+</word>
+<word>
+harma
 	<m1>(að), <p>v.</p> <i><trn>to bewail</trn></i>; ~ sik, <i><trn>to wail</trn></i>; <p>impers.</p>, <p>e-m</p> <com>or</com> <p>e-n</p> ~r, <i><trn>it vexes one, one is vexed</trn></i>.</m1>
-</entry>
-<entry word="harmanliga">
+</word>
+<word>
+harmanliga
 	<m1><p>adv.</p> <i><trn>sorrowfully</trn></i>.</m1>
-</entry>
-<entry word="harmanligr">
-	</entry>
-<entry word="sorgarsainligr">
-	</entry>
-<entry word="sorgfullr">
+</word>
+<word>
+harmanligr
+</word>
+<word>
+sorgarsainligr
+</word>
+<word>
+sorgfullr
 	<m1><p>a.</p> <i><trn>sorrowful</trn></i>.</m1>
-</entry>
-<entry word="harmblandinn">
+</word>
+<word>
+harmblandinn
 	<m1><p>pp.</p> <i><trn>mixed with sorrow</trn></i>.</m1>
-</entry>
-<entry word="harmbrögð">
+</word>
+<word>
+harmbrögð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>mournful deeds</trn></i>.</m1>
-</entry>
-<entry word="harmdauði">
+</word>
+<word>
+harmdauði
 	<m1><b>I)</b></m1>
 	<m2><p>m.</p> <i><trn>sorrowful death</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>a.</p> <i><trn>lamented</trn></i> (vera ~ <p>e-m</p>).</m2>
-</entry>
-<entry word="harmdauðr">
+</word>
+<word>
+harmdauðr
 	<m1><p>a.</p> <i><trn>lamented</trn></i> (vera harmdauði <p>e-m</p>).</m1>
-</entry>
-<entry word="harmdögg">
+</word>
+<word>
+harmdögg
 	<m1><p>f.</p> <i><trn>sorrow-dew, tears</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="harmfenginn">
+</word>
+<word>
+harmfenginn
 	<m1><p>pp.</p> <i><trn>affected by grief</trn></i>.</m1>
-</entry>
-<entry word="harmflaug">
+</word>
+<word>
+harmflaug
 	<m1><p>f.</p> <i><trn>baneful shaft</trn></i>.</m1>
-</entry>
-<entry word="harmfullr">
+</word>
+<word>
+harmfullr
 	<m1><p>a.</p> = <p>harmsfullr</p>.</m1>
-</entry>
-<entry word="harmkvæli">
+</word>
+<word>
+harmkvæli
 	<m1><p>n.</p> <p>pl.</p> <i><trn>torments</trn></i>.</m1>
-</entry>
-<entry word="harmkvöl">
+</word>
+<word>
+harmkvöl
 	<m1><p>f.</p> <i><trn>torments</trn></i>.</m1>
-</entry>
-<entry word="harmr">
+</word>
+<word>
+harmr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>sorrow, grief</trn></i>.</m1>
-</entry>
-<entry word="harmsaga">
+</word>
+<word>
+harmsaga
 	<m1><p>f.</p> <i><trn>tidings of grief</trn></i>.</m1>
-</entry>
-<entry word="harmsamligr">
+</word>
+<word>
+harmsamligr
 	<m1><p>a.</p> <i><trn>sad, mournful</trn></i>.</m1>
-</entry>
-<entry word="harmsauki">
+</word>
+<word>
+harmsauki
 	<m1><p>m.</p> <i><trn>addition to one’s grief</trn></i>.</m1>
-</entry>
-<entry word="harmsfullr">
+</word>
+<word>
+harmsfullr
 	<m1><p>a.</p> <i><trn>sorrowful, distressed</trn></i>.</m1>
-</entry>
-<entry word="harmsléttir">
+</word>
+<word>
+harmsléttir
 	<m1><p>m.</p> <i><trn>relief</trn></i>.</m1>
-</entry>
-<entry word="harmsök">
+</word>
+<word>
+harmsök
 	<m1><p>f.</p> <i><trn>cause of grief, sad case</trn></i>.</m1>
-</entry>
-<entry word="harmsöngr">
+</word>
+<word>
+harmsöngr
 	<m1><p>m.</p> <i><trn>dirge</trn></i>.</m1>
-</entry>
-<entry word="harmtíðindi">
+</word>
+<word>
+harmtíðindi
 	<m1><p>n.</p> <p>pl.</p> = harmsaga.</m1>
-</entry>
-<entry word="harmtölur">
+</word>
+<word>
+harmtölur
 	<m1><p>f.</p> <p>pl.</p> <i><trn>lamentations</trn></i>.</m1>
-</entry>
-<entry word="harmþrunginn">
+</word>
+<word>
+harmþrunginn
 	<m1><p>pp.</p> <i><trn>filled with grief</trn></i>.</m1>
-</entry>
-<entry word="harmþrútinn">
+</word>
+<word>
+harmþrútinn
 	<m1><p>a.</p> <i><trn>swollen with sorrow</trn></i>.</m1>
-</entry>
-<entry word="harneskja">
+</word>
+<word>
+harneskja
 	<m1><p>f.</p> <i><trn>harness, armour</trn></i>.</m1>
-</entry>
-<entry word="harpa">
+</word>
+<word>
+harpa
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>harp</trn></i> (leika, slá hörpu);</m2>
 	<m2>2) <i><trn>harp-seal</trn></i> (era hlums vant, kvað refr, dró hörpu at ísi).</m2>
-</entry>
-<entry word="hasla">
+</word>
+<word>
+hasla
 	<m1><b>I)</b></m1>
 	<m2>(<p>pl.</p> höslur), <p>f.</p> <i><trn>pole of hazel wood</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(að), <p>v.</p> <i><trn>to mark out by hazel-poles</trn></i>; ~ <p>e-m</p> völl, <i><trn>to challenge one to a pitched battle or duel</trn></i>.</m2>
-</entry>
-<entry word="hastarliga">
-	</entry>
-<entry word="snøggliga">
-	</entry>
-<entry word="váðveifliga">
-	</entry>
-<entry word="váveifliga">
+</word>
+<word>
+hastarliga
+</word>
+<word>
+snøggliga
+</word>
+<word>
+váðveifliga
+</word>
+<word>
+váveifliga
 	<m1><p>adv.</p> <i><trn>suddenly</trn></i>.</m1>
-</entry>
-<entry word="hastorðr">
+</word>
+<word>
+hastorðr
 	<m1><p>a.</p> <i><trn>harsh-spoken</trn></i>.</m1>
-</entry>
-<entry word="hata">
+</word>
+<word>
+hata
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to hate</trn></i> (~ <p>e-n</p>);</m2>
 	<m2>2) <i><trn>to damage, destroy</trn></i> (<p>poet.</p>);</m2>
 	<m2>3) <p>refl.</p>, hatast við <p>e-n</p>, <i><trn>to be full of hatred against one</trn></i>.</m2>
-</entry>
-<entry word="hatr">
+</word>
+<word>
+hatr
 	<m1><p>n.</p> <i><trn>hatred, enmity</trn></i>.</m1>
-</entry>
-<entry word="hatrliga">
+</word>
+<word>
+hatrliga
 	<m1><p>adv.</p> <i><trn>hatefully</trn></i>.</m1>
-</entry>
-<entry word="hatrligr">
+</word>
+<word>
+hatrligr
 	<m1><p>a.</p> <i><trn>hateful</trn></i>.</m1>
-</entry>
-<entry word="hatrsamligr">
-	</entry>
-<entry word="hatrsamr">
+</word>
+<word>
+hatrsamligr
+</word>
+<word>
+hatrsamr
 	<m1><p>a.</p> <i><trn>hateful hostile</trn></i> (hatrsamr <p>e-m</p>).</m1>
-</entry>
-<entry word="hatrsfullr">
+</word>
+<word>
+hatrsfullr
 	<m1><p>a.</p> <i><trn>hateful hostile</trn></i>.</m1>
-</entry>
-<entry word="hattar">
-	</entry>
-<entry word="hetti">
+</word>
+<word>
+hattar
+</word>
+<word>
+hetti
 	<m1>from <ref>höttr</ref>, <i><trn>hood</trn></i>.</m1>
-</entry>
-<entry word="hattr">
+</word>
+<word>
+hattr
 	<m1><p>m.</p> <i><trn>hat</trn></i>, = höttr.</m1>
-</entry>
-<entry word="hauðr">
+</word>
+<word>
+hauðr
 	<m1><p>n.</p> <p>poet.</p> <i><trn>earth</trn></i>.</m1>
-</entry>
-<entry word="haugaeldr">
+</word>
+<word>
+haugaeldr
 	<m1><p>m.</p> <i><trn>cairn fire</trn></i>.</m1>
-</entry>
-<entry word="haugaöld">
+</word>
+<word>
+haugaöld
 	<m1><p>f.</p> <i><trn>the age of cairn-burial</trn></i>, opp. to <ref>brunaöld</ref>, <i><trn>the age of burning the dead</trn></i>.</m1>
-</entry>
-<entry word="haugbrot">
+</word>
+<word>
+haugbrot
 	<m1><p>n.</p> <i><trn>breaking of a cairn</trn></i>.</m1>
-</entry>
-<entry word="haugbúi">
+</word>
+<word>
+haugbúi
 	<m1><p>m.</p> <i><trn>‘cairn-dweller’, ghost</trn></i>.</m1>
-</entry>
-<entry word="haugfœra">
+</word>
+<word>
+haugfœra
 	<m1>(-ða, -ðr), <p>v.</p> <i><trn>to bury in a cairn</trn></i>.</m1>
-</entry>
-<entry word="haugganga">
+</word>
+<word>
+haugganga
 	<m1><p>f.</p> <i><trn>the breaking into a cairn</trn></i>.</m1>
-</entry>
-<entry word="haugr">
+</word>
+<word>
+haugr
 	<m1>(-s, -ar), <p>m.</p></m1>
 	<m2>1) <i><trn>mound</trn></i>;</m2>
 	<m2>2) <i><trn>sepulchral mound, cairn</trn></i>.</m2>
-</entry>
-<entry word="haugsetja">
+</word>
+<word>
+haugsetja
 	<m1>(<com>see</com> <ref>setja</ref>), <p>v.</p> = <ref>haugfœra</ref>.</m1>
-</entry>
-<entry word="haugsgólf">
+</word>
+<word>
+haugsgólf
 	<m1><p>n.</p> <i><trn>floor of a cairn</trn></i>.</m1>
-</entry>
-<entry word="haugsgørð">
+</word>
+<word>
+haugsgørð
 	<m1><p>f.</p> <i><trn>cairn-making</trn></i>.</m1>
-</entry>
-<entry word="haugstaðr">
+</word>
+<word>
+haugstaðr
 	<m1><p>m.</p> <i><trn>heathen burial-place</trn></i>.</m1>
-</entry>
-<entry word="haugsöld">
+</word>
+<word>
+haugsöld
 	<m1><p>f.</p> = <ref>haugaöld</ref>.</m1>
-</entry>
-<entry word="haugtekinn">
+</word>
+<word>
+haugtekinn
 	<m1><p>pp.</p> <i><trn>taken from a cairn</trn></i>.</m1>
-</entry>
-<entry word="haukaveiðr">
+</word>
+<word>
+haukaveiðr
 	<m1><p>f.</p> <i><trn>hunting with hawks</trn></i>.</m1>
-</entry>
-<entry word="haukligr">
+</word>
+<word>
+haukligr
 	<m1><p>a.</p> <i><trn>hawk-like</trn></i> (of the eyes).</m1>
-</entry>
-<entry word="haukr">
+</word>
+<word>
+haukr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>hawk</trn></i>; fleygja hauki, <i><trn>to fly a hawk</trn></i>.</m1>
-</entry>
-<entry word="haukstaldr">
+</word>
+<word>
+haukstaldr
 	<m1><p>m.</p>, <p>poet.</p> <i><trn>man, hero</trn></i>.</m1>
-</entry>
-<entry word="hauldr">
+</word>
+<word>
+hauldr
 	<m1><com>see</com> <ref>höldr</ref>.</m1>
-</entry>
-<entry word="hauld-">
+</word>
+<word>
+hauld-
 	<m1><com>see</com> höld-.</m1>
-</entry>
-<entry word="haull">
+</word>
+<word>
+haull
 	<m1><p>m.</p> <i><trn>rupture, hernia</trn></i>.</m1>
-</entry>
-<entry word="hausakljúfr">
+</word>
+<word>
+hausakljúfr
 	<m1><p>m.</p> <i><trn>skull-cleaver</trn></i> (nickname).</m1>
-</entry>
-<entry word="hausamót">
+</word>
+<word>
+hausamót
 	<m1><p>n.</p> <p>pl.</p> <i><trn>sutures of the skull</trn></i>.</m1>
-</entry>
-<entry word="hausbrot">
+</word>
+<word>
+hausbrot
 	<m1><p>n.</p> <i><trn>skull-fracture</trn></i>.</m1>
-</entry>
-<entry word="hausfastr">
+</word>
+<word>
+hausfastr
 	<m1><p>a.</p> <i><trn>seated in the skull</trn></i>.</m1>
-</entry>
-<entry word="hausfilla">
+</word>
+<word>
+hausfilla
 	<m1><p>f.</p> <i><trn>the skin of the skull</trn></i>.</m1>
-</entry>
-<entry word="hauss">
+</word>
+<word>
+hauss
 	<m1>(<p>pl.</p> hausar), <p>m.</p> <i><trn>skull</trn></i>.</m1>
-</entry>
-<entry word="haust">
+</word>
+<word>
+haust
 	<m1><p>n.</p> <i><trn>harvest season, autumn</trn></i>.</m1>
-</entry>
-<entry word="hausta">
+</word>
+<word>
+hausta
 	<m1>(að), <p>v.</p> <i><trn>to draw near autumn</trn></i>.</m1>
-</entry>
-<entry word="haustblót">
+</word>
+<word>
+haustblót
 	<m1><p>n.</p> <i><trn>sacrificial feast in autumn</trn></i>.</m1>
-</entry>
-<entry word="haustboð">
+</word>
+<word>
+haustboð
 	<m1><p>n.</p> <i><trn>autumn feast</trn></i>.</m1>
-</entry>
-<entry word="haustdagr">
+</word>
+<word>
+haustdagr
 	<m1><p>m.</p> <i><trn>day in autumn</trn></i>; at <com>or</com> í haustdegi, <i><trn>in autumn</trn></i>.</m1>
-</entry>
-<entry word="haustgríma">
+</word>
+<word>
+haustgríma
 	<m1><p>f.</p> <i><trn>autumn night</trn></i>.</m1>
-</entry>
-<entry word="haustheimtur">
+</word>
+<word>
+haustheimtur
 	<m1><p>f.</p> <p>pl.</p> <i><trn>getting in sheep in autumn</trn></i>.</m1>
-</entry>
-<entry word="haustlangr">
+</word>
+<word>
+haustlangr
 	<m1><p>a.</p> <i><trn>lasting all the autumn</trn></i>.</m1>
-</entry>
-<entry word="haustmánaðr">
+</word>
+<word>
+haustmánaðr
 	<m1><p>m.</p> <i><trn>autumn month, September</trn></i>.</m1>
-</entry>
-<entry word="haustvíking">
+</word>
+<word>
+haustvíking
 	<m1><p>f.</p> <i><trn>free-booting expedition in autumn</trn></i>.</m1>
-</entry>
-<entry word="haustþing">
+</word>
+<word>
+haustþing
 	<m1><p>n.</p> <i><trn>autumn assembly</trn></i>.</m1>
-</entry>
-<entry word="haustöl">
+</word>
+<word>
+haustöl
 	<m1><p>n.</p> <i><trn>autumn (drinking) festival</trn></i>.</m1>
-</entry>
-<entry word="há">
+</word>
+<word>
+há
 	<m1><b>I)</b></m1>
 	<m2><p>interj.</p> <i><trn>eh! what do you say?</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> <i><trn>after-grass, after-math</trn></i>.</m2>
 	<m1><b>III)</b></m1>
 	<m2><p>f.</p> <i><trn>hide</trn></i> (hangir með hám).</m2>
-</entry>
-<entry word="háaltari">
+</word>
+<word>
+háaltari
 	<m1><p>m.</p> <i><trn>high altar</trn></i>.</m1>
-</entry>
-<entry word="hábeinn">
+</word>
+<word>
+hábeinn
 	<m1><p>a.</p> <i><trn>high-legged, long-legged</trn></i>.</m1>
-</entry>
-<entry word="hábjarg">
+</word>
+<word>
+hábjarg
 	<m1><p>n.</p> <i><trn>high rock</trn></i>.</m1>
-</entry>
-<entry word="hábogaðr">
+</word>
+<word>
+hábogaðr
 	<m1><p>a.</p> <i><trn>high-curved</trn></i> (of a saddle).</m1>
-</entry>
-<entry word="hábora">
+</word>
+<word>
+hábora
 	<m1>(að), <p>v.</p> <i><trn>to fit with rowlocks</trn></i>.</m1>
-</entry>
-<entry word="háborur">
-	</entry>
-<entry word="háreiðar">
+</word>
+<word>
+háborur
+</word>
+<word>
+háreiðar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>rowlocks</trn></i>.</m1>
-</entry>
-<entry word="hábrók">
+</word>
+<word>
+hábrók
 	<m1><p>f.</p> <i><trn>a kind of hawk</trn></i>.</m1>
-</entry>
-<entry word="hábrókast">
+</word>
+<word>
+hábrókast
 	<m1>(að), <p>v. refl.</p> <i><trn>to puff oneself up</trn></i>.</m1>
-</entry>
-<entry word="háð">
+</word>
+<word>
+háð
 	<m1><p>n.</p> <i><trn>scoffing, mocking</trn></i>.</m1>
-</entry>
-<entry word="hádegi">
-	</entry>
-<entry word="miðdegi">
+</word>
+<word>
+hádegi
+</word>
+<word>
+miðdegi
 	<m1><p>n.</p> <i><trn>midday, noon</trn></i>.</m1>
-</entry>
-<entry word="hádegisskeið">
-	</entry>
-<entry word="miðdegisskeið">
+</word>
+<word>
+hádegisskeið
+</word>
+<word>
+miðdegisskeið
 	<m1><p>n.</p> <i><trn>noon-tide</trn></i>.</m1>
-</entry>
-<entry word="háði">
-	</entry>
-<entry word="háið">
+</word>
+<word>
+háði
+</word>
+<word>
+háið
 	<m1>from <ref>heyja</ref>.</m1>
-</entry>
-<entry word="háðsamr">
+</word>
+<word>
+háðsamr
 	<m1><p>a.</p> <i><trn>scoffing</trn></i>.</m1>
-</entry>
-<entry word="háðsemi">
+</word>
+<word>
+háðsemi
 	<m1><p>f.</p> <i><trn>mockery</trn></i> (með hrópyrðum ok ~).</m1>
-</entry>
-<entry word="háðugr">
-	</entry>
-<entry word="skammsamligr">
+</word>
+<word>
+háðugr
+</word>
+<word>
+skammsamligr
 	<m1><p>a.</p> <i><trn>shameful, disgraceful</trn></i>.</m1>
-</entry>
-<entry word="háðuligr">
+</word>
+<word>
+háðuligr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>scornful, abusive</trn></i> (háðulig orð);</m2>
 	<m2>2) <i><trn>disgraceful</trn></i> (háðuligt verk).</m2>
-</entry>
-<entry word="háðung">
-	</entry>
-<entry word="hneyking">
+</word>
+<word>
+háðung
+</word>
+<word>
+hneyking
 	<m1><p>f.</p> <i><trn>shame, disgrace</trn></i>.</m1>
-</entry>
-<entry word="háðungarorð">
+</word>
+<word>
+háðungarorð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>scornful words</trn></i>.</m1>
-</entry>
-<entry word="háðyrði">
+</word>
+<word>
+háðyrði
 	<m1><p>n.</p> <p>pl.</p> = hæði-yrði.</m1>
-</entry>
-<entry word="háfjall">
+</word>
+<word>
+háfjall
 	<m1><p>n.</p> <i><trn>high mountain</trn></i>.</m1>
-</entry>
-<entry word="háfleygr">
+</word>
+<word>
+háfleygr
 	<m1><p>a.</p> <i><trn>high-flying</trn></i>.</m1>
-</entry>
-<entry word="háflœðr">
+</word>
+<word>
+háflœðr
 	<m1><p>f.</p> <i><trn>full flood, high flood-tide</trn></i>.</m1>
-</entry>
-<entry word="háfœttr">
+</word>
+<word>
+háfœttr
 	<m1><p>a.</p> <i><trn>high-legged</trn></i>.</m1>
-</entry>
-<entry word="hágómligr">
+</word>
+<word>
+hágómligr
 	<m1><p>a.</p> <i><trn>vain, false</trn></i>.</m1>
-</entry>
-<entry word="hála">
+</word>
+<word>
+hála
 	<m1><p>f.</p> <i><trn>giantess</trn></i>; hálu skær, <i><trn>wolf</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="háleikr">
+</word>
+<word>
+háleikr
 	<m1><p>m.</p> <i><trn>highness</trn></i>.</m1>
-</entry>
-<entry word="háleitligr">
+</word>
+<word>
+háleitligr
 	<m1><p>a.</p> <i><trn>sublime</trn></i>.</m1>
-</entry>
-<entry word="háleitr">
+</word>
+<word>
+háleitr
 	<m1><p>a.</p> <i><trn>looking upwards</trn></i>; fig. <i><trn>lofty, sublime</trn></i>.</m1>
-</entry>
-<entry word="hálfa">
+</word>
+<word>
+hálfa
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>region, part</trn></i> (veröldin var greind í þrjár hálfuir);</m2>
 	<m2>2) <i><trn>lineage, kin</trn></i> (frjálsborinn í allar hálfur);</m2>
 	<m2>3) af <p>e-s</p> hálfu, <i><trn>on one’s behalf</trn></i>; <i><trn>on one’s part</trn></i>; af guðs hálfu ok lands-laga, <i><trn>on behalf of God and the law of the land</trn></i>.</m2>
-</entry>
-<entry word="hálfbergrisi">
-	</entry>
-<entry word="hálfrisi">
+</word>
+<word>
+hálfbergrisi
+</word>
+<word>
+hálfrisi
 	<m1><p>m.</p> <i><trn>half a giant</trn></i>.</m1>
-</entry>
-<entry word="hálfdauðr">
+</word>
+<word>
+hálfdauðr
 	<m1><p>a.</p> <i><trn>half dead</trn></i>.</m1>
-</entry>
-<entry word="hálfermaðr">
+</word>
+<word>
+hálfermaðr
 	<m1><p>pp.</p> <i><trn>half-sleeved</trn></i>.</m1>
-</entry>
-<entry word="hálffífl">
+</word>
+<word>
+hálffífl
 	<m1><p>n.</p> <i><trn>half an idiot</trn></i>.</m1>
-</entry>
-<entry word="hálffullr">
+</word>
+<word>
+hálffullr
 	<m1><p>a.</p> <i><trn>half full</trn></i>.</m1>
-</entry>
-<entry word="hálfgörr">
+</word>
+<word>
+hálfgörr
 	<m1><p>a.</p> <i><trn>only half, done, left half undone</trn></i>.</m1>
-</entry>
-<entry word="hálfkirkja">
+</word>
+<word>
+hálfkirkja
 	<m1><p>f.</p> <i><trn>annex-church, chapel of ease</trn></i>.</m1>
-</entry>
-<entry word="hálflaunat">
+</word>
+<word>
+hálflaunat
 	<m1><p>pp.</p> <p>n.</p> <i><trn>half rewarded</trn></i>.</m1>
-</entry>
-<entry word="hálflitr">
+</word>
+<word>
+hálflitr
 	<m1><p>a.</p> <i><trn>of two colours, with a different colour on each side</trn></i>.</m1>
-</entry>
-<entry word="hálfljóst">
+</word>
+<word>
+hálfljóst
 	<m1><p>a.</p> <p>n.</p>, þá er ~ var, <i><trn>in the twilight</trn></i>.</m1>
-</entry>
-<entry word="hálfmörk">
+</word>
+<word>
+hálfmörk
 	<m1><p>f.</p> <i><trn>half a mark</trn></i>.</m1>
-</entry>
-<entry word="hálfnauðigr">
+</word>
+<word>
+hálfnauðigr
 	<m1><p>a.</p> <i><trn>half reluctant</trn></i>; hálfnið, <p>n.</p> <i><trn>half a lampoon</trn></i>.</m1>
-</entry>
-<entry word="hálfneytr">
+</word>
+<word>
+hálfneytr
 	<m1><p>a.</p> <i><trn>‘half-good’</trn></i>; þótti Birni eigi verr en hálfneytt, þó at, <i><trn>B. was out half-loath, though</trn></i>.</m1>
-</entry>
-<entry word="hálfr">
+</word>
+<word>
+hálfr
 	<m1><p>a.</p></m1>
-	<m2>1) <i><trn>half</trn></i>; ~ mánaðr, <i><trn>half a month, fortnight</trn></i>; til hálfs <i><trn>by a half</trn></i>; ~ annar, þriði, fjórði, , <i><trn>one, two, three and a half</trn></i>; hálft annat hundrað, <i><trn>one hundred and a half</trn></i>; ~ þriði tøgr manna, <i><trn>twenty-five men</trn></i>;</m2>
+	<m2>1) <i><trn>half</trn></i>; ~ mánaðr, <i><trn>half a month, fortnight</trn></i>; til hálfs <i><trn>by a half</trn></i>; ~ annar, þriði, fjórði, &c., <i><trn>one, two, three and a half</trn></i>; hálft annat hundrað, <i><trn>one hundred and a half</trn></i>; ~ þriði tøgr manna, <i><trn>twenty-five men</trn></i>;</m2>
 	<m2>2) <p>neut.</p> ‘hálfu’, <i><trn>by half</trn></i>, with a comparative in an intensive sense, <i><trn>much, far</trn></i>; hálfu verri, <i><trn>far worse</trn></i>; hálfu meira, <i><trn>far more</trn></i>; hálfu siðr, <i><trn>far less</trn></i>.</m2>
-</entry>
-<entry word="hálfróinn">
+</word>
+<word>
+hálfróinn
 	<m1><p>pp.</p> <i><trn>having rowed half the way</trn></i>.</m1>
-</entry>
-<entry word="hálfrými">
+</word>
+<word>
+hálfrými
 	<m1><p>n.</p> <i><trn>half a</trn></i> <ref>rúm</ref> <i><trn>in a ship</trn></i>.</m1>
-</entry>
-<entry word="hálfrýmisfélagar">
+</word>
+<word>
+hálfrýmisfélagar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>messmates in the same</trn></i> <ref>hálfrými</ref>.</m1>
-</entry>
-<entry word="hálfrýmiskista">
+</word>
+<word>
+hálfrýmiskista
 	<m1><p>f.</p> <i><trn>a chest belonging to a</trn></i> <ref>hálfrými</ref>.</m1>
-</entry>
-<entry word="hálfrøkvit">
+</word>
+<word>
+hálfrøkvit
 	<m1><p>a.</p> <p>n.</p> <i><trn>half twilight</trn></i>.</m1>
-</entry>
-<entry word="hálfskiptr">
+</word>
+<word>
+hálfskiptr
 	<m1><p>pp.</p> = hálflitr.</m1>
-</entry>
-<entry word="hálftroll">
+</word>
+<word>
+hálftroll
 	<m1><p>n.</p> <i><trn>half a giant</trn></i>.</m1>
-</entry>
-<entry word="hálftunna">
+</word>
+<word>
+hálftunna
 	<m1><p>f.</p> <i><trn>half a tun</trn></i>.</m1>
-</entry>
-<entry word="hálfunninn">
+</word>
+<word>
+hálfunninn
 	<m1><p>pp.</p> <i><trn>half done</trn></i>.</m1>
-</entry>
-<entry word="hálfvirði">
+</word>
+<word>
+hálfvirði
 	<m1><p>n.</p> <i><trn>half worth</trn></i>.</m1>
-</entry>
-<entry word="hálfþrítugr">
+</word>
+<word>
+hálfþrítugr
 	<m1><p>a.</p> <i><trn>aged twenty-five</trn></i>.</m1>
-</entry>
-<entry word="hálfþynna">
-	</entry>
-<entry word="taparøx">
+</word>
+<word>
+hálfþynna
+</word>
+<word>
+taparøx
 	<m1><p>f.</p> <i><trn>a kind of small axe</trn></i>.</m1>
-</entry>
-<entry word="hálfœrinn">
+</word>
+<word>
+hálfœrinn
 	<m1><p>a.</p> <i><trn>half sufficient</trn></i>.</m1>
-</entry>
-<entry word="hálfœrr">
+</word>
+<word>
+hálfœrr
 	<m1><p>a.</p> <i><trn>half mad</trn></i> (hann var ~ af drykkju).</m1>
-</entry>
-<entry word="háll">
+</word>
+<word>
+háll
 	<m1><p>a.</p> <i><trn>slippery</trn></i> (var hált á ísinum).</m1>
-</entry>
-<entry word="hálleikr">
+</word>
+<word>
+hálleikr
 	<m1><p>m.</p> <i><trn>slipperiness</trn></i>.</m1>
-</entry>
-<entry word="hálmr">
+</word>
+<word>
+hálmr
 	<m1>(<p>gen.</p> -s), <p>m.</p> <i><trn>straw, haulm</trn></i> (þeir lögðust þar niðr í hálm).</m1>
-</entry>
-<entry word="hálmstrá">
+</word>
+<word>
+hálmstrá
 	<m1><p>n.</p> <i><trn>haulm-straw</trn></i>.</m1>
-</entry>
-<entry word="hálmvisk">
+</word>
+<word>
+hálmvisk
 	<m1><p>n.</p> <i><trn>wisp of straw</trn></i>.</m1>
-</entry>
-<entry word="hálmþúst">
-	</entry>
-<entry word="þúst">
+</word>
+<word>
+hálmþúst
+</word>
+<word>
+þúst
 	<m1><p>n.</p> <i><trn>flail</trn></i>.</m1>
-</entry>
-<entry word="háls">
+</word>
+<word>
+háls
 	<m1>(<p>gen.</p> háls, <p>pl.</p> hálsar), <p>m.</p></m1>
 	<m2>1) <i><trn>neck</trn></i>; taka höndum um ~ <p>e-m</p>, <i><trn>to embrace one</trn></i>; beygja ~ fyrir <p>e-m</p>, <i><trn>to bend the neck to one</trn></i>; liggja <p>e-m</p> á hálsi fyrir <p>e-t</p>, <i><trn>to reprove, blame one for</trn></i>; standa á hálsi <p>e-m</p> <i><trn>to put the foot on one’s neck</trn></i>;</m2>
 	<m2>2) <i><trn>bow of a ship or boat</trn></i> (Hýmir reri í hálsinum fram);</m2>
@@ -1868,96 +2390,126 @@ Herði
 	<m2>5) <i><trn>the tip of a bow</trn></i> (hann dregr svá bogann, at saman þótti bera hálsana);</m2>
 	<m2>6) <i><trn>ridge, hill</trn></i>;</m2>
 	<m2>7) <p>pl.</p>, góðir hálsar, <i><trn>good men! fine fellows!</trn></i>.</m2>
-</entry>
-<entry word="hálsa">
+</word>
+<word>
+hálsa
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to embrace</trn></i>;</m2>
 	<m2>2) ~ segl, <i><trn>to clew up the sail</trn></i>.</m2>
-</entry>
-<entry word="hálsbein">
-	</entry>
-<entry word="hálsbeina">
-	</entry>
-<entry word="hnakkabein">
+</word>
+<word>
+hálsbein
+</word>
+<word>
+hálsbeina
+</word>
+<word>
+hnakkabein
 	<m1><p>n.</p> <i><trn>neck-bone</trn></i>.</m1>
-</entry>
-<entry word="hálsbjörg">
+</word>
+<word>
+hálsbjörg
 	<m1><p>f.</p> <i><trn>gorget</trn></i>.</m1>
-</entry>
-<entry word="hálsbók">
+</word>
+<word>
+hálsbók
 	<m1><p>f.</p> <i><trn>a book to be hung from the neck</trn></i>.</m1>
-</entry>
-<entry word="hálsbrotna">
+</word>
+<word>
+hálsbrotna
 	<m1>(að), <p>v.</p> <i><trn>to break one’s neck</trn></i>.</m1>
-</entry>
-<entry word="hálsbrún">
+</word>
+<word>
+hálsbrún
 	<m1><p>f.</p> <i><trn>edge of a hill</trn></i>.</m1>
-</entry>
-<entry word="hálsdigr">
+</word>
+<word>
+hálsdigr
 	<m1><p>a.</p> <i><trn>thick-necked</trn></i>.</m1>
-</entry>
-<entry word="hálsgjörð">
+</word>
+<word>
+hálsgjörð
 	<m1><p>f.</p> <i><trn>necklace</trn></i>.</m1>
-</entry>
-<entry word="hálshögg">
+</word>
+<word>
+hálshögg
 	<m1><p>n.</p> <i><trn>stroke on the neck</trn></i>.</m1>
-</entry>
-<entry word="hálshöggva">
+</word>
+<word>
+hálshöggva
 	<m1>(<com>see</com> <ref>höggva</ref>), <p>v.</p> <i><trn>to behead</trn></i>.</m1>
-</entry>
-<entry word="hálsjárn">
+</word>
+<word>
+hálsjárn
 	<m1><p>n.</p> <i><trn>neck-iron, iron collar</trn></i>.</m1>
-</entry>
-<entry word="hálslangr">
-	</entry>
-<entry word="langhálsaðr">
+</word>
+<word>
+hálslangr
+</word>
+<word>
+langhálsaðr
 	<m1><p>a.</p> <i><trn>long-necked</trn></i>.</m1>
-</entry>
-<entry word="hálsliðr">
+</word>
+<word>
+hálsliðr
 	<m1><p>m.</p> <i><trn>neck-joint</trn></i>.</m1>
-</entry>
-<entry word="hálsljósta">
+</word>
+<word>
+hálsljósta
 	<m1>(<com>see</com> <ref>ljósta</ref>), <p>v.</p> <i><trn>to strike one on the neck</trn></i>.</m1>
-</entry>
-<entry word="hálsmen">
+</word>
+<word>
+hálsmen
 	<m1><p>n.</p> <i><trn>necklace</trn></i>.</m1>
-</entry>
-<entry word="hálssár">
+</word>
+<word>
+hálssár
 	<m1><p>n.</p> <i><trn>neck wound</trn></i>.</m1>
-</entry>
-<entry word="hálsslag">
+</word>
+<word>
+hálsslag
 	<m1><p>n.</p> = hálshögg.</m1>
-</entry>
-<entry word="hálsstefni">
+</word>
+<word>
+hálsstefni
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>throat</trn></i>;</m2>
 	<m2>2) <i><trn>part of a ship</trn></i>.</m2>
-</entry>
-<entry word="hálæti">
+</word>
+<word>
+hálæti
 	<m1><p>n.</p> <i><trn>shouting, noise</trn></i>.</m1>
-</entry>
-<entry word="hámessa">
+</word>
+<word>
+hámessa
 	<m1><p>f.</p> <i><trn>high-mass</trn></i>.</m1>
-</entry>
-<entry word="hámót">
+</word>
+<word>
+hámót
 	<m1><p>n.</p> <i><trn>ankle-joint</trn></i>; only in the phrase, fara í há-mót (<com>or</com> ~it) eptir <p>e-m</p>, <i><trn>to follow one closely, sneak along behind one</trn></i>.</m1>
-</entry>
-<entry word="hámælgi">
+</word>
+<word>
+hámælgi
 	<m1><p>f.</p> <i><trn>loud talking</trn></i>.</m1>
-</entry>
-<entry word="hámæli">
+</word>
+<word>
+hámæli
 	<m1><p>n.</p>, fœra (bera) <p>e-t</p> í ~, <i><trn>to speak loud of</trn></i>.</m1>
-</entry>
-<entry word="hámæltr">
+</word>
+<word>
+hámæltr
 	<m1><p>pp.</p> <i><trn>loud-voiced</trn></i>.</m1>
-</entry>
-<entry word="hánefjaðr">
+</word>
+<word>
+hánefjaðr
 	<m1><p>a.</p> <i><trn>high-nosed</trn></i>.</m1>
-</entry>
-<entry word="hápallr">
+</word>
+<word>
+hápallr
 	<m1><p>m.</p> <i><trn>dais</trn></i> (in a hall).</m1>
-</entry>
-<entry word="hár">
+</word>
+<word>
+hár
 	<m1><b>I)</b></m1>
 	<m2>(há, hátt), <p>a.</p></m2>
 	<m3>1) <i><trn>high</trn></i>; á háfum fjöllum, <i><trn>in high mountains</trn></i>; hæri en, <i><trn>higher than</trn></i>;</m3>
@@ -1971,206 +2523,274 @@ Herði
 	<m2><p>n.</p> <i><trn>hair</trn></i> (jarpr á ~).</m2>
 	<m1><b>IV)</b></m1>
 	<m2><p>m.</p> <i><trn>dog-fish</trn></i>.</m2>
-</entry>
-<entry word="háramr">
+</word>
+<word>
+háramr
 	<m1>(= hár-hamr), <p>m.</p> <i><trn>the hairy side of a skin</trn></i>.</m1>
-</entry>
-<entry word="háreysti">
+</word>
+<word>
+háreysti
 	<m1><p>n.</p> and <p>f.</p> <i><trn>noise, clamour</trn></i>.</m1>
-</entry>
-<entry word="háreystr">
+</word>
+<word>
+háreystr
 	<m1><p>a.</p> <i><trn>noisy, loud-voiced</trn></i>.</m1>
-</entry>
-<entry word="hárferð">
+</word>
+<word>
+hárferð
 	<m1><p>f.</p> <i><trn>fashion of the hair</trn></i>.</m1>
-</entry>
-<entry word="hárhvass">
+</word>
+<word>
+hárhvass
 	<m1><p>a.</p> <i><trn>hair-edged</trn></i>.</m1>
-</entry>
-<entry word="hárklæði">
+</word>
+<word>
+hárklæði
 	<m1><p>n.</p> <i><trn>hair cloth</trn></i>.</m1>
-</entry>
-<entry word="hárknifr">
+</word>
+<word>
+hárknifr
 	<m1><p>m.</p> <i><trn>razor</trn></i>.</m1>
-</entry>
-<entry word="hárlaug">
+</word>
+<word>
+hárlaug
 	<m1><p>f.</p> <i><trn>washing the hair</trn></i>.</m1>
-</entry>
-<entry word="hárleppr">
+</word>
+<word>
+hárleppr
 	<m1><p>m.</p> <i><trn>lock of hair</trn></i>.</m1>
-</entry>
-<entry word="hárr">
+</word>
+<word>
+hárr
 	<m1><p>a.</p> <i><trn>hoary, grey-haired</trn></i>.</m1>
-</entry>
-<entry word="hárrœtr">
+</word>
+<word>
+hárrœtr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>roots of the hair</trn></i>.</m1>
-</entry>
-<entry word="hárskurðr">
+</word>
+<word>
+hárskurðr
 	<m1><p>m.</p> <i><trn>cut of the hair</trn></i>.</m1>
-</entry>
-<entry word="hárslitr">
+</word>
+<word>
+hárslitr
 	<m1><p>m.</p> <i><trn>color of the hair</trn></i>.</m1>
-</entry>
-<entry word="hártaug">
+</word>
+<word>
+hártaug
 	<m1><p>f.</p> <i><trn>string of horse-hair</trn></i>.</m1>
-</entry>
-<entry word="hárvara">
+</word>
+<word>
+hárvara
 	<m1><p>f.</p> <i><trn>fur</trn></i>.</m1>
-</entry>
-<entry word="hárvöxtr">
+</word>
+<word>
+hárvöxtr
 	<m1><p>m.</p> <i><trn>hair-growth</trn></i>.</m1>
-</entry>
-<entry word="hásegl">
+</word>
+<word>
+hásegl
 	<m1><p>n.</p> <i><trn>top-sail</trn></i>.</m1>
-</entry>
-<entry word="háseti">
+</word>
+<word>
+háseti
 	<m1><p>m.</p> <i><trn>oarsman</trn></i>, opp. to <ref>stýrimaðr</ref> <i><trn>(helmsman)</trn></i>.</m1>
-</entry>
-<entry word="háseymdr">
+</word>
+<word>
+háseymdr
 	<m1><p>pp.</p> <i><trn>studded with large nails</trn></i> (beizl háseymt).</m1>
-</entry>
-<entry word="hásin">
+</word>
+<word>
+hásin
 	<m1><p>f.</p> <i><trn>Achilles’ tendon</trn></i>.</m1>
-</entry>
-<entry word="háskaferð">
-	</entry>
-<entry word="háskaför">
+</word>
+<word>
+háskaferð
+</word>
+<word>
+háskaför
 	<m1><p>f.</p> <i><trn>dangerous journey</trn></i> (exploit).</m1>
-</entry>
-<entry word="háskalauss">
+</word>
+<word>
+háskalauss
 	<m1><p>a.</p> <i><trn>free from danger</trn></i>.</m1>
-</entry>
-<entry word="háskaligr">
+</word>
+<word>
+háskaligr
 	<m1><p>a.</p> <i><trn>dangerous</trn></i>.</m1>
-</entry>
-<entry word="háskasamliga">
-	</entry>
-<entry word="hættliga">
+</word>
+<word>
+háskasamliga
+</word>
+<word>
+hættliga
 	<m1><p>adv.</p> <i><trn>dangerously</trn></i>.</m1>
-</entry>
-<entry word="háskasamligr">
-	</entry>
-<entry word="háskasamr">
-	</entry>
-<entry word="váðvænligr">
+</word>
+<word>
+háskasamligr
+</word>
+<word>
+háskasamr
+</word>
+<word>
+váðvænligr
 	<m1><p>a.</p> <i><trn>perilous</trn></i>.</m1>
-</entry>
-<entry word="háskatimi">
+</word>
+<word>
+háskatimi
 	<m1><p>m.</p> <i><trn>time of danger</trn></i>.</m1>
-</entry>
-<entry word="háskavað">
+</word>
+<word>
+háskavað
 	<m1><p>n.</p> <i><trn>dangerous ford</trn></i>.</m1>
-</entry>
-<entry word="háskaván">
+</word>
+<word>
+háskaván
 	<m1><p>f.</p> <i><trn>danger to come</trn></i>.</m1>
-</entry>
-<entry word="háskeptr">
+</word>
+<word>
+háskeptr
 	<m1><p>a.</p> <i><trn>long-handled, long-shafted</trn></i> (háskept øx, spjót).</m1>
-</entry>
-<entry word="háski">
+</word>
+<word>
+háski
 	<m1><p>m.</p> <i><trn>danger, peril</trn></i>.</m1>
-</entry>
-<entry word="hásmæltr">
+</word>
+<word>
+hásmæltr
 	<m1><p>a.</p> <i><trn>hoarse-speaking</trn></i>.</m1>
-</entry>
-<entry word="háss">
+</word>
+<word>
+háss
 	<m1><p>a.</p> <i><trn>hoarse</trn></i>.</m1>
-</entry>
-<entry word="hástaðr">
+</word>
+<word>
+hástaðr
 	<m1><p>m.</p> <i><trn>high (important) place</trn></i>.</m1>
-</entry>
-<entry word="hástafir">
+</word>
+<word>
+hástafir
 	<m1><p>m.</p> <p>pl.</p>, in the phrase, gráta (œpa) hástöfum, <i><trn>to weep (shout) loudly</trn></i>.</m1>
-</entry>
-<entry word="hásteint">
+</word>
+<word>
+hásteint
 	<m1><p>a.</p> <p>n.</p> <i><trn>full of high boulders</trn></i> (var ~ í ánni).</m1>
-</entry>
-<entry word="hástóll">
+</word>
+<word>
+hástóll
 	<m1><p>m.</p> <i><trn>high-seat</trn></i>.</m1>
-</entry>
-<entry word="hásumar">
+</word>
+<word>
+hásumar
 	<m1><p>n.</p> <i><trn>midsummer</trn></i>.</m1>
-</entry>
-<entry word="hásæti">
+</word>
+<word>
+hásæti
 	<m1><p>n.</p> <i><trn>high-seat, seat of honour</trn></i> (= <ref>öndvegi</ref>).</m1>
-</entry>
-<entry word="hásætisborð">
+</word>
+<word>
+hásætisborð
 	<m1><p>n.</p> <i><trn>high-seat table</trn></i>.</m1>
-</entry>
-<entry word="hásætiskista">
+</word>
+<word>
+hásætiskista
 	<m1><p>f.</p> <i><trn>a chest near the high-seat</trn></i>.</m1>
-</entry>
-<entry word="hásætismaðr">
+</word>
+<word>
+hásætismaðr
 	<m1><p>m.</p> <i><trn>the man in the high-seat</trn></i>.</m1>
-</entry>
-<entry word="hátalaðr">
+</word>
+<word>
+hátalaðr
 	<m1><p>a.</p> <i><trn>loud-voiced</trn></i>.</m1>
-</entry>
-<entry word="hátimbra">
+</word>
+<word>
+hátimbra
 	<m1>(að), <p>v.</p> <i><trn>to build high</trn></i>.</m1>
-</entry>
-<entry word="hátíð">
+</word>
+<word>
+hátíð
 	<m1><p>f.</p> <i><trn>festival, feast</trn></i> (halda ~).</m1>
-</entry>
-<entry word="hátíðaraptann">
+</word>
+<word>
+hátíðaraptann
 	<m1><p>m.</p> <i><trn>eve of a feast</trn></i>.</m1>
-</entry>
-<entry word="hátíðardagr">
+</word>
+<word>
+hátíðardagr
 	<m1><p>m.</p> <i><trn>festal day, holiday</trn></i>.</m1>
-</entry>
-<entry word="hátíðarhald">
+</word>
+<word>
+hátíðarhald
 	<m1><p>n.</p> <i><trn>holding a feast</trn></i>.</m1>
-</entry>
-<entry word="hátíðisdagr">
+</word>
+<word>
+hátíðisdagr
 	<m1><p>m.</p> = hátíðardagr.</m1>
-</entry>
-<entry word="hátíðliga">
+</word>
+<word>
+hátíðliga
 	<m1><p>adv.</p> <i><trn>with festivity</trn></i>.</m1>
-</entry>
-<entry word="hátíðligr">
+</word>
+<word>
+hátíðligr
 	<m1><p>a.</p> <i><trn>festive, festal</trn></i>.</m1>
-</entry>
-<entry word="hátt">
-	</entry>
-<entry word="hæri">
-	</entry>
-<entry word="hæstr">
+</word>
+<word>
+hátt
+</word>
+<word>
+hæri
+</word>
+<word>
+hæstr
 	<m1>from <ref>hár</ref>, <i><trn>high</trn></i>.</m1>
-</entry>
-<entry word="hátta">
+</word>
+<word>
+hátta
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to arrange, dispose</trn></i>, with <p>dat.</p>; ~ sér, <i><trn>to conduct oneself</trn></i>; <p>impers.</p>, ~r svá, at hann kom, <i><trn>he happened to come</trn></i>;</m2>
 	<m2>2) <i><trn>to go to bed</trn></i>.</m2>
-</entry>
-<entry word="háttabrigði">
+</word>
+<word>
+háttabrigði
 	<m1><p>n.</p> <i><trn>change of manners</trn></i>.</m1>
-</entry>
-<entry word="háttaðr">
+</word>
+<word>
+háttaðr
 	<m1><p>pp.</p> <i><trn>fashioned, conditioned</trn></i> (hvernig var jörðin háttuð?); <p>e-u</p> er svá háttat, <i><trn>it is so made or conditioned of that nature or kind</trn></i>; yðr frændum er svá háttat, <i><trn>you kinsmen are of that stamp</trn></i>.</m1>
-</entry>
-<entry word="háttagóðr">
+</word>
+<word>
+háttagóðr
 	<m1><p>a.</p> <i><trn>well-mannered, well. behaved</trn></i>.</m1>
-</entry>
-<entry word="háttalykill">
+</word>
+<word>
+háttalykill
 	<m1><p>m.</p> <i><trn>key to metres</trn></i>.</m1>
-</entry>
-<entry word="háttaskipti">
+</word>
+<word>
+háttaskipti
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>change of manners</trn></i>;</m2>
 	<m2>2) <i><trn>shifting of metre</trn></i>.</m2>
-</entry>
-<entry word="háttatal">
+</word>
+<word>
+háttatal
 	<m1><p>n.</p> <i><trn>enumeration of metres</trn></i>.</m1>
-</entry>
-<entry word="háttprúðr">
-	</entry>
-<entry word="hœverskr">
+</word>
+<word>
+háttprúðr
+</word>
+<word>
+hœverskr
 	<m1><p>a.</p> <i><trn>well-mannered, polite</trn></i>.</m1>
-</entry>
-<entry word="háttprýði">
+</word>
+<word>
+háttprýði
 	<m1><p>f.</p> <i><trn>good manners</trn></i>.</m1>
-</entry>
-<entry word="háttr">
+</word>
+<word>
+háttr
 	<m1>(<p>gen.</p> háttar, <p>dat.</p> hætti; <p>pl.</p> hættir, <p>acc.</p> háttu), <p>m.</p></m1>
 	<m2>1) <i><trn>mode of life, habit, custom</trn></i> (rikra manna ~); halda teknum hætti, <i><trn>to go on in one’s usual way</trn></i>;</m2>
 	<m2>2) <p>pl.</p> <i><trn>conduct, behaviour</trn></i> (vanda um háttu manna); fara vel með sínum háttum, <i><trn>to conduct oneself well</trn></i>; ráða sjálfr sínum háttum; <i><trn>one’s own master</trn></i>; halda háttum við aðra menn, <i><trn>to conduct oneself properly</trn></i>;</m2>
@@ -2178,71 +2798,92 @@ Herði
 	<m2>4) mikils háttar, <i><trn>of importance</trn></i>; lítils háttar, <i><trn>insignificant</trn></i>; þess háttar, <i><trn>of that kind</trn></i>; alls háttar, <i><trn>of every kind</trn></i>; á allan hátt, <i><trn>in every respect</trn></i>;</m2>
 	<m2>5) <i><trn>moderation, measure</trn></i>; eptir hætti, <i><trn>duly, properly</trn></i>;</m2>
 	<m2>6) <i><trn>metre</trn></i>.</m2>
-</entry>
-<entry word="háttung">
-	</entry>
-<entry word="hætting">
+</word>
+<word>
+háttung
+</word>
+<word>
+hætting
 	<m1><p>f.</p> <i><trn>danger, risk</trn></i>.</m1>
-</entry>
-<entry word="hátún">
+</word>
+<word>
+hátún
 	<m1><p>n.</p> <i><trn>high place</trn></i>.</m1>
-</entry>
-<entry word="hávaðamaðr">
+</word>
+<word>
+hávaðamaðr
 	<m1><p>m.</p> <i><trn>a noisy, self-assertive man</trn></i>.</m1>
-</entry>
-<entry word="hávaðamikill">
+</word>
+<word>
+hávaðamikill
 	<m1><p>a.</p> <i><trn>boastful, self-assertive</trn></i>.</m1>
-</entry>
-<entry word="hávaðasamr">
+</word>
+<word>
+hávaðasamr
 	<m1><p>a.</p> <i><trn>boisterous</trn></i>.</m1>
-</entry>
-<entry word="hávaði">
+</word>
+<word>
+hávaði
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>noise, tumult</trn></i>; kveða <p>e-t</p> upp, segja <p>e-t</p>, í hávaða, <i><trn>to proclaim loudly</trn></i>;</m2>
 	<m2>2) <i><trn>loud self-assertion</trn></i>;</m2>
 	<m2>3) = hávaða-maðr.</m2>
-</entry>
-<entry word="hávetr">
+</word>
+<word>
+hávetr
 	<m1><p>m.</p> <i><trn>midwinter</trn></i> (þegar ~i var liðit).</m1>
-</entry>
-<entry word="hávetri">
+</word>
+<word>
+hávetri
 	<m1><p>n.</p> <i><trn>midwinter</trn></i> (þegar ~ var liðit).</m1>
-</entry>
-<entry word="heðan">
+</word>
+<word>
+heðan
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>hence, from this place</trn></i>;</m2>
 	<m2>2) fyrir ~ hafit, <i><trn>on the hither side of the sea</trn></i>;</m2>
 	<m2>3) <i><trn>henceforth</trn></i>; ~ í frá, <i><trn>hereafter</trn></i>.</m2>
-</entry>
-<entry word="heðinn">
+</word>
+<word>
+heðinn
 	<m1>(<p>dat.</p> heðni), <p>m.</p> <i><trn>jacket of fur or skin</trn></i>; vefja (<com>or</com> veifa) heðni at höfði <p>e-m</p>, <i><trn>to wrap a skin round one’s head, to hoodwink one</trn></i>.</m1>
-</entry>
-<entry word="heðra">
+</word>
+<word>
+heðra
 	<m1><p>adv.</p> <i><trn>here, hither</trn></i>.</m1>
-</entry>
-<entry word="hefð">
+</word>
+<word>
+hefð
 	<m1><p>f.</p> <i><trn>prescriptive right</trn></i> (með réttri ok löglegri hefð).</m1>
-</entry>
-<entry word="hefða">
+</word>
+<word>
+hefða
 	<m1>(að), <p>v.</p> <i><trn>to acquire a prescriptive right to</trn></i> (~ sér <p>e-t</p>).</m1>
-</entry>
-<entry word="hefðarmaðr">
+</word>
+<word>
+hefðarmaðr
 	<m1><p>m.</p> <i><trn>possessor, holder</trn></i>.</m1>
-</entry>
-<entry word="hefði">
-	</entry>
-<entry word="hefi">
-	</entry>
-<entry word="höfð">
+</word>
+<word>
+hefði
+</word>
+<word>
+hefi
+</word>
+<word>
+höfð
 	<m1>from <ref>hafa</ref>.</m1>
-</entry>
-<entry word="hefill">
+</word>
+<word>
+hefill
 	<m1>(<p>pl.</p> heflar), <p>m.</p> <i><trn>a noose fastened to the edge of a sail to help in furling it</trn></i>; láta siga (<com>or</com> hleypa segli) ór heflum, <i><trn>to unfurl the sail</trn></i>.</m1>
-</entry>
-<entry word="hefilskapt">
+</word>
+<word>
+hefilskapt
 	<m1><p>n.</p> <i><trn>a boat-hook to pull the sail down</trn></i>.</m1>
-</entry>
-<entry word="hefja">
+</word>
+<word>
+hefja
 	<m1>(hef; hóf, hófum; hafiðr and hafinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to heave, raise, lift</trn></i> (~ stein);</m2>
 	<m3>hann hóf upp augu sin, <i><trn>he lifted up his eyes</trn></i>;</m3>
@@ -2279,11 +2920,13 @@ Herði
 	<m3><p>refl.</p>, ~st upp, <i><trn>to begin</trn></i> (hér ~st upp landnám);</m3>
 	<m3>~st upp til ófriðar (með ófriði), <i><trn>to begin warfare</trn></i>;</m3>
 	<m3>láta ~st við, <i><trn>to lay to</trn></i> (naut.).</m3>
-</entry>
-<entry word="hefla">
+</word>
+<word>
+hefla
 	<m1>(að), <p>v.</p> <i><trn>to furl the sail</trn></i>.</m1>
-</entry>
-<entry word="hefna">
+</word>
+<word>
+hefna
 	<m1>(-da, -dr), <p>v.</p> <i><trn>to avenge, take vengeance</trn></i>;</m1>
 	<m2>with the thing and the person in <p>gen.</p>,</m2>
 	<m3>~ sára, <i><trn>to avenge the wounds</trn></i>,</m3>
@@ -2300,140 +2943,184 @@ Herði
 	<m3>~st á <p>e-m</p>, <i><trn>to avenge oneself on a person</trn></i>;</m3>
 	<m3><p>e-m</p> hefnist <p>e-t</p>, <i><trn>one has to pay (suffer) for</trn></i>;</m3>
 	<m3>~st mun honum vist, <i><trn>the day of retribution will assuredly come to him</trn></i>.</m3>
-</entry>
-<entry word="hefnd">
+</word>
+<word>
+hefnd
 	<m1><p>f.</p> <i><trn>revenge, vengeance</trn></i>.</m1>
-</entry>
-<entry word="hefndalaust">
+</word>
+<word>
+hefndalaust
 	<m1><p>adv.</p> <i><trn>without retribution or revenge</trn></i>.</m1>
-</entry>
-<entry word="hefndardagr">
+</word>
+<word>
+hefndardagr
 	<m1><p>m.</p> <i><trn>day of vengeance</trn></i>.</m1>
-</entry>
-<entry word="hefndarmaðr">
+</word>
+<word>
+hefndarmaðr
 	<m1><p>m.</p> <i><trn>avenger</trn></i>.</m1>
-</entry>
-<entry word="hefnileið">
+</word>
+<word>
+hefnileið
 	<m1><p>f.</p> <i><trn>‘way to vengeance’</trn></i>; róa á ~, <i><trn>to set about taking vengeance</trn></i>.</m1>
-</entry>
-<entry word="hefnileit">
+</word>
+<word>
+hefnileit
 	<m1><p>f.</p> <i><trn>seeking for vengeance</trn></i>; róa á ~ <p>e-s</p>, <i><trn>to seek vengeance for</trn></i>.</m1>
-</entry>
-<entry word="hefnisamr">
+</word>
+<word>
+hefnisamr
 	<m1><p>a.</p> <i><trn>revengeful</trn></i>.</m1>
-</entry>
-<entry word="hegat">
+</word>
+<word>
+hegat
 	<m1><p>adv.</p> = hingat, higat.</m1>
-</entry>
-<entry word="hegða">
+</word>
+<word>
+hegða
 	<m1>(að), <p>v.</p> <i><trn>to arrange</trn></i> (~ <p>e-u</p>).</m1>
-</entry>
-<entry word="hegðan">
+</word>
+<word>
+hegðan
 	<m1><p>f.</p> <i><trn>conduct, behaviour</trn></i>.</m1>
-</entry>
-<entry word="hégeitill">
+</word>
+<word>
+hégeitill
 	<m1><p>m.</p> <i><trn>flint</trn></i>.</m1>
-</entry>
-<entry word="heggr">
+</word>
+<word>
+heggr
 	<m1>(<p>pl.</p> -ir), <p>m.</p> <i><trn>bird cherry</trn></i>.</m1>
-</entry>
-<entry word="hegla">
+</word>
+<word>
+hegla
 	<m1>(-di, -t), <p>v.</p> <i><trn>to hail</trn></i>.</m1>
-</entry>
-<entry word="hegna">
+</word>
+<word>
+hegna
 	<m1>(-da, -dr), <p>v.</p></m1>
 	<m2>1) <i><trn>to hedge, protect</trn></i>;</m2>
 	<m2>2) <i><trn>to punish, chastise</trn></i> (~ ránsmenn, úsiðu).</m2>
-</entry>
-<entry word="hegnari">
+</word>
+<word>
+hegnari
 	<m1><p>m.</p> <i><trn>chastiser</trn></i>.</m1>
-</entry>
-<entry word="hegnd">
-	</entry>
-<entry word="hegning">
+</word>
+<word>
+hegnd
+</word>
+<word>
+hegning
 	<m1><p>f.</p> <i><trn>punishment, chastisement</trn></i>.</m1>
-</entry>
-<entry word="hégóma">
+</word>
+<word>
+hégóma
 	<m1>(að), <p>v.</p> <i><trn>to speak falsely</trn></i>; ~ á <p>e-n</p>, <i><trn>to slander one</trn></i>.</m1>
-</entry>
-<entry word="hégómadýrð">
+</word>
+<word>
+hégómadýrð
 	<m1><p>f.</p> <i><trn>vain-glory</trn></i>.</m1>
-</entry>
-<entry word="hégómafullr">
+</word>
+<word>
+hégómafullr
 	<m1><p>a.</p> <i><trn>vain, vain-glorious</trn></i>.</m1>
-</entry>
-<entry word="hégómamaðr">
+</word>
+<word>
+hégómamaðr
 	<m1><p>m.</p> <i><trn>charlatan, quack</trn></i>.</m1>
-</entry>
-<entry word="hégómamál">
+</word>
+<word>
+hégómamál
 	<m1><p>n.</p> <i><trn>vain speech</trn></i>; gøra orð <p>e-s</p> at ~i, <i><trn>to disregard one’s words</trn></i>.</m1>
-</entry>
-<entry word="hégómanafn">
+</word>
+<word>
+hégómanafn
 	<m1><p>n.</p> <i><trn>empty name, sham name</trn></i>.</m1>
-</entry>
-<entry word="hégómi">
+</word>
+<word>
+hégómi
 	<m1><p>m.</p> <i><trn>falsehood, jolly nonsense</trn></i>; segja hégóm á <p>e-n</p>, <i><trn>to slander one</trn></i>.</m1>
-</entry>
-<entry word="hegri">
+</word>
+<word>
+hegri
 	<m1><p>m.</p> <i><trn>heron</trn></i>.</m1>
-</entry>
-<entry word="heið">
+</word>
+<word>
+heið
 	<m1><p>n.</p> <i><trn>bright (clear) sly</trn></i> (veðr var bjart ok skein sól í heiði).</m1>
-</entry>
-<entry word="heiðarbrúin">
+</word>
+<word>
+heiðarbrúin
 	<m1><p>f.</p> <i><trn>edge of a heath</trn></i>.</m1>
-</entry>
-<entry word="heiðarlauss">
+</word>
+<word>
+heiðarlauss
 	<m1><p>a.</p> <i><trn>ignominious dishonourable</trn></i>.</m1>
-</entry>
-<entry word="heiðarliga">
+</word>
+<word>
+heiðarliga
 	<m1><p>adv.</p> <i><trn>honourably</trn></i>.</m1>
-</entry>
-<entry word="heiðarligr">
-	</entry>
-<entry word="virðingarvænligr">
-	</entry>
-<entry word="virðingarvænn">
-	</entry>
-<entry word="æaruligr">
+</word>
+<word>
+heiðarligr
+</word>
+<word>
+virðingarvænligr
+</word>
+<word>
+virðingarvænn
+</word>
+<word>
+æaruligr
 	<m1><p>a.</p> <i><trn>honourable</trn></i>.</m1>
-</entry>
-<entry word="heiðarvegr">
+</word>
+<word>
+heiðarvegr
 	<m1><p>m.</p> <i><trn>road across a heath</trn></i>.</m1>
-</entry>
-<entry word="heiðbjartr">
+</word>
+<word>
+heiðbjartr
 	<m1><p>a.</p> <i><trn>serene</trn></i> (veðr heiðbjart).</m1>
-</entry>
-<entry word="heiðfé">
+</word>
+<word>
+heiðfé
 	<m1><p>n.</p> <i><trn>fee, stipend</trn></i>.</m1>
-</entry>
-<entry word="heiðindómr">
+</word>
+<word>
+heiðindómr
 	<m1><p>m.</p> <i><trn>heathendom</trn></i>.</m1>
-</entry>
-<entry word="heiðingi">
+</word>
+<word>
+heiðingi
 	<m1>(<p>pl.</p> -jar), <p>m.</p></m1>
 	<m2>1) <i><trn>heathen, gentile</trn></i>;</m2>
 	<m2>2) <i><trn>wolf</trn></i> (<p>poet.</p>).</m2>
-</entry>
-<entry word="heiðingligr">
+</word>
+<word>
+heiðingligr
 	<m1><p>a.</p> <i><trn>heathen</trn></i>.</m1>
-</entry>
-<entry word="heiðinn">
+</word>
+<word>
+heiðinn
 	<m1><p>a.</p> <i><trn>heathen, pagan</trn></i>; heiðnir menn, <i><trn>heathens</trn></i>.</m1>
-</entry>
-<entry word="heiðmaðr">
+</word>
+<word>
+heiðmaðr
 	<m1><p>m.</p> = <ref>málamaðr</ref>.</m1>
-</entry>
-<entry word="heiðnast">
+</word>
+<word>
+heiðnast
 	<m1>(að), <p>v. refl.</p> <i><trn>to become heathen</trn></i>.</m1>
-</entry>
-<entry word="heiðni">
+</word>
+<word>
+heiðni
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>heathenism</trn></i>;</m2>
 	<m2>2) <i><trn>heathen. country</trn></i> (= heiðit land);</m2>
 	<m2>3) <i><trn>the heathen age, the time of heathendom</trn></i>.</m2>
-</entry>
-<entry word="heiðr">
+</word>
+<word>
+heiðr
 	<m1><b>I)</b></m1>
 	<m2><p>a.</p> <i><trn>bright, clear, cloudless</trn></i>; ~ himinn, <i><trn>clear sky</trn></i>; heiðar stjörnur, <i><trn>bright stars</trn></i>.</m2>
 	<m1><b>II)</b></m1>
@@ -2442,90 +3129,118 @@ Herði
 	<m2>(<p>gen.</p> ~s), <p>m.</p> <i><trn>honour</trn></i>.</m2>
 	<m1><b>IV)</b></m1>
 	<m2>(<p>gen.</p> -ar), <p>m.</p> <i><trn>honour, worth</trn></i>.</m2>
-</entry>
-<entry word="heiðra">
+</word>
+<word>
+heiðra
 	<m1>(að), <p>v.</p> <i><trn>to honour</trn></i>.</m1>
-</entry>
-<entry word="heiðríkr">
+</word>
+<word>
+heiðríkr
 	<m1><p>a.</p> <i><trn>cloudless, serene</trn></i>.</m1>
-</entry>
-<entry word="heiðrsmaðr">
+</word>
+<word>
+heiðrsmaðr
 	<m1><p>m.</p> <i><trn>man of honour</trn></i>.</m1>
-</entry>
-<entry word="heiðskírr">
+</word>
+<word>
+heiðskírr
 	<m1><p>a.</p> <i><trn>bright, cloudless</trn></i> (heiðskírt veðr).</m1>
-</entry>
-<entry word="heiðvanr">
+</word>
+<word>
+heiðvanr
 	<m1><p>a.</p> <i><trn>accustomed to the clear sky</trn></i>.</m1>
-</entry>
-<entry word="heiðviðri">
+</word>
+<word>
+heiðviðri
 	<m1><p>n.</p> <i><trn>bright weather</trn></i>.</m1>
-</entry>
-<entry word="heiðvirðr">
+</word>
+<word>
+heiðvirðr
 	<m1><p>a.</p> <i><trn>honest, honourable</trn></i>.</m1>
-</entry>
-<entry word="heilabust">
+</word>
+<word>
+heilabust
 	<m1><p>f.</p> <i><trn>crown of the head</trn></i>.</m1>
-</entry>
-<entry word="heilagleikr">
+</word>
+<word>
+heilagleikr
 	<m1><p>m.</p> <i><trn>holiness</trn></i>.</m1>
-</entry>
-<entry word="heilagliga">
+</word>
+<word>
+heilagliga
 	<m1><p>adv.</p> <i><trn>holy</trn></i>.</m1>
-</entry>
-<entry word="heilagligr">
+</word>
+<word>
+heilagligr
 	<m1><p>a.</p> <i><trn>holy</trn></i>.</m1>
-</entry>
-<entry word="heilagr">
-	<m1>(<p>acc.</p> helgan (heilagan), <p>pl.</p> helgir (heilagir), ), <p>a.</p></m1>
+</word>
+<word>
+heilagr
+	<m1>(<p>acc.</p> helgan (heilagan), <p>pl.</p> helgir (heilagir), &c.), <p>a.</p></m1>
 	<m2>1) <i><trn>holy</trn></i>;</m2>
 	<m2>2) <i><trn>inviolable, sacred</trn></i>.</m2>
-</entry>
-<entry word="heilan">
+</word>
+<word>
+heilan
 	<m1><p>f.</p> <i><trn>healing</trn></i>.</m1>
-</entry>
-<entry word="heilbrigði">
+</word>
+<word>
+heilbrigði
 	<m1><p>f.</p> <i><trn>health</trn></i>.</m1>
-</entry>
-<entry word="heilbrigðr">
+</word>
+<word>
+heilbrigðr
 	<m1><p>a.</p> <i><trn>hale, healthy</trn></i>.</m1>
-</entry>
-<entry word="heilendi">
-	</entry>
-<entry word="heilindi">
+</word>
+<word>
+heilendi
+</word>
+<word>
+heilindi
 	<m1><p>n.</p> <i><trn>good health</trn></i>.</m1>
-</entry>
-<entry word="heileygr">
+</word>
+<word>
+heileygr
 	<m1><p>a.</p> <i><trn>‘hale-eyed’, having sound eyes</trn></i>.</m1>
-</entry>
-<entry word="heilfœttr">
+</word>
+<word>
+heilfœttr
 	<m1><p>a.</p> <i><trn>‘hale-legged’</trn></i>.</m1>
-</entry>
-<entry word="heilhugaðliga">
+</word>
+<word>
+heilhugaðliga
 	<m1><p>adv.</p> <i><trn>sincerely</trn></i>, = af heilum huga.</m1>
-</entry>
-<entry word="heilhugaðr">
+</word>
+<word>
+heilhugaðr
 	<m1><p>a.</p> <i><trn>‘whole-minded’, sincere</trn></i>.</m1>
-</entry>
-<entry word="heilhugafriðr">
+</word>
+<word>
+heilhugafriðr
 	<m1><p>m.</p> <i><trn>sincere peace</trn></i>.</m1>
-</entry>
-<entry word="heilhugaráð">
+</word>
+<word>
+heilhugaráð
 	<m1><p>n.</p> <i><trn>sincere purpose</trn></i>.</m1>
-</entry>
-<entry word="heilhugi">
+</word>
+<word>
+heilhugi
 	<m1><p>m.</p> <i><trn>sincere person</trn></i>.</m1>
-</entry>
-<entry word="heilhugliga">
+</word>
+<word>
+heilhugliga
 	<m1><p>adv.</p> <i><trn>sincerely</trn></i>.</m1>
-</entry>
-<entry word="heili">
+</word>
+<word>
+heili
 	<m1><p>m.</p> <i><trn>brain</trn></i>, = hjarni.</m1>
-</entry>
-<entry word="heilivátgr">
+</word>
+<word>
+heilivátgr
 	<m1><p>m.</p> <i><trn>healing liquor, balm</trn></i>.</m1>
-</entry>
-<entry word="heill">
+</word>
+<word>
+heill
 	<m1><b>I)</b></m1>
 	<m2><p>a.</p></m2>
 	<m3>1) <i><trn>hale, sound</trn></i>; illa ~, <i><trn>in ill health</trn></i>; hann sagði at þar var vel heilt, <i><trn>he said they were all well there</trn></i>; kona eigi heil, <i><trn>enceinte</trn></i>; grœða <p>e-n</p> at heilu, <i><trn>to heal one fully</trn></i>;</m3>
@@ -2535,57 +3250,75 @@ Herði
 	<m3>5) <i><trn>true, upright</trn></i>; ráða <p>e-m</p> heilt, <i><trn>to give one a wholesome (good) advice</trn></i>; af heilum hug, af heilu, <i><trn>sincerely</trn></i>; heilt ráð, <i><trn>wholesome advice</trn></i>; heil kenning, <i><trn>a useful, profitable lesson</trn></i>.</m3>
 	<m1><b>II)</b></m1>
 	<m2><p>n.</p> and <p>f.</p> <i><trn>luck, omen, foreboding</trn></i>; góðu (illu) ~i, <i><trn>in a good (evil) hour</trn></i>; mörg eru giptusamlig ~, <i><trn>there are many good auspices</trn></i>; fall er farar ~, <i><trn>a fall is a good omen</trn></i>; hann bað þeim ~ duga, <i><trn>he wished them good speed</trn></i>; ~um horfinn, <i><trn>forsaken by luck</trn></i>; ok var brugðit ~um sverðsins, <i><trn>the spell of the sword was broken</trn></i>.</m2>
-</entry>
-<entry word="heilla">
+</word>
+<word>
+heilla
 	<m1>(að), <p>v.</p> <i><trn>to enchant, spell-bind, bewitch</trn></i>; heilluð ertu <i><trn>(thou art infatuated)</trn></i>, ef þú ætlar, <i><trn>etc</trn></i>.</m1>
-</entry>
-<entry word="heillabrigð">
+</word>
+<word>
+heillabrigð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>turn of luck</trn></i>.</m1>
-</entry>
-<entry word="heilladrjúkgr">
+</word>
+<word>
+heilladrjúkgr
 	<m1><p>a.</p> <i><trn>fortunate, happy</trn></i>.</m1>
-</entry>
-<entry word="heillaleysi">
+</word>
+<word>
+heillaleysi
 	<m1><p>n.</p> <i><trn>ill-luck</trn></i>.</m1>
-</entry>
-<entry word="heillaráð">
+</word>
+<word>
+heillaráð
 	<m1><p>n.</p> <i><trn>good advice, wholesome counsel</trn></i>.</m1>
-</entry>
-<entry word="heillavænligr">
-	</entry>
-<entry word="mannvænligr">
-	</entry>
-<entry word="mannvænn">
+</word>
+<word>
+heillavænligr
+</word>
+<word>
+mannvænligr
+</word>
+<word>
+mannvænn
 	<m1><p>a.</p> <i><trn>hopeful, promising</trn></i>.</m1>
-</entry>
-<entry word="heillavænn">
+</word>
+<word>
+heillavænn
 	<m1><p>a.</p> <i><trn>boding good luck, promising well</trn></i>.</m1>
-</entry>
-<entry word="heilleikr">
+</word>
+<word>
+heilleikr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>health</trn></i>;</m2>
 	<m2>2) <i><trn>sincerity, uprightness</trn></i>.</m2>
-</entry>
-<entry word="heilliga">
+</word>
+<word>
+heilliga
 	<m1><p>adv.</p> <i><trn>fairly, candidly</trn></i>.</m1>
-</entry>
-<entry word="heilligr">
-	</entry>
-<entry word="jafnaðarsamr">
+</word>
+<word>
+heilligr
+</word>
+<word>
+jafnaðarsamr
 	<m1><p>a.</p> <i><trn>fair</trn></i>.</m1>
-</entry>
-<entry word="heilnæmligr">
-	</entry>
-<entry word="þrifsamligr">
+</word>
+<word>
+heilnæmligr
+</word>
+<word>
+þrifsamligr
 	<m1><p>a.</p> <i><trn>wholesome</trn></i>.</m1>
-</entry>
-<entry word="heilráðr">
+</word>
+<word>
+heilráðr
 	<m1><p>a.</p> <i><trn>giving wholesome counsel</trn></i>; <i><trn>taking wholesome counsel</trn></i>.</m1>
-</entry>
-<entry word="heilræði">
+</word>
+<word>
+heilræði
 	<m1><p>n.</p> <i><trn>wise (wholesome) counsel</trn></i>.</m1>
-</entry>
-<entry word="heilsa">
+</word>
+<word>
+heilsa
 	<m1><b>I)</b></m1>
 	<m2>(að), <p>v.</p> <i><trn>to say hail to one, greet one</trn></i> (= biðja <p>e-n</p> heilan vera), with <p>dat.</p>;</m2>
 	<m3>~ á <p>e-n</p> = ~ <p>e-m</p>.</m3>
@@ -2594,320 +3327,421 @@ Herði
 	<m3>1) <i><trn>health</trn></i>;</m3>
 	<m3>2) <i><trn>restoration to health</trn></i> (hann var feginn heilsu sinni);</m3>
 	<m3>3) <i><trn>salvation</trn></i>.</m3>
-</entry>
-<entry word="heilsamligr">
-	</entry>
-<entry word="heilsamr">
-	</entry>
-<entry word="heilsusamligr">
-	</entry>
-<entry word="heilsusamr">
+</word>
+<word>
+heilsamligr
+</word>
+<word>
+heilsamr
+</word>
+<word>
+heilsusamligr
+</word>
+<word>
+heilsusamr
 	<m1><p>a.</p> <i><trn>wholesome, salutary</trn></i>.</m1>
-</entry>
-<entry word="heilsan">
+</word>
+<word>
+heilsan
 	<m1><p>f.</p> <i><trn>salutation, greeting</trn></i>.</m1>
-</entry>
-<entry word="heilsmíðliga">
+</word>
+<word>
+heilsmíðliga
 	<m1><p>adv.</p> <i><trn>uprightly, fairly, properly</trn></i>.</m1>
-</entry>
-<entry word="heilsubót">
+</word>
+<word>
+heilsubót
 	<m1><p>f.</p> <i><trn>improvement of health, recovery</trn></i>.</m1>
-</entry>
-<entry word="heilsubragð">
+</word>
+<word>
+heilsubragð
 	<m1><p>n.</p> <i><trn>cure</trn></i>.</m1>
-</entry>
-<entry word="heilsudrykkr">
+</word>
+<word>
+heilsudrykkr
 	<m1><p>m.</p> <i><trn>healing draught</trn></i>.</m1>
-</entry>
-<entry word="heilsufar">
+</word>
+<word>
+heilsufar
 	<m1><p>n.</p> <i><trn>state of health</trn></i>.</m1>
-</entry>
-<entry word="heilsugjöf">
+</word>
+<word>
+heilsugjöf
 	<m1><p>f.</p> <i><trn>cure, restoration to health</trn></i>.</m1>
-</entry>
-<entry word="heilsulauss">
+</word>
+<word>
+heilsulauss
 	<m1><p>a.</p> <i><trn>in bad health</trn></i>.</m1>
-</entry>
-<entry word="heilsulitíll">
+</word>
+<word>
+heilsulitíll
 	<m1><p>a.</p> <i><trn>in weak health</trn></i>.</m1>
-</entry>
-<entry word="heilsuráð">
+</word>
+<word>
+heilsuráð
 	<m1><p>n.</p> <i><trn>means to recover one’s health</trn></i>.</m1>
-</entry>
-<entry word="heilund">
+</word>
+<word>
+heilund
 	<m1><p>f.</p> <i><trn>brain wound</trn></i>.</m1>
-</entry>
-<entry word="heilundarsár">
+</word>
+<word>
+heilundarsár
 	<m1><p>n.</p> = <ref>heilund</ref>.</m1>
-</entry>
-<entry word="heilvita">
+</word>
+<word>
+heilvita
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>‘hale-witted’, of sound mind, sane</trn></i>.</m1>
-</entry>
-<entry word="heilög">
-	</entry>
-<entry word="helgari">
+</word>
+<word>
+heilög
+</word>
+<word>
+helgari
 	<m1>from <ref>heilagr</ref>, <i><trn>holy</trn></i>.</m1>
-</entry>
-<entry word="heim">
+</word>
+<word>
+heim
 	<m1><p>adv.</p> <i><trn>home, homewards</trn></i>; sœkja <p>e-n</p> ~, <i><trn>to visit one</trn></i>; <i><trn>to attack one</trn></i>.</m1>
-</entry>
-<entry word="heima">
+</word>
+<word>
+heima
 	<m1><b>I)</b></m1>
 	<m2><p>n.</p> <i><trn>home</trn></i> (ganga til sins ~); at ~ mínu, <i><trn>at my house</trn></i>; eiga ~, <i><trn>to have one’s home, to live</trn></i> (Hallfreðr átti ~ at Haukagili).</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>adv.</p> <i><trn>at home, at, or in, one’s own house</trn></i> (halr er ~ hverr); sitja ~, <i><trn>to remain at home</trn></i>.</m2>
-</entry>
-<entry word="heimaból">
+</word>
+<word>
+heimaból
 	<m1><p>n.</p> <i><trn>homestead, manor</trn></i>.</m1>
-</entry>
-<entry word="heimabóndi">
+</word>
+<word>
+heimabóndi
 	<m1><p>m.</p> <i><trn>franklin or yeoman in a</trn></i> <ref>heimaból</ref>.</m1>
-</entry>
-<entry word="heimabrunnr">
+</word>
+<word>
+heimabrunnr
 	<m1><p>m.</p> <i><trn>home-well</trn></i>.</m1>
-</entry>
-<entry word="heimadyrr">
+</word>
+<word>
+heimadyrr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>entrance to a dwelling-house</trn></i>.</m1>
-</entry>
-<entry word="heimaelskr">
+</word>
+<word>
+heimaelskr
 	<m1><p>a.</p> <i><trn>fond of staying at home</trn></i>.</m1>
-</entry>
-<entry word="heimafólk">
+</word>
+<word>
+heimafólk
 	<m1><p>n.</p> <i><trn>home folk, household</trn></i>.</m1>
-</entry>
-<entry word="heimagriðungr">
+</word>
+<word>
+heimagriðungr
 	<m1><p>m.</p> <i><trn>a bull kept at home</trn></i>.</m1>
-</entry>
-<entry word="heimahús">
+</word>
+<word>
+heimahús
 	<m1><p>n.</p> <i><trn>dwelling-houses</trn></i>.</m1>
-</entry>
-<entry word="heimakona">
+</word>
+<word>
+heimakona
 	<m1><p>f.</p> <i><trn>house-maid</trn></i>.</m1>
-</entry>
-<entry word="heimaland">
+</word>
+<word>
+heimaland
 	<m1><p>n.</p> <i><trn>home estate</trn></i>.</m1>
-</entry>
-<entry word="heimalíð">
+</word>
+<word>
+heimalíð
 	<m1><p>n.</p> = <ref>heimafólk</ref>.</m1>
-</entry>
-<entry word="heimamaðr">
+</word>
+<word>
+heimamaðr
 	<m1><p>m.</p> <i><trn>one of the household, a servant</trn></i> (= <ref>griðmaðr</ref>).</m1>
-</entry>
-<entry word="heiman">
+</word>
+<word>
+heiman
 	<m1><p>adv.</p> <i><trn>from home</trn></i>; in some phrases the reference is to the marriage and dowry of women.</m1>
-</entry>
-<entry word="heimanbúnaðr">
+</word>
+<word>
+heimanbúnaðr
 	<m1><p>m.</p> <i><trn>preparation for a journey from home</trn></i>.</m1>
-</entry>
-<entry word="heimanferð">
+</word>
+<word>
+heimanferð
 	<m1><p>f.</p> <i><trn>journey (voyage) from home</trn></i>.</m1>
-</entry>
-<entry word="heimanfylgja">
+</word>
+<word>
+heimanfylgja
 	<m1><p>f.</p> <i><trn>the dowry which the bride takes with her from home</trn></i>.</m1>
-</entry>
-<entry word="heimanför">
+</word>
+<word>
+heimanför
 	<m1><p>f.</p> = <ref>heimanferð</ref>.</m1>
-</entry>
-<entry word="heimanförull">
+</word>
+<word>
+heimanförull
 	<m1><p>a.</p> <i><trn>strolling from home</trn></i>.</m1>
-</entry>
-<entry word="heimangengt">
+</word>
+<word>
+heimangengt
 	<m1><p>a.</p> <p>n.</p>, in the phrase, eiga lítt ~, <i><trn>to have no time or opportunity to leave home</trn></i>.</m1>
-</entry>
-<entry word="heimaprestr">
+</word>
+<word>
+heimaprestr
 	<m1><p>m.</p> <i><trn>resident priest, parson</trn></i>.</m1>
-</entry>
-<entry word="heimaseta">
+</word>
+<word>
+heimaseta
 	<m1><p>f.</p> <i><trn>sitting at home</trn></i>.</m1>
-</entry>
-<entry word="heimasveit">
+</word>
+<word>
+heimasveit
 	<m1><p>f.</p> = <ref>heimafólk</ref>.</m1>
-</entry>
-<entry word="heimataða">
+</word>
+<word>
+heimataða
 	<m1><p>f.</p> <i><trn>the hay from the home-field</trn></i>.</m1>
-</entry>
-<entry word="heimavist">
+</word>
+<word>
+heimavist
 	<m1><p>f.</p> <i><trn>staying at home</trn></i>.</m1>
-</entry>
-<entry word="heimboð">
+</word>
+<word>
+heimboð
 	<m1><p>n.</p> <i><trn>invitation, feast</trn></i>.</m1>
-</entry>
-<entry word="heimdragi">
+</word>
+<word>
+heimdragi
 	<m1><p>m.</p> <i><trn>a stay-at-home</trn></i>; hleypa heimdraganum, <i><trn>to see the world</trn></i>.</m1>
-</entry>
-<entry word="heimfararlefi">
-	</entry>
-<entry word="heimferðarleyfi">
+</word>
+<word>
+heimfararlefi
+</word>
+<word>
+heimferðarleyfi
 	<m1><p>n.</p> = heimleyfi.</m1>
-</entry>
-<entry word="heimferð">
+</word>
+<word>
+heimferð
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>going home, return home</trn></i>;</m2>
 	<m2>2) <i><trn>inroad into one’s home</trn></i>, atför, heimsókn.</m2>
-</entry>
-<entry word="heimfúss">
+</word>
+<word>
+heimfúss
 	<m1><p>a.</p> <i><trn>longing for home</trn></i>.</m1>
-</entry>
-<entry word="heimför">
+</word>
+<word>
+heimför
 	<m1><p>f.</p> = heimferð.</m1>
-</entry>
-<entry word="heimganga">
+</word>
+<word>
+heimganga
 	<m1><p>f.</p> <i><trn>going home</trn></i>.</m1>
-</entry>
-<entry word="heimhamr">
+</word>
+<word>
+heimhamr
 	<m1><p>m.</p> <i><trn>one’s own skin</trn></i>.</m1>
-</entry>
-<entry word="heimila">
+</word>
+<word>
+heimila
 	<m1>(að), <p>v.</p> <i><trn>to give a title or right to a thing</trn></i> (~ði jarl þeim þat er þurfti at hafa).</m1>
-</entry>
-<entry word="heimild">
+</word>
+<word>
+heimild
 	<m1><p>f.</p> <i><trn>title, right</trn></i>.</m1>
-</entry>
-<entry word="heimildarmaðr">
+</word>
+<word>
+heimildarmaðr
 	<m1><p>m.</p> <i><trn>a man from whom a title is derived</trn></i>.</m1>
-</entry>
-<entry word="heimildartak">
+</word>
+<word>
+heimildartak
 	<m1><p>n.</p> <i><trn>taking proper possession or title</trn></i> (~ á skóginum).</m1>
-</entry>
-<entry word="heimildavandr">
+</word>
+<word>
+heimildavandr
 	<m1><p>a.</p> <i><trn>fastidious in regard to title</trn></i>.</m1>
-</entry>
-<entry word="heimili">
+</word>
+<word>
+heimili
 	<m1><p>n.</p> <i><trn>house, home, homestead</trn></i> (eiga ~ <p>e-s</p> staðar).</m1>
-</entry>
-<entry word="heimilisfang">
-	</entry>
-<entry word="vistafar">
+</word>
+<word>
+heimilisfang
+</word>
+<word>
+vistafar
 	<m1><p>n.</p> <i><trn>domicile</trn></i>.</m1>
-</entry>
-<entry word="heimilisfastr">
+</word>
+<word>
+heimilisfastr
 	<m1><p>a.</p> <i><trn>having a fixed homestead</trn></i>.</m1>
-</entry>
-<entry word="heimilishús">
+</word>
+<word>
+heimilishús
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>closet</trn></i>;</m2>
 	<m2>2) <i><trn>privy</trn></i>.</m2>
-</entry>
-<entry word="heimiliskviðr">
+</word>
+<word>
+heimiliskviðr
 	<m1><p>m.</p> <i><trn>home-verdict</trn></i>.</m1>
-</entry>
-<entry word="heimilisprestr">
+</word>
+<word>
+heimilisprestr
 	<m1><p>m.</p> <i><trn>chaplain</trn></i>.</m1>
-</entry>
-<entry word="heimilissök">
+</word>
+<word>
+heimilissök
 	<m1><p>f.</p> <i><trn>a charge that can be brought home to one</trn></i>.</m1>
-</entry>
-<entry word="heimilisvist">
+</word>
+<word>
+heimilisvist
 	<m1><p>f.</p> <i><trn>permanent habitation</trn></i>; vera ~um með <p>e-m</p>, <i><trn>to reside with one</trn></i>.</m1>
-</entry>
-<entry word="heimill">
+</word>
+<word>
+heimill
 	<m1><p>a.</p>, <p>e-m</p> er <p>e-t</p> heimilt, <i><trn>one has a right to, is free to have a thing</trn></i>; ~ er maðr þeim, er hafa þurfu, <i><trn>the food is free to those who need it</trn></i>; kvað honum heimilan sinn styrk, <i><trn>his help should be at his disposal</trn></i>; segir, at þat var skylt ok heimilt, <i><trn>due and just</trn></i>; eiga heimilt (at gera <p>e-t</p>), eiga <p>e-t</p> heimilt, <i><trn>to have a right (to do a thing), to have at one’s disposal</trn></i>; láta <p>e-m</p> <p>e-t</p> heimilt, <i><trn>to give one a right to, to place at one’s disposal</trn></i> (lét Þ. honum heimilan hest sinn).</m1>
-</entry>
-<entry word="heimisgarðr">
+</word>
+<word>
+heimisgarðr
 	<m1><p>m.</p> <i><trn>homestead</trn></i>.</m1>
-</entry>
-<entry word="heimishaugr">
+</word>
+<word>
+heimishaugr
 	<m1><p>m.</p> <i><trn>‘homestead-cairn’</trn></i>.</m1>
-</entry>
-<entry word="heimiskviðr">
+</word>
+<word>
+heimiskviðr
 	<m1><p>m.</p> = heimiliskviðr.</m1>
-</entry>
-<entry word="heimkváma">
+</word>
+<word>
+heimkváma
 	<m1><p>f.</p> <i><trn>return home</trn></i>.</m1>
-</entry>
-<entry word="heimkynni">
+</word>
+<word>
+heimkynni
 	<m1><p>n.</p> <i><trn>home, household</trn></i>.</m1>
-</entry>
-<entry word="heimleiðis">
+</word>
+<word>
+heimleiðis
 	<m1><p>adv.</p> <i><trn>homewards</trn></i> (fara ~).</m1>
-</entry>
-<entry word="heimleyfi">
+</word>
+<word>
+heimleyfi
 	<m1><p>n.</p> <i><trn>leave to go home</trn></i>.</m1>
-</entry>
-<entry word="heimligr">
+</word>
+<word>
+heimligr
 	<m1><p>a.</p> <i><trn>worldly</trn></i>.</m1>
-</entry>
-<entry word="heimoll">
+</word>
+<word>
+heimoll
 	<m1><p>a.</p> = <ref>heimill</ref>.</m1>
-</entry>
-<entry word="heimolleikr">
+</word>
+<word>
+heimolleikr
 	<m1><p>m.</p> <i><trn>intimacy</trn></i>.</m1>
-</entry>
-<entry word="heimolliga">
+</word>
+<word>
+heimolliga
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>with full right to possession</trn></i>;</m2>
 	<m2>2) <i><trn>privately</trn></i> (fá <p>e-m</p> <p>e-t</p> ~).</m2>
-</entry>
-<entry word="heimolligr">
+</word>
+<word>
+heimolligr
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>intimate</trn></i>;</m2>
 	<m2>2) <i><trn>private</trn></i> (~ klerkr).</m2>
-</entry>
-<entry word="heimr">
+</word>
+<word>
+heimr
 	<m1>(-s, -ar), <p>m.</p></m1>
 	<m2>1) <i><trn>a place of abode, a region or world</trn></i> (níu man ek heima); spyrja <p>e-n</p> í hvern heim, <i><trn>to ask one freely</trn></i>;</m2>
 	<m2>2) <i><trn>this world</trn></i> (segðu mér ór heimi, ek man ór helju); koma í heiminn, <i><trn>to be born</trn></i>; fara af heiminum, <i><trn>to depart this life</trn></i>; liggja milli heims ok heljar, <i><trn>to lie between life and death</trn></i>;</m2>
 	<m2>3) <i><trn>the earth</trn></i>; kringla heimsins, <i><trn>the globe</trn></i>.</m2>
-</entry>
-<entry word="heimreið">
+</word>
+<word>
+heimreið
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>ride home</trn></i>;</m2>
 	<m2>2) <i><trn>inroad, attack</trn></i>.</m2>
-</entry>
-<entry word="heimsaldr">
+</word>
+<word>
+heimsaldr
 	<m1><p>m.</p> <i><trn>age of the world</trn></i>.</m1>
-</entry>
-<entry word="heimsálfa">
+</word>
+<word>
+heimsálfa
 	<m1><p>f.</p> <i><trn>quarter (part) of the world</trn></i>.</m1>
-</entry>
-<entry word="heimsbrestr">
+</word>
+<word>
+heimsbrestr
 	<m1><p>m.</p> <i><trn>crash of the world</trn></i>.</m1>
-</entry>
-<entry word="heimsbygð">
+</word>
+<word>
+heimsbygð
 	<m1><p>f.</p> <i><trn>the peopled world</trn></i>.</m1>
-</entry>
-<entry word="heimska">
+</word>
+<word>
+heimska
 	<m1><p>f.</p> <i><trn>folly, nonsense</trn></i>.</m1>
-</entry>
-<entry word="heimskliga">
+</word>
+<word>
+heimskliga
 	<m1><p>adv.</p> <i><trn>foolishly</trn></i>; láta ~, <i><trn>to play the fool</trn></i>.</m1>
-</entry>
-<entry word="heimskligr">
+</word>
+<word>
+heimskligr
 	<m1><p>a.</p> <i><trn>foolish, silly</trn></i> (heimsklig orð).</m1>
-</entry>
-<entry word="heimskr">
+</word>
+<word>
+heimskr
 	<m1><p>a.</p> <i><trn>foolish, silly</trn></i>; verðr opt heitum ~ maðr feginn, <i><trn>fair words often make a fool s heart rejoice</trn></i>.</m1>
-</entry>
-<entry word="heimskuverk">
+</word>
+<word>
+heimskuverk
 	<m1><p>n.</p> <i><trn>foolish deed</trn></i>.</m1>
-</entry>
-<entry word="heimsliga">
+</word>
+<word>
+heimsliga
 	<m1><p>adv.</p> = heimskliga.</m1>
-</entry>
-<entry word="heimsókn">
+</word>
+<word>
+heimsókn
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>visit</trn></i>;</m2>
 	<m2>2) <i><trn>inroad, attack on one’s home</trn></i> (veita <p>e-m</p> ~).</m2>
-</entry>
-<entry word="heimsslit">
+</word>
+<word>
+heimsslit
 	<m1><p>n.</p> <p>pl.</p> <i><trn>the end of the world</trn></i>.</m1>
-</entry>
-<entry word="heimssól">
+</word>
+<word>
+heimssól
 	<m1><p>f.</p> <i><trn>the sun</trn></i>; undir heims-sólu, <i><trn>on earth</trn></i>.</m1>
-</entry>
-<entry word="heimstöð">
+</word>
+<word>
+heimstöð
 	<m1><p>f.</p> <i><trn>homestead</trn></i>.</m1>
-</entry>
-<entry word="heimsvist">
+</word>
+<word>
+heimsvist
 	<m1><p>f.</p> <i><trn>living, dwelling</trn></i>.</m1>
-</entry>
-<entry word="heimsþriðjungr">
+</word>
+<word>
+heimsþriðjungr
 	<m1><p>m.</p> = heimsálfa.</m1>
-</entry>
-<entry word="heimsœkja">
+</word>
+<word>
+heimsœkja
 	<m1>(<com>see</com> <ref>sœkja</ref>), <p>v.</p> <i><trn>to visit</trn></i>.</m1>
-</entry>
-<entry word="heimta">
+</word>
+<word>
+heimta
 	<m1><b>I)</b></m1>
 	<m2>(-mta, -mtr), <p>v.</p></m2>
 	<m3>1) <i><trn>to draw, pull</trn></i>; ~ upp akkeri, <i><trn>to weigh anchor</trn></i>; fig., ~ sik fram með fégjöfum, <i><trn>to make one’s way by giving presents</trn></i>; ~ sik í vináttu við <p>e-n</p>, <i><trn>to get on friendly terms with one</trn></i>; ~ nyt af fé, <i><trn>to milk cattle</trn></i>;</m3>
@@ -2919,85 +3753,111 @@ Herði
 	<m2><p>f.</p></m2>
 	<m3>1) <i><trn>claim, demand</trn></i> (of payment due to one);</m3>
 	<m3>2) <p>esp.</p> in <p>pl.</p> (heimtur) <i><trn>bringing home sheep from the summer pastures</trn></i> (verða ~ góðar).</m3>
-</entry>
-<entry word="heimting">
-	</entry>
-<entry word="krafa">
+</word>
+<word>
+heimting
+</word>
+<word>
+krafa
 	<m1><p>f.</p> <i><trn>claim, demand</trn></i>.</m1>
-</entry>
-<entry word="heimull">
+</word>
+<word>
+heimull
 	<m1><p>a.</p> = <ref>heimoll</ref>, <ref>heimill</ref>.</m1>
-</entry>
-<entry word="heimván">
+</word>
+<word>
+heimván
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>prospect of coming home</trn></i>;</m2>
 	<m2>2) <i><trn>prospect of salvation</trn></i>.</m2>
-</entry>
-<entry word="hein">
+</word>
+<word>
+hein
 	<m1><p>f.</p> <i><trn>hone, whetstone</trn></i>.</m1>
-</entry>
-<entry word="heinarsmjör">
-	</entry>
-<entry word="heinarsufl">
+</word>
+<word>
+heinarsmjör
+</word>
+<word>
+heinarsufl
 	<m1><p>n.</p> <i><trn>the grease or liquor which mowers put on the whetstone</trn></i>.</m1>
-</entry>
-<entry word="heinberg">
+</word>
+<word>
+heinberg
 	<m1><p>n.</p> <i><trn>hone-quarry</trn></i>.</m1>
-</entry>
-<entry word="heinbrýni">
+</word>
+<word>
+heinbrýni
 	<m1><p>n.</p> <i><trn>hone, whetstone</trn></i>.</m1>
-</entry>
-<entry word="heipt">
+</word>
+<word>
+heipt
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>feud, deadly war</trn></i>; vinna <p>e-m</p> ~, <i><trn>to wage war against one</trn></i>; deila ~ir, <i><trn>to wage deadly feud</trn></i>;</m2>
 	<m2>2) <i><trn>deadly hatred, spite</trn></i> (meirr af ~ en ást); ~ ok harðindi, <i><trn>ill-will and tyranny</trn></i>; hafa ~ á <p>e-m</p>, <i><trn>to hate</trn></i>.</m2>
-</entry>
-<entry word="heiptarblóð">
+</word>
+<word>
+heiptarblóð
 	<m1><p>n.</p> <i><trn>bloodshed</trn></i>.</m1>
-</entry>
-<entry word="heiptarfenginn">
+</word>
+<word>
+heiptarfenginn
 	<m1><p>a.</p> <i><trn>breathing hatred against one</trn></i>.</m1>
-</entry>
-<entry word="heiptarhugr">
+</word>
+<word>
+heiptarhugr
 	<m1><p>m.</p> <i><trn>wrath, hatred</trn></i> (hafa heiptarhug á <p>e-m</p>).</m1>
-</entry>
-<entry word="heiptarmál">
+</word>
+<word>
+heiptarmál
 	<m1><p>n.</p> <i><trn>words breathing hatred</trn></i>.</m1>
-</entry>
-<entry word="heiptarorð">
+</word>
+<word>
+heiptarorð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>words breathing hatred</trn></i>.</m1>
-</entry>
-<entry word="heiptfenginn">
+</word>
+<word>
+heiptfenginn
 	<m1><p>a.</p> = heiptarfenginn.</m1>
-</entry>
-<entry word="heiptgjarn">
-	</entry>
-<entry word="úgóðgjarnligr">
+</word>
+<word>
+heiptgjarn
+</word>
+<word>
+úgóðgjarnligr
 	<m1><p>a.</p> <i><trn>spiteful</trn></i>.</m1>
-</entry>
-<entry word="heiptmóðr">
-	</entry>
-<entry word="hermdarfullr">
+</word>
+<word>
+heiptmóðr
+</word>
+<word>
+hermdarfullr
 	<m1><p>a.</p> <i><trn>wrathful</trn></i>.</m1>
-</entry>
-<entry word="heiptmögr">
+</word>
+<word>
+heiptmögr
 	<m1><p>m.</p> <i><trn>foeman, adversary</trn></i>.</m1>
-</entry>
-<entry word="heiptrækr">
+</word>
+<word>
+heiptrækr
 	<m1><p>a.</p> <i><trn>vindictive, revengeful</trn></i>.</m1>
-</entry>
-<entry word="heiptúð">
+</word>
+<word>
+heiptúð
 	<m1><p>f.</p> <i><trn>deadly hatred, revengefulness</trn></i>.</m1>
-</entry>
-<entry word="heiptyrði">
+</word>
+<word>
+heiptyrði
 	<m1><p>n.</p> <p>pl.</p> <i><trn>words of hatred</trn></i>.</m1>
-</entry>
-<entry word="heit">
+</word>
+<word>
+heit
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>solemn promise, vow</trn></i>; efla (stofna, festa) heit, <i><trn>to make a vow</trn></i>; strengja <p>e-s</p> ~, <i><trn>to make a solemn vow</trn></i>;</m2>
 	<m2>2) <p>pl.</p> <i><trn>threats</trn></i> (hann stóð undir heitum ok illyrðum).</m2>
-</entry>
-<entry word="heita">
+</word>
+<word>
+heita
 	<m1><b>I)</b></m1>
 	<m2>(heit; hét, hétum; heitinn), <p>v.</p></m2>
 	<m3>1) <i><trn>to call give a name to</trn></i>;</m3>
@@ -3027,96 +3887,126 @@ Herði
 	<m3>2) <i><trn>to brew</trn></i> (~ mungát, ~ öl).</m3>
 	<m1><b>III)</b></m1>
 	<m2><p>f.</p> <i><trn>brewing</trn></i> (cf. öl~).</m2>
-</entry>
-<entry word="heitan">
+</word>
+<word>
+heitan
 	<m1><p>f.</p> <i><trn>threateming</trn></i>.</m1>
-</entry>
-<entry word="heitanarorð">
+</word>
+<word>
+heitanarorð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>menaces</trn></i>.</m1>
-</entry>
-<entry word="heitast">
+</word>
+<word>
+heitast
 	<m1>(að), <p>v. refl.</p> <i><trn>to make threats, to speak threateningly</trn></i> (aldrei heitaðist hann við úvini sina); ~ til <p>e-s</p>, <i><trn>to use threats to obtain a thing</trn></i>; ~ at gera <p>e-t</p>, <i><trn>to threaten to do a thing</trn></i>.</m1>
-</entry>
-<entry word="heitbundinn">
+</word>
+<word>
+heitbundinn
 	<m1><p>pp.</p> <i><trn>bound by a vow</trn></i> (í <p>e-u</p> við <p>e-n</p>).</m1>
-</entry>
-<entry word="heitfé">
+</word>
+<word>
+heitfé
 	<m1><p>n.</p> <i><trn>votive money</trn></i>.</m1>
-</entry>
-<entry word="heitfengi">
+</word>
+<word>
+heitfengi
 	<m1><p>f.</p> <i><trn>the being</trn></i> heitfengr.</m1>
-</entry>
-<entry word="heitfengr">
+</word>
+<word>
+heitfengr
 	<m1><p>a.</p> <i><trn>able to eat one’s food burning hot</trn></i>.</m1>
-</entry>
-<entry word="heitguð">
+</word>
+<word>
+heitguð
 	<m1><p>m.</p> <i><trn>a god to whoin one inakrs a vow</trn></i>.</m1>
-</entry>
-<entry word="heiti">
+</word>
+<word>
+heiti
 	<m1><p>n.</p> <i><trn>name, denomination</trn></i>.</m1>
-</entry>
-<entry word="heitingar">
+</word>
+<word>
+heitingar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>threats, imprecations</trn></i> (~ ok hrakning).</m1>
-</entry>
-<entry word="heitkona">
+</word>
+<word>
+heitkona
 	<m1><p>f.</p> <i><trn>one’s promised spouse</trn></i>.</m1>
-</entry>
-<entry word="heitorð">
+</word>
+<word>
+heitorð
 	<m1><p>n.</p> <i><trn>promise (of marriage)</trn></i>.</m1>
-</entry>
-<entry word="heitr">
+</word>
+<word>
+heitr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>hot, burning</trn></i>; eldi heitari, <i><trn>hotter than fire</trn></i>; <p>e-m</p> verðr heitt, <i><trn>one gets warm</trn></i>;</m2>
 	<m2>2) <i><trn>hot, ardent, zealous</trn></i> (verða ~ við <p>e-t</p>).</m2>
-</entry>
-<entry word="heitramr">
+</word>
+<word>
+heitramr
 	<m1><p>a.</p> <i><trn>boasting, braggart</trn></i>.</m1>
-</entry>
-<entry word="heitrof">
-	</entry>
-<entry word="trúrof">
+</word>
+<word>
+heitrof
+</word>
+<word>
+trúrof
 	<m1><p>n.</p> <i><trn>breach of faith</trn></i>.</m1>
-</entry>
-<entry word="heitrofi">
+</word>
+<word>
+heitrofi
 	<m1><p>m.</p> <i><trn>promise-breaker</trn></i>.</m1>
-</entry>
-<entry word="heitsi">
+</word>
+<word>
+heitsi
 	<m1><p>a.</p>, verða <p>e-s</p> ~, <i><trn>to engage, oneself to a thing</trn></i>.</m1>
-</entry>
-<entry word="heitstrenging">
+</word>
+<word>
+heitstrenging
 	<m1><p>f.</p> <i><trn>making a solemn vow</trn></i>.</m1>
-</entry>
-<entry word="heitstrengja">
+</word>
+<word>
+heitstrengja
 	<m1>(-da, -dr), <p>v.</p> <i><trn>to vow solemnly</trn></i> (= strengja <p>e-s</p> heit).</m1>
-</entry>
-<entry word="heitsöngr">
+</word>
+<word>
+heitsöngr
 	<m1><p>m.</p> <i><trn>votive song</trn></i>.</m1>
-</entry>
-<entry word="heituhús">
-	</entry>
-<entry word="hituhús">
+</word>
+<word>
+heituhús
+</word>
+<word>
+hituhús
 	<m1><p>n.</p> <i><trn>brew-house</trn></i>.</m1>
-</entry>
-<entry word="heituketill">
-	</entry>
-<entry word="hituketill">
+</word>
+<word>
+heituketill
+</word>
+<word>
+hituketill
 	<m1><p>m.</p> <i><trn>boiler</trn></i>.</m1>
-</entry>
-<entry word="heitumaðr">
-	</entry>
-<entry>
+</word>
+<word>
+heitumaðr
+</word>
+<word>
 ölgørðarmaðr
 	<m1><p>m.</p> <i><trn>brewer</trn></i>.</m1>
-</entry>
-<entry word="hekk">
-	</entry>
-<entry word="hengu">
+</word>
+<word>
+hekk
+</word>
+<word>
+hengu
 	<m1>from <ref>hanga</ref>.</m1>
-</entry>
-<entry word="hekla">
+</word>
+<word>
+hekla
 	<m1><p>f.</p> <i><trn>cowled or hooded frock</trn></i>.</m1>
-</entry>
-<entry word="hel">
+</word>
+<word>
+hel
 	<m1>(<p>gen.</p> ~jar, <p>dat.</p> ~ju), <p>f.</p></m1>
 	<m2>1) <i><trn>Hel (the goddess of death)</trn></i>;</m2>
 	<m3>blár sem ~, <i><trn>black as Hel</trn></i>;</m3>
@@ -3126,22 +4016,27 @@ Herði
 	<m3>liggja á ~jar þremi, <i><trn>to be on the verge of death</trn></i>;</m3>
 	<m2>3) <i><trn>death</trn></i> (þykkir ekki betra líf en ~);</m2>
 	<m3>berja <p>e-n</p> grjóti í ~, <i><trn>to stone one to death</trn></i>.</m3>
-</entry>
-<entry word="héla">
+</word>
+<word>
+héla
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>hoar frost, rime</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(héldi, héldr), <p>v.</p> <i><trn>to cover with rime</trn></i>; <i><trn>to fall as rime</trn></i>.</m2>
-</entry>
-<entry word="helblár">
+</word>
+<word>
+helblár
 	<m1><p>a.</p> <i><trn>black as death</trn></i>.</m1>
-</entry>
-<entry word="held">
-	</entry>
-<entry word="hélt">
+</word>
+<word>
+held
+</word>
+<word>
+hélt
 	<m1>from <ref>halda</ref>.</m1>
-</entry>
-<entry word="heldr">
+</word>
+<word>
+heldr
 	<m1><p>adv.</p> <p>compar.</p></m1>
 	<m2>1) <i><trn>more, rather</trn></i>;</m2>
 	<m3>~ en, <i><trn>rather than, more than</trn></i> (vápn þeirra bitu eigi ~ en vendir);</m3>
@@ -3151,177 +4046,230 @@ Herði
 	<m2>3) <i><trn>rather</trn></i> (nú vartu ~ til skjótr, en ek ~ til seinn);</m2>
 	<m3>var brúðrin döpur ~, <i><trn>the bride was rather sad</trn></i>;</m3>
 	<m2>4) after a negative, <i><trn>but, on the contrary</trn></i>.</m2>
-</entry>
-<entry word="heldri">
+</word>
+<word>
+heldri
 	<m1><p>a.</p> <p>compar.</p> <i><trn>better</trn></i>.</m1>
-</entry>
-<entry word="helfúss">
+</word>
+<word>
+helfúss
 	<m1><p>a.</p> <i><trn>murderous</trn></i> (~ hönd).</m1>
-</entry>
-<entry word="helför">
+</word>
+<word>
+helför
 	<m1><p>f.</p> <i><trn>death</trn></i>.</m1>
-</entry>
-<entry word="helga">
+</word>
+<word>
+helga
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) ~ sér land <i><trn>to appropriate land by performing sacred rites</trn></i>;</m2>
 	<m2>2) <i><trn>to hallow to one</trn></i> (hét hann at ~ Þór allt landnám sitt);</m2>
 	<m2>3) ~ þing, <i><trn>to proclaim the sanctity of a meeting</trn></i>;</m2>
 	<m3>~ <p>e-n</p>, <i><trn>to proclaim a person inviolable</trn></i>;</m3>
 	<m2>4) <p>refl.</p>, ~st <i><trn>to he sanctifled</trn></i>.</m2>
-</entry>
-<entry word="helgaldr">
+</word>
+<word>
+helgaldr
 	<m1><p>m.</p> <i><trn>death-dirge</trn></i>.</m1>
-</entry>
-<entry word="helgan">
+</word>
+<word>
+helgan
 	<m1><b>I)</b> <p>f.</p></m1>
 	<m2>1) <i><trn>sanctification, sanctity</trn></i>;</m2>
 	<m2>2) <i><trn>sacrament</trn></i>.</m2>
 	<m1><b>II)</b> from <ref>heilagr</ref>, <i><trn>holy</trn></i>.</m1>
-</entry>
-<entry word="helgarfríðr">
+</word>
+<word>
+helgarfríðr
 	<m1><p>m.</p> <i><trn>holiday-truce</trn></i>.</m1>
-</entry>
-<entry word="helgi">
+</word>
+<word>
+helgi
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>holiness, sanctity</trn></i> (~ Ólafs konungs);</m2>
 	<m2>2) <i><trn>inviolability, security</trn></i>.</m2>
-</entry>
-<entry word="helgibrigði">
+</word>
+<word>
+helgibrigði
 	<m1><p>n.</p> <i><trn>Sabbath-breaking</trn></i>.</m1>
-</entry>
-<entry word="helgihald">
+</word>
+<word>
+helgihald
 	<m1><p>n.</p> <i><trn>holiday-keeping</trn></i>.</m1>
-</entry>
-<entry word="helgistaðr">
+</word>
+<word>
+helgistaðr
 	<m1><p>m.</p> <i><trn>holy place</trn></i>.</m1>
-</entry>
-<entry word="helgr">
+</word>
+<word>
+helgr
 	<m1>(<p>gen.</p> helgar, <p>dat.</p> and <p>acc.</p> helgt; <p>pl.</p> helgar), <p>f.</p> <i><trn>holiday, festival</trn></i>; hringja til helgar, <i><trn>to ring for a festival</trn></i>.</m1>
-</entry>
-<entry word="helgráðr">
+</word>
+<word>
+helgráðr
 	<m1><p>m.</p> <i><trn>voracity betokening death</trn></i>.</m1>
-</entry>
-<entry word="helgrindr">
+</word>
+<word>
+helgrindr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>Hel’s gate</trn></i>.</m1>
-</entry>
-<entry word="heljarkarl">
-	</entry>
-<entry word="heljarmaðr">
+</word>
+<word>
+heljarkarl
+</word>
+<word>
+heljarmaðr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>accursed fellow</trn></i>;</m2>
 	<m2>2) <i><trn>one doomed to die</trn></i>.</m2>
-</entry>
-<entry word="heljarskinn">
+</word>
+<word>
+heljarskinn
 	<m1><p>n.</p> <i><trn>a dark-skinned person</trn></i>.</m1>
-</entry>
-<entry word="heljast">
+</word>
+<word>
+heljast
 	<m1><p>v. refl.</p> <i><trn>to work hard</trn></i> (hann ~ á skálasmíð).</m1>
-</entry>
-<entry word="hella">
+</word>
+<word>
+hella
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>flat stone, slab of rock</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(-ta, -t), <p>v.</p> <i><trn>to pour out</trn></i> (~ <p>e-u</p>); var hellt í þik mjólk, <i><trn>milk was poured into thy mouth</trn></i>; ~ út blóði, tárum, <i><trn>to shed blood, tears</trn></i>.</m2>
-</entry>
-<entry word="hellir">
+</word>
+<word>
+hellir
 	<m1>(<p>gen.</p> hellis, <p>dat.</p> and <p>acc.</p> helli; <p>pl.</p> hellar), <p>m.</p> <i><trn>cave, cavern</trn></i>.</m1>
-</entry>
-<entry word="hellisberg">
+</word>
+<word>
+hellisberg
 	<m1><p>n.</p> <i><trn>cavernous rock</trn></i>.</m1>
-</entry>
-<entry word="hellisdyrr">
+</word>
+<word>
+hellisdyrr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>door (entrance) of a cave</trn></i>.</m1>
-</entry>
-<entry word="hellismaðr">
+</word>
+<word>
+hellismaðr
 	<m1><p>m.</p> <i><trn>cave-dweller, outlaw</trn></i>.</m1>
-</entry>
-<entry word="hellismunni">
+</word>
+<word>
+hellismunni
 	<m1><p>m.</p> <i><trn>mouth of a cave</trn></i>.</m1>
-</entry>
-<entry word="hellisskúti">
+</word>
+<word>
+hellisskúti
 	<m1><p>m.</p> <i><trn>jutting cave</trn></i>.</m1>
-</entry>
-<entry word="hellnagrjót">
+</word>
+<word>
+hellnagrjót
 	<m1><p>n.</p> <i><trn>flat stones, slabs</trn></i>.</m1>
-</entry>
-<entry word="hellusteinn">
+</word>
+<word>
+hellusteinn
 	<m1><p>m.</p> <i><trn>flat stone, slab</trn></i>.</m1>
-</entry>
-<entry word="helma">
+</word>
+<word>
+helma
 	<m1><p>f.</p> <i><trn>haulm, straw</trn></i>.</m1>
-</entry>
-<entry word="helming">
+</word>
+<word>
+helming
 	<m1><p>f.</p> = <ref>~r</ref>.</m1>
-</entry>
-<entry word="helminga">
+</word>
+<word>
+helminga
 	<m1>(að), <p>v.</p> <i><trn>to halve</trn></i>.</m1>
-</entry>
-<entry word="helmingaskipti">
+</word>
+<word>
+helmingaskipti
 	<m1><p>n.</p> <i><trn>division in two equal portions</trn></i>.</m1>
-</entry>
-<entry word="helmingr">
+</word>
+<word>
+helmingr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>half</trn></i>; at helmingi, <i><trn>by half</trn></i>; skipta í helminga, <i><trn>to share in two equal portions</trn></i>.</m1>
-</entry>
-<entry word="helmingsfélag">
+</word>
+<word>
+helmingsfélag
 	<m1><p>n.</p> <i><trn>joint company (with equal shares)</trn></i>.</m1>
-</entry>
-<entry word="helsi">
+</word>
+<word>
+helsi
 	<m1><p>n.</p> <i><trn>collar</trn></i>, <p>esp.</p> for a dog.</m1>
-</entry>
-<entry word="helskór">
+</word>
+<word>
+helskór
 	<m1><p>m.</p> <p>pl.</p> <i><trn>shoes for the dead</trn></i>.</m1>
-</entry>
-<entry word="helstafir">
+</word>
+<word>
+helstafir
 	<m1><p>m.</p> <p>pl.</p> <i><trn>baneful characters</trn></i>.</m1>
-</entry>
-<entry word="helstrið">
+</word>
+<word>
+helstrið
 	<m1><p>n.</p> <i><trn>agony</trn></i>.</m1>
-</entry>
-<entry word="heltast">
+</word>
+<word>
+heltast
 	<m1>(t), <p>v. refl.</p> <i><trn>to become lame</trn></i>.</m1>
-</entry>
-<entry word="helti">
+</word>
+<word>
+helti
 	<m1><p>f.</p> <i><trn>lameness</trn></i>.</m1>
-</entry>
-<entry word="hélufall">
+</word>
+<word>
+hélufall
 	<m1><p>n.</p> <i><trn>fall of rime</trn></i>.</m1>
-</entry>
-<entry word="hélukaldr">
-	</entry>
-<entry word="hrímkaldr">
+</word>
+<word>
+hélukaldr
+</word>
+<word>
+hrímkaldr
 	<m1><p>a.</p> <i><trn>rime-cold</trn></i>.</m1>
-</entry>
-<entry word="héluþoka">
+</word>
+<word>
+héluþoka
 	<m1><p>f.</p> <i><trn>rime-fog, mist</trn></i>.</m1>
-</entry>
-<entry word="helvegr">
+</word>
+<word>
+helvegr
 	<m1><p>m.</p> <i><trn>the way to Hel</trn></i>.</m1>
-</entry>
-<entry word="helvíti">
+</word>
+<word>
+helvíti
 	<m1><p>n.</p> <i><trn>hell, the abode of the damned</trn></i>.</m1>
-</entry>
-<entry word="helvítiskvalir">
+</word>
+<word>
+helvítiskvalir
 	<m1><p>f.</p> <p>pl.</p> <i><trn>torments of hell</trn></i>.</m1>
-</entry>
-<entry word="helvítismaðr">
+</word>
+<word>
+helvítismaðr
 	<m1><p>m.</p> <i><trn>a man doomed to hell</trn></i>.</m1>
-</entry>
-<entry word="helvízkr">
+</word>
+<word>
+helvízkr
 	<m1><p>a.</p> <i><trn>hellish, infernal</trn></i>.</m1>
-</entry>
-<entry word="helzt">
+</word>
+<word>
+helzt
 	<m1><p>adv.</p> <p>superl.</p> (cf. <ref>heldr</ref>), <i><trn>most of all, especially</trn></i> (hefi ek þat ~ í hug mér).</m1>
-</entry>
-<entry word="helzti">
+</word>
+<word>
+helzti
 	<m1><p>adv.</p> <i><trn>far too</trn></i> (= helzt til); ~ lengi, <i><trn>far too long</trn></i>.</m1>
-</entry>
-<entry word="helztr">
+</word>
+<word>
+helztr
 	<m1><p>a.</p> <p>superl.</p> <i><trn>best</trn></i>; í heldra lagi, <i><trn>in a high degree</trn></i>; þykkir mönnum sá ~ kostr, <i><trn>the best choice</trn></i>.</m1>
-</entry>
-<entry word="hemingr">
+</word>
+<word>
+hemingr
 	<m1><p>m.</p> <i><trn>the skin of the shanks</trn></i>.</m1>
-</entry>
-<entry word="henda">
+</word>
+<word>
+henda
 	<m1>(~, hendr), <p>v.</p></m1>
 	<m2>1) <i><trn>to catch with the hand</trn></i> <ex>(hann kastaði heininni í lopt upp, en allir vildu ~)</ex>;</m2>
 	<m3><i><trn>to pick out or up</trn></i> <ex>(hann safnar mönnum til at ~ svínin)</ex>;</m3>
@@ -3333,67 +4281,86 @@ Herði
 	<m2>3) <i><trn>to befall, happen to one</trn></i>;</m2>
 	<m3><ex>þá hafði hent glœpska mikil, <i><trn>they had committed a great folly</trn></i></ex>;</m3>
 	<m3><ex>hann kvað þat dugandi menn ~ <i><trn>(it happened to brave men)</trn></i> at falla í bardögum</ex>.</m3>
-</entry>
-<entry word="hendilangr">
+</word>
+<word>
+hendilangr
 	<m1><p>a.</p> <i><trn>helpful, ready to help</trn></i> (vera <p>e-m</p> ~ um <p>e-t</p>).</m1>
-</entry>
-<entry word="hending">
+</word>
+<word>
+hending
 	<m1>(<p>pl.</p> -ar), <p>f.</p></m1>
 	<m2>1) <i><trn>catching</trn></i>; var í ~um með þeim, <i><trn>they were near coming to close quarters</trn></i>;</m2>
 	<m2>2) <i><trn>rhyme or assonance</trn></i>; <i><trn>rhyming or assonating syllable</trn></i>.</m2>
-</entry>
-<entry word="hendingarorð">
+</word>
+<word>
+hendingarorð
 	<m1><p>n.</p> <i><trn>rhyming syllable</trn></i>.</m1>
-</entry>
-<entry word="hendisamr">
+</word>
+<word>
+hendisamr
 	<m1><p>a.</p> <i><trn>picking, thievish</trn></i>.</m1>
-</entry>
-<entry word="hengiskafl">
+</word>
+<word>
+hengiskafl
 	<m1><p>m.</p> <i><trn>jutting heap of snow</trn></i>.</m1>
-</entry>
-<entry word="hengja">
+</word>
+<word>
+hengja
 	<m1>(-da, -dr), <p>v.</p> <i><trn>to hang up, suspend</trn></i>; <i><trn>to hang on a gallows</trn></i>; ~ sik, <i><trn>to hang oneself</trn></i>.</m1>
-</entry>
-<entry word="henta">
+</word>
+<word>
+henta
 	<m1>(-nti, -nt, or að), <p>v.</p> <i><trn>to fit, be suitable for</trn></i> (sárum mönnum hentir betr mjólk en mungát); eigi hentir svá, <i><trn>it will not do that way</trn></i>.</m1>
-</entry>
-<entry word="hentiligr">
+</word>
+<word>
+hentiligr
 	<m1><p>a.</p> <i><trn>befitting</trn></i>, = hentr.</m1>
-</entry>
-<entry word="hentleikr">
+</word>
+<word>
+hentleikr
 	<m1><p>m.</p> <i><trn>opportunity</trn></i>.</m1>
-</entry>
-<entry word="hentr">
+</word>
+<word>
+hentr
 	<m1><p>a.</p> <i><trn>fit, suited for one</trn></i>; er slíkum mönnum bezt hent þar, <i><trn>there is the right place for such men</trn></i>.</m1>
-</entry>
-<entry word="hentugleikr">
+</word>
+<word>
+hentugleikr
 	<m1><p>m.</p> = hentleikr.</m1>
-</entry>
-<entry word="hentugr">
+</word>
+<word>
+hentugr
 	<m1><p>a.</p> <i><trn>befitting, convenient</trn></i>.</m1>
-</entry>
-<entry word="heppifengr">
+</word>
+<word>
+heppifengr
 	<m1><p>a.</p> <i><trn>making a good catch</trn></i>.</m1>
-</entry>
-<entry word="heppinn">
+</word>
+<word>
+heppinn
 	<m1><p>a.</p> <i><trn>lucky, fortunate</trn></i>.</m1>
-</entry>
-<entry word="hepta">
+</word>
+<word>
+hepta
 	<m1>(-pta, -ptr), <p>v.</p></m1>
 	<m2>1) <i><trn>to bind, fetter</trn></i>; ~ hross, hest, <i><trn>to hobble a horse</trn></i>;</m2>
 	<m2>2) <i><trn>to impede, hinder</trn></i> (illt er flýjanda at ~); ~ sik, <i><trn>to restrain oneself, forbear</trn></i>;</m2>
 	<m3><p>refl.</p> <i><trn>to be thwarted</trn></i> (heptist ferð þeirra).</m3>
-</entry>
-<entry word="hepti">
+</word>
+<word>
+hepti
 	<m1><p>n.</p> <i><trn>haft</trn></i> (of a dirk).</m1>
-</entry>
-<entry word="hepting">
+</word>
+<word>
+hepting
 	<m1><p>f.</p> <i><trn>tether</trn></i>; <i><trn>impediment</trn></i>.</m1>
-</entry>
-<entry word="heptisax">
+</word>
+<word>
+heptisax
 	<m1><p>n.</p> <i><trn>a kind of digger</trn></i>.</m1>
-</entry>
-<entry word="hér">
+</word>
+<word>
+hér
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>here</trn></i>;</m2>
 	<m3>á landi ~, <i><trn>in this country</trn></i>;</m3>
@@ -3405,103 +4372,134 @@ Herði
 	<m3>~ fyrir, <i><trn>for this, therefore</trn></i>;</m3>
 	<m3>~ til, <i><trn>hereto</trn></i>;</m3>
 	<m3>~ um, <i><trn>in this, as regards this</trn></i>.</m3>
-</entry>
-<entry word="herað">
+</word>
+<word>
+herað
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>district</trn></i>;</m2>
 	<m2>2) <i><trn>country</trn></i>, opp. to <ref>bœr</ref> <com>(town)</com>.</m2>
-</entry>
-<entry word="heraðsbót">
+</word>
+<word>
+heraðsbót
 	<m1><p>f.</p> <i><trn>bettering the affairs of a district</trn></i>.</m1>
-</entry>
-<entry word="heraðsbrestr">
+</word>
+<word>
+heraðsbrestr
 	<m1><p>m.</p> <i><trn>a crash that can be heard all over the district</trn></i>.</m1>
-</entry>
-<entry word="heraðsbygð">
+</word>
+<word>
+heraðsbygð
 	<m1><p>f.</p> <i><trn>a district and its people</trn></i>.</m1>
-</entry>
-<entry word="heraðsdeild">
+</word>
+<word>
+heraðsdeild
 	<m1><p>f.</p> <i><trn>district quarrel</trn></i>.</m1>
-</entry>
-<entry word="heraðsflótti">
+</word>
+<word>
+heraðsflótti
 	<m1><p>m.</p> <i><trn>flight or exile from a district</trn></i>.</m1>
-</entry>
-<entry word="heraðsfteygr">
+</word>
+<word>
+heraðsfteygr
 	<m1><p>a.</p> <i><trn>quickly known over a district</trn></i>.</m1>
-</entry>
-<entry word="heraðsfundr">
+</word>
+<word>
+heraðsfundr
 	<m1><p>m.</p> <i><trn>district meeting</trn></i>.</m1>
-</entry>
-<entry word="heraðsíseta">
+</word>
+<word>
+heraðsíseta
 	<m1><p>f.</p> = heraðs-vist.</m1>
-</entry>
-<entry word="heraðskirkja">
+</word>
+<word>
+heraðskirkja
 	<m1><p>f.</p> <i><trn>parish church</trn></i>.</m1>
-</entry>
-<entry word="heraðskonungr">
+</word>
+<word>
+heraðskonungr
 	<m1><p>n.</p> kinglet.</m1>
-</entry>
-<entry word="heraðsríkr">
+</word>
+<word>
+heraðsríkr
 	<m1><p>a.</p> <i><trn>of influence in one’s district</trn></i>.</m1>
-</entry>
-<entry word="heraðssekr">
+</word>
+<word>
+heraðssekr
 	<m1><p>a.</p> <i><trn>outlawed within a district</trn></i>.</m1>
-</entry>
-<entry word="heraðssekt">
+</word>
+<word>
+heraðssekt
 	<m1><p>f.</p> <i><trn>outlawry within a district</trn></i>.</m1>
-</entry>
-<entry word="heraðsstjórn">
+</word>
+<word>
+heraðsstjórn
 	<m1><p>f.</p> <i><trn>district government</trn></i>.</m1>
-</entry>
-<entry word="heraðsvist">
+</word>
+<word>
+heraðsvist
 	<m1><p>f.</p> <i><trn>abiding within a certain district</trn></i>.</m1>
-</entry>
-<entry word="heraðsvært">
+</word>
+<word>
+heraðsvært
 	<m1><p>a.</p> <p>n.</p>, eiga ~, <i><trn>to be at liberty to reside within a district</trn></i>.</m1>
-</entry>
-<entry word="heraðsþing">
+</word>
+<word>
+heraðsþing
 	<m1><p>n.</p> <i><trn>district assembly</trn></i> (in contrast to the <ref>alþingi</ref>).</m1>
-</entry>
-<entry word="heraðvært">
+</word>
+<word>
+heraðvært
 	<m1><p>a.</p> <p>n.</p> = heraðsvært.</m1>
-</entry>
-<entry word="herbaldr">
+</word>
+<word>
+herbaldr
 	<m1><p>m.</p> <p>poet.</p>, <i><trn>warrior</trn></i>.</m1>
-</entry>
-<entry word="herbergi">
+</word>
+<word>
+herbergi
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>room</trn></i>;</m2>
 	<m2>2) <i><trn>lodgings, quarters</trn></i> (var þeim vísat fyrst í gesta-hús til ~s).</m2>
-</entry>
-<entry word="herbergismaðr">
-	</entry>
-<entry word="herbergissveinn">
+</word>
+<word>
+herbergismaðr
+</word>
+<word>
+herbergissveinn
 	<m1><p>m.</p> <i><trn>groom of the chamber</trn></i>.</m1>
-</entry>
-<entry word="herbergja">
+</word>
+<word>
+herbergja
 	<m1>(-ða, -ðr), <p>v.</p></m1>
 	<m2>1) <i><trn>to harbour</trn></i> (a person);</m2>
 	<m2>2) <i><trn>to lodge, take up one’s quarters</trn></i> (= ~ sik).</m2>
-</entry>
-<entry word="herblástr">
+</word>
+<word>
+herblástr
 	<m1><p>m.</p> <i><trn>blast of trumpets</trn></i>.</m1>
-</entry>
-<entry word="herboð">
+</word>
+<word>
+herboð
 	<m1><p>n.</p> <i><trn>war summons</trn></i>.</m1>
-</entry>
-<entry word="herbrestr">
+</word>
+<word>
+herbrestr
 	<m1><p>m.</p> <i><trn>explosion</trn></i>.</m1>
-</entry>
-<entry word="herbúðir">
+</word>
+<word>
+herbúðir
 	<m1><p>f.</p> <p>pl.</p> <i><trn>camp</trn></i>.</m1>
-</entry>
-<entry word="herbúinn">
+</word>
+<word>
+herbúinn
 	<m1><p>pp.</p> <i><trn>armed</trn></i>.</m1>
-</entry>
-<entry word="herbúnaðr">
+</word>
+<word>
+herbúnaðr
 	<m1><p>m.</p> <i><trn>armament</trn></i>.</m1>
-</entry>
-<entry word="herða">
+</word>
+<word>
+herða
 	<m1><b>I)</b></m1>
 	<m2>(-rða, -rðr), <p>v.</p></m2>
 	<m3>1) <i><trn>to make hard, temper</trn></i> (~ járn, sverð);</m3>
@@ -3514,634 +4512,835 @@ Herði
 	<m2><p>f.</p></m2>
 	<m3>1) <i><trn>tempering</trn></i> (of steel), <i><trn>steeling</trn></i>;</m3>
 	<m3>2) <i><trn>hardness, severity</trn></i>.</m3>
-</entry>
-<entry word="herðadrengr">
+</word>
+<word>
+herðadrengr
 	<m1><p>m.</p> <i><trn>hump on the back</trn></i> (cf. <ref>herðar</ref>).</m1>
-</entry>
-<entry word="herðalítill">
+</word>
+<word>
+herðalítill
 	<m1><p>a.</p> <i><trn>narrow shouldered</trn></i>.</m1>
-</entry>
-<entry word="herðamunr">
+</word>
+<word>
+herðamunr
 	<m1><p>m.</p> <i><trn>superiority, superior force</trn></i>.</m1>
-</entry>
-<entry word="herðar">
+</word>
+<word>
+herðar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>shoulders, the upper part of the back</trn></i>.</m1>
-</entry>
-<entry word="herðarblað">
+</word>
+<word>
+herðarblað
 	<m1><p>n.</p> <i><trn>shoulder blade</trn></i>.</m1>
-</entry>
-<entry word="herðasár">
+</word>
+<word>
+herðasár
 	<m1><p>n.</p> <i><trn>a wound over the shoulders</trn></i>.</m1>
-</entry>
-<entry word="herðatoppr">
+</word>
+<word>
+herðatoppr
 	<m1><p>m.</p> <i><trn>shoulder tuft</trn></i> (of a horse’s mane).</m1>
-</entry>
-<entry word="herði">
+</word>
+<word>
+herði
 	<m1><p>f.</p> <i><trn>hardness, hardihood</trn></i>.</m1>
-</entry>
-<entry word="herðibreiðr">
+</word>
+<word>
+herðibreiðr
 	<m1><p>a.</p> <i><trn>broad-shouldered</trn></i>.</m1>
-</entry>
-<entry word="herðilítill">
+</word>
+<word>
+herðilítill
 	<m1><p>a.</p> = herðalítill.</m1>
-</entry>
-<entry word="herðilútr">
+</word>
+<word>
+herðilútr
 	<m1><p>a.</p> <i><trn>with stooping shoulders</trn></i>.</m1>
-</entry>
-<entry word="herðimaðr">
+</word>
+<word>
+herðimaðr
 	<m1><p>m.</p> <i><trn>hardy man</trn></i>.</m1>
-</entry>
-<entry word="herðimikill">
+</word>
+<word>
+herðimikill
 	<m1><p>a.</p> = herði-breiðr.</m1>
-</entry>
-<entry word="herðiþykkr">
+</word>
+<word>
+herðiþykkr
 	<m1><p>a.</p> <i><trn>thick-shouldered</trn></i>.</m1>
-</entry>
-<entry word="herdraga">
+</word>
+<word>
+herdraga
 	<m1>(<com>see</com> <ref>draga</ref>), <p>v.</p> <i><trn>to drag violently</trn></i> (at grípa, slá, eða ~).</m1>
-</entry>
-<entry word="herðugóðr">
+</word>
+<word>
+herðugóðr
 	<m1><p>a.</p> <i><trn>well tempered</trn></i> (øx herðugóð ok snarpegg).</m1>
-</entry>
-<entry word="herfang">
+</word>
+<word>
+herfang
 	<m1><p>n.</p> <i><trn>booty</trn></i> (taka fé <p>e-s</p> at ~i).</m1>
-</entry>
-<entry word="herfenginn">
+</word>
+<word>
+herfenginn
 	<m1><p>pp.</p> <i><trn>captured, taken by force</trn></i>.</m1>
-</entry>
-<entry word="herferð">
+</word>
+<word>
+herferð
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>warfare, military expedition</trn></i>;</m2>
 	<m2>2) <i><trn>host</trn></i>.</m2>
-</entry>
-<entry word="herfi">
+</word>
+<word>
+herfi
 	<m1><p>n.</p> <i><trn>harrow</trn></i>.</m1>
-</entry>
-<entry word="herfiliga">
-	</entry>
-<entry word="hrakliga">
+</word>
+<word>
+herfiliga
+</word>
+<word>
+hrakliga
 	<m1><p>adv.</p> <i><trn>wretchedly</trn></i>.</m1>
-</entry>
-<entry word="herfiligr">
-	</entry>
-<entry word="úkostigr">
-	</entry>
-<entry word="úsæll">
+</word>
+<word>
+herfiligr
+</word>
+<word>
+úkostigr
+</word>
+<word>
+úsæll
 	<m1><p>a.</p> <i><trn>wretched</trn></i>.</m1>
-</entry>
-<entry word="herfjöturr">
+</word>
+<word>
+herfjöturr
 	<m1><p>m.</p> <i><trn>‘war-fetter’</trn></i>.</m1>
-</entry>
-<entry word="herflokkr">
+</word>
+<word>
+herflokkr
 	<m1><p>m.</p> <i><trn>body of warriors</trn></i>.</m1>
-</entry>
-<entry word="herfólk">
+</word>
+<word>
+herfólk
 	<m1><p>n.</p> <i><trn>men of war</trn></i>.</m1>
-</entry>
-<entry word="herfórur">
+</word>
+<word>
+herfórur
 	<m1><p>f.</p> <p>pl.</p> <i><trn>harness</trn></i>.</m1>
-</entry>
-<entry word="herfœrr">
+</word>
+<word>
+herfœrr
 	<m1><p>a.</p> <i><trn>able for war service</trn></i>.</m1>
-</entry>
-<entry word="herför">
+</word>
+<word>
+herför
 	<m1><p>f.</p> = herferð 1.</m1>
-</entry>
-<entry word="herganga">
+</word>
+<word>
+herganga
 	<m1><p>f.</p> <i><trn>march</trn></i>.</m1>
-</entry>
-<entry word="herglötuðr">
+</word>
+<word>
+herglötuðr
 	<m1><p>m.</p> <i><trn>destroyer of hosts</trn></i>.</m1>
-</entry>
-<entry word="herhlaup">
+</word>
+<word>
+herhlaup
 	<m1><p>n.</p> <i><trn>rushing to arms</trn></i>.</m1>
-</entry>
-<entry word="herhorn">
+</word>
+<word>
+herhorn
 	<m1><p>n.</p> <i><trn>war trumpet</trn></i>.</m1>
-</entry>
-<entry word="heri">
+</word>
+<word>
+heri
 	<m1><p>m.</p> <i><trn>hare</trn></i>; hafa hera hjarta, <i><trn>to be hare-hearted</trn></i>.</m1>
-</entry>
-<entry word="herja">
+</word>
+<word>
+herja
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to go harrying or freebooting</trn></i>;</m2>
 	<m2>2) with <p>acc.</p> <i><trn>to despoil, waste</trn></i> (~ land);</m2>
 	<m3><p>refl.</p>, ~st á, <i><trn>to harry (wage war on) one another</trn></i>.</m3>
-</entry>
-<entry word="herjaföðr">
+</word>
+<word>
+herjaföðr
 	<m1><p>m.</p> <i><trn>father of hosts, Odin</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Herjan
 	<m1><p>m.</p> <i><trn>Lord of hosts</trn></i> (a name of Odin).</m1>
-</entry>
-<entry word="herjanskerling">
+</word>
+<word>
+herjanskerling
 	<m1><p>f.</p> <i><trn>hag</trn></i>.</m1>
-</entry>
-<entry word="herjanssonr">
+</word>
+<word>
+herjanssonr
 	<m1><p>m.</p> <i><trn>‘devil’s limb’, wretch</trn></i>.</m1>
-</entry>
-<entry word="herkastali">
-	</entry>
-<entry word="kastali">
+</word>
+<word>
+herkastali
+</word>
+<word>
+kastali
 	<m1><p>m.</p> <i><trn>castle, stronghold</trn></i>.</m1>
-</entry>
-<entry word="herkerling">
+</word>
+<word>
+herkerling
 	<m1><p>f.</p>, only in ‘hver ~’, <i><trn>every old woman</trn></i>.</m1>
-</entry>
-<entry word="herkja">
+</word>
+<word>
+herkja
 	<m1><p>v.</p> <i><trn>to drag oneself along</trn></i>.</m1>
-</entry>
-<entry word="herklasti">
-	</entry>
-<entry word="vápnföt">
+</word>
+<word>
+herklasti
+</word>
+<word>
+vápnföt
 	<m1><p>n.</p> <p>pl.</p> <i><trn>armour</trn></i>.</m1>
-</entry>
-<entry word="herklukka">
+</word>
+<word>
+herklukka
 	<m1><p>f.</p> <i><trn>alarm-bell</trn></i>.</m1>
-</entry>
-<entry word="herklæða">
+</word>
+<word>
+herklæða
 	<m1>(-dda, -ddr), <p>v.</p> <i><trn>to clothe in armour</trn></i>;</m1>
 	<m2><p>refl.</p>, ~st, <i><trn>to put on armour</trn></i>.</m2>
-</entry>
-<entry word="herkonungr">
+</word>
+<word>
+herkonungr
 	<m1><p>m.</p> <i><trn>warrior-king</trn></i>.</m1>
-</entry>
-<entry word="herkumbl">
-	</entry>
-<entry word="herkuml">
+</word>
+<word>
+herkumbl
+</word>
+<word>
+herkuml
 	<m1><p>n.</p> <i><trn>war token, arms</trn></i> (on shields).</m1>
-</entry>
-<entry word="hérkváma">
+</word>
+<word>
+hérkváma
 	<m1><p>f.</p> <i><trn>arrival</trn></i>.</m1>
-</entry>
-<entry word="herland">
+</word>
+<word>
+herland
 	<m1><p>n.</p> <i><trn>harried land</trn></i>.</m1>
-</entry>
-<entry word="herleiða">
+</word>
+<word>
+herleiða
 	<m1>(-dda, -ddr), <p>v.</p> <i><trn>to lead off into captivity</trn></i>.</m1>
-</entry>
-<entry word="herleiðing">
+</word>
+<word>
+herleiðing
 	<m1><p>f.</p> <i><trn>captivity</trn></i>.</m1>
-</entry>
-<entry word="herleiðsla">
+</word>
+<word>
+herleiðsla
 	<m1><p>f.</p> = her-leiðing.</m1>
-</entry>
-<entry word="hérlendr">
-	</entry>
-<entry word="hérlenzkr">
+</word>
+<word>
+hérlendr
+</word>
+<word>
+hérlenzkr
 	<m1><p>a.</p> <i><trn>domestic, native</trn></i>, opp. to <ref>útlenzkr</ref> (foreign).</m1>
-</entry>
-<entry word="herlið">
+</word>
+<word>
+herlið
 	<m1><p>n.</p> <i><trn>war-people, troops</trn></i>.</m1>
-</entry>
-<entry word="herligr">
+</word>
+<word>
+herligr
 	<m1><p>a.</p> <i><trn>marlial-looking</trn></i>.</m1>
-</entry>
-<entry word="herlúðr">
+</word>
+<word>
+herlúðr
 	<m1><p>m.</p> <i><trn>war trumpet</trn></i> (þeyta ~).</m1>
-</entry>
-<entry word="herma">
+</word>
+<word>
+herma
 	<m1>(-da, -dr), <p>v.</p></m1>
 	<m2>1) <i><trn>to relate, repeat, report</trn></i> (~ orð <p>e-s</p>);</m2>
 	<m2>2) ~ eptir <p>e-m</p>, <i><trn>to imitate or mimic one</trn></i>.</m2>
-</entry>
-<entry word="hermaðr">
+</word>
+<word>
+hermaðr
 	<m1><p>m.</p> <i><trn>man of war, warrior</trn></i> (hann var mikill ~).</m1>
-</entry>
-<entry word="hermannliga">
+</word>
+<word>
+hermannliga
 	<m1><p>adv.</p> <i><trn>gallantly</trn></i>.</m1>
-</entry>
-<entry word="hermannligr">
+</word>
+<word>
+hermannligr
 	<m1><p>a.</p> <i><trn>gallant, martial</trn></i>.</m1>
-</entry>
-<entry word="hermast">
+</word>
+<word>
+hermast
 	<m1>(d), <p>v. refl.</p> <i><trn>to wax wroth</trn></i> (<p>e-m</p> hermist við <p>e-n</p>).</m1>
-</entry>
-<entry word="hermd">
+</word>
+<word>
+hermd
 	<m1><p>f.</p> <i><trn>vexation, aimer</trn></i>.</m1>
-</entry>
-<entry word="hermdarlitr">
+</word>
+<word>
+hermdarlitr
 	<m1><p>m.</p> <i><trn>colour of wrath</trn></i>.</m1>
-</entry>
-<entry word="hermdarorð">
+</word>
+<word>
+hermdarorð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>angry words</trn></i>.</m1>
-</entry>
-<entry word="hermdarverk">
+</word>
+<word>
+hermdarverk
 	<m1><p>n.</p> <i><trn>deed of renown</trn></i> (?).</m1>
-</entry>
-<entry word="hermdaryrði">
+</word>
+<word>
+hermdaryrði
 	<m1><p>n.</p> <p>pl.</p> = hermdarorð.</m1>
-</entry>
-<entry word="hermegir">
+</word>
+<word>
+hermegir
 	<m1><p>m.</p> <p>pl.</p> <i><trn>warriors</trn></i>.</m1>
-</entry>
-<entry word="hermikráka">
+</word>
+<word>
+hermikráka
 	<m1><p>f.</p> <i><trn>mimic, ape</trn></i>.</m1>
-</entry>
-<entry word="hermiliga">
+</word>
+<word>
+hermiliga
 	<m1><p>adv.</p> <i><trn>right angrily</trn></i>.</m1>
-</entry>
-<entry word="herming">
+</word>
+<word>
+herming
 	<m1><p>f.</p> <i><trn>indignation, wrath</trn></i>.</m1>
-</entry>
-<entry word="hermt">
+</word>
+<word>
+hermt
 	<m1><p>pp.</p> <p>n.</p>, <p>e-m</p> verðr ~ við <p>e-t</p>, <i><trn>to wax angry with a thing</trn></i>.</m1>
-</entry>
-<entry word="hérna">
+</word>
+<word>
+hérna
 	<m1><p>adv.</p> <i><trn>here</trn></i> (= hér).</m1>
-</entry>
-<entry word="hernaðarfólk">
+</word>
+<word>
+hernaðarfólk
 	<m1><p>n.</p> <i><trn>plunderers, forayers</trn></i>.</m1>
-</entry>
-<entry word="hernaðarmenn">
+</word>
+<word>
+hernaðarmenn
 	<m1><p>m.</p> <p>pl.</p> <i><trn>plunderers, forayers</trn></i>.</m1>
-</entry>
-<entry word="hernaðarráð">
+</word>
+<word>
+hernaðarráð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>a planning for plunder</trn></i>.</m1>
-</entry>
-<entry word="hernaðarsök">
+</word>
+<word>
+hernaðarsök
 	<m1><p>f.</p> <i><trn>a case of raid</trn></i>.</m1>
-</entry>
-<entry word="hernaðr">
+</word>
+<word>
+hernaðr
 	<m1>(<p>gen.</p> -ar), <p>m.</p></m1>
 	<m2>1) <i><trn>harryng, plundering</trn></i>;</m2>
 	<m2>2) <i><trn>warfare, raid, foray</trn></i> (hefja hernað, fara í hernað).</m2>
-</entry>
-<entry word="hernema">
+</word>
+<word>
+hernema
 	<m1>(<com>see</com> <ref>nema</ref>), <p>v.</p> <i><trn>to capture, take by force</trn></i>.</m1>
-</entry>
-<entry word="herneskja">
+</word>
+<word>
+herneskja
 	<m1><p>f.</p> <i><trn>armour</trn></i>.</m1>
-</entry>
-<entry word="hernumi">
+</word>
+<word>
+hernumi
 	<m1><p>a.</p> <i><trn>captive</trn></i>.</m1>
-</entry>
-<entry word="hernuminn">
+</word>
+<word>
+hernuminn
 	<m1><p>pp.</p> <i><trn>captive</trn></i>.</m1>
-</entry>
-<entry word="heróp">
+</word>
+<word>
+heróp
 	<m1><p>n.</p> <i><trn>war-cry, war-whoop</trn></i>.</m1>
-</entry>
-<entry word="herr">
+</word>
+<word>
+herr
 	<m1>(<p>gen.</p> hers, older herjar), <p>m.</p></m1>
 	<m2>1) <i><trn>crowd, great number</trn></i> (fylgdi oss h manna); með her manns, <i><trn>with a host of men</trn></i>; úvígar ~, <i><trn>overwhelming host</trn></i>;</m2>
 	<m2>2) <i><trn>army, troops</trn></i> (on land and sea). Cf. ‘allsherjar-’.</m2>
-</entry>
-<entry word="herra">
+</word>
+<word>
+herra
 	<m1><b>I)</b></m1>
 	<m2>(<p>indecl.</p> in <p>sing.</p>; <p>pl.</p> ~r), <p>m.</p> <i><trn>master, lord</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(að), <p>v.</p> <i><trn>to confer the title</trn></i> ‘~’ <i><trn>upon a person</trn></i>.</m2>
-</entry>
-<entry word="herradómr">
+</word>
+<word>
+herradómr
 	<m1><p>m.</p> <i><trn>lordship</trn></i>; <i><trn>dominion</trn></i>.</m1>
-</entry>
-<entry word="herradœmi">
+</word>
+<word>
+herradœmi
 	<m1><p>n.</p> <i><trn>lordship</trn></i>; <i><trn>dominion</trn></i>.</m1>
-</entry>
-<entry word="herraligr">
-	</entry>
-<entry word="herramannligr">
+</word>
+<word>
+herraligr
+</word>
+<word>
+herramannligr
 	<m1><p>a.</p> <i><trn>lordly</trn></i>.</m1>
-</entry>
-<entry word="herramaðr">
+</word>
+<word>
+herramaðr
 	<m1><p>m.</p> <i><trn>lordly man, lord, knight</trn></i>.</m1>
-</entry>
-<entry word="herramannliga">
+</word>
+<word>
+herramannliga
 	<m1><p>adv.</p> <i><trn>in a lordly manner</trn></i>.</m1>
-</entry>
-<entry word="herrasamligr">
+</word>
+<word>
+herrasamligr
 	<m1><p>a.</p> = herraligr.</m1>
-</entry>
-<entry word="hersaga">
+</word>
+<word>
+hersaga
 	<m1><p>f.</p> <i><trn>war-news</trn></i>.</m1>
-</entry>
-<entry word="hersborinn">
+</word>
+<word>
+hersborinn
 	<m1><p>pp.</p> <i><trn>born of a hersir</trn></i>.</m1>
-</entry>
-<entry word="hershöfðingi">
+</word>
+<word>
+hershöfðingi
 	<m1><p>m.</p> <i><trn>commander of an army</trn></i>; <i><trn>general</trn></i>.</m1>
-</entry>
-<entry word="hersir">
+</word>
+<word>
+hersir
 	<m1>(-is, -ar), <p>m.</p> <i><trn>a local chief lord</trn></i> (in Norway).</m1>
-</entry>
-<entry word="herskaparbúningr">
+</word>
+<word>
+herskaparbúningr
 	<m1><p>m.</p> <i><trn>warlike equipment</trn></i>.</m1>
-</entry>
-<entry word="herskaparfœri">
+</word>
+<word>
+herskaparfœri
 	<m1><p>n.</p> <i><trn>implement of war</trn></i>.</m1>
-</entry>
-<entry word="herskapr">
+</word>
+<word>
+herskapr
 	<m1><p>m.</p> <i><trn>harrying, warfare</trn></i>.</m1>
-</entry>
-<entry word="herskár">
+</word>
+<word>
+herskár
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>warlike, martial</trn></i>;</m2>
 	<m2>2) <i><trn>exposed to raid or warfare, in a state of war</trn></i> (landit var þá herskátt; í þann tima var mjók herskátt).</m2>
-</entry>
-<entry word="herskip">
+</word>
+<word>
+herskip
 	<m1><p>n.</p> <i><trn>warship</trn></i>.</m1>
-</entry>
-<entry word="herskjöldr">
+</word>
+<word>
+herskjöldr
 	<m1><p>m.</p> <i><trn>war shield</trn></i>; fara land herskildi, <i><trn>to harry a land</trn></i> (= herja land).</m1>
-</entry>
-<entry word="herskrúð">
+</word>
+<word>
+herskrúð
 	<m1><p>n.</p> <i><trn>harness</trn></i>.</m1>
-</entry>
-<entry word="herskrúði">
+</word>
+<word>
+herskrúði
 	<m1><p>m.</p> <i><trn>harness</trn></i>.</m1>
-</entry>
-<entry word="herskrýddr">
+</word>
+<word>
+herskrýddr
 	<m1><p>pp.</p> <i><trn>clad in armour</trn></i>.</m1>
-</entry>
-<entry word="herspori">
+</word>
+<word>
+herspori
 	<m1><p>m.</p> <i><trn>caltrop</trn></i>.</m1>
-</entry>
-<entry word="herstast">
+</word>
+<word>
+herstast
 	<m1>(st), <p>v. refl.</p> <i><trn>to speak harshly to one</trn></i> (~ á <p>e-n</p>).</m1>
-</entry>
-<entry word="herstiligr">
+</word>
+<word>
+herstiligr
 	<m1><p>a.</p> <i><trn>harsh</trn></i>.</m1>
-</entry>
-<entry word="herstjóri">
+</word>
+<word>
+herstjóri
 	<m1><p>m.</p> <i><trn>commander</trn></i>.</m1>
-</entry>
-<entry word="herstjórn">
+</word>
+<word>
+herstjórn
 	<m1><p>f.</p> <i><trn>command of troops</trn></i>.</m1>
-</entry>
-<entry word="herstr">
+</word>
+<word>
+herstr
 	<m1><p>a.</p> <i><trn>harsh</trn></i>; mæla herst við <p>e-n</p>, <i><trn>to speak harshly to one</trn></i>.</m1>
-</entry>
-<entry word="hertaka">
+</word>
+<word>
+hertaka
 	<m1><b>I)</b></m1>
 	<m2>(<com>see</com> <ref>taka</ref>), <p>v.</p> <i><trn>to capture</trn></i>; ~ konu, <i><trn>to abduct a woman</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> <i><trn>captivity</trn></i>.</m2>
-</entry>
-<entry word="hertaki">
+</word>
+<word>
+hertaki
 	<m1><p>m.</p> <i><trn>captive</trn></i>.</m1>
-</entry>
-<entry word="hertekja">
-	</entry>
-<entry word="hertekning">
+</word>
+<word>
+hertekja
+</word>
+<word>
+hertekning
 	<m1><p>f.</p> = hertaka.</m1>
-</entry>
-<entry word="hertogadómr">
+</word>
+<word>
+hertogadómr
 	<m1><p>m.</p> <i><trn>leadership</trn></i>; <i><trn>dukedom</trn></i>.</m1>
-</entry>
-<entry word="hertogadœmi">
+</word>
+<word>
+hertogadœmi
 	<m1><p>n.</p> <i><trn>duchy</trn></i>.</m1>
-</entry>
-<entry word="hertoganafn">
+</word>
+<word>
+hertoganafn
 	<m1><p>n.</p> <i><trn>title of a duke</trn></i>.</m1>
-</entry>
-<entry word="hertogi">
+</word>
+<word>
+hertogi
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>commander of troops</trn></i>;</m2>
 	<m2>2) <i><trn>duke</trn></i>.</m2>
-</entry>
-<entry word="herváðir">
+</word>
+<word>
+herváðir
 	<m1><p>f.</p> <p>pl.</p> <i><trn>armour</trn></i>.</m1>
-</entry>
-<entry word="hervegr">
+</word>
+<word>
+hervegr
 	<m1><p>m.</p> <i><trn>highway</trn></i>.</m1>
-</entry>
-<entry word="hervirki">
+</word>
+<word>
+hervirki
 	<m1><p>n.</p> <i><trn>ravaging, plundering, damage</trn></i>.</m1>
-</entry>
-<entry word="hérvist">
+</word>
+<word>
+hérvist
 	<m1><p>f.</p> <i><trn>dwelling here</trn></i>.</m1>
-</entry>
-<entry word="hervígi">
+</word>
+<word>
+hervígi
 	<m1><p>n.</p> <i><trn>ravage, man-slaughter</trn></i>.</m1>
-</entry>
-<entry word="hervíkingr">
+</word>
+<word>
+hervíkingr
 	<m1><p>m.</p> <i><trn>plunderer, pirate</trn></i>.</m1>
-</entry>
-<entry word="hervæða">
+</word>
+<word>
+hervæða
 	<m1>(-dda, -ddr), <p>v.</p> = herklæða.</m1>
-</entry>
-<entry word="herzla">
+</word>
+<word>
+herzla
 	<m1><p>f.</p> <i><trn>tempering</trn></i> (of steel).</m1>
-</entry>
-<entry word="herþurft">
+</word>
+<word>
+herþurft
 	<m1><p>f.</p> <i><trn>want of troops</trn></i>.</m1>
-</entry>
-<entry word="herör">
+</word>
+<word>
+herör
 	<m1><p>f.</p> <i><trn>‘war-arrow’</trn></i> (sent round as a to of war); skera upp ~, <i><trn>to summon a district to arms</trn></i>.</m1>
-</entry>
-<entry word="hesli">
+</word>
+<word>
+hesli
 	<m1><p>n.</p> <i><trn>hazel-wood</trn></i>.</m1>
-</entry>
-<entry word="heslikylfa">
+</word>
+<word>
+heslikylfa
 	<m1><p>f.</p> <i><trn>hazel club</trn></i>.</m1>
-</entry>
-<entry word="hesliskógr">
+</word>
+<word>
+hesliskógr
 	<m1><p>m.</p> <i><trn>hazel-wood</trn></i>.</m1>
-</entry>
-<entry word="heslistöng">
+</word>
+<word>
+heslistöng
 	<m1><p>f.</p> <i><trn>hazel-pole</trn></i>.</m1>
-</entry>
-<entry word="heslivöndr">
+</word>
+<word>
+heslivöndr
 	<m1><p>m.</p> <i><trn>hazel wand</trn></i>.</m1>
-</entry>
-<entry word="hespa">
+</word>
+<word>
+hespa
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>hasp, fastening</trn></i>;</m2>
 	<m2>2) <i><trn>skein</trn></i> (of wool).</m2>
-</entry>
-<entry word="hestaat">
-	</entry>
-<entry word="hestavíg">
+</word>
+<word>
+hestaat
+</word>
+<word>
+hestavíg
 	<m1><p>n.</p> <i><trn>horse-fight</trn></i>.</m1>
-</entry>
-<entry word="hestabirgr">
+</word>
+<word>
+hestabirgr
 	<m1><p>a.</p> <i><trn>Well provided with horses</trn></i>.</m1>
-</entry>
-<entry word="hestageldir">
+</word>
+<word>
+hestageldir
 	<m1><p>m.</p> <i><trn>horse gelder</trn></i>.</m1>
-</entry>
-<entry word="hestageymsla">
-	</entry>
-<entry word="hrossageymsla">
+</word>
+<word>
+hestageymsla
+</word>
+<word>
+hrossageymsla
 	<m1><p>f.</p> <i><trn>horse keeping</trn></i>.</m1>
-</entry>
-<entry word="hestagneggjan">
+</word>
+<word>
+hestagneggjan
 	<m1><p>f.</p> <i><trn>neighing of horses</trn></i>.</m1>
-</entry>
-<entry word="hestagnýr">
+</word>
+<word>
+hestagnýr
 	<m1><p>m.</p> <i><trn>noise (din) of horsemen</trn></i>.</m1>
-</entry>
-<entry word="hestajárn">
+</word>
+<word>
+hestajárn
 	<m1><p>n.</p> <p>pl.</p> <i><trn>horse-shoes</trn></i>.</m1>
-</entry>
-<entry word="hestakeyrsla">
+</word>
+<word>
+hestakeyrsla
 	<m1><p>f.</p> <i><trn>driving the horses on, in horse-fight</trn></i>.</m1>
-</entry>
-<entry word="hestakostr">
+</word>
+<word>
+hestakostr
 	<m1><p>m.</p> <i><trn>supply of horses</trn></i> (hafa lítinn hestakost).</m1>
-</entry>
-<entry word="hestalíð">
+</word>
+<word>
+hestalíð
 	<m1><p>n.</p> <i><trn>horsemen</trn></i>.</m1>
-</entry>
-<entry word="hestamaðr">
+</word>
+<word>
+hestamaðr
 	<m1><p>m.</p> = hestasvein.</m1>
-</entry>
-<entry word="hestaskipti">
+</word>
+<word>
+hestaskipti
 	<m1><p>n.</p> <i><trn>change of horses</trn></i>.</m1>
-</entry>
-<entry word="hestastafr">
+</word>
+<word>
+hestastafr
 	<m1><p>m.</p> <i><trn>horse staff</trn></i> (used in a horse-fight).</m1>
-</entry>
-<entry word="hestastallr">
+</word>
+<word>
+hestastallr
 	<m1><p>m.</p> = hest-hús.</m1>
-</entry>
-<entry word="hestasveinn">
+</word>
+<word>
+hestasveinn
 	<m1><p>m.</p> <i><trn>horse boy, groom</trn></i>.</m1>
-</entry>
-<entry word="hestavað">
+</word>
+<word>
+hestavað
 	<m1><p>n.</p> <i><trn>horse ford</trn></i>.</m1>
-</entry>
-<entry word="hestaþing">
+</word>
+<word>
+hestaþing
 	<m1><p>n.</p> <i><trn>a meeting for a public horse-fight</trn></i>.</m1>
-</entry>
-<entry word="hestbak">
+</word>
+<word>
+hestbak
 	<m1><p>a.</p> <i><trn>horse-back</trn></i>.</m1>
-</entry>
-<entry word="hestbein">
+</word>
+<word>
+hestbein
 	<m1><p>n.</p> <i><trn>horse bone</trn></i>.</m1>
-</entry>
-<entry word="hestbirgr">
+</word>
+<word>
+hestbirgr
 	<m1><p>a.</p> = hestabirgr.</m1>
-</entry>
-<entry word="hestbrynja">
+</word>
+<word>
+hestbrynja
 	<m1><p>f.</p> <i><trn>armour for a war-horse</trn></i>.</m1>
-</entry>
-<entry word="hestbúnaðr">
+</word>
+<word>
+hestbúnaðr
 	<m1><p>m.</p> <i><trn>horse-gear</trn></i>.</m1>
-</entry>
-<entry word="hestfœrr">
+</word>
+<word>
+hestfœrr
 	<m1><p>a.</p> <i><trn>able to ride</trn></i>.</m1>
-</entry>
-<entry word="hestgangr">
+</word>
+<word>
+hestgangr
 	<m1><p>m.</p> <i><trn>set of horse shoes</trn></i>.</m1>
-</entry>
-<entry word="hestgjöf">
+</word>
+<word>
+hestgjöf
 	<m1><p>f.</p> <i><trn>gift of a horse</trn></i>.</m1>
-</entry>
-<entry word="hesthús">
+</word>
+<word>
+hesthús
 	<m1><p>n.</p> <i><trn>horse-stall, stable</trn></i>.</m1>
-</entry>
-<entry word="hestklárr">
+</word>
+<word>
+hestklárr
 	<m1><p>m.</p> <i><trn>hack</trn></i>.</m1>
-</entry>
-<entry word="hestlauss">
+</word>
+<word>
+hestlauss
 	<m1><p>a.</p> <i><trn>without a horse</trn></i>.</m1>
-</entry>
-<entry word="hestlán">
+</word>
+<word>
+hestlán
 	<m1><p>n.</p> <i><trn>loan of a horse</trn></i>.</m1>
-</entry>
-<entry word="hestr">
+</word>
+<word>
+hestr
 	<m1>(-s, -ar), <p>m.</p></m1>
 	<m2>1) <i><trn>stallion</trn></i> (hestar þrír ok merhross eitt);</m2>
 	<m2>2) <i><trn>horse</trn></i>.</m2>
-</entry>
-<entry word="hestskeið">
+</word>
+<word>
+hestskeið
 	<m1><p>n.</p> <i><trn>race-course</trn></i>.</m1>
-</entry>
-<entry word="hestskór">
+</word>
+<word>
+hestskór
 	<m1><p>m.</p> <i><trn>horse-shoe</trn></i>.</m1>
-</entry>
-<entry word="hesttönn">
+</word>
+<word>
+hesttönn
 	<m1><p>f.</p> <i><trn>horse’s tooth</trn></i>.</m1>
-</entry>
-<entry word="hestverð">
+</word>
+<word>
+hestverð
 	<m1><p>n.</p> <i><trn>horse’s worth</trn></i>.</m1>
-</entry>
-<entry word="hestvíg">
+</word>
+<word>
+hestvíg
 	<m1><p>n.</p> = <ref>hestavíg</ref>.</m1>
-</entry>
-<entry word="hestvörðr">
+</word>
+<word>
+hestvörðr
 	<m1><p>m.</p> <i><trn>mounted guard</trn></i> (halda hestvörð).</m1>
-</entry>
-<entry word="hét">
+</word>
+<word>
+hét
 	<m1>from <ref>heita</ref>.</m1>
-</entry>
-<entry word="hetja">
+</word>
+<word>
+hetja
 	<m1><p>f.</p> <i><trn>hero, dauntless man</trn></i>.</m1>
-</entry>
-<entry word="hetjuskapr">
+</word>
+<word>
+hetjuskapr
 	<m1><p>m.</p> <i><trn>courage, valour</trn></i>.</m1>
-</entry>
-<entry word="hetta">
+</word>
+<word>
+hetta
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>hood</trn></i>;</m2>
 	<m2>2) <i><trn>a kind of cape</trn></i>.</m2>
-</entry>
-<entry word="hey">
+</word>
+<word>
+hey
 	<m1>(<p>dat.</p> ~i or ~vi), <p>n.</p> <i><trn>hay</trn></i>;</m1>
 	<m2>hirða ~, <i><trn>to get in hay</trn></i>;</m2>
 	<m2><p>pl.</p> <i><trn>stores of hay</trn></i> (hann hefir rænt mik öllum ~jum).</m2>
-</entry>
-<entry word="heyannir">
+</word>
+<word>
+heyannir
 	<m1><p>f.</p> <p>pl.</p> <i><trn>hay-making time, haying season</trn></i>.</m1>
-</entry>
-<entry word="heybjörg">
+</word>
+<word>
+heybjörg
 	<m1><p>f.</p> <i><trn>stores of hay</trn></i> (varð all-lítil ~ manna).</m1>
-</entry>
-<entry word="heydes">
+</word>
+<word>
+heydes
 	<m1><p>f.</p> <i><trn>hay-rick</trn></i>.</m1>
-</entry>
-<entry word="heyfang">
+</word>
+<word>
+heyfang
 	<m1><p>n.</p> <i><trn>produce of hay</trn></i>.</m1>
-</entry>
-<entry word="heyfátt">
+</word>
+<word>
+heyfátt
 	<m1><p>a.</p> <p>n.</p>, var ~, <i><trn>there was little hay</trn></i>.</m1>
-</entry>
-<entry word="heygarðr">
+</word>
+<word>
+heygarðr
 	<m1><p>m.</p> <i><trn>stack-yard</trn></i>.</m1>
-</entry>
-<entry word="heygja">
+</word>
+<word>
+heygja
 	<m1>(-ta, -tr), <p>v.</p> <i><trn>to bury in a how</trn></i> (<ref>haugr</ref>), = <ref>haugfœra</ref>.</m1>
-</entry>
-<entry word="heygjöf">
+</word>
+<word>
+heygjöf
 	<m1><p>f.</p> <i><trn>giving hay</trn></i> (to horses or cows).</m1>
-</entry>
-<entry word="heyhjálmr">
+</word>
+<word>
+heyhjálmr
 	<m1><p>m.</p> <i><trn>hay-rick</trn></i>.</m1>
-</entry>
-<entry word="heyhlass">
+</word>
+<word>
+heyhlass
 	<m1><p>n.</p> <i><trn>load of hay</trn></i>.</m1>
-</entry>
-<entry word="heyja">
+</word>
+<word>
+heyja
 	<m1>(hey; háða, háiðr), <p>v.</p></m1>
 	<m2>1) <i><trn>to hold, conduct</trn></i> (~ þing, dóm); ~ gleði <i><trn>to indulge in mirth</trn></i>; ~ sér orðfjölda <i><trn>to acquire a store of words</trn></i>;</m2>
 	<m2>2) ~ orrostu, bardaga, hólmgöngu <i><trn>to fight a battle or duel</trn></i> (hann hafði margar orrostur háðar);</m2>
 	<m3><p>refl.</p>, ~st við (<p>viz.</p> bardaga), <i><trn>to fight, bandy words</trn></i> (þeir háðust þar við um stund).</m3>
-</entry>
-<entry word="heykjast">
+</word>
+<word>
+heykjast
 	<m1>(t), <p>v. refl.</p> <i><trn>to bend, cower down</trn></i> (~ niðr).</m1>
-</entry>
-<entry word="heykleggi">
+</word>
+<word>
+heykleggi
 	<m1><p>m.</p> = <ref>heydes</ref>.</m1>
-</entry>
-<entry word="heykostr">
+</word>
+<word>
+heykostr
 	<m1><p>m.</p> <i><trn>stores of hay</trn></i>.</m1>
-</entry>
-<entry word="heylauss">
+</word>
+<word>
+heylauss
 	<m1><p>a.</p> <i><trn>short of hay</trn></i>.</m1>
-</entry>
-<entry word="heyleiga">
+</word>
+<word>
+heyleiga
 	<m1><p>f.</p> <i><trn>rent paid in hay</trn></i>.</m1>
-</entry>
-<entry word="heyleys">
+</word>
+<word>
+heyleys
 	<m1>i, <p>n.</p> <i><trn>failure in hay</trn></i>.</m1>
-</entry>
-<entry word="heylítill">
+</word>
+<word>
+heylítill
 	<m1><p>a.</p> <i><trn>short hay</trn></i>; var hey-litit, <i><trn>there was little hay</trn></i>.</m1>
-</entry>
-<entry word="heyra">
+</word>
+<word>
+heyra
 	<m1>(-ða, -ðr), <p>v.</p></m1>
 	<m2>1) <i><trn>to hear</trn></i>;</m2>
 	<m3>~ heyrir þat, er gras grœr á jörðu, <i><trn>hears the grass grow</trn></i>;</m3>
@@ -4157,212 +5356,278 @@ Herjan
 	<m2>4) with <p>dat.</p> <i><trn>to behave</trn></i> (mér heyrir eigi at þegja við yðr);</m2>
 	<m2>5) <p>refl.</p> <p>e-m</p> heyrist <p>e-t</p>, <i><trn>one thinks he hears</trn></i>;</m2>
 	<m3>þá heyrðist þeim öllum sem sveinninn kvæði þetta, <i><trn>they all thought they heard the boy say this (verse)</trn></i>.</m3>
-</entry>
-<entry word="heyrandi">
+</word>
+<word>
+heyrandi
 	<m1>(<p>pl.</p> -endr), <p>m.</p> <i><trn>hearer</trn></i>; í heyranda (<p>gen.</p> <p>pl.</p>) hljóði, <i><trn>in the hearing of all, in public</trn></i>.</m1>
-</entry>
-<entry word="heyrðr">
+</word>
+<word>
+heyrðr
 	<m1><p>pp.</p></m1>
 	<m2>1) <i><trn>able to hear</trn></i> (~ vel);</m2>
 	<m2>2) <i><trn>listened to, paid heed to, esteemed</trn></i> (biskup vel ~).</m2>
-</entry>
-<entry word="heyriligr">
+</word>
+<word>
+heyriligr
 	<m1><p>a.</p> <i><trn>becoming</trn></i>; mér er heyriligt at, <i><trn>it is incumbent on me to</trn></i>.</m1>
-</entry>
-<entry word="heyrinkunnigr">
-	</entry>
-<entry word="heyrinkunnr">
+</word>
+<word>
+heyrinkunnigr
+</word>
+<word>
+heyrinkunnr
 	<m1><p>a.</p> <i><trn>well known, known to all</trn></i>.</m1>
-</entry>
-<entry word="heyrn">
+</word>
+<word>
+heyrn
 	<m1><p>f.</p> <i><trn>hearing</trn></i>; í ~ <p>e-m</p>, <i><trn>in one’s hearing</trn></i>; sumt ritaði hann eptir sjálfs síns ~, <i><trn>from what he heard himself</trn></i>.</m1>
-</entry>
-<entry word="heyrumkunnr">
+</word>
+<word>
+heyrumkunnr
 	<m1><p>a.</p> = heyrinkunnr.</m1>
-</entry>
-<entry word="heysala">
+</word>
+<word>
+heysala
 	<m1><p>f.</p> <i><trn>sale of hay</trn></i>.</m1>
-</entry>
-<entry word="heystái">
+</word>
+<word>
+heystái
 	<m1><p>n.</p> <i><trn>the middle of a hay-stack</trn></i>.</m1>
-</entry>
-<entry word="heytaka">
+</word>
+<word>
+heytaka
 	<m1><p>f.</p> <i><trn>plunder of hay</trn></i>.</m1>
-</entry>
-<entry word="heyteigr">
+</word>
+<word>
+heyteigr
 	<m1><p>m.</p> <i><trn>strip of a hayfield</trn></i>.</m1>
-</entry>
-<entry word="heytjúga">
+</word>
+<word>
+heytjúga
 	<m1><p>f.</p> <i><trn>pitchfork</trn></i>.</m1>
-</entry>
-<entry word="heyverð">
+</word>
+<word>
+heyverð
 	<m1><p>n.</p> <i><trn>payment for hay</trn></i>.</m1>
-</entry>
-<entry word="heyverk">
+</word>
+<word>
+heyverk
 	<m1><p>n.</p> <i><trn>hay making</trn></i>.</m1>
-</entry>
-<entry word="heyvöndull">
+</word>
+<word>
+heyvöndull
 	<m1><p>m.</p> <i><trn>wisp of hay</trn></i>.</m1>
-</entry>
-<entry word="heyþrot">
+</word>
+<word>
+heyþrot
 	<m1><p>n.</p> <i><trn>want of hay</trn></i>.</m1>
-</entry>
-<entry word="heyþrota">
+</word>
+<word>
+heyþrota
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>short of hay</trn></i>.</m1>
-</entry>
-<entry word="heyönn">
+</word>
+<word>
+heyönn
 	<m1><p>f.</p> = heyannir.</m1>
-</entry>
-<entry word="hifna-">
+</word>
+<word>
+hifna-
 	<m1>= himna-.</m1>
-</entry>
-<entry word="higat">
+</word>
+<word>
+higat
 	<m1><p>adv.</p> = hingat.</m1>
-</entry>
-<entry word="hildileikr">
+</word>
+<word>
+hildileikr
 	<m1><p>m.</p> <i><trn>game of war, battle</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hildimeiðr">
-	</entry>
-<entry word="hjálmstafr">
-	</entry>
-<entry word="hrottameiðr">
-	</entry>
-<entry word="rógapaldr">
+</word>
+<word>
+hildimeiðr
+</word>
+<word>
+hjálmstafr
+</word>
+<word>
+hrottameiðr
+</word>
+<word>
+rógapaldr
 	<m1><p>m.</p> <i><trn>warrior</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hildingr">
+</word>
+<word>
+hildingr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>chief, hero</trn></i>.</m1>
-</entry>
-<entry word="hildr">
+</word>
+<word>
+hildr
 	<m1>(<p>gen.</p> hildar, <p>dat.</p> and <p>acc.</p> hildi), <p>f.</p> <i><trn>battle</trn></i> (<p>poet.</p>); vekja bildi, <i><trn>to wage war, to fight</trn></i>.</m1>
-</entry>
-<entry word="hilmir">
+</word>
+<word>
+hilmir
 	<m1>(<p>gen.</p> -is), <p>m.</p> <i><trn>chief, prince</trn></i>.</m1>
-</entry>
-<entry word="himbrin">
+</word>
+<word>
+himbrin
 	<m1><p>n.</p> <i><trn>great northern diver</trn></i>.</m1>
-</entry>
-<entry word="himinbora">
+</word>
+<word>
+himinbora
 	<m1><p>f.</p> = himinrauf.</m1>
-</entry>
-<entry word="himinfastr">
+</word>
+<word>
+himinfastr
 	<m1><p>a.</p> <i><trn>fixed in heaven</trn></i> (of stars).</m1>
-</entry>
-<entry word="himingeisli">
+</word>
+<word>
+himingeisli
 	<m1><p>m.</p> <i><trn>heavenly beam</trn></i>.</m1>
-</entry>
-<entry word="himinjöðurr">
+</word>
+<word>
+himinjöðurr
 	<m1><p>m.</p> <i><trn>the rim of heaven</trn></i>.</m1>
-</entry>
-<entry word="himinlopt">
+</word>
+<word>
+himinlopt
 	<m1><p>n.</p> <i><trn>the vault of heaven</trn></i>.</m1>
-</entry>
-<entry word="himinn">
+</word>
+<word>
+himinn
 	<m1>(<p>gen.</p> himins, <p>dat.</p> himni; <p>pl.</p> himnar), <p>m.</p> <i><trn>heaven</trn></i>; undir berum himini, <i><trn>in the open</trn></i> air.</m1>
-</entry>
-<entry word="himinraufar">
+</word>
+<word>
+himinraufar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>the windows of heaven</trn></i>.</m1>
-</entry>
-<entry word="himinríki">
-	</entry>
-<entry word="himnaríki">
+</word>
+<word>
+himinríki
+</word>
+<word>
+himnaríki
 	<m1><p>n.</p> <i><trn>kingdom of heaven</trn></i>.</m1>
-</entry>
-<entry word="himinskaut">
+</word>
+<word>
+himinskaut
 	<m1><p>n.</p> <i><trn>quarter of heaven</trn></i>.</m1>
-</entry>
-<entry word="himintungl">
+</word>
+<word>
+himintungl
 	<m1><p>n.</p> <i><trn>heavenly body</trn></i>.</m1>
-</entry>
-<entry word="himinvangr">
+</word>
+<word>
+himinvangr
 	<m1><p>m.</p> <i><trn>field of heaven</trn></i> (á himinvanga).</m1>
-</entry>
-<entry word="himnabrauð">
+</word>
+<word>
+himnabrauð
 	<m1><p>n.</p> <i><trn>bread of heaven, manna</trn></i>.</m1>
-</entry>
-<entry word="himnadróttinn">
+</word>
+<word>
+himnadróttinn
 	<m1><p>m.</p> <i><trn>king of heaven</trn></i>.</m1>
-</entry>
-<entry word="himnafagnaðr">
+</word>
+<word>
+himnafagnaðr
 	<m1><p>m.</p> <i><trn>heavenly joy</trn></i>.</m1>
-</entry>
-<entry word="himnamjöl">
+</word>
+<word>
+himnamjöl
 	<m1><p>n.</p> <i><trn>flour of heaven, manna</trn></i>.</m1>
-</entry>
-<entry word="himnavald">
+</word>
+<word>
+himnavald
 	<m1><p>n.</p> <i><trn>heavenly power</trn></i>.</m1>
-</entry>
-<entry word="himnavist">
+</word>
+<word>
+himnavist
 	<m1><p>f.</p> <i><trn>abode in heaven</trn></i>.</m1>
-</entry>
-<entry word="himneskr">
+</word>
+<word>
+himneskr
 	<m1><p>a.</p> <i><trn>heavenly</trn></i>.</m1>
-</entry>
-<entry word="himni">
+</word>
+<word>
+himni
 	<m1>from <ref>himinn</ref>, <i><trn>heaven</trn></i>.</m1>
-</entry>
-<entry word="hind">
+</word>
+<word>
+hind
 	<m1><p>f.</p> <i><trn>hind</trn></i> (female of <ref>hjörtr</ref>).</m1>
-</entry>
-<entry word="hindra">
+</word>
+<word>
+hindra
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to keep behind, hinder</trn></i>;</m2>
 	<m2>2) <i><trn>to loiter, linger</trn></i>; ~ eptir <p>e-u</p>, <i><trn>to loiter about a thing</trn></i>;</m2>
 	<m2>3) <p>impers.</p>, <p>e-n</p> ~r <p>e-t</p>, <i><trn>one wants or lacks a thing</trn></i>.</m2>
-</entry>
-<entry word="hindri">
+</word>
+<word>
+hindri
 	<m1><p>a.</p> <p>compar.</p> (rare), hindra dags, <i><trn>the next day</trn></i>.</m1>
-</entry>
-<entry word="hindrvitni">
+</word>
+<word>
+hindrvitni
 	<m1><p>f.</p> <i><trn>idolatry, superstition</trn></i>.</m1>
-</entry>
-<entry word="hingat">
+</word>
+<word>
+hingat
 	<m1><p>adv.</p> <i><trn>hither</trn></i>.</m1>
-</entry>
-<entry word="hingatburðr">
+</word>
+<word>
+hingatburðr
 	<m1><p>m.</p> <i><trn>the birth of Christ</trn></i>.</m1>
-</entry>
-<entry word="hingatferð">
-	</entry>
-<entry word="hingatför">
+</word>
+<word>
+hingatferð
+</word>
+<word>
+hingatför
 	<m1><p>f.</p> <i><trn>journey hither</trn></i>.</m1>
-</entry>
-<entry word="hingatkvæma">
+</word>
+<word>
+hingatkvæma
 	<m1><p>f.</p> <i><trn>coming hither, arrival</trn></i>.</m1>
-</entry>
-<entry word="hinka">
+</word>
+<word>
+hinka
 	<m1>(að), <p>v.</p> <i><trn>to limp, hobble</trn></i>.</m1>
-</entry>
-<entry word="hinkr">
+</word>
+<word>
+hinkr
 	<m1><p>n.</p> <i><trn>loitering, delay</trn></i>.</m1>
-</entry>
-<entry word="hinn">
+</word>
+<word>
+hinn
 	<m1><b>I)</b></m1>
 	<m2>(hin, hitt), <p>dem. pron.</p></m2>
 	<m3>1) <i><trn>the other</trn></i>; á hinn fótinn, <i><trn>on the other leg</trn></i>; <p>pl.</p> <i><trn>the others, the rest</trn></i> (Kimbi bar sár sín engan mun betr en hinir);</m3>
 	<m3>2) emphatically, <i><trn>that</trn></i>; hitt ek hugða, <i><trn>that was what I thought</trn></i>; hitt vil ek vita, <i><trn>that I want to know</trn></i>.</m3>
 	<m1><b>II)</b></m1>
 	<m2>(hin, hit), <p>def. art.</p>, before an adjective standing alone or followed by a substantive, <i><trn>the</trn></i>, = <ref>inn</ref>, <ref>enn</ref> (eptir hinni eystri kvísl).</m2>
-</entry>
-<entry word="hinna">
+</word>
+<word>
+hinna
 	<m1><p>f.</p> <i><trn>film, membrane</trn></i>.</m1>
-</entry>
-<entry word="hinnig">
+</word>
+<word>
+hinnig
 	<m1>(= hinneg, hinnog), <p>adv.</p></m1>
 	<m2>1) <i><trn>there, in the other place</trn></i>, opp. to <ref>hér</ref>;</m2>
 	<m2>2) <i><trn>the other way</trn></i> (= hinn veg);</m2>
 	<m2>3) <i><trn>thus, so</trn></i>;</m2>
 	<m2>4) <i><trn>the other day formerly</trn></i>;</m2>
 	<m2>5) <i><trn>hither</trn></i>.</m2>
-</entry>
-<entry word="hinztr">
+</word>
+<word>
+hinztr
 	<m1>(hinnstr), <p>a.</p> <p>superl.</p> <i><trn>hindmost, last</trn></i>; hinzta sinni, <i><trn>for the last time</trn></i>; ~ fundr, <i><trn>the last meeting</trn></i>.</m1>
-</entry>
-<entry word="hirð">
+</word>
+<word>
+hirð
 	<m1><p>f.</p> <i><trn>a king’s or earl’s bodyguard</trn></i>; <i><trn>the king’s men</trn></i> (hann hefir á ~ um sik sem konungr).</m1>
-</entry>
-<entry word="hirða">
+</word>
+<word>
+hirða
 	<m1>(-rða, -rðr), <p>v.</p></m1>
 	<m2>1) <i><trn>to keep in a box or chest</trn></i> (Ásgerðr hirði slœðurnar, þar sem áðr vóru);</m2>
 	<m2>2) ~ hey, <i><trn>to gather in hay</trn></i>;</m2>
@@ -4370,117 +5635,154 @@ Herjan
 	<m2>4) <i><trn>to mind, care for</trn></i> (aldregi hirði ek þat);</m2>
 	<m3>~ eigi um <p>e-t</p>, <i><trn>not to care about</trn></i> (þeir hirðu ekki um líf sitt);</m3>
 	<m3>hirð eigi, hirðit eigi, <i><trn>do not seek</trn></i> (hirð eigi þú at hopa á hæl!).</m3>
-</entry>
-<entry word="hirðbiskup">
+</word>
+<word>
+hirðbiskup
 	<m1><p>m.</p> <i><trn>king’s bishop</trn></i>.</m1>
-</entry>
-<entry word="hirðbróðir">
+</word>
+<word>
+hirðbróðir
 	<m1><p>m.</p> <i><trn>comrade of the king’s men</trn></i>.</m1>
-</entry>
-<entry word="hirðbúnaðr">
+</word>
+<word>
+hirðbúnaðr
 	<m1><p>m.</p> <i><trn>apparel for king’s man</trn></i>.</m1>
-</entry>
-<entry word="hirðir">
+</word>
+<word>
+hirðir
 	<m1>(-is, -ar), <p>m.</p> <i><trn>herdsman, shepherd</trn></i>; <i><trn>pastor</trn></i>.</m1>
-</entry>
-<entry word="hirðlið">
+</word>
+<word>
+hirðlið
 	<m1><p>n.</p> <i><trn>the king’s troops</trn></i>.</m1>
-</entry>
-<entry word="hirðligr">
+</word>
+<word>
+hirðligr
 	<m1><p>a.</p> <i><trn>belonging to the king’s men, courtly</trn></i> (hirðlig málsnild).</m1>
-</entry>
-<entry word="hirðlög">
+</word>
+<word>
+hirðlög
 	<m1><p>n.</p> <p>pl.</p> <i><trn>laws and statutes of the king’s men, their community or fellowship</trn></i> (taka <p>e-n</p> í ~).</m1>
-</entry>
-<entry word="hirðmaðr">
+</word>
+<word>
+hirðmaðr
 	<m1><p>m.</p> <i><trn>king’s men</trn></i>.</m1>
-</entry>
-<entry word="hirðmannalúðr">
+</word>
+<word>
+hirðmannalúðr
 	<m1><p>m.</p> <i><trn>a trumpet belonging to the king’s men</trn></i>.</m1>
-</entry>
-<entry word="hirðmannastefna">
+</word>
+<word>
+hirðmannastefna
 	<m1><p>f.</p> <i><trn>a hustings of the king’s men</trn></i>.</m1>
-</entry>
-<entry word="hirðmær">
+</word>
+<word>
+hirðmær
 	<m1><p>f.</p> <i><trn>court lady</trn></i>.</m1>
-</entry>
-<entry word="hirðprestr">
+</word>
+<word>
+hirðprestr
 	<m1><p>m.</p> <i><trn>king’s chaplain</trn></i>.</m1>
-</entry>
-<entry word="hirðprúðr">
+</word>
+<word>
+hirðprúðr
 	<m1><p>a.</p> <i><trn>cour teous</trn></i>.</m1>
-</entry>
-<entry word="hirðprýði">
+</word>
+<word>
+hirðprýði
 	<m1><p>f.</p> <i><trn>royal pomp</trn></i>.</m1>
-</entry>
-<entry word="hirðsiðir">
+</word>
+<word>
+hirðsiðir
 	<m1><p>m.</p> <p>pl.</p> <i><trn>the customs of the king’s men</trn></i>.</m1>
-</entry>
-<entry word="hirðstefna">
+</word>
+<word>
+hirðstefna
 	<m1><p>f.</p> <i><trn>meeting of the king’s men</trn></i>.</m1>
-</entry>
-<entry word="hirðstjóri">
+</word>
+<word>
+hirðstjóri
 	<m1><p>m.</p> <i><trn>the captain of the king’s men</trn></i>.</m1>
-</entry>
-<entry word="hirðstjórn">
+</word>
+<word>
+hirðstjórn
 	<m1><p>f.</p> <i><trn>the dignity of a</trn></i> stjóri.</m1>
-</entry>
-<entry word="hirðstofa">
+</word>
+<word>
+hirðstofa
 	<m1><p>f.</p> <i><trn>king’s hall</trn></i>.</m1>
-</entry>
-<entry word="hirðsveit">
+</word>
+<word>
+hirðsveit
 	<m1><p>f.</p> <i><trn>the host of king’s men</trn></i>.</m1>
-</entry>
-<entry word="hirðuleysa">
+</word>
+<word>
+hirðuleysa
 	<m1><p>f.</p> <i><trn>carelessness, neglect</trn></i>.</m1>
-</entry>
-<entry word="hirðvist">
+</word>
+<word>
+hirðvist
 	<m1><p>f.</p> <i><trn>the position of a king’s man</trn></i>.</m1>
-</entry>
-<entry word="hirsi">
+</word>
+<word>
+hirsi
 	<m1><p>n.</p> <i><trn>millet</trn></i>.</m1>
-</entry>
-<entry word="hirta">
+</word>
+<word>
+hirta
 	<m1>(-rta, -rtr), <p>v.</p> <i><trn>to chastise</trn></i>.</m1>
-</entry>
-<entry word="hirti">
+</word>
+<word>
+hirti
 	<m1>from <ref>hjörtr</ref>, <i><trn>hart</trn></i>.</m1>
-</entry>
-<entry word="hirting">
-	</entry>
-<entry word="tyktan">
+</word>
+<word>
+hirting
+</word>
+<word>
+tyktan
 	<m1><p>f.</p> <i><trn>chastisement</trn></i>.</m1>
-</entry>
-<entry word="hirtingarlauss">
+</word>
+<word>
+hirtingarlauss
 	<m1><p>a.</p> <i><trn>unchastised</trn></i>.</m1>
-</entry>
-<entry word="hirtingarleysi">
+</word>
+<word>
+hirtingarleysi
 	<m1><p>n.</p> <i><trn>want of chastisement</trn></i>.</m1>
-</entry>
-<entry word="hirtingarorð">
+</word>
+<word>
+hirtingarorð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>severe words</trn></i>.</m1>
-</entry>
-<entry word="hirtingarsamr">
+</word>
+<word>
+hirtingarsamr
 	<m1><p>a.</p> <i><trn>severe</trn></i>.</m1>
-</entry>
-<entry word="hirzla">
+</word>
+<word>
+hirzla
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>keeping</trn></i>;</m2>
 	<m2>2) <i><trn>box, chest</trn></i>.</m2>
-</entry>
-<entry word="hita">
+</word>
+<word>
+hita
 	<m1><p>f.</p> <i><trn>heating, heat</trn></i>.</m1>
-</entry>
-<entry word="hiti">
+</word>
+<word>
+hiti
 	<m1><p>m.</p> <i><trn>heat, warmth</trn></i>.</m1>
-</entry>
-<entry word="hitna">
+</word>
+<word>
+hitna
 	<m1>(að), <p>v.</p> <i><trn>to become hot</trn></i>; <p>impers.</p>, <p>e-m</p> ~r, <i><trn>one gets hot (warm)</trn></i>.</m1>
-</entry>
-<entry word="hitt">
+</word>
+<word>
+hitt
 	<m1>from <ref>hinn</ref>, <i><trn>the other</trn></i>.</m1>
-</entry>
-<entry word="hitta">
+</word>
+<word>
+hitta
 	<m1>(-tta, -ttr), <p>v.</p></m1>
 	<m2>1) <i><trn>to hit upon, meet with one</trn></i>;</m2>
 	<m3>~ ráð, <i><trn>to hit upon a device</trn></i>;</m3>
@@ -4493,179 +5795,230 @@ Herjan
 	<m2>3) <i><trn>to visit, call on, see</trn></i> (fóru þá margir menn at ~ Hákon konung);</m2>
 	<m2>4) <p>refl.</p>, ~st, <i><trn>to meet one another</trn></i>;</m2>
 	<m3>hann bað þá vel fara ok heila ~st <i><trn>(meet again safe and sound)</trn></i>.</m3>
-</entry>
-<entry word="hitueldr">
+</word>
+<word>
+hitueldr
 	<m1><p>m.</p> <i><trn>a fire for heating (brewing)</trn></i>.</m1>
-</entry>
-<entry word="hixta">
+</word>
+<word>
+hixta
 	<m1>(-xta, -xt), <p>v.</p> <i><trn>to hiccough</trn></i>; <i><trn>to sob</trn></i>; meðan í önd hixti, <i><trn>while the breath rattled in his throat</trn></i>.</m1>
-</entry>
-<entry word="hixti">
+</word>
+<word>
+hixti
 	<m1><p>m.</p> <i><trn>hiccough</trn></i>; <i><trn>sobbing</trn></i>.</m1>
-</entry>
-<entry word="híbýli">
+</word>
+<word>
+híbýli
 	<m1><p>n.</p> <com>see</com> <ref>hýbýli</ref>.</m1>
-</entry>
-<entry word="híð">
+</word>
+<word>
+híð
 	<m1><p>n.</p> <i><trn>lair, den</trn></i>, <p>esp.</p> of a bear.</m1>
-</entry>
-<entry word="híðbjörn">
+</word>
+<word>
+híðbjörn
 	<m1><p>m.</p> <i><trn>common bear</trn></i>.</m1>
-</entry>
-<entry word="hít">
+</word>
+<word>
+hít
 	<m1><p>f.</p> <i><trn>skin-bag</trn></i>.</m1>
-</entry>
-<entry word="hjal">
+</word>
+<word>
+hjal
 	<m1><p>n.</p> <i><trn>chatter, talk</trn></i>.</m1>
-</entry>
-<entry word="hjala">
+</word>
+<word>
+hjala
 	<m1>(að), <p>v.</p> <i><trn>to chatter, talk</trn></i> (~ <p>e-n</p>);</m1>
 	<m2>~st við, <i><trn>to talk together</trn></i>.</m2>
-</entry>
-<entry word="hjaldr">
+</word>
+<word>
+hjaldr
 	<m1>(-rs), <p>m.</p> <i><trn>fight, battle</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hjaldrjúgt">
+</word>
+<word>
+hjaldrjúgt
 	<m1><p>a.</p> <p>n.</p> <i><trn>talkative, chatting</trn></i>;</m1>
 	<m2>þeim verðr ~, <i><trn>they have much to say</trn></i>.</m2>
-</entry>
-<entry word="hjalli">
+</word>
+<word>
+hjalli
 	<m1><p>m.</p> <i><trn>ledge in a mountain side</trn></i>.</m1>
-</entry>
-<entry word="hjallr">
+</word>
+<word>
+hjallr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>scaffold, frame of timber</trn></i>;</m2>
 	<m2>2) <i><trn>shed</trn></i> (for drying fish).</m2>
-</entry>
-<entry word="hjalskona">
-	</entry>
-<entry word="vina">
-	</entry>
-<entry word="vinkona">
+</word>
+<word>
+hjalskona
+</word>
+<word>
+vina
+</word>
+<word>
+vinkona
 	<m1><p>f.</p> <i><trn>female friend</trn></i>.</m1>
-</entry>
-<entry word="hjalt">
+</word>
+<word>
+hjalt
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>the boss or knob at the end of a sword hilt</trn></i> (eptra, efra ~it);</m2>
 	<m2>2) <i><trn>the guard between the hilt and blade</trn></i> (fremra ~it).</m2>
-</entry>
-<entry>
+</word>
+<word>
 Hjaltland
 	<m1><p>n.</p> <i><trn>Shetland</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Hjaltlendingr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>Shetlander</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Hjaltlenzkr
-</entry>
-<entry>
+</word>
+<word>
 Hjaltneskr
 	<m1><p>a.</p> <i><trn>from Shetland</trn></i>.</m1>
-</entry>
-<entry word="hjara">
+</word>
+<word>
+hjara
 	<m1><p>f.</p> <i><trn>hinge</trn></i>, = <ref>hjarri</ref>.</m1>
-</entry>
-<entry word="hjarðar">
+</word>
+<word>
+hjarðar
 	<m1>from <ref>hjörð</ref>, <i><trn>herd</trn></i>.</m1>
-</entry>
-<entry word="hjarðarsveinn">
-	</entry>
-<entry word="hjarðreki">
+</word>
+<word>
+hjarðarsveinn
+</word>
+<word>
+hjarðreki
 	<m1><p>m.</p> = <ref>hjarðsveinn</ref>.</m1>
-</entry>
-<entry word="hjarðhundr">
+</word>
+<word>
+hjarðhundr
 	<m1><p>m.</p> <i><trn>shepherd’s hound</trn></i>.</m1>
-</entry>
-<entry word="hjarðrækr">
+</word>
+<word>
+hjarðrækr
 	<m1><p>a.</p> <i><trn>able to drive a drove</trn></i>.</m1>
-</entry>
-<entry word="hjarðsveinn">
+</word>
+<word>
+hjarðsveinn
 	<m1><p>m.</p> <i><trn>shepherd boy</trn></i>.</m1>
-</entry>
-<entry word="hjarðtík">
+</word>
+<word>
+hjarðtík
 	<m1><p>f.</p> <i><trn>shepherd’s dog</trn></i>.</m1>
-</entry>
-<entry word="hjarn">
+</word>
+<word>
+hjarn
 	<m1><p>n.</p> <i><trn>hard frozen snow</trn></i>.</m1>
-</entry>
-<entry word="hjarna">
+</word>
+<word>
+hjarna
 	<m1>(að), <p>v.</p> <i><trn>to revive, recover strength</trn></i> (~ við).</m1>
-</entry>
-<entry word="hjarni">
+</word>
+<word>
+hjarni
 	<m1><p>m.</p> <i><trn>brain</trn></i>, = heili.</m1>
-</entry>
-<entry word="hjarnskál">
+</word>
+<word>
+hjarnskál
 	<m1><p>m.</p> <i><trn>brain pan, skull</trn></i>.</m1>
-</entry>
-<entry word="hjarri">
+</word>
+<word>
+hjarri
 	<m1><p>m.</p> <i><trn>hinge</trn></i>.</m1>
-</entry>
-<entry word="hjarsi">
+</word>
+<word>
+hjarsi
 	<m1><p>m.</p> <i><trn>the crown of the head</trn></i>.</m1>
-</entry>
-<entry word="hjarta">
+</word>
+<word>
+hjarta
 	<m1>(<p>pl.</p> hjörtu, <p>gen.</p> hjartna), <p>n.</p></m1>
 	<m2>1) <i><trn>heart</trn></i>;</m2>
 	<m2>2) <i><trn>mind, feeling</trn></i>.</m2>
-</entry>
-<entry word="hjartablauðr">
-	</entry>
-<entry word="hugblauðr">
-	</entry>
-<entry word="úvaskr">
+</word>
+<word>
+hjartablauðr
+</word>
+<word>
+hugblauðr
+</word>
+<word>
+úvaskr
 	<m1><p>a.</p> <i><trn>cowardly</trn></i>.</m1>
-</entry>
-<entry word="hjartablóð">
+</word>
+<word>
+hjartablóð
 	<m1><p>n.</p> <i><trn>heart’s blood</trn></i>.</m1>
-</entry>
-<entry word="hjartaligr">
+</word>
+<word>
+hjartaligr
 	<m1><p>a.</p> <i><trn>hearty</trn></i>.</m1>
-</entry>
-<entry word="hjartaprúðr">
+</word>
+<word>
+hjartaprúðr
 	<m1><p>a.</p> <i><trn>stout-hearted, generous</trn></i>.</m1>
-</entry>
-<entry word="hjartaprýði">
+</word>
+<word>
+hjartaprýði
 	<m1><p>f.</p> <i><trn>stoutness of heart, courage</trn></i>.</m1>
-</entry>
-<entry word="hjartaragr">
+</word>
+<word>
+hjartaragr
 	<m1><p>a.</p> = hjartablauðr.</m1>
-</entry>
-<entry word="hjartarœtr">
+</word>
+<word>
+hjartarœtr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>heart strings</trn></i>.</m1>
-</entry>
-<entry word="hjartasár">
+</word>
+<word>
+hjartasár
 	<m1><p>n.</p> <i><trn>heart wound</trn></i>.</m1>
-</entry>
-<entry word="hjartatregi">
+</word>
+<word>
+hjartatregi
 	<m1><p>m.</p> <i><trn>heart-ache</trn></i>.</m1>
-</entry>
-<entry word="hjartblóð">
+</word>
+<word>
+hjartblóð
 	<m1><p>n.</p> = hjarta-blóð.</m1>
-</entry>
-<entry word="hjartfólginn">
+</word>
+<word>
+hjartfólginn
 	<m1><p>pp.</p> <i><trn>heart-felt, cherished in heart</trn></i>.</m1>
-</entry>
-<entry word="hjartmörr">
+</word>
+<word>
+hjartmörr
 	<m1><p>m.</p> <i><trn>the fat about the heart</trn></i>.</m1>
-</entry>
-<entry word="hjartnæmr">
+</word>
+<word>
+hjartnæmr
 	<m1><p>a.</p> <i><trn>heart-touching</trn></i>.</m1>
-</entry>
-<entry word="hjartsári">
+</word>
+<word>
+hjartsári
 	<m1><p>a.</p> <i><trn>heart-sore, broken-hearted</trn></i>.</m1>
-</entry>
-<entry word="hjartskinn">
+</word>
+<word>
+hjartskinn
 	<m1><p>n.</p> <i><trn>deer-skin</trn></i> (~s glófar).</m1>
-</entry>
-<entry word="hjassi">
+</word>
+<word>
+hjassi
 	<m1><b>I)</b></m1>
 	<m2><p>m.</p> <com>see</com> <ref>hjarsi</ref>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>m.</p> <i><trn>a fabulous beast</trn></i>.</m2>
-</entry>
-<entry word="hjá">
+</word>
+<word>
+hjá
 	<m1><p>prep.</p> with <p>dat.</p></m1>
 	<m2>1) <i><trn>by, near</trn></i>;</m2>
 	<m3>liggja (sitja) ~ <p>e-m</p>, <i><trn>to lie (sit) by one</trn></i>;</m3>
@@ -4685,54 +6038,70 @@ Hjaltneskr
 	<m3>þeir riðu ~ fram, <i><trn>they rode by</trn></i>;</m3>
 	<m2>5) <i><trn>in comparison with (to)</trn></i>;</m2>
 	<m3>höfðu þeir fátt kvikfjár ~ því sem þurfti, <i><trn>they had few live stock in comparison with what was needed</trn></i>.</m3>
-</entry>
-<entry word="hjábú">
+</word>
+<word>
+hjábú
 	<m1><p>n.</p> <i><trn>out-lying estate</trn></i>.</m1>
-</entry>
-<entry word="hjáhvíla">
+</word>
+<word>
+hjáhvíla
 	<m1><p>f.</p> <i><trn>concubinage</trn></i>.</m1>
-</entry>
-<entry word="hjálmaðr">
+</word>
+<word>
+hjálmaðr
 	<m1><p>pp.</p> <i><trn>helmed</trn></i>.</m1>
-</entry>
-<entry word="hjálmbarð">
+</word>
+<word>
+hjálmbarð
 	<m1><p>n.</p> <i><trn>helmet-rim</trn></i>.</m1>
-</entry>
-<entry word="hjálmbönd">
+</word>
+<word>
+hjálmbönd
 	<m1><p>n.</p> <p>pl.</p> <i><trn>helmet strings</trn></i>.</m1>
-</entry>
-<entry word="hjálmdrótt">
+</word>
+<word>
+hjálmdrótt
 	<m1><p>f.</p> <i><trn>helmed host, war host</trn></i>.</m1>
-</entry>
-<entry word="hjálmgjörð">
+</word>
+<word>
+hjálmgjörð
 	<m1><p>f.</p> <i><trn>rim of a helmet</trn></i>.</m1>
-</entry>
-<entry word="hjálmhöttr">
+</word>
+<word>
+hjálmhöttr
 	<m1><p>m.</p> <i><trn>helmet-hood</trn></i> (a kind of cowl put over the helmet).</m1>
-</entry>
-<entry word="hjálmlaukr">
+</word>
+<word>
+hjálmlaukr
 	<m1><p>m.</p> <i><trn>a kind of leek, garlic</trn></i>.</m1>
-</entry>
-<entry word="hjálmr">
+</word>
+<word>
+hjálmr
 	<m1>(-s, -ar), <p>m.</p></m1>
 	<m2>1) <i><trn>helm, helmet</trn></i>;</m2>
 	<m2>2) <i><trn>rick (of hay or barley)</trn></i>.</m2>
-</entry>
-<entry word="hjálmstofn">
+</word>
+<word>
+hjálmstofn
 	<m1><p>m.</p> <i><trn>the head</trn></i>.</m1>
-</entry>
-<entry word="hjálmunvölr">
-	</entry>
-<entry word="hjálmvölr">
+</word>
+<word>
+hjálmunvölr
+</word>
+<word>
+hjálmvölr
 	<m1><p>m.</p> <i><trn>tiller of a helm</trn></i>.</m1>
-</entry>
-<entry word="hjálmvítr">
+</word>
+<word>
+hjálmvítr
 	<m1><p>f.</p> <i><trn>‘helm-wight’, Valkyrie</trn></i>.</m1>
-</entry>
-<entry word="hjálp">
+</word>
+<word>
+hjálp
 	<m1>(-ar, -ir), <p>f.</p> <i><trn>help</trn></i>.</m1>
-</entry>
-<entry word="hjálpa">
+</word>
+<word>
+hjálpa
 	<m1><b>I)</b></m1>
 	<m2>(help; halp or hjalp, hulpum; hólpinn), <p>v.</p></m2>
 	<m3>1) <i><trn>to help</trn></i> (~ <p>e-m</p>);</m3>
@@ -4741,203 +6110,267 @@ Hjaltneskr
 	<m4><p>refl.</p> <i><trn>to be saved</trn></i> (þá munu vér ~st allir saman).</m4>
 	<m1><b>II)</b></m1>
 	<m2>(að), <p>v.</p> = prec.</m2>
-</entry>
-<entry word="hjálpargata">
+</word>
+<word>
+hjálpargata
 	<m1><p>f.</p> <i><trn>a way to help</trn></i>.</m1>
-</entry>
-<entry word="hjálpari">
+</word>
+<word>
+hjálpari
 	<m1><p>m.</p> <i><trn>helper, saviour</trn></i>.</m1>
-</entry>
-<entry word="hjálparlauss">
-	</entry>
-<entry word="hjálplauss">
-	</entry>
-<entry>
+</word>
+<word>
+hjálparlauss
+</word>
+<word>
+hjálplauss
+</word>
+<word>
 ørhilpr
 	<m1><p>a.</p> <i><trn>helpless</trn></i>.</m1>
-</entry>
-<entry word="hjálparmaðr">
+</word>
+<word>
+hjálparmaðr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>helper</trn></i>;</m2>
 	<m2>2) <i><trn>one saved</trn></i>; ek mun vera ~, ef, <i><trn>I shall be saved, if</trn></i>.</m2>
-</entry>
-<entry word="hjálparráð">
+</word>
+<word>
+hjálparráð
 	<m1><p>n.</p> <i><trn>helping advice</trn></i>.</m1>
-</entry>
-<entry word="hjálpleysi">
+</word>
+<word>
+hjálpleysi
 	<m1><p>n.</p> <i><trn>helplessness</trn></i>.</m1>
-</entry>
-<entry word="hjálpráð">
-	</entry>
-<entry word="hjálpræði">
+</word>
+<word>
+hjálpráð
+</word>
+<word>
+hjálpræði
 	<m1><p>n.</p> <i><trn>helping advice</trn></i>; <i><trn>help, means of saving</trn></i>.</m1>
-</entry>
-<entry word="hjálpsamligr">
+</word>
+<word>
+hjálpsamligr
 	<m1><p>a.</p> <i><trn>helpful, salutary</trn></i>.</m1>
-</entry>
-<entry word="hjálpsemd">
+</word>
+<word>
+hjálpsemd
 	<m1><p>f.</p> <i><trn>help, salvation</trn></i>.</m1>
-</entry>
-<entry word="hjálpvænligr">
+</word>
+<word>
+hjálpvænligr
 	<m1><p>a.</p> <i><trn>promising help, likely to help, salutary</trn></i>.</m1>
-</entry>
-<entry word="hjálpvænn">
+</word>
+<word>
+hjálpvænn
 	<m1><p>a.</p> = hjálpvænligr.</m1>
-</entry>
-<entry word="hjámáll">
+</word>
+<word>
+hjámáll
 	<m1><p>a.</p> <i><trn>refractory, obstinate</trn></i>.</m1>
-</entry>
-<entry word="hjástaða">
-	</entry>
-<entry word="liðsemd">
+</word>
+<word>
+hjástaða
+</word>
+<word>
+liðsemd
 	<m1><p>f.</p> <i><trn>assistance</trn></i>.</m1>
-</entry>
-<entry word="hjástigr">
+</word>
+<word>
+hjástigr
 	<m1><p>m.</p> <i><trn>by-path</trn></i>.</m1>
-</entry>
-<entry word="hjátœkr">
+</word>
+<word>
+hjátœkr
 	<m1><p>a.</p> <i><trn>missing one’s hold</trn></i>.</m1>
-</entry>
-<entry word="hjávera">
-	</entry>
-<entry word="hjávist">
-	</entry>
-<entry word="návera">
-	</entry>
-<entry word="nærvera">
-	</entry>
-<entry word="viðrvera">
+</word>
+<word>
+hjávera
+</word>
+<word>
+hjávist
+</word>
+<word>
+návera
+</word>
+<word>
+nærvera
+</word>
+<word>
+viðrvera
 	<m1><p>f.</p> <i><trn>presence</trn></i>.</m1>
-</entry>
-<entry word="hjoggu">
-	</entry>
-<entry word="hjó">
-	</entry>
-<entry word="höggvinn">
+</word>
+<word>
+hjoggu
+</word>
+<word>
+hjó
+</word>
+<word>
+höggvinn
 	<m1>from <ref>höggva</ref>.</m1>
-</entry>
-<entry word="hjól">
+</word>
+<word>
+hjól
 	<m1><p>n.</p> <i><trn>wheel</trn></i> (vagnar á hjólum); brjóta á hjóli, <i><trn>to break (a person) on the wheel</trn></i>.</m1>
-</entry>
-<entry word="hjólvagn">
+</word>
+<word>
+hjólvagn
 	<m1><p>m.</p> <i><trn>cart on wheels</trn></i>.</m1>
-</entry>
-<entry word="hjón">
+</word>
+<word>
+hjón
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>one of the household</trn></i> (griðkona var hit þriðja h.);</m2>
 	<m2>2) <p>pl.</p> <i><trn>married couple, man and wife</trn></i> (Höskuldr bað hana vinna þeim hjónum);</m2>
 	<m2>3) <i><trn>domestic, servant</trn></i> (ef þú sýnir skilríki, at hann sé þitt h. = þinn vinnumaðr); rézt hann þar at hjóni, <i><trn>he took service there</trn></i>.</m2>
-</entry>
-<entry word="hjóna">
+</word>
+<word>
+hjóna
 	<m1><p>n.</p> = hjón (rare).</m1>
-</entry>
-<entry word="hjónaband">
+</word>
+<word>
+hjónaband
 	<m1><p>n.</p> <i><trn>matrimony</trn></i>.</m1>
-</entry>
-<entry word="hjónalið">
+</word>
+<word>
+hjónalið
 	<m1><p>n.</p> <i><trn>domestic servants</trn></i>.</m1>
-</entry>
-<entry word="hjónaligr">
+</word>
+<word>
+hjónaligr
 	<m1><p>a.</p> <i><trn>connubial</trn></i>.</m1>
-</entry>
-<entry word="hjónaskilnaðr">
+</word>
+<word>
+hjónaskilnaðr
 	<m1><p>m.</p> <i><trn>divorce</trn></i>.</m1>
-</entry>
-<entry word="hjónatak">
+</word>
+<word>
+hjónatak
 	<m1><p>n.</p> <i><trn>hiring of servants</trn></i>.</m1>
-</entry>
-<entry word="hjónaval">
+</word>
+<word>
+hjónaval
 	<m1><p>n.</p> <i><trn>choice of servants</trn></i> (eigi hefik dyggt h.).</m1>
-</entry>
-<entry word="hjónmargr">
+</word>
+<word>
+hjónmargr
 	<m1><p>a.</p>, hafa hjónmargt, <i><trn>to have many servants</trn></i>.</m1>
-</entry>
-<entry word="hjú">
+</word>
+<word>
+hjú
 	<m1>(<p>pl.</p> hjú, <p>dat.</p> hjúm), <p>n.</p> = hjón, hjún;</m1>
 	<m2>1) þeir ráku hann í stofu ok hjú hans öll, <i><trn>and all his household-people</trn></i>;</m2>
 	<m2>2) hjú gørðu hvílu, <i><trn>man and wife went to rest</trn></i>;</m2>
 	<m2>3) hann reið heim á Laugaland ok réð sér hjú, <i><trn>and engaged servants</trn></i>.</m2>
-</entry>
-<entry word="hjúfra">
+</word>
+<word>
+hjúfra
 	<m1>(að), <p>v.</p> <i><trn>to weep</trn></i>.</m1>
-</entry>
-<entry word="hjúka">
+</word>
+<word>
+hjúka
 	<m1>(að), <p>v.</p> <i><trn>to nurse</trn></i> a sick person (h. <p>e-m</p>, h. at <com>or</com> við <p>e-m</p>);</m1>
 	<m2><p>refl.</p>, <i><trn>to recover strength</trn></i> (hón ~st lítt við þessa fœðu).</m2>
-</entry>
-<entry word="hjúkan">
+</word>
+<word>
+hjúkan
 	<m1><p>f.</p> <i><trn>nursing</trn></i> (of a sick person).</m1>
-</entry>
-<entry word="hjúkólfr">
+</word>
+<word>
+hjúkólfr
 	<m1><p>m.</p> <i><trn>convivial meeting</trn></i>.</m1>
-</entry>
-<entry word="hjún">
+</word>
+<word>
+hjún
 	<m1><p>n.</p> = hjón.</m1>
-</entry>
-<entry word="hjúpa">
+</word>
+<word>
+hjúpa
 	<m1>(að), <p>v.</p> <i><trn>to shroud</trn></i> (a corpse).</m1>
-</entry>
-<entry word="hjúpr">
+</word>
+<word>
+hjúpr
 	<m1><p>m.</p> a kind of <i><trn>doublet</trn></i>.</m1>
-</entry>
-<entry word="hjúskaparband">
+</word>
+<word>
+hjúskaparband
 	<m1><p>n.</p> <i><trn>bond of matrimony</trn></i>.</m1>
-</entry>
-<entry word="hjúskaparfar">
+</word>
+<word>
+hjúskaparfar
 	<m1><p>n.</p> <i><trn>cohabitation</trn></i>.</m1>
-</entry>
-<entry word="hjúskaparmál">
+</word>
+<word>
+hjúskaparmál
 	<m1><p>n.</p> <i><trn>a case referring to marriage</trn></i>.</m1>
-</entry>
-<entry word="hjúskaparráð">
+</word>
+<word>
+hjúskaparráð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>the contracting of matrimony</trn></i>.</m1>
-</entry>
-<entry word="hjúskaparsamlag">
+</word>
+<word>
+hjúskaparsamlag
 	<m1><p>n.</p> <i><trn>wedlock</trn></i>.</m1>
-</entry>
-<entry word="hjúskapr">
+</word>
+<word>
+hjúskapr
 	<m1><p>m.</p> <i><trn>matrimony</trn></i>.</m1>
-</entry>
-<entry word="hjölp">
+</word>
+<word>
+hjölp
 	<m1>(<p>gen.</p> hjalpar), <p>f.</p> = hjálp.</m1>
-</entry>
-<entry word="hjörð">
+</word>
+<word>
+hjörð
 	<m1>(<p>gen.</p> hjarðar, <p>dat.</p> ~u; <p>pl.</p> hjarðir), <p>f.</p> <i><trn>herd, flock</trn></i>.</m1>
-</entry>
-<entry word="hjördrótt">
+</word>
+<word>
+hjördrótt
 	<m1><p>f.</p> <i><trn>sword-company</trn></i>.</m1>
-</entry>
-<entry word="hjörleikr">
+</word>
+<word>
+hjörleikr
 	<m1><p>m.</p> <i><trn>‘sword-play’, fight</trn></i>.</m1>
-</entry>
-<entry word="hjörlögr">
+</word>
+<word>
+hjörlögr
 	<m1><p>m.</p> <i><trn>‘sword-liquid’, blood</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hjörr">
+</word>
+<word>
+hjörr
 	<m1>(<p>gen.</p> hjarar and hjörs, dat hjörvi), <p>m.</p> <i><trn>sword</trn></i>.</m1>
-</entry>
-<entry word="hjörstefna">
+</word>
+<word>
+hjörstefna
 	<m1><p>f.</p> <i><trn>‘sword-meeting’, battle, fight</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hjörtr">
+</word>
+<word>
+hjörtr
 	<m1>(<p>gen.</p> hjartar, <p>dat.</p> hirti; <p>pl.</p> hirtir, <p>acc.</p> hjörtu), <p>m.</p> <i><trn>hart, stag</trn></i>.</m1>
-</entry>
-<entry word="hjörtu">
+</word>
+<word>
+hjörtu
 	<m1>from <ref>hjarta</ref>, <i><trn>heart</trn></i>.</m1>
-</entry>
-<entry word="hjörundaðr">
+</word>
+<word>
+hjörundaðr
 	<m1><p>pp.</p> <i><trn>wounded by a sword</trn></i>.</m1>
-</entry>
-<entry word="hjörþing">
+</word>
+<word>
+hjörþing
 	<m1><p>n.</p> = hjörstefna.</m1>
-</entry>
-<entry word="hlað">
+</word>
+<word>
+hlað
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>pile, stack</trn></i>;</m2>
 	<m2>2) <i><trn>pavement</trn></i> (in front of a homestead);</m2>
 	<m2>3) <i><trn>border, lace-work</trn></i>; feldr búinn hlöðum, <i><trn>a laced cloak</trn></i>.</m2>
-</entry>
-<entry word="hlaða">
+</word>
+<word>
+hlaða
 	<m1><b>I)</b></m1>
 	<m2>(hleð; hlóð, hlóðum; hlaðinn), <p>v.</p></m2>
 	<m3>1) <i><trn>to pile up</trn></i> (h. korni í hjálma); h. grjóti (hellum) at höfði oðrum, <i><trn>to be present at another’s burial, to survive</trn></i>;</m3>
@@ -4948,52 +6381,65 @@ Hjaltneskr
 	<m3>6) <p>refl.</p>, ~st at, <i><trn>to throng, crowd</trn></i>; vér viljum eigi, at fjölmenni hlaðist at (<i><trn>throng to see</trn></i>), er vér erum afklæddir; ~st á mara bóga, <i><trn>to mount the horses</trn></i>.</m3>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> <i><trn>store-house, barn</trn></i>.</m2>
-</entry>
-<entry word="hlaðbúð">
+</word>
+<word>
+hlaðbúð
 	<m1><p>f.</p> <i><trn>a booth with walls of turf or stones</trn></i>.</m1>
-</entry>
-<entry word="hlaðbúinn">
+</word>
+<word>
+hlaðbúinn
 	<m1><p>pp.</p> <i><trn>ornamented with lace, laced</trn></i> (= hlöðum búinn).</m1>
-</entry>
-<entry word="hlaði">
+</word>
+<word>
+hlaði
 	<m1><p>m.</p> <i><trn>pile, stack</trn></i>.</m1>
-</entry>
-<entry word="hlakka">
+</word>
+<word>
+hlakka
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to cry, scream</trn></i> (of the eagle);</m2>
 	<m2>2) <i><trn>to rejoice</trn></i>;</m2>
 	<m3>~ yfir <p>e-u</p>, <i><trn>to exult over a thing</trn></i>.</m3>
-</entry>
-<entry word="hlamm">
+</word>
+<word>
+hlamm
 	<m1><p>n.</p> <i><trn>a dull, heavy sound</trn></i>.</m1>
-</entry>
-<entry word="hlamma">
+</word>
+<word>
+hlamma
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to give a dull, heavy sound</trn></i>;</m2>
 	<m2>2) <i><trn>to exult</trn></i>.</m2>
-</entry>
-<entry word="hland">
+</word>
+<word>
+hland
 	<m1><p>n.</p> <i><trn>urine</trn></i>.</m1>
-</entry>
-<entry word="hlandausa">
-	</entry>
-<entry word="hlandskjóla">
+</word>
+<word>
+hlandausa
+</word>
+<word>
+hlandskjóla
 	<m1><p>f.</p> <i><trn>urine trough</trn></i>.</m1>
-</entry>
-<entry word="hlandtrog">
+</word>
+<word>
+hlandtrog
 	<m1><p>n.</p> <i><trn>urine trough</trn></i>.</m1>
-</entry>
-<entry word="hlass">
+</word>
+<word>
+hlass
 	<m1><p>n.</p> <i><trn>cart-load</trn></i>.</m1>
-</entry>
-<entry word="hlaup">
+</word>
+<word>
+hlaup
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>leap, jump</trn></i> (Egill hljóp yfir díkit, en þat var ekki annara manna h.);</m2>
 	<m2>2) <i><trn>run, running</trn></i>; taka h., <i><trn>to take to running, to run</trn></i> (hann tók h. heim til herbergis); vera í ~um ok sendiförum, <i><trn>to run on errands</trn></i>;</m2>
 	<m2>3) <i><trn>a sudden rise</trn></i> (in a river), <i><trn>flood, freshet</trn></i> (~ kom í ána);</m2>
 	<m2>4) <i><trn>assault</trn></i> (= <ref>frum~</ref>).</m2>
-</entry>
-<entry word="hlaupa">
+</word>
+<word>
+hlaupa
 	<m1>(hleyp; hljóp, hljópum; hlaupinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to leap, jump</trn></i> (hann hljóp meirr en hæð sina);</m2>
 	<m3>hljópu þeir á hesta sína, <i><trn>they sprang upon their horses</trn></i>;</m3>
@@ -5010,135 +6456,177 @@ Hjaltneskr
 	<m3>~ á, <i><trn>to come suddenly on, spring up</trn></i>, of a gale (þá hljóp á útsynningr steinóði);</m3>
 	<m3>~ saman, of a wound, <i><trn>to heal over</trn></i>;</m3>
 	<m3>~ í sundr, <i><trn>to open up again</trn></i> (sárit var hlaupit í sundr).</m3>
-</entry>
-<entry word="hlaupafar">
+</word>
+<word>
+hlaupafar
 	<m1><p>n.</p> <i><trn>assault</trn></i>; <p>pl.</p> <ref>hlaupaför</ref>.</m1>
-</entry>
-<entry word="hlaupaför">
+</word>
+<word>
+hlaupaför
 	<m1><p>n.</p> <p>pl.</p> <i><trn>uproar</trn></i>.</m1>
-</entry>
-<entry word="hlaupapiltr">
+</word>
+<word>
+hlaupapiltr
 	<m1><p>m.</p> <i><trn>errand boy</trn></i>.</m1>
-</entry>
-<entry word="hlaupari">
+</word>
+<word>
+hlaupari
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>landlouper</trn></i>;</m2>
 	<m2>2) <i><trn>charger</trn></i> (horse).</m2>
-</entry>
-<entry word="hlaupár">
+</word>
+<word>
+hlaupár
 	<m1><p>n.</p> <i><trn>leap-year</trn></i>.</m1>
-</entry>
-<entry word="hlaupingi">
+</word>
+<word>
+hlaupingi
 	<m1>(<p>pl.</p> -jar), <p>m.</p> <i><trn>landlouper, runaway</trn></i>.</m1>
-</entry>
-<entry word="hlaupóðr">
+</word>
+<word>
+hlaupóðr
 	<m1><p>a.</p> <i><trn>in a great flurry</trn></i>.</m1>
-</entry>
-<entry word="hlauprífr">
+</word>
+<word>
+hlauprífr
 	<m1><p>a.</p> <i><trn>precipitate</trn></i>.</m1>
-</entry>
-<entry word="hlaupstigr">
+</word>
+<word>
+hlaupstigr
 	<m1><p>m.</p> <i><trn>run-away-path</trn></i> (taka <p>e-n</p> á þeim hlaupstigi).</m1>
-</entry>
-<entry word="hlaut">
+</word>
+<word>
+hlaut
 	<m1><b>I)</b> <p>f.</p> <i><trn>blood of sacrifice</trn></i>.</m1>
 	<m1><b>II)</b> from <ref>hljóta</ref>.</m1>
-</entry>
-<entry word="hlautteinn">
+</word>
+<word>
+hlautteinn
 	<m1><p>m.</p> <i><trn>sacrificial twig</trn></i> (for sprinkling the blood with).</m1>
-</entry>
-<entry word="hlautviðr">
+</word>
+<word>
+hlautviðr
 	<m1><p>m.</p> <i><trn>rod immersed in sacrificial blood, divination rod</trn></i>.</m1>
-</entry>
-<entry word="hláka">
+</word>
+<word>
+hláka
 	<m1><p>f.</p> <i><trn>thaw</trn></i>.</m1>
-</entry>
-<entry word="hlána">
+</word>
+<word>
+hlána
 	<m1>(að), <p>v.</p> <i><trn>to thaw</trn></i> (veðr tók at þykkna ok ~).</m1>
-</entry>
-<entry word="hlátr">
+</word>
+<word>
+hlátr
 	<m1>(<p>gen.</p> -rar <com>and</com> -rs), <p>m.</p> <i><trn>laughter</trn></i>; reka upp ~, <i><trn>to burst out laughing</trn></i>; hafa <p>e-t</p> at ~i, <i><trn>to ridicule, make a laughing-stock of</trn></i>.</m1>
-</entry>
-<entry word="hlátrmildr">
+</word>
+<word>
+hlátrmildr
 	<m1><p>a.</p> <i><trn>prone to laughing</trn></i>.</m1>
-</entry>
-<entry word="hlé">
+</word>
+<word>
+hlé
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>shelter</trn></i>;</m2>
 	<m2>2) <i><trn>lee, lee side</trn></i>; sigla á h., <i><trn>to stand to leeward</trn></i>.</m2>
-</entry>
-<entry word="hlébarðr">
+</word>
+<word>
+hlébarðr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>leopard</trn></i> (also <p>poet.</p> <i><trn>bear, wolf</trn></i>);</m2>
 	<m2>2) <i><trn>shield</trn></i> (<p>poet.</p>).</m2>
-</entry>
-<entry word="hléborð">
+</word>
+<word>
+hléborð
 	<m1><p>n.</p> <i><trn>the lee side</trn></i>.</m1>
-</entry>
-<entry word="hleð">
-	</entry>
-<entry word="hlóð">
+</word>
+<word>
+hleð
+</word>
+<word>
+hlóð
 	<m1>from <ref>hlaða</ref>.</m1>
-</entry>
-<entry word="hleði">
+</word>
+<word>
+hleði
 	<m1><p>m.</p> <i><trn>shutter</trn></i> (= hleri).</m1>
-</entry>
-<entry word="hléðr">
+</word>
+<word>
+hléðr
 	<m1><p>a.</p> <i><trn>famous, renowned</trn></i> (?).</m1>
-</entry>
-<entry word="hlegit">
-	</entry>
-<entry word="hló">
-	</entry>
-<entry word="hlógu">
+</word>
+<word>
+hlegit
+</word>
+<word>
+hló
+</word>
+<word>
+hlógu
 	<m1>from <ref>hlæja</ref>.</m1>
-</entry>
-<entry word="hleifr">
+</word>
+<word>
+hleifr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>loaf</trn></i>.</m1>
-</entry>
-<entry word="hleifsefni">
+</word>
+<word>
+hleifsefni
 	<m1><p>n.</p> <i><trn>dough for a loaf</trn></i>.</m1>
-</entry>
-<entry word="hleina">
+</word>
+<word>
+hleina
 	<m1>(-da), <p>v.</p> <i><trn>to guard oneself</trn></i> (?).</m1>
-</entry>
-<entry word="hlekkjast">
+</word>
+<word>
+hlekkjast
 	<m1>(t), <p>v. refl.</p>, in the phrase, <p>e-m</p> hlekkist á, <i><trn>one gets impeded, suffers miscarriage</trn></i>.</m1>
-</entry>
-<entry word="hlekkr">
+</word>
+<word>
+hlekkr
 	<m1>(-s or -jar; <p>pl.</p> -ir), <p>m.</p> <i><trn>link</trn></i>; <p>pl.</p> <i><trn>a chain of links</trn></i>.</m1>
-</entry>
-<entry word="hlemmr">
+</word>
+<word>
+hlemmr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>trap-door</trn></i>.</m1>
-</entry>
-<entry word="hlenni">
+</word>
+<word>
+hlenni
 	<m1><p>m.</p> <i><trn>robber</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hlennimaðr">
+</word>
+<word>
+hlennimaðr
 	<m1><p>m.</p> <i><trn>robber, thief</trn></i>.</m1>
-</entry>
-<entry word="hler">
+</word>
+<word>
+hler
 	<m1><p>n.</p> <i><trn>listening</trn></i>; standa á hleri, <i><trn>to stand eaves-dropping or listening</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Hlér
 	<m1>(<p>gen.</p> Hlés), <p>m.</p> <i><trn>the Sea</trn></i>.</m1>
-</entry>
-<entry word="hlera">
+</word>
+<word>
+hlera
 	<m1>(að), <p>v.</p> <i><trn>to listen</trn></i>.</m1>
-</entry>
-<entry word="hleyp">
-	</entry>
-<entry word="hljóp">
-	</entry>
-<entry word="hlupu">
-	</entry>
-<entry word="hlypi">
-	</entry>
-<entry word="hlœpi">
+</word>
+<word>
+hleyp
+</word>
+<word>
+hljóp
+</word>
+<word>
+hlupu
+</word>
+<word>
+hlypi
+</word>
+<word>
+hlœpi
 	<m1>from <ref>hlaupa</ref>.</m1>
-</entry>
-<entry word="hleypa">
+</word>
+<word>
+hleypa
 	<m1>(-ta, -t), <p>v.</p></m1>
 	<m2>1) <i><trn>to make one run or go</trn></i>; <i><trn>to move or impel</trn></i> in some way;</m2>
 	<m3>h. njósnarmönnum á land upp, <i><trn>to send spies ashore</trn></i>;</m3>
@@ -5153,45 +6641,58 @@ Hlér
 	<m2>3) h. berki af trjám, <i><trn>to cut the bark off the trees</trn></i>;</m2>
 	<m3>h. upp dóminum, <i><trn>to break up the court</trn></i> (by violence);</m3>
 	<m2>4) <i><trn>to gallop, ride swiftly</trn></i> = h. hesti (Hrungnir varð reiðr ok hleypti eptir honum).</m2>
-</entry>
-<entry word="hleypifífl">
+</word>
+<word>
+hleypifífl
 	<m1><p>n.</p> <i><trn>a headlong fool</trn></i>.</m1>
-</entry>
-<entry word="hleypiflokkr">
-	</entry>
-<entry word="úaldarflokkr">
+</word>
+<word>
+hleypiflokkr
+</word>
+<word>
+úaldarflokkr
 	<m1><p>m.</p> <i><trn>band of rovers</trn></i>.</m1>
-</entry>
-<entry word="hleypiför">
+</word>
+<word>
+hleypiför
 	<m1><p>f.</p> <i><trn>ramble, roving</trn></i>.</m1>
-</entry>
-<entry word="hleypihvel">
+</word>
+<word>
+hleypihvel
 	<m1><p>n.</p> a kind of <i><trn>war engine</trn></i>.</m1>
-</entry>
-<entry word="hleypimaðr">
+</word>
+<word>
+hleypimaðr
 	<m1><p>m.</p> <i><trn>rover</trn></i>.</m1>
-</entry>
-<entry word="hleyping">
+</word>
+<word>
+hleyping
 	<m1><p>f.</p> <i><trn>galloping</trn></i>.</m1>
-</entry>
-<entry word="hleypiskip">
+</word>
+<word>
+hleypiskip
 	<m1><p>n.</p> <i><trn>swift boat</trn></i>.</m1>
-</entry>
-<entry word="hleypiskúta">
+</word>
+<word>
+hleypiskúta
 	<m1><p>f.</p> <i><trn>swift boat</trn></i>.</m1>
-</entry>
-<entry word="hleytamenn">
-	</entry>
-<entry word="ættmenn">
+</word>
+<word>
+hleytamenn
+</word>
+<word>
+ættmenn
 	<m1><p>m.</p> <p>pl.</p> <i><trn>kinsmen</trn></i>.</m1>
-</entry>
-<entry word="hleyti">
+</word>
+<word>
+hleyti
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>part</trn></i> = leyti;</m2>
 	<m2>2) <p>pl.</p> <i><trn>affinity</trn></i>;</m2>
 	<m3>gøra ~, bindast hleytum við <p>e-n</p>, <i><trn>to marry into another’s family</trn></i>.</m3>
-</entry>
-<entry word="hlið">
+</word>
+<word>
+hlið
 	<m1><b>I)</b></m1>
 	<m2><p>n.</p></m2>
 	<m3>1) <i><trn>gate, gateway</trn></i> (h. heitir á garði);</m3>
@@ -5200,267 +6701,345 @@ Hlér
 	<m3>4) <i><trn>space of time</trn></i>; <i><trn>pause, halt</trn></i> (eptir þat varð h. á orrostunni).</m3>
 	<m1><b>II)</b></m1>
 	<m2>(<p>pl.</p> -ar), <p>f.</p> <i><trn>side</trn></i>; standa á aðra h. <p>e-m</p>, <i><trn>to stand on one side of one</trn></i>; á tvær hliðar <p>e-m</p>, <i><trn>on either side of one</trn></i>; á allar hliðar, <i><trn>on all sides</trn></i>.</m2>
-</entry>
-<entry word="hliða">
+</word>
+<word>
+hliða
 	<m1>(að), <p>v.</p> <i><trn>to give way, recede</trn></i> (~ undan, ~ fyrir <p>e-m</p>);</m1>
 	<m2><p>refl.</p>, ~st, <i><trn>to become open</trn></i>.</m2>
-</entry>
-<entry word="hliðfarmr">
+</word>
+<word>
+hliðfarmr
 	<m1><p>m.</p> <i><trn>‘side-burthen’, load</trn></i> (~ Grana).</m1>
-</entry>
-<entry word="hliðlauss">
+</word>
+<word>
+hliðlauss
 	<m1><p>a.</p> <i><trn>without a gate or opening</trn></i> (veggir hliðlausir).</m1>
-</entry>
-<entry word="hliðmæltr">
+</word>
+<word>
+hliðmæltr
 	<m1><p>pp.</p> <i><trn>said in oblique speech</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Hliðskjálf
 	<m1><p>f.</p> <i><trn>the seat of Odin</trn></i>.</m1>
-</entry>
-<entry word="hliðskjár">
+</word>
+<word>
+hliðskjár
 	<m1><p>m.</p> <i><trn>side window</trn></i>.</m1>
-</entry>
-<entry word="hliðveggr">
+</word>
+<word>
+hliðveggr
 	<m1><p>m.</p> <i><trn>side wall</trn></i>.</m1>
-</entry>
-<entry word="hliðvörðr">
+</word>
+<word>
+hliðvörðr
 	<m1><p>m.</p> <i><trn>porter</trn></i>.</m1>
-</entry>
-<entry word="hlíð">
+</word>
+<word>
+hlíð
 	<m1>(<p>pl.</p> -ir), <p>f.</p> <i><trn>mountain side, slope</trn></i> (fagrar hlíðir grasi vaxnar).</m1>
-</entry>
-<entry word="hlíf">
+</word>
+<word>
+hlíf
 	<m1>(<p>pl.</p> -ar), <p>f.</p> <i><trn>cover, shelter, protection</trn></i>, <p>esp.</p> <i><trn>shield</trn></i>.</m1>
-</entry>
-<entry word="hlífa">
+</word>
+<word>
+hlífa
 	<m1>(-ða, -t), <p>v.</p></m1>
 	<m2>1) <i><trn>to shelter, protect</trn></i>, with <p>dat.</p> (h. sér með skildi, en vega með sverði);</m2>
 	<m2>2) <i><trn>to spare, deal gently with</trn></i> (mun ek ekki h. þér í gørðinni);</m2>
 	<m3><p>refl.</p>, ~st við <p>e-n</p>, <i><trn>to spare one</trn></i> (hann hlífðist þá við engan mann); h. við at gøra <p>e-t</p>, <i><trn>to refrain from doing a thing</trn></i>; h. við, <i><trn>to hold back</trn></i> (sumir hlífðust við mjök).</m3>
-</entry>
-<entry word="hlífarlauss">
+</word>
+<word>
+hlífarlauss
 	<m1><p>a.</p> <i><trn>uncovered</trn></i>.</m1>
-</entry>
-<entry word="hlífð">
+</word>
+<word>
+hlífð
 	<m1><p>f.</p> <i><trn>protection, defence</trn></i>.</m1>
-</entry>
-<entry word="hlífðarlauss">
+</word>
+<word>
+hlífðarlauss
 	<m1><p>a.</p> = hlífarlauss.</m1>
-</entry>
-<entry word="hlífðarstaðr">
+</word>
+<word>
+hlífðarstaðr
 	<m1><p>m.</p> <i><trn>safe place</trn></i>.</m1>
-</entry>
-<entry word="hlífðarvápn">
+</word>
+<word>
+hlífðarvápn
 	<m1><p>n.</p> <i><trn>weapon of defence</trn></i>.</m1>
-</entry>
-<entry word="hlífiskjöldr">
+</word>
+<word>
+hlífiskjöldr
 	<m1>(hlíf-skjöldr), <p>m.</p> <i><trn>shield of defence</trn></i> (hafa <p>e-n</p> at hlífiskildi).</m1>
-</entry>
-<entry word="hlít">
+</word>
+<word>
+hlít
 	<m1><p>f.</p> <i><trn>sufficiency, satisfaction</trn></i>; til (nökkurrar) hlítar, <i><trn>tolerably, pretty well</trn></i>; at góðri h., <i><trn>very well indeed</trn></i>.</m1>
-</entry>
-<entry word="hlíta">
+</word>
+<word>
+hlíta
 	<m1>(-tta, -tt), <p>v.</p></m1>
 	<m2>1) <i><trn>to rely on, trust</trn></i>, with <p>dat.</p> (hlítir Ástríðr ekki öðrum konum at því at þjóna honum í lauginni);</m2>
 	<m2>2) <i><trn>to rest satisfied with, be content with</trn></i> (var hann kvæntr, en hlítti þó eigi þeirri einni saman); eigi má því einu h., er bezt þykkir, <i><trn>one must put up with something short of the best</trn></i>; eigi mun minna við h., <i><trn>less than that will not do</trn></i>; eigi muntu því einu fyrir h., <i><trn>thou shalt not get off with that</trn></i>;</m2>
 	<m2>3) <i><trn>to submit to, abide by</trn></i> (h. sætt, h. órskurði, dómi, ráðum <p>e-s</p>).</m2>
-</entry>
-<entry word="hljóð">
+</word>
+<word>
+hljóð
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>silence, hearing</trn></i>; biðja (kveðja sér) ~s, <i><trn>to beg (ask for) a hearing</trn></i> (Njáll kvaddi sér ~s); fá h., <i><trn>to get a hearing</trn></i>; þegja þunnu ~i, <i><trn>to keep a watchful silence</trn></i>; af ~i, í ~i, <i><trn>in all stillness, silently</trn></i>;</m2>
 	<m2>2) <i><trn>sound</trn></i> (Þorfinnr kom engu ~i lúðrinn); koma á h. um <p>e-t</p>, <i><trn>to become aware of</trn></i>; drepr h. ór <p>e-m</p>, <i><trn>one is struck dumb</trn></i>;</m2>
 	<m2>3) <i><trn>musical sound, tune</trn></i>;</m2>
 	<m2>4) <i><trn>trumpet</trn></i> (h. Heimdallar = Gjallarhorn).</m2>
-</entry>
-<entry word="hljóða">
+</word>
+<word>
+hljóða
 	<m1>(að), <p>v.</p> <i><trn>to sound</trn></i> (hverr stafr ~r með löngu hljóði eða skömmu).</m1>
-</entry>
-<entry word="hljóðaðr">
+</word>
+<word>
+hljóðaðr
 	<m1><p>a.</p> <i><trn>sounding</trn></i>;</m1>
 	<m2>sorgsamliga ~, <i><trn>having a plaintive note</trn></i>.</m2>
-</entry>
-<entry word="hljóðagrein">
+</word>
+<word>
+hljóðagrein
 	<m1><p>f.</p> <i><trn>distinction of sound, accentuation</trn></i>.</m1>
-</entry>
-<entry word="hljóðan">
+</word>
+<word>
+hljóðan
 	<m1><p>f.</p> <i><trn>sound, tune</trn></i>.</m1>
-</entry>
-<entry word="hljóðbjalla">
+</word>
+<word>
+hljóðbjalla
 	<m1><p>f.</p> <i><trn>tinkling bell</trn></i>.</m1>
-</entry>
-<entry word="hljóðfall">
+</word>
+<word>
+hljóðfall
 	<m1><p>n.</p> <i><trn>consonancy</trn></i>.</m1>
-</entry>
-<entry word="hljóðfegrð">
+</word>
+<word>
+hljóðfegrð
 	<m1><p>f.</p> <i><trn>euphony</trn></i>.</m1>
-</entry>
-<entry word="hljóðfyllandi">
+</word>
+<word>
+hljóðfyllandi
 	<m1><p>m.</p> = <ref>stuðill</ref>.</m1>
-</entry>
-<entry word="hljóðfylling">
+</word>
+<word>
+hljóðfylling
 	<m1><p>f.</p> = <ref>stuðill</ref>.</m1>
-</entry>
-<entry word="hljóðfœri">
-	</entry>
-<entry word="söngfœri">
+</word>
+<word>
+hljóðfœri
+</word>
+<word>
+söngfœri
 	<m1><p>n.</p> <i><trn>musical instrument</trn></i>.</m1>
-</entry>
-<entry word="hljóðgóðr">
+</word>
+<word>
+hljóðgóðr
 	<m1><p>a.</p> <i><trn>well-tuned</trn></i>.</m1>
-</entry>
-<entry word="hljóðlátr">
+</word>
+<word>
+hljóðlátr
 	<m1><p>a.</p> <i><trn>reticent, taciturn</trn></i>.</m1>
-</entry>
-<entry word="hljóðleikr">
+</word>
+<word>
+hljóðleikr
 	<m1><p>m.</p> <i><trn>silence, sadness</trn></i>.</m1>
-</entry>
-<entry word="hljóðliga">
+</word>
+<word>
+hljóðliga
 	<m1><p>adv.</p> <i><trn>in all stillness, silently</trn></i>.</m1>
-</entry>
-<entry word="hljóðligr">
+</word>
+<word>
+hljóðligr
 	<m1><p>a.</p> <i><trn>silent</trn></i>.</m1>
-</entry>
-<entry word="hljóðlyndr">
+</word>
+<word>
+hljóðlyndr
 	<m1><p>a.</p> <i><trn>taciturn</trn></i>.</m1>
-</entry>
-<entry word="hljóðlæti">
+</word>
+<word>
+hljóðlæti
 	<m1><p>n.</p> <i><trn>stillness</trn></i>.</m1>
-</entry>
-<entry word="hljóðmikill">
+</word>
+<word>
+hljóðmikill
 	<m1><p>a.</p> <i><trn>shrill-sounding</trn></i>.</m1>
-</entry>
-<entry word="hljóðmæli">
+</word>
+<word>
+hljóðmæli
 	<m1><p>n.</p> <i><trn>secrecy</trn></i>; fœra <p>e-t</p> í ~, <i><trn>to hush up</trn></i>.</m1>
-</entry>
-<entry word="hljóðna">
+</word>
+<word>
+hljóðna
 	<m1>(að), <p>v.</p> <i><trn>to become silent</trn></i>; þar til ~r um mál þessi, <i><trn>till the noise about it subsides</trn></i>.</m1>
-</entry>
-<entry word="hljóðr">
+</word>
+<word>
+hljóðr
 	<m1>(hljóð, hljótt), <p>a.</p> <i><trn>silent, taciturn</trn></i>; tala hljótt, <i><trn>to speak in a low voice</trn></i>; láta hljótt um sik, <i><trn>to keep quiet</trn></i>: var hljótt, <i><trn>there was silence</trn></i>.</m1>
-</entry>
-<entry word="hljóðsamliga">
+</word>
+<word>
+hljóðsamliga
 	<m1><p>adv.</p> = hljóðliga.</m1>
-</entry>
-<entry word="hljóðsamr">
+</word>
+<word>
+hljóðsamr
 	<m1><p>a.</p> = hljóðr.</m1>
-</entry>
-<entry word="hljóðsemd">
-	</entry>
-<entry word="hljóðsemi">
+</word>
+<word>
+hljóðsemd
+</word>
+<word>
+hljóðsemi
 	<m1><p>f.</p> <i><trn>stillness, calmness</trn></i>.</m1>
-</entry>
-<entry word="hljóðsgrein">
+</word>
+<word>
+hljóðsgrein
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>a kind of sound</trn></i>;</m2>
 	<m2>2) <i><trn>pronunciation</trn></i>;</m2>
 	<m2>3) <i><trn>accentuation</trn></i>.</m2>
-</entry>
-<entry word="hljóðstafr">
-	</entry>
-<entry word="raddarstafr">
+</word>
+<word>
+hljóðstafr
+</word>
+<word>
+raddarstafr
 	<m1><p>m.</p> <i><trn>vowel</trn></i>.</m1>
-</entry>
-<entry word="hljómr">
+</word>
+<word>
+hljómr
 	<m1>(<p>gen.</p> -s), <p>m.</p> <i><trn>sound, tune</trn></i>.</m1>
-</entry>
-<entry word="hljóta">
+</word>
+<word>
+hljóta
 	<m1>(hlýt; hlaut, hlutum; hlotinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to get by lot, to have allotted to oneself</trn></i> (hón hlaut at sitja hjá Björgólfi);</m2>
 	<m2>2) <i><trn>to get</trn></i> (h. sigr); margir hlutu gott af hans ráðum, <i><trn>many benefited by his counsels</trn></i>;</m2>
 	<m2>3) <i><trn>to undergo, suffer</trn></i> (h. högg, úför, harm);</m2>
 	<m2>4) <i><trn>to be obliged to</trn></i>; svá mun nú h. at vera, <i><trn>it must needs be so</trn></i>; fara hlýtr þú með mér, <i><trn>thou must go with me</trn></i>;</m2>
 	<m2>5) <p>refl.</p>, ~st af <p>e-u</p>, <i><trn>to result or proceed from</trn></i> (mun hér h. af margs manns bani); hlauzt svá til, at þá tunn átti Ingimundr, <i><trn>it so happened that</trn></i>.</m2>
-</entry>
-<entry word="hlotinn">
-	</entry>
-<entry word="hlutu">
-	</entry>
-<entry word="hlýt">
+</word>
+<word>
+hlotinn
+</word>
+<word>
+hlutu
+</word>
+<word>
+hlýt
 	<m1>from <ref>hljóta</ref>.</m1>
-</entry>
-<entry word="hlotnast">
+</word>
+<word>
+hlotnast
 	<m1>(að), <p>v. refl.</p> <i><trn>to fall to lot</trn></i> (<p>e-m</p> ~ <p>e-t</p>).</m1>
-</entry>
-<entry word="hlóa">
+</word>
+<word>
+hlóa
 	<m1><p>v.</p> <i><trn>to be boiling hot</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Hlóðyn
 	<m1>(<p>gen.</p> -ynjar), <p>f.</p> <i><trn>the Earth</trn></i>.</m1>
-</entry>
-<entry word="hlummr">
+</word>
+<word>
+hlummr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>handle of an oar</trn></i>.</m1>
-</entry>
-<entry word="hlumr">
+</word>
+<word>
+hlumr
 	<m1>(-s, -ir), <p>m.</p></m1>
 	<m2>1) = hlummr;</m2>
 	<m2>2) <i><trn>roller</trn></i> = hlunnr.</m2>
-</entry>
-<entry word="hlunka">
+</word>
+<word>
+hlunka
 	<m1>(að), <p>v.</p> <i><trn>to give a dull, hollow sound</trn></i> (brúin ~ði undir hófunum hestanna).</m1>
-</entry>
-<entry word="hlunngoti">
-	</entry>
-<entry word="stagstjórnmarr">
+</word>
+<word>
+hlunngoti
+</word>
+<word>
+stagstjórnmarr
 	<m1><p>m.</p> <p>poet.</p> <i><trn>ship</trn></i>.</m1>
-</entry>
-<entry word="hlunnindi">
+</word>
+<word>
+hlunnindi
 	<m1><p>n.</p> <p>pl.</p> <i><trn>emoluments</trn></i>.</m1>
-</entry>
-<entry word="hlunnr">
+</word>
+<word>
+hlunnr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>roller for launching or drawing up ships</trn></i>.</m1>
-</entry>
-<entry word="hlunnvigg">
+</word>
+<word>
+hlunnvigg
 	<m1><p>n.</p> <p>poet.</p> = <ref>hlunngoti</ref>.</m1>
-</entry>
-<entry word="hlust">
+</word>
+<word>
+hlust
 	<m1>(<p>pl.</p> -ir), <p>f.</p> <i><trn>ear</trn></i> (= <ref>eyra</ref>).</m1>
-</entry>
-<entry word="hlusta">
+</word>
+<word>
+hlusta
 	<m1>(að), <p>v.</p> <i><trn>to listen</trn></i> (h. til <p>e-s</p>).</m1>
-</entry>
-<entry word="hluta">
+</word>
+<word>
+hluta
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to draw (cast) lots for a thing</trn></i> (h. <p>e-t</p> or h. um <p>e-t</p>);</m2>
 	<m2>2) <i><trn>to select by lot</trn></i> (vóru menn ~ðir til skipstjórnar);</m2>
 	<m2>3) <p>refl.</p>, ~ðist svá til, at, <i><trn>it so turned out that</trn></i> (= hlauzt svá til, at); ~st til <p>e-s</p>, <i><trn>to meddle with a thing</trn></i> (ekki hefi ek ~zt til málaferla, yðvarra); h. til með em, <i><trn>to assist one in a case</trn></i>.</m2>
-</entry>
-<entry word="hlutdeila">
+</word>
+<word>
+hlutdeila
 	<m1>(-da, -dr), <p>v.</p> <i><trn>to meddle with a thing</trn></i> (~ <p>e-t</p>).</m1>
-</entry>
-<entry word="hlutdeilni">
-	</entry>
-<entry word="kávísi">
+</word>
+<word>
+hlutdeilni
+</word>
+<word>
+kávísi
 	<m1><p>f.</p> <i><trn>meddlesomeness</trn></i>.</m1>
-</entry>
-<entry word="hlutdrjúgr">
+</word>
+<word>
+hlutdrjúgr
 	<m1><p>a.</p> <i><trn>lucky, getting the better share</trn></i>.</m1>
-</entry>
-<entry word="hlutfall">
+</word>
+<word>
+hlutfall
 	<m1><p>n.</p> <i><trn>casting of lots</trn></i>; leggja <p>e-t</p> til ~s, <i><trn>to settle a thing by drawing lots</trn></i>; bjóða til ~a, <i><trn>to bid one proceed to cast lots</trn></i>.</m1>
-</entry>
-<entry word="hlutgengr">
+</word>
+<word>
+hlutgengr
 	<m1><p>a.</p> <i><trn>up to the mark</trn></i>; ~ við <p>e-n</p>, <i><trn>equal to one, a match for one</trn></i>.</m1>
-</entry>
-<entry word="hlutgirni">
+</word>
+<word>
+hlutgirni
 	<m1><p>f.</p> = hlutdeilni.</m1>
-</entry>
-<entry word="hlutgjarn">
+</word>
+<word>
+hlutgjarn
 	<m1><p>a.</p> = hlutdeilinn.</m1>
-</entry>
-<entry word="hluti">
+</word>
+<word>
+hluti
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>part</trn></i> (í þeim hluta veraldar); at mínum hluta, <i><trn>for my part, as far as I am concerned</trn></i>;</m2>
 	<m2>2) <i><trn>share, lot</trn></i>; gera á hluta <p>e-s</p>, <i><trn>to wrong one</trn></i>; eptir er enn yðarr h., <i><trn>your part (of the work) remains yet</trn></i>.</m2>
-</entry>
-<entry word="hlutlauss">
+</word>
+<word>
+hlutlauss
 	<m1><p>a.</p> <i><trn>not partaking in, having taken no part in</trn></i> (~ eðr sýkn af manndrápi).</m1>
-</entry>
-<entry word="hlutlaust">
+</word>
+<word>
+hlutlaust
 	<m1><p>adv.</p>, ríða ~, <i><trn>to pass free, unmolested</trn></i>.</m1>
-</entry>
-<entry word="hlutr">
+</word>
+<word>
+hlutr
 	<m1>(-ar, -ir), <p>m.</p></m1>
 	<m2>1) <i><trn>lot</trn></i>;</m2>
 	<m3>bera (leggja) hluti í skaut, <i><trn>to throw the lots into a cloth (lap of a garment)</trn></i>;</m3>
@@ -5486,58 +7065,75 @@ Hlóðyn
 	<m3>allir hlutir, <i><trn>all things</trn></i>;</m3>
 	<m3>kynligr ~, <i><trn>a strange thing</trn></i>;</m3>
 	<m3>um alla hluti, <i><trn>in all things, in all respects</trn></i>.</m3>
-</entry>
-<entry word="hlutræningr">
+</word>
+<word>
+hlutræningr
 	<m1><p>m.</p> <i><trn>one robbed of his share</trn></i>; verða ~ <p>e-s</p> <com>or</com> fyrir <p>e-m</p>, <i><trn>to be unfairly dealt with</trn></i>.</m1>
-</entry>
-<entry word="hlutsamr">
+</word>
+<word>
+hlutsamr
 	<m1><p>a.</p> <i><trn>meddlesome</trn></i> (um <p>e-t</p>).</m1>
-</entry>
-<entry word="hlutseigr">
+</word>
+<word>
+hlutseigr
 	<m1><p>a.</p> <i><trn>tenacious, obstinate</trn></i>.</m1>
-</entry>
-<entry word="hlutskipti">
+</word>
+<word>
+hlutskipti
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>sharing</trn></i>;</m2>
 	<m2>2) <i><trn>booty</trn></i>;</m2>
 	<m2>3) <i><trn>share, lot</trn></i>.</m2>
-</entry>
-<entry word="hlutsæll">
+</word>
+<word>
+hlutsæll
 	<m1><p>a.</p> <i><trn>getting the best share</trn></i>.</m1>
-</entry>
-<entry word="hluttakandi">
-	</entry>
-<entry word="hluttakari">
+</word>
+<word>
+hluttakandi
+</word>
+<word>
+hluttakari
 	<m1><p>m.</p> <i><trn>partaker</trn></i>.</m1>
-</entry>
-<entry word="hlutvandr">
+</word>
+<word>
+hlutvandr
 	<m1><p>a.</p> <i><trn>upright, honest</trn></i>.</m1>
-</entry>
-<entry word="hlutverk">
+</word>
+<word>
+hlutverk
 	<m1><p>n.</p> <i><trn>work allotted, task</trn></i>.</m1>
-</entry>
-<entry word="hlykkjóttr">
+</word>
+<word>
+hlykkjóttr
 	<m1><p>a.</p> <i><trn>crooked</trn></i>.</m1>
-</entry>
-<entry word="hlykkr">
+</word>
+<word>
+hlykkr
 	<m1>(-s, -ir), <p>m.</p> <i><trn>bend, curve</trn></i>.</m1>
-</entry>
-<entry word="hlymja">
+</word>
+<word>
+hlymja
 	<m1>(hlym, hlumda, hlumit), <p>v.</p> <i><trn>to make a loud noise</trn></i>.</m1>
-</entry>
-<entry word="hlymr">
+</word>
+<word>
+hlymr
 	<m1>(-s, -ir), <p>m.</p> <i><trn>a resounding noise</trn></i> (~ var at heyra).</m1>
-</entry>
-<entry word="hlynna">
+</word>
+<word>
+hlynna
 	<m1>(-ta, -t), <p>v.</p> <i><trn>to prepare the way for one</trn></i> (h. fyrir <p>e-m</p>).</m1>
-</entry>
-<entry word="hlynr">
+</word>
+<word>
+hlynr
 	<m1>(-s, -ir), <p>m.</p> <i><trn>maple tree</trn></i>.</m1>
-</entry>
-<entry word="hlý">
+</word>
+<word>
+hlý
 	<m1><p>n.</p> <i><trn>warmth</trn></i> (sumar-hlýit).</m1>
-</entry>
-<entry word="hlýða">
+</word>
+<word>
+hlýða
 	<m1>(-dda, -tt), <p>v.</p></m1>
 	<m2>1) <i><trn>to listen</trn></i> (eyrum hlýðir hann, en augum skoðar);</m2>
 	<m3>~ <p>e-m</p>, <i><trn>to listen (give ear) to one</trn></i>;</m3>
@@ -5549,181 +7145,234 @@ Hlóðyn
 	<m3>engum öðrum skyldi þat ~, <i><trn>nobody else should dare to do so</trn></i>;</m3>
 	<m3>Einar lét engum ~ móti at mæla, <i><trn>E. would not hear of any one’s gainsaying</trn></i>;</m3>
 	<m2>4) <p>refl.</p> <i><trn>to listen</trn></i> (hann hlýðist um, hvárt nökkurir vekti); <i><trn>to be allowable</trn></i> (konungr sagði, at þeim skyldi þat ekki ~st).</m2>
-</entry>
-<entry word="hlýðinn">
+</word>
+<word>
+hlýðinn
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>willing to give ear to one, compliant</trn></i> (hann var ~ vinum sínum um öll góð ráð);</m2>
 	<m2>2) <i><trn>yielding homage to one</trn></i>.</m2>
-</entry>
-<entry word="hlýðnast">
+</word>
+<word>
+hlýðnast
 	<m1>(að), <p>v. refl.</p> <i><trn>to obey</trn></i> (ef þér vilið mér ~).</m1>
-</entry>
-<entry word="hlýðni">
+</word>
+<word>
+hlýðni
 	<m1><p>f.</p> <i><trn>obedience, homage</trn></i>.</m1>
-</entry>
-<entry word="hlýðnibrot">
+</word>
+<word>
+hlýðnibrot
 	<m1><p>n.</p> <i><trn>disobedience</trn></i> (við <p>e-n</p>).</m1>
-</entry>
-<entry word="hlýðnimark">
+</word>
+<word>
+hlýðnimark
 	<m1><p>n.</p> <i><trn>token of obedience</trn></i>.</m1>
-</entry>
-<entry word="hlýðsamt">
+</word>
+<word>
+hlýðsamt
 	<m1><p>a.</p> <p>n.</p> <i><trn>suitable, proper</trn></i>;</m1>
 	<m2>vera ~, = <ref>hlýða</ref> 3.</m2>
-</entry>
-<entry word="hlýja">
+</word>
+<word>
+hlýja
 	<m1>(hlý, hlýða, hlúit), <p>v.</p> <i><trn>to cover, shelter</trn></i> (hlýrat henni börkr né barr).</m1>
-</entry>
-<entry word="hlýr">
+</word>
+<word>
+hlýr
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>cheek</trn></i>; h. roðnaði, <i><trn>her cheek reddened</trn></i>;</m2>
 	<m2>2) <i><trn>bow of a vessel</trn></i>, = <ref>kinnungr</ref>;</m2>
 	<m2>3) <i><trn>the flat of an axe</trn></i>.</m2>
-</entry>
-<entry word="hlýrbjartr">
+</word>
+<word>
+hlýrbjartr
 	<m1><p>a.</p> <i><trn>having brightly painted bows</trn></i> (of a vessel).</m1>
-</entry>
-<entry word="hlýri">
+</word>
+<word>
+hlýri
 	<m1><p>m.</p> <i><trn>friend, brother</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hlýtt">
+</word>
+<word>
+hlýtt
 	<m1>from <ref>hlýr</ref>, <i><trn>warm</trn></i>.</m1>
-</entry>
-<entry word="hlæja">
+</word>
+<word>
+hlæja
 	<m1>(hlæ; hló, hlógum; hleginn), <p>v.</p></m1>
 	<m2>1) <i><trn>to laugh</trn></i>;</m2>
 	<m3>~ hátt, <i><trn>to laugh loud</trn></i>;</m3>
 	<m3>~ at <p>e-u</p>, <i><trn>to laugh at</trn></i>;</m3>
 	<m3>þau tíðendi, er þeim hló hugr við, <i><trn>that gladdened their hearts</trn></i>;</m3>
 	<m2>2) ~ <p>e-n</p>, <i><trn>to laugh at, deride one</trn></i>.</m2>
-</entry>
-<entry word="hlær">
+</word>
+<word>
+hlær
 	<m1>(hlæ, hlætt), <p>a.</p> <i><trn>warm, mild</trn></i> (veðr var þykkt ok hlætt).</m1>
-</entry>
-<entry word="hlœða">
+</word>
+<word>
+hlœða
 	<m1>(-dda, -ddr), <p>v.</p></m1>
 	<m2>1) <i><trn>to lade</trn></i> (h. skip); h. hest, <i><trn>to load, saddle, a horse</trn></i>;</m2>
 	<m2>2) with <p>dat.</p> <i><trn>to load</trn></i> (þú munt gulli h. á Grana bógu).</m2>
-</entry>
-<entry word="hlœgi">
+</word>
+<word>
+hlœgi
 	<m1><p>n.</p> <i><trn>ridicule</trn></i>; fá <p>e-m</p>, ~s, <i><trn>to make one a laughing-stock</trn></i>.</m1>
-</entry>
-<entry word="hlœgiliga">
+</word>
+<word>
+hlœgiliga
 	<m1><p>adv.</p> <i><trn>laughably</trn></i>.</m1>
-</entry>
-<entry word="hlœgiligr">
+</word>
+<word>
+hlœgiligr
 	<m1><p>a.</p> <i><trn>laughable</trn></i>.</m1>
-</entry>
-<entry word="hlœgimáll">
-	</entry>
-<entry word="hlœgimálugr">
-	</entry>
-<entry word="hlœgiorðr">
+</word>
+<word>
+hlœgimáll
+</word>
+<word>
+hlœgimálugr
+</word>
+<word>
+hlœgiorðr
 	<m1><p>a.</p> <i><trn>humorous</trn></i>.</m1>
-</entry>
-<entry word="hlœgja">
+</word>
+<word>
+hlœgja
 	<m1>(-ði), <p>v.</p> <i><trn>to make one laugh</trn></i>; þat hlœgir mik, at, it <i><trn>makes me glad, I am rejoiced, that</trn></i>.</m1>
-</entry>
-<entry word="hlœgligr">
+</word>
+<word>
+hlœgligr
 	<m1><p>a.</p> = hlœgiligr.</m1>
-</entry>
-<entry word="hlöðudyrr">
+</word>
+<word>
+hlöðudyrr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>door of a barn</trn></i>.</m1>
-</entry>
-<entry word="hlöðuvindauga">
+</word>
+<word>
+hlöðuvindauga
 	<m1><p>n.</p> <i><trn>barn window</trn></i>.</m1>
-</entry>
-<entry word="hløra">
+</word>
+<word>
+hløra
 	<m1>(að), <p>v.</p> = hlera.</m1>
-</entry>
-<entry word="hnafa">
+</word>
+<word>
+hnafa
 	<m1>(hnóf), <p>v.</p> <i><trn>to cut off</trn></i> (rare).</m1>
-</entry>
-<entry word="hnakkafilla">
+</word>
+<word>
+hnakkafilla
 	<m1><p>f.</p> <i><trn>the flesh and skin on the nape</trn></i>.</m1>
-</entry>
-<entry word="hnakkband">
+</word>
+<word>
+hnakkband
 	<m1><p>n.</p> <i><trn>anchor cable</trn></i>.</m1>
-</entry>
-<entry word="hnakki">
+</word>
+<word>
+hnakki
 	<m1><p>m.</p> <i><trn>the back of the head, nape of the neck</trn></i>.</m1>
-</entry>
-<entry word="hnakkmiði">
+</word>
+<word>
+hnakkmiði
 	<m1><p>m.</p> <i><trn>anchor-buoy</trn></i>.</m1>
-</entry>
-<entry word="hnakkr">
+</word>
+<word>
+hnakkr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>nape</trn></i> = <ref>hnakki</ref>;</m2>
 	<m2>2) <i><trn>stool</trn></i> = <ref>knakkr</ref>.</m2>
-</entry>
-<entry word="hnauð">
-	</entry>
-<entry word="hnoðinn">
+</word>
+<word>
+hnauð
+</word>
+<word>
+hnoðinn
 	<m1>from <ref>hnjóða</ref>.</m1>
-</entry>
-<entry word="hnaus">
-	</entry>
-<entry word="hnýs">
+</word>
+<word>
+hnaus
+</word>
+<word>
+hnýs
 	<m1>from <ref>hnjósa</ref>.</m1>
-</entry>
-<entry word="hné">
-	</entry>
-<entry word="hneig">
-	</entry>
-<entry word="hniginn">
+</word>
+<word>
+hné
+</word>
+<word>
+hneig
+</word>
+<word>
+hniginn
 	<m1>from <ref>hníga</ref>.</m1>
-</entry>
-<entry word="hnefa">
+</word>
+<word>
+hnefa
 	<m1>(að), <p>v.</p> <i><trn>to clasp with the fist</trn></i>.</m1>
-</entry>
-<entry word="hnefahögg">
+</word>
+<word>
+hnefahögg
 	<m1><p>n.</p> <i><trn>a blow with the fist</trn></i>.</m1>
-</entry>
-<entry word="hnefatafl">
+</word>
+<word>
+hnefatafl
 	<m1><p>n.</p> <i><trn>a kind of chess</trn></i>.</m1>
-</entry>
-<entry word="hnefi">
+</word>
+<word>
+hnefi
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>closed hand, fist</trn></i>;</m2>
 	<m2>2) <i><trn>the king in</trn></i> hnefa-tafl.</m2>
-</entry>
-<entry word="hneftafl">
+</word>
+<word>
+hneftafl
 	<m1><p>n.</p> = hnefatafl.</m1>
-</entry>
-<entry word="hneigja">
+</word>
+<word>
+hneigja
 	<m1>(-ða, -ðr), <p>v.</p></m1>
 	<m2>1) <i><trn>to bow, bow down, bend, incline</trn></i>; h. sik, <i><trn>to make a bow</trn></i>; h. sik til við <p>e-n</p>, <i><trn>to bow down, pay homage to one</trn></i>; h. <p>e-m</p>, <i><trn>to bow down to one</trn></i>; h. eptir <p>e-m</p>, <i><trn>to be biassed towards one</trn></i>;</m2>
 	<m2>2) <p>refl.</p>, ~st, <i><trn>to lean</trn></i>; h. af villu, <i><trn>to forsake heresy</trn></i>; h. til <p>e-s</p>, <i><trn>to lean towards a person</trn></i>; h. fyrir fortölur <p>e-s</p>, <i><trn>to be swayed by another’s persuasions</trn></i>.</m2>
-</entry>
-<entry word="hneisa">
+</word>
+<word>
+hneisa
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>disgrace, shame</trn></i> (gera, vinna, <p>e-m</p> hneisu). Cf. <ref>neisa</ref>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(-ta, -tr), <p>v.</p> <i><trn>to disgrace</trn></i> (h. <p>e-n</p>). Cf. <ref>neisa</ref>.</m2>
-</entry>
-<entry word="hneisuliga">
+</word>
+<word>
+hneisuliga
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>disgracefully</trn></i>;</m2>
 	<m2>2) <i><trn>insultingly</trn></i>.</m2>
-</entry>
-<entry word="hneit">
-	</entry>
-<entry word="hnitu">
+</word>
+<word>
+hneit
+</word>
+<word>
+hnitu
 	<m1>from <ref>hníta</ref>.</m1>
-</entry>
-<entry word="hneita">
+</word>
+<word>
+hneita
 	<m1>(-tta, -ttr), <p>v.</p> <i><trn>to cut</trn></i> (rare).</m1>
-</entry>
-<entry word="hnekking">
+</word>
+<word>
+hnekking
 	<m1><p>f.</p> <i><trn>check, rebuff</trn></i> (hafa ~).</m1>
-</entry>
-<entry word="hnekkir">
+</word>
+<word>
+hnekkir
 	<m1><p>m.</p> <i><trn>check, rebuff</trn></i> (hafa hnekking).</m1>
-</entry>
-<entry word="hnekkistikill">
+</word>
+<word>
+hnekkistikill
 	<m1><p>m.</p> <i><trn>bump on the head</trn></i>.</m1>
-</entry>
-<entry word="hnekkja">
+</word>
+<word>
+hnekkja
 	<m1>(-ta, -tr), <p>v.</p></m1>
 	<m2>1) <i><trn>to drive back</trn></i>, with <p>dat.</p> (síðan lét Egill ~ nautunum út á mýrar);</m2>
 	<m3>~ <p>e-m</p> frá, <i><trn>to repel, repulse</trn></i>;</m3>
@@ -5731,310 +7380,403 @@ Hlóðyn
 	<m3>~ för sinni, <i><trn>to halt and go back again</trn></i>;</m3>
 	<m3>~ vándu ráði, <i><trn>to prevent an evil deed</trn></i>;</m3>
 	<m2>3) <i><trn>to fall back, withdraw</trn></i> (~ Írar nú frá).</m2>
-</entry>
-<entry word="hneppa">
+</word>
+<word>
+hneppa
 	<m1>(-ta, tr), <p>v.</p></m1>
 	<m2>1) <i><trn>to curtail</trn></i>;</m2>
 	<m3>hneppt em ek at brœðrum, <i><trn>I am bereft of brothers</trn></i>;</m3>
 	<m2>2) <i><trn>to thrust, force</trn></i> (Hrólfr hneppti hann undir sik, ok setti kné fyrir brjóst honum);</m2>
 	<m3>~ fólk í þrælkan, <i><trn>to keep a people bound in thraldom</trn></i>.</m3>
-</entry>
-<entry word="hneppiliga">
+</word>
+<word>
+hneppiliga
 	<m1><p>adv.</p> <i><trn>scarcely, scantily</trn></i>.</m1>
-</entry>
-<entry word="hneppr">
+</word>
+<word>
+hneppr
 	<m1><p>a.</p> <i><trn>scant</trn></i>; ætla hneppt til jólanna, <i><trn>to make scant provision for Christmas</trn></i>.</m1>
-</entry>
-<entry word="hneri">
+</word>
+<word>
+hneri
 	<m1><p>m.</p> <i><trn>sneeze, sneezing</trn></i>.</m1>
-</entry>
-<entry word="hnetr">
-	</entry>
-<entry word="hnötr">
+</word>
+<word>
+hnetr
+</word>
+<word>
+hnötr
 	<m1>from <ref>hnot</ref>, <i><trn>nut</trn></i>.</m1>
-</entry>
-<entry word="hneykja">
+</word>
+<word>
+hneykja
 	<m1>(-ta, -tr), <p>v.</p> <i><trn>to put to shame, confound</trn></i>, with <p>acc.</p> (h. grimmleik heiðinna þjóða).</m1>
-</entry>
-<entry word="hneyksli">
+</word>
+<word>
+hneyksli
 	<m1><p>n.</p> <i><trn>disgrace, dishonour</trn></i>.</m1>
-</entry>
-<entry word="hneyksliyrði">
+</word>
+<word>
+hneyksliyrði
 	<m1><p>n.</p> <p>pl.</p> <i><trn>foul language, calumny</trn></i>.</m1>
-</entry>
-<entry word="hnigna">
+</word>
+<word>
+hnigna
 	<m1>(að), <p>v.</p> <i><trn>to begin to sink, decline</trn></i> (e-rr er, gerist, ~ndi).</m1>
-</entry>
-<entry word="hnipinn">
+</word>
+<word>
+hnipinn
 	<m1><p>a.</p> drooping, <i><trn>downcast</trn></i>.</m1>
-</entry>
-<entry word="hnipna">
+</word>
+<word>
+hnipna
 	<m1>(að), <p>v.</p> <i><trn>to become downcast, to droop</trn></i> (~ði þá Grani).</m1>
-</entry>
-<entry word="hnippa">
+</word>
+<word>
+hnippa
 	<m1>(-ta, -t, or að), <p>v.</p> <i><trn>to poke</trn></i>; ~dði kolli hverr at öðrum, <i><trn>they laid their heads together, nodded significantly</trn></i>;</m1>
 	<m2><p>refl.</p>, ~st, <i><trn>to quarrel</trn></i> (= h. við); h. orðum við <p>e-n</p>, <i><trn>to bandy words with one</trn></i>.</m2>
-</entry>
-<entry word="hnita">
+</word>
+<word>
+hnita
 	<m1>(að), <p>v.</p> <i><trn>to weld together</trn></i>.</m1>
-</entry>
-<entry word="hnitbróðir">
+</word>
+<word>
+hnitbróðir
 	<m1><p>m.</p> <i><trn>‘near brother’</trn></i>.</m1>
-</entry>
-<entry word="hníga">
+</word>
+<word>
+hníga
 	<m1>(hníg; hné and hneig, hnigum; hniginn), <p>v.</p></m1>
 	<m2>1) <i><trn>to fall gently, sink down</trn></i> (hné Guðrún höll við bólstri); h. at armi <p>e-m</p>, <i><trn>to sink into one’s arms</trn></i>;</m2>
 	<m2>2) <i><trn>to flow</trn></i> (hnigu heilög vötn af himinfjöllum);</m2>
 	<m2>3) <i><trn>to sink down, fall dead</trn></i> (= h. at velli); h. at grasi, í gras, <i><trn>to bite the grass</trn></i>;</m2>
 	<m2>4) <i><trn>to incline, turn</trn></i>; eigi mátti sjá hvernig h. mundi, <i><trn>which way the scale would turn</trn></i> (in a battle);</m2>
 	<m2>5) h. til <p>e-s</p>, <i><trn>to turn towards</trn></i> (var jafnan þeirra hlutr betri, er til hans hnigu); h. til liðs, hjálpar við <p>e-n</p>, <i><trn>to side with one</trn></i> <p>pp.</p>, hniginn, <i><trn>advanced (stricken) in years</trn></i>, = h. á aldr, h. at aldri; of a door, <i><trn>shut</trn></i>; var hurð hnigin, <i><trn>the door was down</trn></i>; hurð hnigin á hálfa gátt, á miðjan klofa, <i><trn>half shut, half down</trn></i>.</m2>
-</entry>
-<entry word="hnípa">
+</word>
+<word>
+hnípa
 	<m1>(-ta, -t), <p>v.</p> <i><trn>to be downcast, droop</trn></i> (hann hnípti í jörðma).</m1>
-</entry>
-<entry word="hnísa">
+</word>
+<word>
+hnísa
 	<m1><p>f.</p> <i><trn>porpoise</trn></i>.</m1>
-</entry>
-<entry word="hníta">
+</word>
+<word>
+hníta
 	<m1>(hneit, hnitu), <p>v.</p> <i><trn>to strike, wound</trn></i>; hjörr hneit við hjarta, <i><trn>steel touched the heart</trn></i>.</m1>
-</entry>
-<entry word="hnjóða">
+</word>
+<word>
+hnjóða
 	<m1>(hnýð; hnauð; hnoðinn), <p>v.</p> <i><trn>to rivet, clinch</trn></i> (Helgi hnauð hjalt á sverð).</m1>
-</entry>
-<entry word="hnjóðhamarr">
+</word>
+<word>
+hnjóðhamarr
 	<m1><p>m.</p> <i><trn>rivetting, hammer</trn></i>; also as a nickname.</m1>
-</entry>
-<entry word="hnjósa">
+</word>
+<word>
+hnjósa
 	<m1>(hnýs, hnaus), <p>v.</p> <i><trn>to sneeze</trn></i>.</m1>
-</entry>
-<entry word="hnjóskr">
+</word>
+<word>
+hnjóskr
 	<m1><p>m.</p> <i><trn>touchwood</trn></i>, = fnjóskr.</m1>
-</entry>
-<entry word="hnoða">
+</word>
+<word>
+hnoða
 	<m1><p>n.</p> <i><trn>clew</trn></i>.</m1>
-</entry>
-<entry word="hnoðsaumr">
+</word>
+<word>
+hnoðsaumr
 	<m1><p>m.</p> <i><trn>clincher nails</trn></i>.</m1>
-</entry>
-<entry word="hnoss">
+</word>
+<word>
+hnoss
 	<m1>(<p>pl.</p> -ir), <p>f.</p> <i><trn>costly thing, ornament</trn></i> (hverr vildi mér ~ir velja).</m1>
-</entry>
-<entry word="hnot">
+</word>
+<word>
+hnot
 	<m1>(<p>gen.</p> -ar, <p>pl.</p> hnetr), <p>f.</p> <i><trn>nut</trn></i>.</m1>
-</entry>
-<entry word="hnotskógr">
+</word>
+<word>
+hnotskógr
 	<m1><p>m.</p> <i><trn>nutwood, hazelwood</trn></i>.</m1>
-</entry>
-<entry word="hnugginn">
+</word>
+<word>
+hnugginn
 	<m1><p>pp.</p> from ‘hnöggva’;</m1>
 	<m2><i><trn>bereft</trn></i> (miklu ~).</m2>
-</entry>
-<entry word="hnúka">
+</word>
+<word>
+hnúka
 	<m1>(-ta, -t), <p>v.</p> <i><trn>to sit cowering</trn></i>.</m1>
-</entry>
-<entry word="hnúta">
+</word>
+<word>
+hnúta
 	<m1><p>f.</p> = <ref>knúta</ref>.</m1>
-</entry>
-<entry word="hnyðja">
+</word>
+<word>
+hnyðja
 	<m1><p>f.</p> <i><trn>club, rammer</trn></i>.</m1>
-</entry>
-<entry word="hnykill">
+</word>
+<word>
+hnykill
 	<m1>(<p>gen.</p> -s, <p>dat.</p> hnykli; <p>pl.</p> hnyklar), <p>m.</p> <i><trn>knot, tumor</trn></i>.</m1>
-</entry>
-<entry word="hnykkastafr">
+</word>
+<word>
+hnykkastafr
 	<m1><p>m.</p> a kind of <i><trn>peg</trn></i> (?).</m1>
-</entry>
-<entry word="hnykking">
+</word>
+<word>
+hnykking
 	<m1><p>f.</p> <i><trn>pulling</trn></i>.</m1>
-</entry>
-<entry word="hnykkja">
+</word>
+<word>
+hnykkja
 	<m1>(-ta, -tr), <p>v.</p> <i><trn>to pull violenty</trn></i>, with <p>dat.</p> (h. <p>e-m</p> til sin); h. <p>e-u</p> upp, <i><trn>to pull up a thing</trn></i>; <p>absol.</p>, þykkist sveinninn hafa vel hnykkt, <i><trn>he thought he had made a good pull</trn></i>.</m1>
-</entry>
-<entry word="hnýðingr">
+</word>
+<word>
+hnýðingr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>dolphin</trn></i>.</m1>
-</entry>
-<entry word="hnýffil">
+</word>
+<word>
+hnýffil
 	<m1><p>m.</p> <i><trn>short horn</trn></i> (= <ref>knýfill</ref>).</m1>
-</entry>
-<entry word="hnœfiligr">
+</word>
+<word>
+hnœfiligr
 	<m1><p>a.</p> <i><trn>taunting</trn></i> (hnœfilig orð).</m1>
-</entry>
-<entry word="hnœfilyrði">
-	</entry>
-<entry word="hæðyrði">
+</word>
+<word>
+hnœfilyrði
+</word>
+<word>
+hæðyrði
 	<m1><p>n.</p> <p>pl.</p> <i><trn>taunts, gibes</trn></i>.</m1>
-</entry>
-<entry word="hnøggr">
+</word>
+<word>
+hnøggr
 	<m1>(<p>acc.</p> -van), <p>a.</p> <i><trn>stingy</trn></i> (h. fjár).</m1>
-</entry>
-<entry word="hnøri">
+</word>
+<word>
+hnøri
 	<m1><p>m.</p> = hneri.</m1>
-</entry>
-<entry word="hodd">
+</word>
+<word>
+hodd
 	<m1><p>f.</p> <i><trn>hoard, treasure</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hofferð">
+</word>
+<word>
+hofferð
 	<m1><p>f.</p> <i><trn>pride, pomp</trn></i>.</m1>
-</entry>
-<entry word="hoffólk">
+</word>
+<word>
+hoffólk
 	<m1><p>n.</p> <i><trn>courtiers</trn></i>.</m1>
-</entry>
-<entry word="hofgarðr">
+</word>
+<word>
+hofgarðr
 	<m1><p>m.</p> <i><trn>lordly mansion</trn></i>.</m1>
-</entry>
-<entry word="hofgoði">
+</word>
+<word>
+hofgoði
 	<m1><p>m.</p> <i><trn>temple-priest</trn></i>.</m1>
-</entry>
-<entry word="hofgyðja">
+</word>
+<word>
+hofgyðja
 	<m1><p>f.</p> <i><trn>priestess</trn></i>.</m1>
-</entry>
-<entry word="hofhelgr">
+</word>
+<word>
+hofhelgr
 	<m1><p>f.</p> <i><trn>temple-feast</trn></i>.</m1>
-</entry>
-<entry word="hoflýðr">
+</word>
+<word>
+hoflýðr
 	<m1><p>m.</p> = <ref>hoffólk</ref>.</m1>
-</entry>
-<entry word="hofmaðr">
+</word>
+<word>
+hofmaðr
 	<m1><p>m.</p> <i><trn>courtier</trn></i>; <i><trn>gentleman in waiting</trn></i>.</m1>
-</entry>
-<entry word="hofsdyrr">
+</word>
+<word>
+hofsdyrr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>temple-doors</trn></i>.</m1>
-</entry>
-<entry word="hofseiðr">
+</word>
+<word>
+hofseiðr
 	<m1><p>m.</p> <i><trn>temple-oath</trn></i>.</m1>
-</entry>
-<entry word="hofsgoði">
+</word>
+<word>
+hofsgoði
 	<m1><p>m.</p> = hofgoði.</m1>
-</entry>
-<entry word="hofshelgi">
+</word>
+<word>
+hofshelgi
 	<m1><p>f.</p> <i><trn>sanctity of a temple</trn></i>.</m1>
-</entry>
-<entry word="hofsmold">
+</word>
+<word>
+hofsmold
 	<m1><p>f.</p> <i><trn>temple-earth, holy mould</trn></i>.</m1>
-</entry>
-<entry word="hofstabr">
+</word>
+<word>
+hofstabr
 	<m1><p>m.</p> <i><trn>sanctuary</trn></i>.</m1>
-</entry>
-<entry word="hoftollr">
+</word>
+<word>
+hoftollr
 	<m1><p>m.</p> <i><trn>temple-toll, rate</trn></i>.</m1>
-</entry>
-<entry word="hoka">
-	</entry>
-<entry word="hokra">
+</word>
+<word>
+hoka
+</word>
+<word>
+hokra
 	<m1>(að), <p>v.</p> <i><trn>to crouch</trn></i> (h. eða skríða); h. undan, <i><trn>to slink away</trn></i>.</m1>
-</entry>
-<entry word="hol">
+</word>
+<word>
+hol
 	<m1><p>n.</p> <i><trn>hollow, cavity</trn></i>, <p>esp.</p> <i><trn>cavity of the body</trn></i>;</m1>
 	<m2>ganga (hlaupa) á ~, <i><trn>to pierce to the inwards</trn></i> (of weapons);</m2>
 	<m2>hit efra ~, the cavity of the chest;</m2>
 	<m2>neðra ~, <i><trn>the stomach</trn></i>.</m2>
-</entry>
-<entry word="hola">
+</word>
+<word>
+hola
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>hole, hollow</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(að), <p>v.</p> <i><trn>to make hollow</trn></i>.</m2>
-</entry>
-<entry word="holblóð">
+</word>
+<word>
+holblóð
 	<m1><p>n.</p> <i><trn>blood from the inwards</trn></i>.</m1>
-</entry>
-<entry word="hold">
+</word>
+<word>
+hold
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>flesh</trn></i>;</m2>
 	<m3>svörðr ok ~, <i><trn>skin and flesh</trn></i>;</m3>
 	<m3>bjarnar ~, <i><trn>bear’s flesh</trn></i>;</m3>
 	<m2>2) <p>pl.</p> <i><trn>fleshiness</trn></i>.</m2>
-</entry>
-<entry word="holdborinn">
+</word>
+<word>
+holdborinn
 	<m1><p>pp.</p>, ~ bróðir, <i><trn>one’s own brother</trn></i>.</m1>
-</entry>
-<entry word="holdfúi">
+</word>
+<word>
+holdfúi
 	<m1><p>m.</p> <i><trn>mortification</trn></i>.</m1>
-</entry>
-<entry word="holdgan">
+</word>
+<word>
+holdgan
 	<m1><p>f.</p> <i><trn>incarnation</trn></i>.</m1>
-</entry>
-<entry word="holdgast">
+</word>
+<word>
+holdgast
 	<m1>(að), <p>v. refl.</p> <i><trn>to take flesh</trn></i>.</m1>
-</entry>
-<entry word="holdgróinn">
+</word>
+<word>
+holdgróinn
 	<m1><p>pp.</p> <i><trn>grown to the flesh</trn></i>.</m1>
-</entry>
-<entry word="holdligr">
+</word>
+<word>
+holdligr
 	<m1><p>a.</p> <i><trn>carnal</trn></i> (holdlig ást); ~ bróðir, <i><trn>one’s own brother</trn></i>.</m1>
-</entry>
-<entry word="holdlítill">
+</word>
+<word>
+holdlítill
 	<m1><p>a.</p> <i><trn>lean</trn></i>.</m1>
-</entry>
-<entry word="holdr">
+</word>
+<word>
+holdr
 	<m1><p>a.</p> <i><trn>fleshy</trn></i>; vel ~, <i><trn>well-fleshed</trn></i>.</m1>
-</entry>
-<entry word="holdrosa">
+</word>
+<word>
+holdrosa
 	<m1><p>f.</p> <i><trn>fieshy side of a hide</trn></i>.</m1>
-</entry>
-<entry word="holdtekja">
+</word>
+<word>
+holdtekja
 	<m1><p>f.</p> = <ref>holdgan</ref>.</m1>
-</entry>
-<entry word="holfenni">
+</word>
+<word>
+holfenni
 	<m1><p>n.</p> <i><trn>hollow pile of snow</trn></i>.</m1>
-</entry>
-<entry word="holgómr">
+</word>
+<word>
+holgómr
 	<m1><p>a.</p> <i><trn>having a hollow palate</trn></i>.</m1>
-</entry>
-<entry word="holhöggvinn">
+</word>
+<word>
+holhöggvinn
 	<m1><p>pp.</p> <i><trn>cut into the cavity of the body</trn></i>.</m1>
-</entry>
-<entry word="hollendr">
+</word>
+<word>
+hollendr
 	<m1><p>m.</p> <p>pl.</p> <i><trn>suppporters</trn></i>.</m1>
-</entry>
-<entry word="hollosta">
+</word>
+<word>
+hollosta
 	<m1><p>f.</p> <i><trn>faith, loyalty</trn></i> (við <p>e-n</p>).</m1>
-</entry>
-<entry word="hollr">
+</word>
+<word>
+hollr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>faithful, loyal</trn></i> (~ <p>e-m</p>);</m2>
 	<m3>of the gods, <i><trn>gracious</trn></i> (holl regin);</m3>
 	<m2>2) <i><trn>wholesome, salutary</trn></i> (holl ráð).</m2>
-</entry>
-<entry word="hollráðr">
+</word>
+<word>
+hollráðr
 	<m1><p>a.</p> <i><trn>giving wholesome counsel</trn></i>.</m1>
-</entry>
-<entry word="hollræði">
+</word>
+<word>
+hollræði
 	<m1><p>n.</p> <i><trn>wholesome counsel</trn></i>.</m1>
-</entry>
-<entry word="holr">
+</word>
+<word>
+holr
 	<m1><p>a.</p> <i><trn>hollow</trn></i>;</m1>
 	<m2>~ innan, <i><trn>hollow within</trn></i> (þetta guð er holt innan).</m2>
-</entry>
-<entry word="holsár">
+</word>
+<word>
+holsár
 	<m1><p>n.</p> <i><trn>wound in a vital part</trn></i>.</m1>
-</entry>
-<entry word="holt">
+</word>
+<word>
+holt
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>wood</trn></i> (opt er í holti heyrandi nær);</m2>
 	<m2>2) <i><trn>rough stony ridge</trn></i>.</m2>
-</entry>
-<entry word="holtrið">
+</word>
+<word>
+holtrið
 	<m1><p>n.</p> <i><trn>wooded ridge</trn></i>.</m1>
-</entry>
-<entry word="holund">
+</word>
+<word>
+holund
 	<m1><p>f.</p> <i><trn>a wound entering the cavity of the body; mortal wound</trn></i>.</m1>
-</entry>
-<entry word="holundarsár">
+</word>
+<word>
+holundarsár
 	<m1><p>n.</p> = <ref>holsár</ref>, <ref>holund</ref>.</m1>
-</entry>
-<entry word="hopa">
+</word>
+<word>
+hopa
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to move backwards</trn></i>; h. hestinum undan, <i><trn>to back the horse</trn></i>;</m2>
 	<m2>2) <i><trn>to draw back, retreat</trn></i> (= h. aptr, á hæl, undan).</m2>
-</entry>
-<entry word="hoppa">
+</word>
+<word>
+hoppa
 	<m1>(að), <p>v.</p> <i><trn>to hop, skip</trn></i>.</m1>
-</entry>
-<entry word="hordigull">
+</word>
+<word>
+hordigull
 	<m1><p>m.</p> <i><trn>a clot of mucus hanging from the nose</trn></i>.</m1>
-</entry>
-<entry word="horfa">
+</word>
+<word>
+horfa
 	<m1><b>I)</b></m1>
 	<m2>(-ða, -t), <p>v.</p></m2>
 	<m3>1) <i><trn>to turn (be turned)</trn></i> in a certain direction;</m3>
@@ -6052,14 +7794,17 @@ Hlóðyn
 	<m4>horfðust þeir Gizurr höfðum at, <i><trn>he and Gizurr lay with their heads together</trn></i>.</m4>
 	<m1><b>II)</b></m1>
 	<m2>(að), <p>v.</p> = <ref>hörfa</ref>.</m2>
-</entry>
-<entry word="horfinalda">
+</word>
+<word>
+horfinalda
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>luckless</trn></i>.</m1>
-</entry>
-<entry word="horfinheilla">
+</word>
+<word>
+horfinheilla
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>luckless</trn></i>; ~ er mér, <i><trn>luck has left me</trn></i>.</m1>
-</entry>
-<entry word="horfinn">
+</word>
+<word>
+horfinn
 	<m1><p>pp.</p> from <ref>hverfa</ref> I;</m1>
 	<m2>1) <i><trn>surrounded</trn></i> (bœrinn var ~ mönnum);</m2>
 	<m3>vera vel vinum ~, <i><trn>to be well backed by friends</trn></i>;</m3>
@@ -6068,103 +7813,134 @@ Hlóðyn
 	<m3>heillum ~, <i><trn>forsaken by luck</trn></i>;</m3>
 	<m3>sök ~, <i><trn>having lost the suit</trn></i>;</m3>
 	<m3>heraði ~, <i><trn>bereft of a dwelling in the district</trn></i>.</m3>
-</entry>
-<entry word="horn">
+</word>
+<word>
+horn
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>horn</trn></i> (of cattle); vera harðr í h. at taka, <i><trn>to be hard to take by the horns, hard to deal with</trn></i>;</m2>
 	<m2>2) <i><trn>drinking-horn</trn></i>;</m2>
 	<m2>3) <i><trn>horn, trumpet</trn></i> (blása í h.);</m2>
 	<m2>4) <i><trn>corner, angle</trn></i>; skýtr í tvau h. um <p>e-t</p>, <i><trn>there is a great difference between</trn></i>; skýtr í tvau h. með okkr, <i><trn>we are at variance</trn></i>;</m2>
 	<m2>5) <i><trn>nook, corner</trn></i> (in a house).</m2>
-</entry>
-<entry word="hornafláttr">
+</word>
+<word>
+hornafláttr
 	<m1><p>m.</p> <i><trn>flaying a hide with the horns</trn></i>.</m1>
-</entry>
-<entry word="hornaskvol">
+</word>
+<word>
+hornaskvol
 	<m1><p>n.</p> <i><trn>noise of horns</trn></i>.</m1>
-</entry>
-<entry word="hornatog">
+</word>
+<word>
+hornatog
 	<m1><p>n.</p> <i><trn>a rope round the horns</trn></i>.</m1>
-</entry>
-<entry word="hornblástr">
-	</entry>
-<entry word="lúðragangr">
+</word>
+<word>
+hornblástr
+</word>
+<word>
+lúðragangr
 	<m1><p>m.</p> <i><trn>sound of trumpets</trn></i>.</m1>
-</entry>
-<entry word="hornbogi">
+</word>
+<word>
+hornbogi
 	<m1><p>m.</p> <i><trn>horn-bow</trn></i>.</m1>
-</entry>
-<entry word="hornfiskr">
+</word>
+<word>
+hornfiskr
 	<m1><p>m.</p> <i><trn>garfish or green bone</trn></i>.</m1>
-</entry>
-<entry word="horngöfugr">
+</word>
+<word>
+horngöfugr
 	<m1><p>a.</p> <i><trn>proud of his horns</trn></i>.</m1>
-</entry>
-<entry word="hornkerling">
+</word>
+<word>
+hornkerling
 	<m1><p>f.</p> <i><trn>old woman in the corner</trn></i>.</m1>
-</entry>
-<entry word="hornkona">
-	</entry>
-<entry word="hornreka">
+</word>
+<word>
+hornkona
+</word>
+<word>
+hornreka
 	<m1><p>f.</p> = hornkerling.</m1>
-</entry>
-<entry word="hornsil">
+</word>
+<word>
+hornsil
 	<m1><p>n.</p> <i><trn>stickle-back</trn></i>.</m1>
-</entry>
-<entry word="hornskafa">
+</word>
+<word>
+hornskafa
 	<m1><p>f.</p> <i><trn>a scraper made of horn</trn></i>.</m1>
-</entry>
-<entry word="hornspánn">
+</word>
+<word>
+hornspánn
 	<m1><p>m.</p> <i><trn>horn spoon</trn></i>.</m1>
-</entry>
-<entry word="hornstafr">
+</word>
+<word>
+hornstafr
 	<m1><p>m.</p> <i><trn>corner pillar in a building</trn></i>.</m1>
-</entry>
-<entry word="hornungr">
+</word>
+<word>
+hornungr
 	<m1>(-s, -ar), <p>m.</p></m1>
 	<m2>1) <i><trn>bastard son</trn></i>;</m2>
 	<m2>2) <i><trn>scamp, outcast</trn></i> (vera h. <p>e-s</p>).</m2>
-</entry>
-<entry word="horr">
+</word>
+<word>
+horr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>starvation</trn></i>; detta, niðr í hor, <i><trn>to starve to death</trn></i>;</m2>
 	<m2>2) <i><trn>mucus from the nose</trn></i>.</m2>
-</entry>
-<entry word="horskleikr">
-	</entry>
-<entry word="vísleikir">
+</word>
+<word>
+horskleikr
+</word>
+<word>
+vísleikir
 	<m1><p>m.</p> <i><trn>knowledge, wisdom</trn></i>.</m1>
-</entry>
-<entry word="horskligr">
+</word>
+<word>
+horskligr
 	<m1><p>a.</p> <i><trn>wise, noble</trn></i>.</m1>
-</entry>
-<entry word="horskr">
+</word>
+<word>
+horskr
 	<m1><p>a.</p> <i><trn>wise</trn></i> (h. ok þögull).</m1>
-</entry>
-<entry word="hortugr">
+</word>
+<word>
+hortugr
 	<m1><p>a.</p> <i><trn>pert, impertinent</trn></i>.</m1>
-</entry>
-<entry word="hosa">
+</word>
+<word>
+hosa
 	<m1><p>f.</p> <i><trn>hose, legging</trn></i>.</m1>
-</entry>
-<entry word="hosaðr">
+</word>
+<word>
+hosaðr
 	<m1><p>pp.</p> <i><trn>wearing hose</trn></i>.</m1>
-</entry>
-<entry word="hosnareim">
-	</entry>
-<entry word="hosnasterta">
+</word>
+<word>
+hosnareim
+</word>
+<word>
+hosnasterta
 	<m1><p>f.</p> <i><trn>garter</trn></i>.</m1>
-</entry>
-<entry word="hotvetna">
+</word>
+<word>
+hotvetna
 	<m1><com>see</com> <ref>hvatvetna</ref>.</m1>
-</entry>
-<entry word="hó">
+</word>
+<word>
+hó
 	<m1><p>interj.</p> <i><trn>hoh! ah! oh!</trn></i>.</m1>
-</entry>
-<entry word="hóa">
+</word>
+<word>
+hóa
 	<m1>(að), <p>v.</p> <i><trn>to shout ‘hoh’</trn></i> (~ á féit).</m1>
-</entry>
-<entry word="hóf">
+</word>
+<word>
+hóf
 	<m1><b>I)</b></m1>
 	<m2><p>m.</p></m2>
 	<m3>1) <i><trn>moderation, measure</trn></i>;</m3>
@@ -6180,499 +7956,658 @@ Hlóðyn
 	<m2><p>n.</p> <i><trn>feast, banquet</trn></i>.</m2>
 	<m1><b>III)</b></m1>
 	<m2>from <ref>hefja</ref>.</m2>
-</entry>
-<entry word="hófgullinn">
+</word>
+<word>
+hófgullinn
 	<m1><p>a.</p> <i><trn>with golden hoof</trn></i>.</m1>
-</entry>
-<entry word="hófhvarf">
+</word>
+<word>
+hófhvarf
 	<m1><p>n.</p> <i><trn>pastern of a horse</trn></i>.</m1>
-</entry>
-<entry word="hóflauss">
-	</entry>
-<entry word="úhófsamligr">
+</word>
+<word>
+hóflauss
+</word>
+<word>
+úhófsamligr
 	<m1><p>a.</p> <i><trn>immoderate</trn></i>.</m1>
-</entry>
-<entry word="hófleysa">
+</word>
+<word>
+hófleysa
 	<m1><p>f.</p> <i><trn>immoderation, excess</trn></i>.</m1>
-</entry>
-<entry word="hófliga">
+</word>
+<word>
+hófliga
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>with moderation</trn></i>;</m2>
 	<m2>2) <i><trn>fitly</trn></i>;</m2>
 	<m2>3) <i><trn>fairly</trn></i> (munu þeir nú vera ~ hræddir).</m2>
-</entry>
-<entry word="hófligr">
-	</entry>
-<entry word="hœfilátr">
+</word>
+<word>
+hófligr
+</word>
+<word>
+hœfilátr
 	<m1><p>a.</p> <i><trn>moderate</trn></i>.</m1>
-</entry>
-<entry word="hófsamligr">
-	</entry>
-<entry word="hófsamr">
+</word>
+<word>
+hófsamligr
+</word>
+<word>
+hófsamr
 	<m1><p>a.</p> <i><trn>moderate temperate</trn></i>.</m1>
-</entry>
-<entry word="hófsemd">
-	</entry>
-<entry word="hófsemi">
+</word>
+<word>
+hófsemd
+</word>
+<word>
+hófsemi
 	<m1><p>f.</p> <i><trn>moderation, temperance</trn></i>.</m1>
-</entry>
-<entry word="hófskegg">
+</word>
+<word>
+hófskegg
 	<m1><p>n.</p> <i><trn>fetlock</trn></i>.</m1>
-</entry>
-<entry word="hófsmaðr">
+</word>
+<word>
+hófsmaðr
 	<m1><p>m.</p> <i><trn>temperate, just man</trn></i>.</m1>
-</entry>
-<entry word="hófstilling">
+</word>
+<word>
+hófstilling
 	<m1><p>f.</p> <i><trn>moderation</trn></i>.</m1>
-</entry>
-<entry word="hóft">
+</word>
+<word>
+hóft
 	<m1>(-s, -ar), <p>m.</p> <i><trn>hoof</trn></i> (of a horse).</m1>
-</entry>
-<entry word="hógbærr">
+</word>
+<word>
+hógbærr
 	<m1><p>a.</p> easy to bear.</m1>
-</entry>
-<entry word="hógfœrr">
+</word>
+<word>
+hógfœrr
 	<m1><p>a.</p> <i><trn>lively, light</trn></i> (of a horse).</m1>
-</entry>
-<entry word="hóglátr">
+</word>
+<word>
+hóglátr
 	<m1><p>a.</p> <i><trn>of easy temper</trn></i>.</m1>
-</entry>
-<entry word="hógleiki">
+</word>
+<word>
+hógleiki
 	<m1><p>m.</p> = hógværi.</m1>
-</entry>
-<entry word="hógliga">
+</word>
+<word>
+hógliga
 	<m1><p>adv.</p> <i><trn>calmly, meekly</trn></i>; taka ~ á, <i><trn>to touch gently</trn></i>.</m1>
-</entry>
-<entry word="hógligr">
+</word>
+<word>
+hógligr
 	<m1><p>a.</p> <i><trn>easy, gentle</trn></i>.</m1>
-</entry>
-<entry word="hóglífi">
+</word>
+<word>
+hóglífi
 	<m1><p>n.</p> <i><trn>easy (quiet) life</trn></i>.</m1>
-</entry>
-<entry word="hóglyndi">
+</word>
+<word>
+hóglyndi
 	<m1><p>n.</p> <i><trn>easy temper</trn></i>.</m1>
-</entry>
-<entry word="hóglyndr">
+</word>
+<word>
+hóglyndr
 	<m1><p>a.</p> <i><trn>easy-tempered, peaceable</trn></i>.</m1>
-</entry>
-<entry word="hóglæti">
+</word>
+<word>
+hóglæti
 	<m1><p>n.</p> <i><trn>gentleness</trn></i>.</m1>
-</entry>
-<entry word="hógsemd">
+</word>
+<word>
+hógsemd
 	<m1><p>f.</p> <i><trn>gentleness</trn></i>.</m1>
-</entry>
-<entry word="hógseta">
+</word>
+<word>
+hógseta
 	<m1><p>f.</p> = hóglífi.</m1>
-</entry>
-<entry word="hógstýrt">
+</word>
+<word>
+hógstýrt
 	<m1><p>pp.</p>, <p>n.</p> <i><trn>easy to steer</trn></i> (eigi verðr mér nú ~ fótunum).</m1>
-</entry>
-<entry word="hógværa">
+</word>
+<word>
+hógværa
 	<m1>(-ða, -ðr), <p>v.</p> <i><trn>to calm, appease</trn></i>.</m1>
-</entry>
-<entry word="hógværð">
+</word>
+<word>
+hógværð
 	<m1><p>f.</p> <i><trn>calmness of mind</trn></i>.</m1>
-</entry>
-<entry word="hógværligr">
+</word>
+<word>
+hógværligr
 	<m1><p>a.</p> <i><trn>gentle, meek of mind</trn></i>.</m1>
-</entry>
-<entry word="hógværr">
+</word>
+<word>
+hógværr
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>calmness of mind</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>a.</p> <i><trn>gentle, meek of mind</trn></i>.</m2>
-</entry>
-<entry word="hól">
+</word>
+<word>
+hól
 	<m1><p>n.</p> <i><trn>praise, flattery</trn></i>.</m1>
-</entry>
-<entry word="hólfa">
+</word>
+<word>
+hólfa
 	<m1>(-di, -t), <p>v.</p> <i><trn>to capsize</trn></i> (þar hólfir skip á sjónum).</m1>
-</entry>
-<entry word="hólkr">
+</word>
+<word>
+hólkr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>ring or tube (of metal)</trn></i> on a staff, knife-handle, etc.</m1>
-</entry>
-<entry word="hóll">
+</word>
+<word>
+hóll
 	<m1>(-s, -ar), <p>m.</p> = <ref>hváll</ref>.</m1>
-</entry>
-<entry word="hólmganga">
+</word>
+<word>
+hólmganga
 	<m1><p>f.</p> <i><trn>‘holm-going’, a duel or wager of battle</trn></i> fought on an islet (<ref>hólmr</ref>).</m1>
-</entry>
-<entry word="hólmgönguboð">
+</word>
+<word>
+hólmgönguboð
 	<m1><p>n.</p> <i><trn>challenging to</trn></i> <ref>hólmganga</ref>.</m1>
-</entry>
-<entry word="hólmgöngulög">
+</word>
+<word>
+hólmgöngulög
 	<m1><p>n.</p> <p>pl.</p> <i><trn>the law, rules of</trn></i> <ref>hólmganga</ref>.</m1>
-</entry>
-<entry word="hólmgöngumaðr">
+</word>
+<word>
+hólmgöngumaðr
 	<m1><p>m.</p> <i><trn>duellist</trn></i>.</m1>
-</entry>
-<entry word="hólmgöngustaðr">
+</word>
+<word>
+hólmgöngustaðr
 	<m1><p>m.</p> <i><trn>a place where a</trn></i> <ref>hólmganga</ref> <i><trn>is fought</trn></i>.</m1>
-</entry>
-<entry word="hólmgöngusverð">
+</word>
+<word>
+hólmgöngusverð
 	<m1><p>n.</p> <i><trn>a sword used in</trn></i> <ref>hólmganga</ref>.</m1>
-</entry>
-<entry word="hólmi">
+</word>
+<word>
+hólmi
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>islet</trn></i>, = hólmr; <i><trn>knoll</trn></i>.</m2>
-</entry>
-<entry word="hólmlausn">
+</word>
+<word>
+hólmlausn
 	<m1><p>f.</p> <i><trn>releasing oneself by paying the ransom after a duel</trn></i>.</m1>
-</entry>
-<entry word="hólmr">
+</word>
+<word>
+hólmr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>holm, islet</trn></i>; falla á hólmi, <i><trn>to fall in a duel</trn></i>; skora <p>e-m</p> á min, <i><trn>to challenge one</trn></i>; leysa sik af hólmi, <i><trn>to redeem oneself after a duel</trn></i>.</m1>
-</entry>
-<entry word="hólmstaðr">
+</word>
+<word>
+hólmstaðr
 	<m1><p>m.</p> = hólmgöngu-staðr.</m1>
-</entry>
-<entry word="hólmstefna">
+</word>
+<word>
+hólmstefna
 	<m1><p>f.</p> <i><trn>meeting (duel) on a holm</trn></i> (koma, riða til hólmstefnu).</m1>
-</entry>
-<entry word="hón">
+</word>
+<word>
+hón
 	<m1><p>pers. pron.</p> <i><trn>she</trn></i>.</m1>
-</entry>
-<entry word="hóp">
+</word>
+<word>
+hóp
 	<m1><p>n.</p> <i><trn>a small land-locked bay or inlet</trn></i> (connected with the sea).</m1>
-</entry>
-<entry word="hópr">
+</word>
+<word>
+hópr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>troop, flock, crowd</trn></i>.</m1>
-</entry>
-<entry word="hór">
+</word>
+<word>
+hór
 	<m1>(<p>gen.</p> hós), <p>m.</p> <i><trn>pot-hook</trn></i>.</m1>
-</entry>
-<entry word="hóra">
+</word>
+<word>
+hóra
 	<m1><b>I)</b></m1>
 	<m2>(að), <p>v.</p> <i><trn>to commit adultery</trn></i> (h. <com>or</com> hórast undir bónda sinn).</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> <i><trn>whore, harlot</trn></i>.</m2>
-</entry>
-<entry word="hóran">
+</word>
+<word>
+hóran
 	<m1><p>f.</p> <i><trn>adultery</trn></i>.</m1>
-</entry>
-<entry word="hórdómr">
+</word>
+<word>
+hórdómr
 	<m1><p>m.</p> <i><trn>adultery</trn></i>.</m1>
-</entry>
-<entry word="hórkona">
+</word>
+<word>
+hórkona
 	<m1><p>f.</p> <i><trn>adulteress</trn></i>.</m1>
-</entry>
-<entry word="hórr">
+</word>
+<word>
+hórr
 	<m1>(<p>gen.</p> hórs), <p>m.</p> <i><trn>adulterer</trn></i>.</m1>
-</entry>
-<entry word="hósta">
+</word>
+<word>
+hósta
 	<m1>(að), <p>v.</p> <i><trn>to cough</trn></i>.</m1>
-</entry>
-<entry word="hósti">
+</word>
+<word>
+hósti
 	<m1><p>m.</p> <i><trn>cough, coughing</trn></i>.</m1>
-</entry>
-<entry word="hóstr">
+</word>
+<word>
+hóstr
 	<m1><p>m.</p>; <com>see</com> <ref>óstr</ref>.</m1>
-</entry>
-<entry word="hót">
+</word>
+<word>
+hót
 	<m1><b>I)</b></m1>
 	<m2><p>n.</p> <i><trn>whit, bit</trn></i>; hóti heldr, <i><trn>a bit more, a good deal more</trn></i>; with <p>superl.</p>, hóti líkast, <i><trn>most likely</trn></i>; þat er hóti úmakligast, <i><trn>that is least undeserved</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>n.</p> <p>pl.</p> <i><trn>threats</trn></i>; hafa í hótum við <p>e-n</p>, <i><trn>to threaten one</trn></i>.</m2>
-</entry>
-<entry word="hóta">
+</word>
+<word>
+hóta
 	<m1>(að), <p>v.</p> <i><trn>to threaten</trn></i>, = hœta (h. <p>e-m</p>).</m1>
-</entry>
-<entry word="hótan">
+</word>
+<word>
+hótan
 	<m1><p>f.</p> <i><trn>threatening</trn></i>.</m1>
-</entry>
-<entry word="hótsamr">
+</word>
+<word>
+hótsamr
 	<m1><p>a.</p> <i><trn>menacing</trn></i>.</m1>
-</entry>
-<entry word="hraða">
+</word>
+<word>
+hraða
 	<m1>(að), <p>v.</p> <i><trn>to hasten</trn></i>, with <p>dat.</p></m1>
-</entry>
-<entry word="hraðbyri">
+</word>
+<word>
+hraðbyri
 	<m1><p>n.</p> <i><trn>a fresh fair wind</trn></i>.</m1>
-</entry>
-<entry word="hraðbyrja">
+</word>
+<word>
+hraðbyrja
 	<m1><p>a.</p> <p>indecl.</p>, sigla ~, <i><trn>to sail with a strong wind</trn></i>.</m1>
-</entry>
-<entry word="hraðfarta">
+</word>
+<word>
+hraðfarta
 	<m1><p>a.</p> <p>indecl.</p> = <ref>hraðfœrr</ref>.</m1>
-</entry>
-<entry word="hraðfeigr">
+</word>
+<word>
+hraðfeigr
 	<m1><p>a.</p> <i><trn>doomed to instant death</trn></i>.</m1>
-</entry>
-<entry word="hraðfœrr">
+</word>
+<word>
+hraðfœrr
 	<m1><p>a.</p> <i><trn>fleet, swift</trn></i> (hestr-fœrr).</m1>
-</entry>
-<entry word="hraðgeði">
+</word>
+<word>
+hraðgeði
 	<m1><p>n.</p> <i><trn>hasty temper</trn></i>.</m1>
-</entry>
-<entry word="hraðliga">
+</word>
+<word>
+hraðliga
 	<m1><p>adv.</p> swiftly.</m1>
-</entry>
-<entry word="hraðmæltr">
+</word>
+<word>
+hraðmæltr
 	<m1><p>a.</p> <i><trn>quick of speech</trn></i>; hraðmælt tunga, <i><trn>a glib tongue</trn></i>.</m1>
-</entry>
-<entry word="hraðr">
+</word>
+<word>
+hraðr
 	<m1>(hröð, hratt), <p>a.</p> <i><trn>swift, fleet</trn></i>.</m1>
-</entry>
-<entry word="hrafhhvalr">
+</word>
+<word>
+hrafhhvalr
 	<m1><p>m.</p>, a kind of <i><trn>whale</trn></i>.</m1>
-</entry>
-<entry word="hrafhreyðr">
-	</entry>
-<entry word="sandlægja">
+</word>
+<word>
+hrafhreyðr
+</word>
+<word>
+sandlægja
 	<m1><p>f.</p> a kind of <i><trn>whale</trn></i>.</m1>
-</entry>
-<entry word="hrafhtinna">
+</word>
+<word>
+hrafhtinna
 	<m1><p>f.</p> <i><trn>obsidian or agate</trn></i>.</m1>
-</entry>
-<entry word="hrafn">
+</word>
+<word>
+hrafn
 	<m1>(-s, -ar), <p>m.</p> <i><trn>raven</trn></i>.</m1>
-</entry>
-<entry word="hrakbú">
+</word>
+<word>
+hrakbú
 	<m1><p>n.</p> <i><trn>wretched household</trn></i>.</m1>
-</entry>
-<entry word="hrakði">
+</word>
+<word>
+hrakði
 	<m1>from <ref>hrekja</ref>.</m1>
-</entry>
-<entry word="hrakdýr">
+</word>
+<word>
+hrakdýr
 	<m1><p>n.</p> <i><trn>hunted deer</trn></i>.</m1>
-</entry>
-<entry word="hrakferð">
-	</entry>
-<entry word="hrakför">
-	</entry>
-<entry word="smánarferð">
-	</entry>
-<entry word="sneypuför">
+</word>
+<word>
+hrakferð
+</word>
+<word>
+hrakför
+</word>
+<word>
+smánarferð
+</word>
+<word>
+sneypuför
 	<m1><p>f.</p> <i><trn>disgraceful journey</trn></i>.</m1>
-</entry>
-<entry word="hrakligr">
+</word>
+<word>
+hrakligr
 	<m1><p>a.</p> <i><trn>wretched, disgraceful</trn></i>.</m1>
-</entry>
-<entry word="hrakmagr">
+</word>
+<word>
+hrakmagr
 	<m1><p>a.</p> <i><trn>wretchedly thin</trn></i>.</m1>
-</entry>
-<entry word="hrakning">
+</word>
+<word>
+hrakning
 	<m1>(pl, -ar), <p>f.</p> <i><trn>wretched treatment, injury, insult</trn></i> (ek hefi af þár heitingar ok ~).</m1>
-</entry>
-<entry word="hrakningr">
+</word>
+<word>
+hrakningr
 	<m1>(-s, -ar), <p>m.</p> = <ref>hrakning</ref>.</m1>
-</entry>
-<entry word="hrakyrði">
-	</entry>
-<entry word="klámyrði">
+</word>
+<word>
+hrakyrði
+</word>
+<word>
+klámyrði
 	<m1><p>n.</p> <i><trn>foul language</trn></i>.</m1>
-</entry>
-<entry word="hrak-">
+</word>
+<word>
+hrak-
 	<m1>in <p>compds.</p>, denoting <i><trn>wretched, vile</trn></i>.</m1>
-</entry>
-<entry word="hrammdýr">
+</word>
+<word>
+hrammdýr
 	<m1><p>n.</p> <i><trn>beast of prey</trn></i>.</m1>
-</entry>
-<entry word="hrammr">
+</word>
+<word>
+hrammr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>bear’s paw</trn></i>.</m1>
-</entry>
-<entry word="hrapa">
+</word>
+<word>
+hrapa
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to hurl</trn></i>, with <p>dat.</p> (h. <p>e-m</p> til helvítis);</m2>
 	<m2>2) <i><trn>to hurry on, hasten</trn></i> (h. ferð sinni);</m2>
 	<m2>3) <i><trn>to rush on, hurry</trn></i> (h. á fund <p>e-s</p>); h. til dauðans: banans, <i><trn>to rush headlong to destruction</trn></i>;</m2>
 	<m2>4) <i><trn>to fall, tumble down</trn></i> (~ði hann niðr í fjöruna).</m2>
-</entry>
-<entry word="hrapaðr">
+</word>
+<word>
+hrapaðr
 	<m1><p>m.</p> <i><trn>hurry</trn></i>; af hrapaði, <i><trn>hurriedly</trn></i>.</m1>
-</entry>
-<entry word="hrapalliga">
+</word>
+<word>
+hrapalliga
 	<m1><p>adv.</p> <i><trn>hurriedly, headlong</trn></i> (fara ~).</m1>
-</entry>
-<entry word="hrapalligr">
+</word>
+<word>
+hrapalligr
 	<m1><p>a.</p> <i><trn>hurried</trn></i>.</m1>
-</entry>
-<entry word="hrapan">
+</word>
+<word>
+hrapan
 	<m1><p>f.</p> <i><trn>downfall</trn></i>.</m1>
-</entry>
-<entry word="hraporðr">
+</word>
+<word>
+hraporðr
 	<m1><p>a.</p> <i><trn>hasty in one’s language</trn></i> (Sæmundr varð við h.).</m1>
-</entry>
-<entry word="hrata">
+</word>
+<word>
+hrata
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to reel, stagger</trn></i> (hann ~ði við, en féll eigi);</m2>
 	<m2>2) <i><trn>to tumble down, fall</trn></i> (~ði hann ofan af þekjunni).</m2>
-</entry>
-<entry word="hratt">
-	</entry>
-<entry word="hritt">
-	</entry>
-<entry word="hrundinn">
-	</entry>
-<entry word="hryndi">
+</word>
+<word>
+hratt
+</word>
+<word>
+hritt
+</word>
+<word>
+hrundinn
+</word>
+<word>
+hryndi
 	<m1>from <ref>hrinda</ref>.</m1>
-</entry>
-<entry word="hrauð">
-	</entry>
-<entry word="hroðinn">
-	</entry>
-<entry word="hrýð">
+</word>
+<word>
+hrauð
+</word>
+<word>
+hroðinn
+</word>
+<word>
+hrýð
 	<m1>from <ref>hrjóða</ref>.</m1>
-</entry>
-<entry word="hrauktjald">
+</word>
+<word>
+hrauktjald
 	<m1><p>n.</p> <i><trn>rick-formed tent</trn></i>.</m1>
-</entry>
-<entry word="hraun">
+</word>
+<word>
+hraun
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>rugged ground, wilderness</trn></i>;</m2>
 	<m2>2) <i><trn>lava field, lava</trn></i>.</m2>
-</entry>
-<entry word="hraunbúi">
+</word>
+<word>
+hraunbúi
 	<m1><p>m.</p> <i><trn>dweller in a</trn></i> <ref>hraun</ref>, <i><trn>giant</trn></i>.</m1>
-</entry>
-<entry word="hraunhvalr">
+</word>
+<word>
+hraunhvalr
 	<m1><p>m.</p> <i><trn>monster of the wilderness</trn></i>.</m1>
-</entry>
-<entry word="hraunóttur">
+</word>
+<word>
+hraunóttur
 	<m1><p>a.</p> <i><trn>rugged, stony</trn></i>.</m1>
-</entry>
-<entry word="hraustleikr">
+</word>
+<word>
+hraustleikr
 	<m1><p>m.</p> <i><trn>prowess, valour</trn></i>.</m1>
-</entry>
-<entry word="hraustligr">
+</word>
+<word>
+hraustligr
 	<m1><p>a.</p> <i><trn>bold, valiant</trn></i>.</m1>
-</entry>
-<entry word="hraustmannligr">
+</word>
+<word>
+hraustmannligr
 	<m1><p>a.</p> = <ref>hraustligr</ref>.</m1>
-</entry>
-<entry word="hraustmenni">
+</word>
+<word>
+hraustmenni
 	<m1><p>n.</p> <i><trn>a strong, stout man</trn></i>.</m1>
-</entry>
-<entry word="hraustr">
+</word>
+<word>
+hraustr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>valiant, doughty</trn></i>;</m2>
 	<m2>2) <i><trn>strong, hearty</trn></i> (gamall, en þó ~).</m2>
-</entry>
-<entry word="hraut">
-	</entry>
-<entry word="hrotit">
-	</entry>
-<entry word="hrutu">
+</word>
+<word>
+hraut
+</word>
+<word>
+hrotit
+</word>
+<word>
+hrutu
 	<m1>from <ref>hrjóta</ref>.</m1>
-</entry>
-<entry word="hráblautr">
+</word>
+<word>
+hráblautr
 	<m1><p>a.</p> <i><trn>moist, raw</trn></i>, of hides (nautshúð hráblaut).</m1>
-</entry>
-<entry word="hráki">
+</word>
+<word>
+hráki
 	<m1><p>m.</p> <i><trn>spit, spittle</trn></i>.</m1>
-</entry>
-<entry word="hrár">
+</word>
+<word>
+hrár
 	<m1>(hrá, hrátt), <p>a.</p></m1>
 	<m2>1) <i><trn>raw</trn></i>, of meat or food (hrár fiskr, hrátt kjöt);</m2>
 	<m2>2) <i><trn>raw, fresh, sappy</trn></i> (h. viðr).</m2>
-</entry>
-<entry word="hráskinn">
+</word>
+<word>
+hráskinn
 	<m1><p>n.</p> <i><trn>shelter, refuge</trn></i>.</m1>
-</entry>
-<entry word="hrátt">
+</word>
+<word>
+hrátt
 	<m1>from <ref>hrár</ref>, <i><trn>raw</trn></i>.</m1>
-</entry>
-<entry word="hráviði">
+</word>
+<word>
+hráviði
 	<m1><p>n.</p> <i><trn>saplings, young plants</trn></i>.</m1>
-</entry>
-<entry word="hráæti">
+</word>
+<word>
+hráæti
 	<m1><p>n.</p> <i><trn>raw flesh used asfood</trn></i>.</m1>
-</entry>
-<entry word="hreða">
+</word>
+<word>
+hreða
 	<m1><p>f.</p>, <com>see</com> <ref>hrœða</ref>.</m1>
-</entry>
-<entry word="hreðar">
+</word>
+<word>
+hreðar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>the scrotum</trn></i>.</m1>
-</entry>
-<entry word="hreðulauss">
+</word>
+<word>
+hreðulauss
 	<m1><p>a.</p>, <com>see</com> <ref>hrœðulauss</ref>.</m1>
-</entry>
-<entry word="hregg">
+</word>
+<word>
+hregg
 	<m1><p>n.</p> <i><trn>storm, blast</trn></i> (var bæði h. ok regn).</m1>
-</entry>
-<entry word="hreggviðri">
+</word>
+<word>
+hreggviðri
 	<m1><p>n.</p> <i><trn>tempest</trn></i>.</m1>
-</entry>
-<entry word="hreiðr">
+</word>
+<word>
+hreiðr
 	<m1><p>n.</p> <i><trn>bird’s nest</trn></i>.</m1>
-</entry>
-<entry word="hreiðrböllr">
+</word>
+<word>
+hreiðrböllr
 	<m1><p>m.</p> <i><trn>‘nest-ball’, egg</trn></i>.</m1>
-</entry>
-<entry word="hreif">
-	</entry>
-<entry word="hrifinn">
+</word>
+<word>
+hreif
+</word>
+<word>
+hrifinn
 	<m1>from <ref>hrífa</ref>.</m1>
-</entry>
-<entry word="hreifi">
+</word>
+<word>
+hreifi
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>wrist</trn></i>, = <ref>úlfliðr</ref>;</m2>
 	<m2>2) <i><trn>the hand and fingers</trn></i>;</m2>
 	<m2>3) <i><trn>seal’s fin, flipper</trn></i>.</m2>
-</entry>
-<entry word="hreimr">
+</word>
+<word>
+hreimr
 	<m1><p>m.</p> <i><trn>scream, cry</trn></i>.</m1>
-</entry>
-<entry word="hrein">
+</word>
+<word>
+hrein
 	<m1>from <ref>hrína</ref>.</m1>
-</entry>
-<entry word="hreina">
+</word>
+<word>
+hreina
 	<m1>(-da, -dr), <p>v.</p> <i><trn>to make</trn></i> (swine) <i><trn>squeal</trn></i> (ef svín eru hreind).</m1>
-</entry>
-<entry word="hreinbjáIbi">
+</word>
+<word>
+hreinbjáIbi
 	<m1><p>m.</p> <i><trn>reindeer’s skin</trn></i>.</m1>
-</entry>
-<entry word="hreindýri">
+</word>
+<word>
+hreindýri
 	<m1><p>n.</p> <i><trn>reindeer</trn></i>.</m1>
-</entry>
-<entry word="hreinferði">
+</word>
+<word>
+hreinferði
 	<m1><p>n.</p> <i><trn>purity</trn></i>.</m1>
-</entry>
-<entry word="hreinferðugr">
+</word>
+<word>
+hreinferðugr
 	<m1><p>a.</p> <i><trn>pure, chaste</trn></i>.</m1>
-</entry>
-<entry word="hreingálkn">
+</word>
+<word>
+hreingálkn
 	<m1><p>n.</p> <p>poet.</p> <i><trn>wolf</trn></i> (?).</m1>
-</entry>
-<entry word="hreinhjartaðr">
+</word>
+<word>
+hreinhjartaðr
 	<m1><p>a.</p> <i><trn>pure of heart</trn></i>.</m1>
-</entry>
-<entry word="hreinlátr">
+</word>
+<word>
+hreinlátr
 	<m1><p>a.</p> <i><trn>clean, chaste</trn></i>.</m1>
-</entry>
-<entry word="hreinleikr">
+</word>
+<word>
+hreinleikr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>cleanliness</trn></i>;</m2>
 	<m2>2) <i><trn>chastity</trn></i>.</m2>
-</entry>
-<entry word="hreinlifnaðr">
+</word>
+<word>
+hreinlifnaðr
 	<m1><p>m.</p> = <ref>hreinlífi</ref>.</m1>
-</entry>
-<entry word="hreinliga">
+</word>
+<word>
+hreinliga
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>cleanly</trn></i>;</m2>
 	<m2>2) <i><trn>with purity</trn></i>.</m2>
-</entry>
-<entry word="hreinligr">
+</word>
+<word>
+hreinligr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>clean, cleanly</trn></i>;</m2>
 	<m2>2) <i><trn>pure</trn></i>.</m2>
-</entry>
-<entry word="hreinlífi">
+</word>
+<word>
+hreinlífi
 	<m1><p>n.</p> <i><trn>pure life, chastity</trn></i>.</m1>
-</entry>
-<entry word="hreinlífr">
+</word>
+<word>
+hreinlífr
 	<m1><p>a.</p> <i><trn>pure of life</trn></i>.</m1>
-</entry>
-<entry word="hreinlyndr">
+</word>
+<word>
+hreinlyndr
 	<m1><p>a.</p> <i><trn>pure of heart, upright</trn></i>.</m1>
-</entry>
-<entry word="hreinlæti">
+</word>
+<word>
+hreinlæti
 	<m1><p>n.</p> <i><trn>cleanness, chastity</trn></i>.</m1>
-</entry>
-<entry word="hreinmannligr">
+</word>
+<word>
+hreinmannligr
 	<m1><p>a.</p> of <i><trn>noble or manly bearing</trn></i>.</m1>
-</entry>
-<entry word="hreinn">
+</word>
+<word>
+hreinn
 	<m1><b>I)</b></m1>
 	<m2><p>a.</p></m2>
 	<m3>1) <i><trn>clean</trn></i> (hrein klæði);</m3>
@@ -6681,844 +8616,1103 @@ Hlóðyn
 	<m3>4) <i><trn>pure, sincere</trn></i>.</m3>
 	<m1><b>II)</b></m1>
 	<m2>(-s, -ar), <p>m.</p> <i><trn>reindeer</trn></i>.</m2>
-</entry>
-<entry word="hreinsa">
+</word>
+<word>
+hreinsa
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to make clean, cleanse</trn></i>;</m2>
 	<m2>2) <i><trn>to purge, clear</trn></i> (h. land af víkingum).</m2>
-</entry>
-<entry word="hreinsan">
+</word>
+<word>
+hreinsan
 	<m1><p>f.</p> <i><trn>cleansing</trn></i>.</m1>
-</entry>
-<entry word="hreinsanareldr">
+</word>
+<word>
+hreinsanareldr
 	<m1><p>m.</p> <i><trn>purgatory</trn></i>.</m1>
-</entry>
-<entry word="hreinstaka">
+</word>
+<word>
+hreinstaka
 	<m1><p>f.</p> <i><trn>reindeer skin</trn></i>.</m1>
-</entry>
-<entry word="hreistr">
+</word>
+<word>
+hreistr
 	<m1><p>n.</p> <i><trn>scales (of fish)</trn></i>.</m1>
-</entry>
-<entry word="hrekja">
+</word>
+<word>
+hrekja
 	<m1>(hrek; hrakta, hröktum; hrakiðr, hraktr), <p>v.</p></m1>
 	<m2>1) <i><trn>to drive away, chase off</trn></i> (h. <p>e-n</p> af máli);</m2>
 	<m2>2) <i><trn>to annoy, vex, ill-treat</trn></i> (Sigmundr sagðist heldr vilja h. þá sem mest); h. <p>e-n</p> í orðum, <i><trn>to scold and abuse one</trn></i>;</m2>
 	<m2>3) <i><trn>to damage, spoil</trn></i> (h. mál fyrir <p>e-m</p>); <p>absol.</p>, h. fyrir <p>e-m</p>, <i><trn>to do damage to one</trn></i>;</m2>
 	<m2>4) <i><trn>to abuse</trn></i> (= h. <p>e-n</p> í orðum).</m2>
-</entry>
-<entry word="hrekkr">
+</word>
+<word>
+hrekkr
 	<m1>(<p>pl.</p> -ir), <p>m.</p> <i><trn>trick, piece of mischief</trn></i> (hrekkir ok slœgðir).</m1>
-</entry>
-<entry word="hrekkvísi">
+</word>
+<word>
+hrekkvísi
 	<m1><p>f.</p> <i><trn>trickiness</trn></i>.</m1>
-</entry>
-<entry word="hrekkvíss">
+</word>
+<word>
+hrekkvíss
 	<m1><p>a.</p> <i><trn>tricky, mischievous</trn></i>.</m1>
-</entry>
-<entry word="hrella">
+</word>
+<word>
+hrella
 	<m1>(-da, -dr), <p>v.</p> <i><trn>to distress, annoy, trouble</trn></i> (h. <p>e-n</p>).</m1>
-</entry>
-<entry word="hrelling">
+</word>
+<word>
+hrelling
 	<m1><p>f.</p> <i><trn>anguish, affliction</trn></i>.</m1>
-</entry>
-<entry word="hremma">
+</word>
+<word>
+hremma
 	<m1>(-da, -dr), <p>v.</p> <i><trn>to clutch</trn></i>.</m1>
-</entry>
-<entry word="hremsa">
+</word>
+<word>
+hremsa
 	<m1><b>I)</b></m1>
 	<m2>(að), <p>v.</p> = hremma.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p></m2>
 	<m3>1) <i><trn>clutch</trn></i>;</m3>
 	<m3>2) <p>poet.</p> <i><trn>shaft</trn></i>.</m3>
-</entry>
-<entry word="hreppa">
+</word>
+<word>
+hreppa
 	<m1>(-ta, -tr), <p>v.</p> <i><trn>to catch, obtain</trn></i>; en er hann hreppti áverkann, <i><trn>when he received the wound</trn></i>.</m1>
-</entry>
-<entry word="hreppaskil">
+</word>
+<word>
+hreppaskil
 	<m1><p>n.</p> <p>pl.</p> <i><trn>poor-law matters</trn></i>.</m1>
-</entry>
-<entry word="hreppr">
+</word>
+<word>
+hreppr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>poor-law district</trn></i> (in Iceland).</m1>
-</entry>
-<entry word="hrer">
+</word>
+<word>
+hrer
 	<m1><p>n.</p> <i><trn>corpse</trn></i>, = <ref>hrør</ref>.</m1>
-</entry>
-<entry word="hress">
+</word>
+<word>
+hress
 	<m1><p>a.</p> <i><trn>hale, hearty, in good spirits</trn></i>.</m1>
-</entry>
-<entry word="hressa">
+</word>
+<word>
+hressa
 	<m1>(-ta, -tr), <p>v.</p></m1>
 	<m2>1) <i><trn>to refresh, cheer</trn></i>;</m2>
 	<m3>hann bað hann ~ sik, <i><trn>he bade him cheer up</trn></i>;</m3>
 	<m3><p>refl.</p>, ~st, <i><trn>to recover strength, be refreshed</trn></i>;</m3>
 	<m2>2) <i><trn>to restore</trn></i> (~ staðinn).</m2>
-</entry>
-<entry word="hressleikr">
+</word>
+<word>
+hressleikr
 	<m1><p>m.</p> <i><trn>good health</trn></i>.</m1>
-</entry>
-<entry word="hret">
+</word>
+<word>
+hret
 	<m1><p>n.</p> <i><trn>storm</trn></i>, = <ref>hregg</ref>.</m1>
-</entry>
-<entry word="hreyfa">
+</word>
+<word>
+hreyfa
 	<m1>(-ða, -ðr), <p>v.</p> <i><trn>to move, stir</trn></i>, with <p>acc.</p>;</m1>
 	<m2><p>refl.</p>, ~st, <i><trn>to put oneself in motion, stir</trn></i>.</m2>
-</entry>
-<entry word="hreysar">
+</word>
+<word>
+hreysar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>heap of stones</trn></i>.</m1>
-</entry>
-<entry word="hreysi">
+</word>
+<word>
+hreysi
 	<m1><p>n.</p></m1>
 	<m2>1) = <ref>hreysar</ref>;</m2>
 	<m2>2) <i><trn>cave, den</trn></i> (skríða í ~).</m2>
-</entry>
-<entry word="hreysiköttr">
+</word>
+<word>
+hreysiköttr
 	<m1><p>m.</p> <i><trn>ermine, weasel</trn></i>.</m1>
-</entry>
-<entry word="hreysta">
+</word>
+<word>
+hreysta
 	<m1>(-sta, -str), <p>v.</p> <i><trn>to encourage make valiant</trn></i>;</m1>
 	<m2>~ sik, <i><trn>to cheer up, take heart or courage</trn></i>.</m2>
-</entry>
-<entry word="hreysti">
+</word>
+<word>
+hreysti
 	<m1><p>f.</p> <i><trn>valour, prowess</trn></i>.</m1>
-</entry>
-<entry word="hreystibragð">
+</word>
+<word>
+hreystibragð
 	<m1><p>n.</p> <i><trn>feat of prowess</trn></i>.</m1>
-</entry>
-<entry word="hreystiliga">
+</word>
+<word>
+hreystiliga
 	<m1><p>adv.</p> <i><trn>stoutly, boldly</trn></i>.</m1>
-</entry>
-<entry word="hreystiligr">
+</word>
+<word>
+hreystiligr
 	<m1>a, <i><trn>stout, bold</trn></i>.</m1>
-</entry>
-<entry word="hreystimannligr">
+</word>
+<word>
+hreystimannligr
 	<m1><p>a.</p> <i><trn>gallant, bold</trn></i>.</m1>
-</entry>
-<entry word="hreystiorð">
+</word>
+<word>
+hreystiorð
 	<m1><p>n.</p> <i><trn>word of prowess</trn></i>.</m1>
-</entry>
-<entry word="hreystiraun">
+</word>
+<word>
+hreystiraun
 	<m1><p>f.</p> <i><trn>trial of valour</trn></i>.</m1>
-</entry>
-<entry word="hreystiverk">
+</word>
+<word>
+hreystiverk
 	<m1><p>n.</p> <i><trn>deed of prowess</trn></i>.</m1>
-</entry>
-<entry word="hreyta">
+</word>
+<word>
+hreyta
 	<m1>(-tta, -tt), <p>v.</p> <i><trn>to cast, scatter, throw about</trn></i>, with <p>dat.</p> (h. mold-inni, hringum).</m1>
-</entry>
-<entry word="hreyting">
+</word>
+<word>
+hreyting
 	<m1><p>f.</p> <i><trn>spreading, scattering</trn></i>.</m1>
-</entry>
-<entry word="hreytispeldi">
+</word>
+<word>
+hreytispeldi
 	<m1><p>n.</p> <i><trn>top</trn></i> (a child’s toy).</m1>
-</entry>
-<entry word="hriflingabjörg">
+</word>
+<word>
+hriflingabjörg
 	<m1><p>f.</p> <i><trn>hand-to-mouth life</trn></i> (er slíkt kallat ~).</m1>
-</entry>
-<entry word="hrifs">
+</word>
+<word>
+hrifs
 	<m1><p>n.</p> <i><trn>robbery, pillaging</trn></i>.</m1>
-</entry>
-<entry word="hrifsa">
+</word>
+<word>
+hrifsa
 	<m1>(að), <p>v.</p> <i><trn>to rob, pillage</trn></i>.</m1>
-</entry>
-<entry word="hrifsan">
-	</entry>
-<entry word="hrifsing">
+</word>
+<word>
+hrifsan
+</word>
+<word>
+hrifsing
 	<m1><p>f.</p>, = hrifs.</m1>
-</entry>
-<entry word="hriki">
+</word>
+<word>
+hriki
 	<m1><p>m.</p>, <i><trn>huge fellow</trn></i>.</m1>
-</entry>
-<entry word="hrikja">
+</word>
+<word>
+hrikja
 	<m1>(-þa), <p>v.</p> <i><trn>to creak</trn></i> (rare).</m1>
-</entry>
-<entry word="hrinda">
+</word>
+<word>
+hrinda
 	<m1>(hrind; hratt, hrandum; hrundinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to push, thrust</trn></i>, with <p>dat.</p> (hann hratt hestinum í vök eina); var þá hrundit hátnum, <i><trn>the ship’s boat was put out</trn></i>; h. hurð (upp), <i><trn>to push the door open</trn></i>; h. <p>e-m</p> í myrkvastofu, <i><trn>to cast into prison</trn></i>; h. á braut, <i><trn>to drive away</trn></i>; h. skipi fram <com>or</com> út, <i><trn>to launch a ship</trn></i>; <p>impers.</p>, hratt stundum fyrir, en stundum frá, <i><trn>the clouds were drifting on and off (the moon)</trn></i>;</m2>
 	<m2>2) <i><trn>to cast (throw) off</trn></i> (h. harmi, ótta); h. máli, <i><trn>to make a case void, clear oneself of it</trn></i>; h. <p>e-u</p> af <p>e-m</p>, <i><trn>to free one from, rid one of a thing</trn></i>.</m2>
-</entry>
-<entry word="hringa">
+</word>
+<word>
+hringa
 	<m1>(að), <p>v.</p> <i><trn>to furnish with a ring</trn></i>.</m1>
-</entry>
-<entry word="hringabrynja">
+</word>
+<word>
+hringabrynja
 	<m1><p>f.</p> <i><trn>coat of ring-mail</trn></i>.</m1>
-</entry>
-<entry word="hringbroti">
+</word>
+<word>
+hringbroti
 	<m1><p>m.</p> <i><trn>‘breaker of rings’, prince</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hringdrifi">
+</word>
+<word>
+hringdrifi
 	<m1><p>m.</p> <i><trn>‘distributor of rings’, prince, king</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hringing">
+</word>
+<word>
+hringing
 	<m1>(<p>pl.</p> -ar), <p>f.</p> <i><trn>bell-ringing</trn></i>.</m1>
-</entry>
-<entry word="hringja">
+</word>
+<word>
+hringja
 	<m1><b>I)</b></m1>
 	<m2>(-da, -t), <p>v.</p> <i><trn>to ring bells</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(-da, -dr), <p>v.</p> <i><trn>to encircle, surround</trn></i>; h. <p>e-u</p> um <p>e-n</p>, <i><trn>to encircle with</trn></i> (cf. kringja um, urnkringja).</m2>
 	<m1><b>III)</b></m1>
 	<m2><p>f.</p> <i><trn>buckle</trn></i>.</m2>
-</entry>
-<entry word="hringleginn">
+</word>
+<word>
+hringleginn
 	<m1><p>pp.</p> <i><trn>coiled up</trn></i> (of a serpent).</m1>
-</entry>
-<entry word="hringleikr">
+</word>
+<word>
+hringleikr
 	<m1><p>m.</p> <i><trn>ring-dance</trn></i>.</m1>
-</entry>
-<entry word="hringofmn">
+</word>
+<word>
+hringofmn
 	<m1><p>pp.</p> <i><trn>woven with rings</trn></i>.</m1>
-</entry>
-<entry word="hringr">
+</word>
+<word>
+hringr
 	<m1>(-s, ar), <p>m.</p></m1>
 	<m2>1) <i><trn>ring, circle</trn></i>; slá hring um <p>e-n</p>, <i><trn>to make a ring around one</trn></i>; í hring, <i><trn>in a circle</trn></i>; hann fór í hring um skipit, <i><trn>he swam in a circle round the ship</trn></i>; með hringum, <i><trn>all around, altogether</trn></i> (brendu upp bœinn Með hringum);</m2>
 	<m2>2) <i><trn>ring</trn></i> (on the finger or arm, at the end of a chest, in a door, at the end of the hilt); <i><trn>link</trn></i> (in a chain).</m2>
-</entry>
-<entry word="hringvariðr">
+</word>
+<word>
+hringvariðr
 	<m1><p>pp.</p> <i><trn>‘ring-mounted’</trn></i>; málmr ~, <i><trn>a sword with rings</trn></i>.</m1>
-</entry>
-<entry word="hrinr">
+</word>
+<word>
+hrinr
 	<m1><p>m.</p> <i><trn>howling, screaming</trn></i>.</m1>
-</entry>
-<entry word="hrip">
+</word>
+<word>
+hrip
 	<m1><p>m.</p> <i><trn>box of laths, basket</trn></i>.</m1>
-</entry>
-<entry word="hripuðr">
-	</entry>
-<entry word="tandri">
+</word>
+<word>
+hripuðr
+</word>
+<word>
+tandri
 	<m1><p>m.</p> <i><trn>fire</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hrista">
+</word>
+<word>
+hrista
 	<m1>(-Sta, -str), <p>v.</p> <i><trn>to shake</trn></i> (h. höfuðit); h. <p>e-t</p> af sér, <i><trn>to shake it off</trn></i>; marir hristust, <i><trn>the horses shook their manes</trn></i>; þeim hristust tennr í höfði, <i><trn>the teeth chattered in their head</trn></i>.</m1>
-</entry>
-<entry word="hríð">
+</word>
+<word>
+hríð
 	<m1>(<p>pl.</p> -ir), <p>f.</p></m1>
 	<m2>1) <i><trn>storm</trn></i>, <p>esp.</p> <i><trn>snowstorm</trn></i>; h. mikla gerði at þeim, laust á fyrir þeim h. mikilli, <i><trn>they were caught by a violent snow-storm</trn></i>;</m2>
 	<m2>2) <i><trn>attack, onset</trn></i>, in a battle (hörð, snörp h.);</m2>
 	<m2>3) <i><trn>a while</trn></i>; nökkura h., <i><trn>for a while</trn></i>; langa (litla) h., <i><trn>a long (little) while</trn></i>; þessar hríðir allar, <i><trn>all this while</trn></i>; um h., <i><trn>for a while</trn></i> (hann dvaldist þar um h.); um hríðir sakir = um ~; í hríðinni, <i><trn>immediately, at once</trn></i> (hann fór í hríðinni upp til Hofs); hríðum, <i><trn>frequently</trn></i> (stundum í Hvammi, en hríðum at Stað);</m2>
 	<m2>4) <i><trn>space, distance</trn></i> (var þó h. löng í millum).</m2>
-</entry>
-<entry word="hríðdrepa">
+</word>
+<word>
+hríðdrepa
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>killed by a snow-storm</trn></i>.</m1>
-</entry>
-<entry word="hríðfastr">
+</word>
+<word>
+hríðfastr
 	<m1><p>a.</p> <i><trn>detained by a snow-storm</trn></i>.</m1>
-</entry>
-<entry word="hríðóttr">
+</word>
+<word>
+hríðóttr
 	<m1><p>a.</p> <i><trn>stormy</trn></i> (~ vetr).</m1>
-</entry>
-<entry word="hríðviðri">
+</word>
+<word>
+hríðviðri
 	<m1><p>n.</p> <i><trn>storm, tempest</trn></i>.</m1>
-</entry>
-<entry word="hrífa">
+</word>
+<word>
+hrífa
 	<m1>(hríf; hreif, hrifum; hrifinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to catch, snatch</trn></i> (~ til <p>e-s</p>);</m2>
 	<m3>~ við, <i><trn>to take hold, to grip</trn></i> (kasta akkerum, ok ~ þau við, um síðir);</m3>
 	<m3><p>impers.</p>, hríft við, <i><trn>it takes effect, it turns out well</trn></i>;</m3>
 	<m2>2) <i><trn>to scratch</trn></i> (hann lét ~ sér með kömbum).</m2>
-</entry>
-<entry word="hrím">
+</word>
+<word>
+hrím
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>rime, hoar frost</trn></i>;</m2>
 	<m2>2) <i><trn>the black soot on a kettle</trn></i> (<ref>ketil~</ref>).</m2>
-</entry>
-<entry word="hrímaldl">
+</word>
+<word>
+hrímaldl
 	<m1><p>m.</p> <i><trn>lazy lout</trn></i>.</m1>
-</entry>
-<entry word="hrímdrif">
+</word>
+<word>
+hrímdrif
 	<m1><p>n.</p> <i><trn>rime-drift</trn></i>.</m1>
-</entry>
-<entry word="hrímfrosinn">
+</word>
+<word>
+hrímfrosinn
 	<m1><p>pp.</p> <i><trn>rimy</trn></i>.</m1>
-</entry>
-<entry word="hrímkalkr">
+</word>
+<word>
+hrímkalkr
 	<m1><p>m.</p> <i><trn>foaming cup</trn></i>.</m1>
-</entry>
-<entry word="hrímsteinar">
+</word>
+<word>
+hrímsteinar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>rime-covered stones</trn></i>.</m1>
-</entry>
-<entry word="hrímþursar">
+</word>
+<word>
+hrímþursar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>frost-giants</trn></i>.</m1>
-</entry>
-<entry word="hrína">
+</word>
+<word>
+hrína
 	<m1>(hrín; hrein, hrinum; hrinit), <p>v.</p></m1>
 	<m2>1) <i><trn>to squeal</trn></i> (of swine); h. við, <i><trn>to neigh to a horse</trn></i> (of a mare in heat);</m2>
 	<m2>2) h. á (<com>or</com> á <p>e-m</p>), <i><trn>to take effect</trn></i>, <p>esp.</p> of imprecations.</m2>
-</entry>
-<entry word="hrís">
+</word>
+<word>
+hrís
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>brushwood</trn></i>;</m2>
 	<m2>2) <i><trn>faggots</trn></i>.</m2>
-</entry>
-<entry word="hrísbyrðr">
+</word>
+<word>
+hrísbyrðr
 	<m1><p>f.</p> <i><trn>load of faggots</trn></i>.</m1>
-</entry>
-<entry word="hrísfleki">
+</word>
+<word>
+hrísfleki
 	<m1><p>m.</p> <i><trn>hurdle of brushwood</trn></i>.</m1>
-</entry>
-<entry word="hrískjarr">
+</word>
+<word>
+hrískjarr
 	<m1><p>n.</p> <i><trn>brushwood</trn></i>.</m1>
-</entry>
-<entry word="hrísla">
+</word>
+<word>
+hrísla
 	<m1><p>f.</p> <i><trn>sprig of a branch, twig</trn></i>.</m1>
-</entry>
-<entry word="hrísóttr">
+</word>
+<word>
+hrísóttr
 	<m1><p>a.</p> <i><trn>grown with shrubs</trn></i>.</m1>
-</entry>
-<entry word="hrísrunnr">
+</word>
+<word>
+hrísrunnr
 	<m1><p>m.</p> <i><trn>bush</trn></i>.</m1>
-</entry>
-<entry word="hrísungr">
+</word>
+<word>
+hrísungr
 	<m1><p>m.</p> <i><trn>a kind of bastard</trn></i>.</m1>
-</entry>
-<entry word="hrjá">
+</word>
+<word>
+hrjá
 	<m1>(hrjái, hrjáða, hrjáðr), <p>v.</p> <i><trn>to vex, harass</trn></i> (a person).</m1>
-</entry>
-<entry word="hrjóða">
+</word>
+<word>
+hrjóða
 	<m1>(hrýð; hrauð, hruðum; hroðinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to unload</trn></i> (h. skip sín);</m2>
 	<m2>2) <i><trn>to strip, disable</trn></i>, <p>esp.</p> a ship in a sea-fight (hann hrauð öll víkingaskipin);</m2>
 	<m2>3) <p>impers.</p>, hrýðr <p>e-u</p>, <i><trn>it clears away</trn></i>; mun hroðit myrkvanum, <i><trn>the fog will have cleared away</trn></i>; hrauð upp ór honum miklu vatni, <i><trn>he brought up much water</trn></i>;</m2>
 	<m2>4) <p>refl.</p>, hrauðsk ór skikkju, <i><trn>she threw off her mantle</trn></i>.</m2>
-</entry>
-<entry word="hrjósa">
+</word>
+<word>
+hrjósa
 	<m1>(hrýss, hraus, hrosit), <p>v.</p>, only in the phrase, hrýss mér hugr við, <i><trn>I shudder with horror</trn></i> (ávalt hrýss mér hugr við, er ek sé þik).</m1>
-</entry>
-<entry word="hrjóstr">
+</word>
+<word>
+hrjóstr
 	<m1><p>n.</p> <i><trn>barren, rocky place</trn></i>.</m1>
-</entry>
-<entry word="hrjóstugr">
+</word>
+<word>
+hrjóstugr
 	<m1><p>a.</p> <i><trn>rough, barren</trn></i>.</m1>
-</entry>
-<entry word="hrjóta">
+</word>
+<word>
+hrjóta
 	<m1>(hrýt; hraut, hrutum; hrotinn), <p>v.</p></m1>
 	<m2>1) <i><trn>to fall, fly, be flung</trn></i> (øxin hraut ór hendi honum); hraut upp hurðin, <i><trn>the door was flung open</trn></i>; eldr hraut ór hlunnunum, <i><trn>fire sprang from the rollers</trn></i>; ~ spœnirnir upp í móti honum, <i><trn>the chips flew up into his face</trn></i>; h. í sundr, <i><trn>to be snapped asunder</trn></i> (í sundur hrutu baugar);</m2>
 	<m2>2) <i><trn>to snore</trn></i> (hann svaf ok hraut sterkliga).</m2>
-</entry>
-<entry word="hrjúfr">
+</word>
+<word>
+hrjúfr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>rough to the touch</trn></i> (h. háls);</m2>
 	<m2>2) <i><trn>scurvy</trn></i>.</m2>
-</entry>
-<entry word="hroðaligr">
-	</entry>
-<entry word="hroðavænligr">
+</word>
+<word>
+hroðaligr
+</word>
+<word>
+hroðavænligr
 	<m1><p>a.</p> <i><trn>likely to cause disturbance</trn></i>.</m1>
-</entry>
-<entry word="hroðgás">
+</word>
+<word>
+hroðgás
 	<m1><p>f.</p> = hrotgás.</m1>
-</entry>
-<entry word="hroði">
+</word>
+<word>
+hroði
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>trash, rubbish</trn></i>;</m2>
 	<m2>2) <i><trn>disturbance, riot</trn></i> (h. ok stornir).</m2>
-</entry>
-<entry word="hrogn">
+</word>
+<word>
+hrogn
 	<m1><p>n.</p> <i><trn>roe, spawn</trn></i>.</m1>
-</entry>
-<entry word="hrognkelsi">
+</word>
+<word>
+hrognkelsi
 	<m1><p>n.</p> <i><trn>lumpfish</trn></i>.</m1>
-</entry>
-<entry word="hroka">
+</word>
+<word>
+hroka
 	<m1>(að), <p>v.</p> <i><trn>to fill above the brim</trn></i>.</m1>
-</entry>
-<entry word="hroki">
+</word>
+<word>
+hroki
 	<m1><p>m.</p> <i><trn>a heap above the brim</trn></i>.</m1>
-</entry>
-<entry word="hrokkinhárr">
-	</entry>
-<entry word="hrokkinhæðr">
+</word>
+<word>
+hrokkinhárr
+</word>
+<word>
+hrokkinhæðr
 	<m1><p>a.</p> <i><trn>curlyhaired</trn></i> (bleikhárr ok hrokkinhárr).</m1>
-</entry>
-<entry word="hrokkinn">
+</word>
+<word>
+hrokkinn
 	<m1><p>pp.</p> <i><trn>curly</trn></i> (hrokkit hár); <i><trn>wrinkled</trn></i> (hrokkit skinn).</m1>
-</entry>
-<entry word="hrokkinskinna">
+</word>
+<word>
+hrokkinskinna
 	<m1><p>f.</p> <i><trn>‘wrinkle-skin’, old woman</trn></i>.</m1>
-</entry>
-<entry word="hrokkit">
-	</entry>
-<entry word="hrukku">
-	</entry>
-<entry word="hrykki">
+</word>
+<word>
+hrokkit
+</word>
+<word>
+hrukku
+</word>
+<word>
+hrykki
 	<m1>from <ref>hrøkkva</ref>.</m1>
-</entry>
-<entry word="hrolla">
+</word>
+<word>
+hrolla
 	<m1>(-di), <p>v.</p> <i><trn>to shiver, shudder</trn></i> (hrollir hugr minn).</m1>
-</entry>
-<entry word="hrollr">
+</word>
+<word>
+hrollr
 	<m1><p>m.</p> <i><trn>shivering (from cold</trn></i>).</m1>
-</entry>
-<entry word="hrorast">
+</word>
+<word>
+hrorast
 	<m1>(að), <p>v. refl.</p> <i><trn>to nestle</trn></i>.</m1>
-</entry>
-<entry word="hross">
+</word>
+<word>
+hross
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>horse</trn></i>;</m2>
 	<m2>2) mare.</m2>
-</entry>
-<entry word="hrossabein">
+</word>
+<word>
+hrossabein
 	<m1><p>n.</p> <p>pl.</p> <i><trn>horse bones</trn></i>.</m1>
-</entry>
-<entry word="hrossafúlga">
+</word>
+<word>
+hrossafúlga
 	<m1><p>f.</p> <i><trn>fodder</trn></i> or <i><trn>pay given to keep a horse</trn></i>.</m1>
-</entry>
-<entry word="hrossafœtr">
+</word>
+<word>
+hrossafœtr
 	<m1><p>m.</p> <p>pl.</p> <i><trn>horses’ hoofs</trn></i>.</m1>
-</entry>
-<entry word="hrossagaukr">
+</word>
+<word>
+hrossagaukr
 	<m1><p>m.</p> <i><trn>the snipe</trn></i>.</m1>
-</entry>
-<entry word="hrossahús">
-	</entry>
-<entry word="hrosshús">
+</word>
+<word>
+hrossahús
+</word>
+<word>
+hrosshús
 	<m1><p>n.</p> <i><trn>stable</trn></i>.</m1>
-</entry>
-<entry word="hrossahöfn">
+</word>
+<word>
+hrossahöfn
 	<m1><p>f.</p> <i><trn>horse pasture</trn></i>.</m1>
-</entry>
-<entry word="hrossakipping">
+</word>
+<word>
+hrossakipping
 	<m1><p>f.</p> <i><trn>quarrel about horses</trn></i>.</m1>
-</entry>
-<entry word="hrossakjöt">
+</word>
+<word>
+hrossakjöt
 	<m1><p>n.</p> <i><trn>horse flesh</trn></i>.</m1>
-</entry>
-<entry word="hrossakyn">
+</word>
+<word>
+hrossakyn
 	<m1><p>n.</p> <i><trn>horse kin</trn></i>.</m1>
-</entry>
-<entry word="hrossamaðr">
-	</entry>
-<entry word="reiðskjótamaðr">
+</word>
+<word>
+hrossamaðr
+</word>
+<word>
+reiðskjótamaðr
 	<m1><p>m.</p> <i><trn>groom</trn></i>.</m1>
-</entry>
-<entry word="hrossareið">
+</word>
+<word>
+hrossareið
 	<m1><p>f.</p> = hross-reið.</m1>
-</entry>
-<entry word="hrossaslátr">
+</word>
+<word>
+hrossaslátr
 	<m1><p>n.</p> <i><trn>horse meat</trn></i>.</m1>
-</entry>
-<entry word="hrossastóð">
+</word>
+<word>
+hrossastóð
 	<m1><p>n.</p> <i><trn>stud of horses and mares</trn></i>.</m1>
-</entry>
-<entry word="hrossastuldr">
+</word>
+<word>
+hrossastuldr
 	<m1><p>m.</p>, <i><trn>stud of horses and mares</trn></i>.</m1>
-</entry>
-<entry word="hrossataka">
+</word>
+<word>
+hrossataka
 	<m1><p>f.</p> <i><trn>horse stealing</trn></i>.</m1>
-</entry>
-<entry word="hrossavöndr">
+</word>
+<word>
+hrossavöndr
 	<m1><p>m.</p> <i><trn>horse-whip</trn></i>.</m1>
-</entry>
-<entry word="hrossaþjófr">
+</word>
+<word>
+hrossaþjófr
 	<m1><p>m.</p> <i><trn>horse-thief</trn></i>.</m1>
-</entry>
-<entry word="hrossbak">
+</word>
+<word>
+hrossbak
 	<m1><p>n.</p> <i><trn>horseback</trn></i>; á ~i, <i><trn>on horseback</trn></i>.</m1>
-</entry>
-<entry word="hrossbein">
+</word>
+<word>
+hrossbein
 	<m1><p>n.</p> <i><trn>horse’s bone</trn></i>.</m1>
-</entry>
-<entry word="hrosseigandi">
+</word>
+<word>
+hrosseigandi
 	<m1><p>m.</p> <i><trn>horse-owner</trn></i>.</m1>
-</entry>
-<entry word="hrossfellir">
+</word>
+<word>
+hrossfellir
 	<m1><p>m.</p> <i><trn>loss of horses</trn></i> (from hunger or disease).</m1>
-</entry>
-<entry word="hrossfjöldi">
+</word>
+<word>
+hrossfjöldi
 	<m1><p>m.</p> <i><trn>drove of horses</trn></i>.</m1>
-</entry>
-<entry word="hrossgjöf">
+</word>
+<word>
+hrossgjöf
 	<m1><p>f.</p> <i><trn>the gift of a horse</trn></i>.</m1>
-</entry>
-<entry word="hrossgørsemi">
+</word>
+<word>
+hrossgørsemi
 	<m1><p>f.</p> <i><trn>a treasure of a horse, a valuable horse</trn></i>.</m1>
-</entry>
-<entry word="hrosshali">
+</word>
+<word>
+hrosshali
 	<m1><p>m.</p> <i><trn>horse’s tail</trn></i>.</m1>
-</entry>
-<entry word="hrosshauss">
+</word>
+<word>
+hrosshauss
 	<m1><i><trn>horse’s head (skull)</trn></i>.</m1>
-</entry>
-<entry word="hrosshvalr">
-	</entry>
-<entry word="rosmhvalr">
+</word>
+<word>
+hrosshvalr
+</word>
+<word>
+rosmhvalr
 	<m1><p>m.</p> <i><trn>walrus</trn></i>.</m1>
-</entry>
-<entry word="hrosshöfuð">
+</word>
+<word>
+hrosshöfuð
 	<m1><p>n.</p> <i><trn>head’s head</trn></i>.</m1>
-</entry>
-<entry word="hrossíss">
+</word>
+<word>
+hrossíss
 	<m1><p>m.</p> <i><trn>ice that is strong enough to ride on</trn></i>.</m1>
-</entry>
-<entry word="hrossklyf">
+</word>
+<word>
+hrossklyf
 	<m1><p>f.</p> <i><trn>horse pack</trn></i>.</m1>
-</entry>
-<entry word="hrosslifr">
+</word>
+<word>
+hrosslifr
 	<m1><p>f.</p> <i><trn>horse’s liver</trn></i>.</m1>
-</entry>
-<entry word="hrossnautn">
-	</entry>
-<entry word="hrossneyzla">
+</word>
+<word>
+hrossnautn
+</word>
+<word>
+hrossneyzla
 	<m1><p>f.</p> <i><trn>using another’s horse</trn></i>.</m1>
-</entry>
-<entry word="hrossreið">
+</word>
+<word>
+hrossreið
 	<m1><p>f.</p> <i><trn>riding another’s horse</trn></i>.</m1>
-</entry>
-<entry word="hrossrófa">
+</word>
+<word>
+hrossrófa
 	<m1><p>f.</p> <i><trn>horse’s tail</trn></i>.</m1>
-</entry>
-<entry word="hrosssíða">
+</word>
+<word>
+hrosssíða
 	<m1><p>f.</p> <i><trn>horse’s side</trn></i>.</m1>
-</entry>
-<entry word="hrosstagl">
+</word>
+<word>
+hrosstagl
 	<m1><p>n.</p> <i><trn>horse’s tail</trn></i>.</m1>
-</entry>
-<entry word="hrossverð">
+</word>
+<word>
+hrossverð
 	<m1><p>n.</p> <i><trn>the worth of a horse</trn></i>.</m1>
-</entry>
-<entry word="hrossþjófr">
+</word>
+<word>
+hrossþjófr
 	<m1><p>m.</p> <i><trn>horse-stealer</trn></i>.</m1>
-</entry>
-<entry word="hrossæta">
+</word>
+<word>
+hrossæta
 	<m1><p>f.</p> <i><trn>eater of horse-flesh</trn></i>.</m1>
-</entry>
-<entry word="hrosti">
+</word>
+<word>
+hrosti
 	<m1><p>m.</p> <i><trn>the mash</trn></i> (in brewing).</m1>
-</entry>
-<entry word="hrotgarmr">
+</word>
+<word>
+hrotgarmr
 	<m1><p>m.</p> <i><trn>‘howling dog’</trn></i>; ~ viðar, <i><trn>fire</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hrotgás">
+</word>
+<word>
+hrotgás
 	<m1><p>f.</p> <i><trn>barnacle-goose</trn></i>.</m1>
-</entry>
-<entry word="hrotti">
+</word>
+<word>
+hrotti
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>sword</trn></i> (<p>poet.</p>);</m2>
 	<m2>2) <i><trn>a coarse, rude fellow</trn></i>.</m2>
-</entry>
-<entry word="hróðr">
+</word>
+<word>
+hróðr
 	<m1>(<p>gen.</p> -rs and -rar), <p>m.</p> <i><trn>praise</trn></i>.</m1>
-</entry>
-<entry word="hróðrbaðmr">
-	</entry>
-<entry word="hróðrbarmr">
+</word>
+<word>
+hróðrbaðmr
+</word>
+<word>
+hróðrbarmr
 	<m1><p>m.</p> <i><trn>the famous branch</trn></i> (the mistletoe).</m1>
-</entry>
-<entry word="hróðrfúss">
+</word>
+<word>
+hróðrfúss
 	<m1><p>a.</p> <i><trn>eager for praise</trn></i>.</m1>
-</entry>
-<entry word="hróðugr">
+</word>
+<word>
+hróðugr
 	<m1><p>a.</p> <i><trn>triumphant, glorious</trn></i>.</m1>
-</entry>
-<entry word="hróf">
+</word>
+<word>
+hróf
 	<m1><p>n.</p> <i><trn>shed</trn></i> (under which ships are built or kept).</m1>
-</entry>
-<entry word="hrókr">
+</word>
+<word>
+hrókr
 	<m1><b>I)</b></m1>
 	<m2>(-s, -ar), <p>m.</p> <i><trn>rook</trn></i> (the bird).</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>m.</p> <i><trn>rook, castle</trn></i> (in chess).</m2>
-</entry>
-<entry word="hróp">
+</word>
+<word>
+hróp
 	<m1><p>n.</p> <i><trn>slander, foul words</trn></i>.</m1>
-</entry>
-<entry word="hrópa">
+</word>
+<word>
+hrópa
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to slander, defame</trn></i>;</m2>
 	<m2>2) <i><trn>to shout</trn></i> (~ á <p>e-n</p>).</m2>
-</entry>
-<entry word="hrópyrði">
+</word>
+<word>
+hrópyrði
 	<m1><p>n.</p> <p>pl.</p> <i><trn>slander, calumny</trn></i>.</m1>
-</entry>
-<entry word="hrósa">
+</word>
+<word>
+hrósa
 	<m1>(að), <p>v.</p> <i><trn>to praise</trn></i>, with <p>dat.</p>;</m1>
 	<m2>~ sér, <i><trn>to boast</trn></i>;</m2>
 	<m2>~ sigri, <i><trn>to triumph</trn></i>.</m2>
-</entry>
-<entry word="hrósan">
+</word>
+<word>
+hrósan
 	<m1><p>f.</p> <i><trn>praise, boasting</trn></i>.</m1>
-</entry>
-<entry word="hrósari">
+</word>
+<word>
+hrósari
 	<m1><p>m.</p> <i><trn>boaster</trn></i>.</m1>
-</entry>
-<entry word="hrufa">
+</word>
+<word>
+hrufa
 	<m1><p>f.</p> <i><trn>rough surface, crust</trn></i>.</m1>
-</entry>
-<entry word="hrufla">
+</word>
+<word>
+hrufla
 	<m1>(að), <p>v.</p> <i><trn>to scratch</trn></i>.</m1>
-</entry>
-<entry word="hrukka">
+</word>
+<word>
+hrukka
 	<m1><p>f.</p> <i><trn>wrinkle</trn></i>.</m1>
-</entry>
-<entry word="hruma">
+</word>
+<word>
+hruma
 	<m1>(að), <p>v.</p> <i><trn>to enfeeble, make infirm</trn></i>; ~ðr, <i><trn>infirm, worn by age</trn></i>.</m1>
-</entry>
-<entry word="hrumligr">
+</word>
+<word>
+hrumligr
 	<m1><p>a.</p> <i><trn>infirm</trn></i>.</m1>
-</entry>
-<entry word="hrumr">
+</word>
+<word>
+hrumr
 	<m1><p>a.</p> <i><trn>infirm, decrepit, staggering</trn></i> (h. í göngu).</m1>
-</entry>
-<entry word="hrundi">
+</word>
+<word>
+hrundi
 	<m1>from <ref>hrynja</ref>.</m1>
-</entry>
-<entry word="hrundning">
+</word>
+<word>
+hrundning
 	<m1><p>f.</p> <i><trn>kicking, pushing</trn></i>.</m1>
-</entry>
-<entry word="hrúðr">
+</word>
+<word>
+hrúðr
 	<m1><p>m.</p> <i><trn>crust, scab on a sore</trn></i>.</m1>
-</entry>
-<entry word="hrúga">
+</word>
+<word>
+hrúga
 	<m1><p>f.</p> <i><trn>heap</trn></i> (liggja í hrúgu).</m1>
-</entry>
-<entry word="hrúgald">
+</word>
+<word>
+hrúgald
 	<m1><p>n.</p> <i><trn>heap, mass</trn></i>.</m1>
-</entry>
-<entry word="hrútmánaðr">
+</word>
+<word>
+hrútmánaðr
 	<m1><p>m.</p> <i><trn>the third month of winter</trn></i> (Dec.-Jan.).</m1>
-</entry>
-<entry word="hrútr">
+</word>
+<word>
+hrútr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>ram</trn></i>.</m1>
-</entry>
-<entry word="hrútsfall">
+</word>
+<word>
+hrútsfall
 	<m1><p>n.</p> <i><trn>a ram’s carcase</trn></i>.</m1>
-</entry>
-<entry word="hrútsgæra">
+</word>
+<word>
+hrútsgæra
 	<m1><p>f.</p> <i><trn>the skin and fleece of a ram</trn></i>.</m1>
-</entry>
-<entry word="hrútshöfuð">
+</word>
+<word>
+hrútshöfuð
 	<m1><p>n.</p> <i><trn>a ram’s head</trn></i>.</m1>
-</entry>
-<entry word="hrútsmark">
-	</entry>
-<entry word="hrútsmerki">
+</word>
+<word>
+hrútsmark
+</word>
+<word>
+hrútsmerki
 	<m1><p>n.</p> <i><trn>the sign Aries</trn></i>.</m1>
-</entry>
-<entry word="hryðjuverk">
+</word>
+<word>
+hryðjuverk
 	<m1><p>n.</p> <i><trn>foul deed, outrage</trn></i>.</m1>
-</entry>
-<entry word="hrygð">
+</word>
+<word>
+hrygð
 	<m1><p>f.</p> <i><trn>affliction, grief, sorrow</trn></i> (mikil ~ ok hörmung).</m1>
-</entry>
-<entry word="hrygðarbúnaðr">
-	</entry>
-<entry word="hrygðarbúningr">
-	</entry>
-<entry word="sorgarbúnaðr">
-	</entry>
-<entry word="sorgarbúningr">
+</word>
+<word>
+hrygðarbúnaðr
+</word>
+<word>
+hrygðarbúningr
+</word>
+<word>
+sorgarbúnaðr
+</word>
+<word>
+sorgarbúningr
 	<m1><p>m.</p> <i><trn>mourning dress</trn></i>.</m1>
-</entry>
-<entry word="hrygðardagr">
+</word>
+<word>
+hrygðardagr
 	<m1><p>m.</p> <i><trn>day of sorrow</trn></i>.</m1>
-</entry>
-<entry word="hrygðarefni">
+</word>
+<word>
+hrygðarefni
 	<m1><p>n.</p> <i><trn>cause of sorrow</trn></i>.</m1>
-</entry>
-<entry word="hrygðarfullr">
+</word>
+<word>
+hrygðarfullr
 	<m1><p>a.</p> <i><trn>sorrowful, rueful</trn></i>.</m1>
-</entry>
-<entry word="hrygðarmark">
+</word>
+<word>
+hrygðarmark
 	<m1><p>n.</p> <i><trn>token of sorrow</trn></i>.</m1>
-</entry>
-<entry word="hrygðarsamligr">
-	</entry>
-<entry word="tregafullr">
-	</entry>
-<entry word="tregasamligr">
+</word>
+<word>
+hrygðarsamligr
+</word>
+<word>
+tregafullr
+</word>
+<word>
+tregasamligr
 	<m1><p>a.</p> <i><trn>mournful</trn></i>.</m1>
-</entry>
-<entry word="hrygðarsvipr">
+</word>
+<word>
+hrygðarsvipr
 	<m1><p>m.</p> <i><trn>mournful look</trn></i>.</m1>
-</entry>
-<entry word="hrygðaryfirbragð">
+</word>
+<word>
+hrygðaryfirbragð
 	<m1><p>n.</p> <i><trn>mournful look</trn></i>.</m1>
-</entry>
-<entry word="hryggafl">
+</word>
+<word>
+hryggafl
 	<m1><p>n.</p> <i><trn>strength of the back</trn></i>.</m1>
-</entry>
-<entry word="hryggbjúgr">
+</word>
+<word>
+hryggbjúgr
 	<m1><p>a.</p> <i><trn>crook-backed</trn></i>.</m1>
-</entry>
-<entry word="hryggbrotinn">
+</word>
+<word>
+hryggbrotinn
 	<m1><p>pp.</p> <i><trn>broken-backed</trn></i>.</m1>
-</entry>
-<entry word="hryggbrotna">
+</word>
+<word>
+hryggbrotna
 	<m1>(að), <p>v.</p> <i><trn>to break one’s back</trn></i>.</m1>
-</entry>
-<entry word="hryggiligr">
+</word>
+<word>
+hryggiligr
 	<m1><p>a.</p> <i><trn>mournful, sad</trn></i>.</m1>
-</entry>
-<entry word="hryggja">
+</word>
+<word>
+hryggja
 	<m1>(-ða, -ðr), <p>v.</p></m1>
 	<m2>1) <i><trn>to distress, grieve</trn></i>, with <p>acc.</p> (ekki ~ mik hót þín);</m2>
 	<m3><p>refl.</p>, ~st, <i><trn>to become sad or sorrowful</trn></i>;</m3>
 	<m2>2) <i><trn>to cause to look sad</trn></i> (h. andlit sitt).</m2>
-</entry>
-<entry word="hryggknýttr">
+</word>
+<word>
+hryggknýttr
 	<m1><p>pp.</p> <i><trn>humpbacked</trn></i>.</m1>
-</entry>
-<entry word="hryggleikr">
+</word>
+<word>
+hryggleikr
 	<m1><p>m.</p> = hrygð.</m1>
-</entry>
-<entry word="hrygglundir">
+</word>
+<word>
+hrygglundir
 	<m1><p>f.</p> <p>pl.</p> <i><trn>loins</trn></i>.</m1>
-</entry>
-<entry word="hryggr">
+</word>
+<word>
+hryggr
 	<m1><b>I)</b></m1>
 	<m2>(-jar, -ir), <p>m.</p></m2>
 	<m3>1) <i><trn>backbone, spine</trn></i>;</m3>
 	<m3>2) <i><trn>ridge, mountain-ridge</trn></i>.</m3>
 	<m1><b>II)</b></m1>
 	<m2>(<p>acc.</p> -van), <p>a.</p> <i><trn>afflicted, grieved, sad</trn></i>; er þér hryggt í hug, <i><trn>art thou heavy of heart?</trn></i>.</m2>
-</entry>
-<entry word="hryggspenna">
+</word>
+<word>
+hryggspenna
 	<m1>(-ta, -tr), <p>v.</p> <i><trn>to clasp the arms round another’s back</trn></i>.</m1>
-</entry>
-<entry word="hryggsterkr">
+</word>
+<word>
+hryggsterkr
 	<m1><p>a.</p> <i><trn>strong-backed</trn></i>.</m1>
-</entry>
-<entry word="hryggva">
+</word>
+<word>
+hryggva
 	<m1><p>v.</p> = hryggja (old form).</m1>
-</entry>
-<entry word="hrygna">
+</word>
+<word>
+hrygna
 	<m1><p>f.</p> <i><trn>spawner</trn></i>.</m1>
-</entry>
-<entry word="hrymast">
-	</entry>
-<entry word="hrymjast">
+</word>
+<word>
+hrymast
+</word>
+<word>
+hrymjast
 	<m1>(d), <p>v. refl.</p> <i><trn>to become old and infirm</trn></i>; hrymdr, <i><trn>infirm from age</trn></i> (h. bæði at sýn ok elli).</m1>
-</entry>
-<entry word="hrynhenda">
+</word>
+<word>
+hrynhenda
 	<m1><p>f.</p> <i><trn>a kind of metre</trn></i> (having lines with four stresses).</m1>
-</entry>
-<entry word="hrynja">
+</word>
+<word>
+hrynja
 	<m1>(hryn, hrunda, hruninn), <p>v.</p></m1>
 	<m2>1) <i><trn>to fall in, collapse, topple down</trn></i> (veggrinn hrynr, björgin ~);</m2>
 	<m2>2) <i><trn>to flow, stream</trn></i> (hrundu tárin á kinnr honum);</m2>
 	<m2>3) <i><trn>to fall loosely</trn></i> (klæðit hrundi ofan um hann); látum und hánum h. lukla, <i><trn>let the keys rattle down from his girdle</trn></i>;</m2>
 	<m2>4) h. á hæla <p>e-m</p>, <i><trn>to shut upon one’s heels</trn></i>.</m2>
-</entry>
-<entry word="hryssa">
+</word>
+<word>
+hryssa
 	<m1><p>f.</p> <i><trn>mare</trn></i> (cf. <ref>merhryssi</ref>).</m1>
-</entry>
-<entry word="hrytr">
+</word>
+<word>
+hrytr
 	<m1><p>m.</p> <i><trn>snoring</trn></i>.</m1>
-</entry>
-<entry word="hrýgja">
+</word>
+<word>
+hrýgja
 	<m1>(-ða, -ðr), <p>v.</p> <i><trn>to heap together</trn></i> (h. hverjum ofan á annan).</m1>
-</entry>
-<entry word="hrýs">
+</word>
+<word>
+hrýs
 	<m1>from <ref>hrjósa</ref>.</m1>
-</entry>
-<entry word="hræ">
+</word>
+<word>
+hræ
 	<m1>(<p>gen.</p> <p>pl.</p> hræva), <p>n.</p></m1>
 	<m2>1) <i><trn>dead body, carrion</trn></i>;</m2>
 	<m2>2) <i><trn>fragments</trn></i> (of a thing), <i><trn>scraps</trn></i>.</m2>
-</entry>
-<entry word="hræða">
+</word>
+<word>
+hræða
 	<m1>(-dda, -ddr), <p>v.</p> <i><trn>to frighten</trn></i>;</m1>
 	<m2><p>refl.</p>, ~st <p>e-t</p> <com>or</com> við <p>e-t</p>, <i><trn>to be afraid of, to fear, dread</trn></i>.</m2>
-</entry>
-<entry word="hræddr">
+</word>
+<word>
+hræddr
 	<m1><p>a.</p> <i><trn>afraid</trn></i> (við <p>e-t</p>, <i><trn>of</trn></i>), <i><trn>frightened (at)</trn></i>; vera h. um, at, <i><trn>to fear, be afraid, that</trn></i>.</m1>
-</entry>
-<entry word="hræðiliga">
+</word>
+<word>
+hræðiliga
 	<m1><p>adv.</p> <i><trn>dreadfully, fearfully</trn></i>.</m1>
-</entry>
-<entry word="hræðiligr">
+</word>
+<word>
+hræðiligr
 	<m1><p>a.</p> <i><trn>dreadful, fearful</trn></i>.</m1>
-</entry>
-<entry word="hræðinn">
-	</entry>
-<entry word="tæpidjarfr">
-	</entry>
-<entry word="údjarfr">
+</word>
+<word>
+hræðinn
+</word>
+<word>
+tæpidjarfr
+</word>
+<word>
+údjarfr
 	<m1><p>a.</p> <i><trn>timid</trn></i>.</m1>
-</entry>
-<entry word="hrædreyrugr">
+</word>
+<word>
+hrædreyrugr
 	<m1><p>a.</p> <i><trn>gory</trn></i>.</m1>
-</entry>
-<entry word="hræfa">
+</word>
+<word>
+hræfa
 	<m1>(-ða, -t), <p>v.</p>, h. um <p>e-t</p>, <i><trn>to bear with, tolerate</trn></i>; má ekki um þat h. lengr, <i><trn>it is no longer tolerable</trn></i>.</m1>
-</entry>
-<entry word="hrægífr">
+</word>
+<word>
+hrægífr
 	<m1><p>n.</p> <i><trn>‘carrion beast’, wolf</trn></i>.</m1>
-</entry>
-<entry word="hrækja">
+</word>
+<word>
+hrækja
 	<m1>(-ta, -tr), <p>v.</p> <i><trn>to spit</trn></i>; h. <p>e-u</p> út, <i><trn>to spit out</trn></i>.</m1>
-</entry>
-<entry word="hræla">
+</word>
+<word>
+hræla
 	<m1>(að), <p>v.</p> <i><trn>to beat the loom with a weaver’s rod</trn></i> (hræll).</m1>
-</entry>
-<entry word="hræljómi">
+</word>
+<word>
+hræljómi
 	<m1><p>m.</p> <i><trn>the light from decomposing matter</trn></i>.</m1>
-</entry>
-<entry word="hræll">
+</word>
+<word>
+hræll
 	<m1><p>m.</p> <i><trn>weaver’s rod, slay</trn></i>.</m1>
-</entry>
-<entry word="hrælog">
+</word>
+<word>
+hrælog
 	<m1><p>n.</p> <i><trn>the light from decomposing matter</trn></i>.</m1>
-</entry>
-<entry word="hrævadaunn">
-	</entry>
-<entry word="hrævaþefr">
+</word>
+<word>
+hrævadaunn
+</word>
+<word>
+hrævaþefr
 	<m1><p>m.</p> <i><trn>carrion-smell</trn></i>; <i><trn>stench of dead bodies</trn></i>.</m1>
-</entry>
-<entry word="hræzla">
+</word>
+<word>
+hræzla
 	<m1><p>f.</p> <i><trn>dread, fear</trn></i>.</m1>
-</entry>
-<entry word="hræzlufullr">
+</word>
+<word>
+hræzlufullr
 	<m1><p>a.</p> <i><trn>in great fear</trn></i>.</m1>
-</entry>
-<entry word="hræzlugœði">
+</word>
+<word>
+hræzlugœði
 	<m1><p>n.</p> <i><trn>timidity</trn></i>.</m1>
-</entry>
-<entry word="hrœða">
+</word>
+<word>
+hrœða
 	<m1><p>f.</p> <i><trn>disquiet, disturbance</trn></i>.</m1>
-</entry>
-<entry word="hrœðulauss">
+</word>
+<word>
+hrœðulauss
 	<m1><p>a.</p> <i><trn>free from disturbance, quiet, peaceable</trn></i> (sjaldan mun hrœðulaust vera í þessu heraði).</m1>
-</entry>
-<entry word="hrœra">
+</word>
+<word>
+hrœra
 	<m1>(-ða, -ðr), <p>v.</p></m1>
 	<m2>1) <i><trn>to move, stir</trn></i> (~ fingrna);</m2>
 	<m3>~ í katlinum, <i><trn>to stir the pot</trn></i>;</m3>
 	<m3>~ <p>e-t</p> saman, <i><trn>to mix up</trn></i> (~ saman allt, moldina ok blóðit);</m3>
 	<m2>2) <p>refl.</p>, ~st, <i><trn>to move oneself, to be in motion</trn></i> (þá hrœrist heinin í höfuð Þór);</m2>
 	<m3><i><trn>to move from one’s place, to budge, stir</trn></i> (ek ætla héðan hvergi at ~st).</m3>
-</entry>
-<entry word="hrœrar">
-	</entry>
-<entry word="krikar">
+</word>
+<word>
+hrœrar
+</word>
+<word>
+krikar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>groin</trn></i>.</m1>
-</entry>
-<entry word="hrœriligr">
+</word>
+<word>
+hrœriligr
 	<m1><p>a.</p> <i><trn>movable</trn></i>.</m1>
-</entry>
-<entry word="hrœring">
+</word>
+<word>
+hrœring
 	<m1>(<p>pl.</p> -ar), <p>f.</p></m1>
 	<m2>1) <i><trn>motion, stir</trn></i>;</m2>
 	<m2>2) <i><trn>inclination</trn></i>.</m2>
-</entry>
-<entry word="hrœsinn">
+</word>
+<word>
+hrœsinn
 	<m1><p>a.</p> <i><trn>boasting, vaunting</trn></i>.</m1>
-</entry>
-<entry word="hrœsni">
-	</entry>
-<entry word="hœlni">
+</word>
+<word>
+hrœsni
+</word>
+<word>
+hœlni
 	<m1><p>f.</p> <i><trn>boasting, bragging</trn></i>.</m1>
-</entry>
-<entry word="hrøðast">
+</word>
+<word>
+hrøðast
 	<m1><p>v. refl.</p> <i><trn>to grow old and decrepit</trn></i>.</m1>
-</entry>
-<entry word="hröðuðr">
+</word>
+<word>
+hröðuðr
 	<m1><p>m.</p> <i><trn>‘the swift one’</trn></i>, <p>poet.</p> name of <i><trn>fire</trn></i>.</m1>
-</entry>
-<entry word="hrøkkla">
+</word>
+<word>
+hrøkkla
 	<m1>(að), <p>v.</p> <i><trn>to reel, totter</trn></i>.</m1>
-</entry>
-<entry word="hrøkkva">
+</word>
+<word>
+hrøkkva
 	<m1><b>I)</b></m1>
 	<m2>(hrøkk; hrökk, hrukkum; hrokkinn), <p>v.</p></m2>
 	<m3>1) <i><trn>to fall back, recoil, be repelled</trn></i>;</m3>
@@ -7535,313 +9729,415 @@ Hlóðyn
 	<m3>2) <i><trn>to spur or whip a horse</trn></i> (eptir þat hrøkti hann hestinn);</m3>
 	<m3>3) <p>refl.</p>, ~st, <i><trn>to coil, wriggle</trn></i>, of a snake (undan honum hrøktist ein naðra at Oddi);</m3>
 	<m4>~st aptr, <i><trn>to turn back</trn></i> (G. reið síðastr ok skyldi geyma, at engir hrøktist aptr).</m4>
-</entry>
-<entry word="hrönn">
+</word>
+<word>
+hrönn
 	<m1>(<p>gen.</p> hrannar, <p>pl.</p> hrannir), <p>f.</p> <i><trn>wave</trn></i>; <p>dat.</p> <p>pl.</p>, ~um, <i><trn>in heaps</trn></i> (drepr hann hirðmenn konungs niðr ~um).</m1>
-</entry>
-<entry word="hrør">
+</word>
+<word>
+hrør
 	<m1><p>n.</p> <i><trn>corpse</trn></i> = hrer.</m1>
-</entry>
-<entry word="hrørast">
+</word>
+<word>
+hrørast
 	<m1><p>v. refl.</p> = <ref>hrøðast</ref>.</m1>
-</entry>
-<entry word="hrørligr">
+</word>
+<word>
+hrørligr
 	<m1><p>a.</p> <i><trn>dilapidated, ruinous</trn></i>.</m1>
-</entry>
-<entry word="hrørna">
+</word>
+<word>
+hrørna
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to fall into decay</trn></i> (of buildings);</m2>
 	<m2>2) <i><trn>to wither</trn></i> (tréit deyr, þegar þat ~r).</m2>
-</entry>
-<entry word="huga">
+</word>
+<word>
+huga
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to excogitate, think out</trn></i> (hugat hefi ek mér ráð);</m2>
 	<m2>2) h. <p>e-m</p> <p>e-t</p>, <i><trn>to think of, intend, for one</trn></i> (verk hefi ek hugat þér);</m2>
 	<m2>3) h. at <p>e-u</p>, <i><trn>to attend to, look after</trn></i> (þá var at hugat sárum Kormaks); h. um <p>e-t</p>, <i><trn>to be concerned about</trn></i>; h. fyrir <p>e-u</p>, <i><trn>to provide for</trn></i>.</m2>
-</entry>
-<entry word="hugaðlátr">
-	</entry>
-<entry word="þokkagóðr">
+</word>
+<word>
+hugaðlátr
+</word>
+<word>
+þokkagóðr
 	<m1><p>a.</p> <i><trn>engaging, amiable</trn></i>.</m1>
-</entry>
-<entry word="hugaðliga">
+</word>
+<word>
+hugaðliga
 	<m1><p>adv.</p> <i><trn>amiably, lovingly</trn></i>.</m1>
-</entry>
-<entry word="hugaðr">
+</word>
+<word>
+hugaðr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>courageous, bold</trn></i>;</m2>
 	<m2>2) h. <p>e-m</p> vel (lítt), <i><trn>well (ill) disposed towards one</trn></i>;</m2>
 	<m2>3) <p>e-m</p> er mest um <p>e-t</p> hugat, <i><trn>one has most at heart</trn></i> (Hafliði kvað þat sýnt, at henni var mest um hann hugat).</m2>
-</entry>
-<entry word="hugaðsamliga">
-	</entry>
-<entry word="virkuliga">
+</word>
+<word>
+hugaðsamliga
+</word>
+<word>
+virkuliga
 	<m1><p>adv.</p> <i><trn>carefully</trn></i>.</m1>
-</entry>
-<entry word="hugaðsamr">
+</word>
+<word>
+hugaðsamr
 	<m1><p>a.</p> <i><trn>gentle, engaging</trn></i>.</m1>
-</entry>
-<entry word="hugaðsrœða">
+</word>
+<word>
+hugaðsrœða
 	<m1><p>f.</p> <i><trn>sensible speech</trn></i>.</m1>
-</entry>
-<entry word="hugafullr">
+</word>
+<word>
+hugafullr
 	<m1><p>a.</p> <i><trn>anxious</trn></i>.</m1>
-</entry>
-<entry word="hugall">
+</word>
+<word>
+hugall
 	<m1><p>a.</p> <i><trn>mindful, thoughtful</trn></i>.</m1>
-</entry>
-<entry word="hugalt">
+</word>
+<word>
+hugalt
 	<m1><p>adv.</p> <i><trn>carefully</trn></i> (geyma h.).</m1>
-</entry>
-<entry word="hugan">
+</word>
+<word>
+hugan
 	<m1><p>f.</p> <i><trn>care, concern</trn></i> (konungr bar hér mikla ~ fyrir).</m1>
-</entry>
-<entry word="hugarangr">
+</word>
+<word>
+hugarangr
 	<m1><p>n.</p> <i><trn>heart’s grief</trn></i>.</m1>
-</entry>
-<entry word="hugarbót">
+</word>
+<word>
+hugarbót
 	<m1><p>f.</p> <i><trn>comfort</trn></i>.</m1>
-</entry>
-<entry word="hugarekki">
+</word>
+<word>
+hugarekki
 	<m1><p>m.</p> <i><trn>heart-ache, distress of mind</trn></i>.</m1>
-</entry>
-<entry word="hugarfar">
+</word>
+<word>
+hugarfar
 	<m1><p>n.</p> <i><trn>disposition, frame of mind</trn></i>.</m1>
-</entry>
-<entry word="hugarfýst">
+</word>
+<word>
+hugarfýst
 	<m1><p>f.</p> <i><trn>desire</trn></i>.</m1>
-</entry>
-<entry word="hugargóðr">
+</word>
+<word>
+hugargóðr
 	<m1><p>a.</p> <i><trn>kind of heart</trn></i>.</m1>
-</entry>
-<entry word="hugarherði">
+</word>
+<word>
+hugarherði
 	<m1><p>f.</p> <i><trn>hard-heartedness</trn></i>.</m1>
-</entry>
-<entry word="hugarhrœring">
-	</entry>
-<entry word="kløkkving">
+</word>
+<word>
+hugarhrœring
+</word>
+<word>
+kløkkving
 	<m1><p>f.</p> <i><trn>emotion</trn></i>.</m1>
-</entry>
-<entry word="hugarhvarf">
+</word>
+<word>
+hugarhvarf
 	<m1><p>n.</p> <i><trn>estrangement</trn></i>.</m1>
-</entry>
-<entry word="hugarlátliga">
+</word>
+<word>
+hugarlátliga
 	<m1><p>adv.</p> <i><trn>amiably, gently</trn></i>.</m1>
-</entry>
-<entry word="hugarlund">
+</word>
+<word>
+hugarlund
 	<m1><p>f.</p> <i><trn>disposition of mind, fancy</trn></i>.</m1>
-</entry>
-<entry word="hugarótti">
+</word>
+<word>
+hugarótti
 	<m1><p>m.</p> <i><trn>fright, anxiety</trn></i>.</m1>
-</entry>
-<entry word="hugarreikan">
-	</entry>
-<entry word="hugarruglan">
+</word>
+<word>
+hugarreikan
+</word>
+<word>
+hugarruglan
 	<m1><p>f.</p> <i><trn>wandering of mind</trn></i>.</m1>
-</entry>
-<entry word="hugarsturlan">
+</word>
+<word>
+hugarsturlan
 	<m1><p>f.</p> <i><trn>insanity</trn></i>.</m1>
-</entry>
-<entry word="hugarumskipti">
+</word>
+<word>
+hugarumskipti
 	<m1><p>n.</p> <p>pl.</p> <i><trn>change of mind</trn></i>.</m1>
-</entry>
-<entry word="hugarválað">
+</word>
+<word>
+hugarválað
 	<m1><p>n.</p> <i><trn>anguish of mind</trn></i>.</m1>
-</entry>
-<entry word="hugarœði">
+</word>
+<word>
+hugarœði
 	<m1><p>f.</p> <i><trn>fury</trn></i>.</m1>
-</entry>
-<entry word="hugarœsingr">
+</word>
+<word>
+hugarœsingr
 	<m1><p>m.</p> <i><trn>excitement, agitation of mind</trn></i>.</m1>
-</entry>
-<entry word="hugat">
+</word>
+<word>
+hugat
 	<m1><p>adv.</p> <i><trn>frankly, sincerely</trn></i> (mæla ~).</m1>
-</entry>
-<entry word="hugást">
+</word>
+<word>
+hugást
 	<m1><p>f.</p> <i><trn>heartfelt affection</trn></i>; unna ~um, <i><trn>to love with all one’s heart</trn></i>.</m1>
-</entry>
-<entry word="hugblíðr">
+</word>
+<word>
+hugblíðr
 	<m1><p>a.</p> <i><trn>gentle of mind</trn></i>.</m1>
-</entry>
-<entry word="hugboð">
+</word>
+<word>
+hugboð
 	<m1><p>n.</p> <i><trn>foreboding, anticipation, fancy</trn></i> (þat er nær mínu ~i, at).</m1>
-</entry>
-<entry word="hugboðit">
+</word>
+<word>
+hugboðit
 	<m1><p>pp.</p> <p>n.</p>, hafa <p>e-t</p> ~, <i><trn>to intend</trn></i>.</m1>
-</entry>
-<entry word="hugborð">
+</word>
+<word>
+hugborð
 	<m1><p>n.</p> <i><trn>courage</trn></i>.</m1>
-</entry>
-<entry word="hugborg">
+</word>
+<word>
+hugborg
 	<m1><p>f.</p> <i><trn>the breast</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hugbót">
+</word>
+<word>
+hugbót
 	<m1><p>f.</p> comfort.</m1>
-</entry>
-<entry word="hugbrigðr">
+</word>
+<word>
+hugbrigðr
 	<m1><p>a.</p> <i><trn>fickle, false</trn></i> (við <p>e-n</p>).</m1>
-</entry>
-<entry word="hugð">
+</word>
+<word>
+hugð
 	<m1><p>f.</p>, only in <p>compds.</p>, hugðar-.</m1>
-</entry>
-<entry word="hugða">
+</word>
+<word>
+hugða
 	<m1><p>f.</p> <i><trn>interest, affection</trn></i>; leggja hugðu til <p>e-s</p>, <i><trn>to take interest in, feel affection for one</trn></i> (konungr leggr enga hugðu til hests síns); mæla, rœða af hugðu, <i><trn>to speak from one’s heart</trn></i>.</m1>
-</entry>
-<entry word="hugðarerindi">
+</word>
+<word>
+hugðarerindi
 	<m1><p>n.</p> <i><trn>a matter which one has at heart</trn></i>.</m1>
-</entry>
-<entry word="hugðarmál">
+</word>
+<word>
+hugðarmál
 	<m1><p>n.</p> = hugðarerindi.</m1>
-</entry>
-<entry word="hugði">
+</word>
+<word>
+hugði
 	<m1>from <ref>hyggja</ref>.</m1>
-</entry>
-<entry word="hugdirfa">
+</word>
+<word>
+hugdirfa
 	<m1>(-ða, -ðr), <p>v.</p> <i><trn>to encourage</trn></i>.</m1>
-</entry>
-<entry word="hugdirfð">
-	</entry>
-<entry word="hughreysti">
+</word>
+<word>
+hugdirfð
+</word>
+<word>
+hughreysti
 	<m1><p>f.</p> <i><trn>courage</trn></i>.</m1>
-</entry>
-<entry word="hugdjarfr">
+</word>
+<word>
+hugdjarfr
 	<m1><p>a.</p> <i><trn>courageous, stout-hearted</trn></i>.</m1>
-</entry>
-<entry word="hugðumaðr">
+</word>
+<word>
+hugðumaðr
 	<m1><p>m.</p> = hugðar-maðr.</m1>
-</entry>
-<entry word="hugdyggr">
-	</entry>
-<entry word="staðramr">
+</word>
+<word>
+hugdyggr
+</word>
+<word>
+staðramr
 	<m1><p>a.</p> <i><trn>steadfast</trn></i>.</m1>
-</entry>
-<entry word="hugfastliga">
-	</entry>
-<entry word="staðfastliga">
+</word>
+<word>
+hugfastliga
+</word>
+<word>
+staðfastliga
 	<m1><p>adv.</p> <i><trn>steadfastly</trn></i>.</m1>
-</entry>
-<entry word="hugfastr">
+</word>
+<word>
+hugfastr
 	<m1><p>a.</p> <i><trn>steadfast, fixed in one’s mind</trn></i>; <p>e-m</p> er <p>e-t</p> hugfast, <i><trn>one is bent on</trn></i>.</m1>
-</entry>
-<entry word="hugfátt">
+</word>
+<word>
+hugfátt
 	<m1><p>a.</p> <p>n.</p>, <p>e-m</p> verðr fátt, <i><trn>one loses heart</trn></i>.</m1>
-</entry>
-<entry word="hugfeldr">
-	</entry>
-<entry word="viðtœkiligr">
-	</entry>
-<entry word="þokkuligr">
+</word>
+<word>
+hugfeldr
+</word>
+<word>
+viðtœkiligr
+</word>
+<word>
+þokkuligr
 	<m1><p>a.</p> <i><trn>agreeable</trn></i>.</m1>
-</entry>
-<entry word="hugfesta">
+</word>
+<word>
+hugfesta
 	<m1>(-sta, -str), <p>v.</p></m1>
 	<m2>1) <i><trn>to fix in one’s mind</trn></i>;</m2>
 	<m2>2) <i><trn>to make up one’s mind about</trn></i>.</m2>
-</entry>
-<entry word="hugfullr">
+</word>
+<word>
+hugfullr
 	<m1><p>a.</p> <i><trn>full of courage</trn></i>.</m1>
-</entry>
-<entry word="hugga">
+</word>
+<word>
+hugga
 	<m1>(að), <p>v.</p> <i><trn>to comfort, console</trn></i>;</m1>
 	<m2><p>refl.</p>, ~st, <i><trn>to be comforted</trn></i>.</m2>
-</entry>
-<entry word="huggan">
+</word>
+<word>
+huggan
 	<m1><p>f.</p> <i><trn>comfort, consolation</trn></i>.</m1>
-</entry>
-<entry word="hugganarorð">
+</word>
+<word>
+hugganarorð
 	<m1><p>n.</p> <i><trn>word of comfort</trn></i>.</m1>
-</entry>
-<entry word="hugganarván">
+</word>
+<word>
+hugganarván
 	<m1><p>f.</p> <i><trn>hope of comfort</trn></i>.</m1>
-</entry>
-<entry word="huggandi">
-	</entry>
-<entry word="huggari">
+</word>
+<word>
+huggandi
+</word>
+<word>
+huggari
 	<m1><p>m.</p> <i><trn>comforter</trn></i>.</m1>
-</entry>
-<entry word="huggóðr">
+</word>
+<word>
+huggóðr
 	<m1><p>a.</p> <i><trn>kind-hearted, cheerful</trn></i>.</m1>
-</entry>
-<entry word="huggœði">
+</word>
+<word>
+huggœði
 	<m1><p>n.</p> <i><trn>goodness of heart</trn></i>.</m1>
-</entry>
-<entry word="hughress">
+</word>
+<word>
+hughress
 	<m1><p>a.</p> <i><trn>cheerful, at ease</trn></i>.</m1>
-</entry>
-<entry word="hughvarf">
+</word>
+<word>
+hughvarf
 	<m1><p>n.</p> <i><trn>change of mind</trn></i>; telja <p>e-m</p> ~, <i><trn>to persuade one to change his mind</trn></i>.</m1>
-</entry>
-<entry word="hughœgr">
+</word>
+<word>
+hughœgr
 	<m1><p>a.</p>, <p>e-m</p> er hughœgt, <i><trn>one feels at ease</trn></i>.</m1>
-</entry>
-<entry word="hugi">
+</word>
+<word>
+hugi
 	<m1><p>m.</p> <i><trn>mind</trn></i> (= hugr); illum huga, <i><trn>with evil mind, ill, badly</trn></i>; hafa <p>e-t</p> í huga, <i><trn>to have in one’s mind, to think of</trn></i>; leiða <p>e-t</p> huga, <i><trn>to consider</trn></i>.</m1>
-</entry>
-<entry word="huginn">
+</word>
+<word>
+huginn
 	<m1><p>m.</p> <i><trn>the wise raven of Odin</trn></i>.</m1>
-</entry>
-<entry word="hugkvæmligr">
+</word>
+<word>
+hugkvæmligr
 	<m1><p>a.</p> <i><trn>ingenious, apt</trn></i>.</m1>
-</entry>
-<entry word="hugkvæmr">
+</word>
+<word>
+hugkvæmr
 	<m2>1) <i><trn>recurring to one’s mind</trn></i>;</m2>
 	<m2>2) <i><trn>mindful, attentive</trn></i>.</m2>
-</entry>
-<entry word="hugkœmligr">
+</word>
+<word>
+hugkœmligr
 	<m1><p>a.</p> = <ref>hugkvæmligr</ref>.</m1>
-</entry>
-<entry word="huglauss">
+</word>
+<word>
+huglauss
 	<m1><p>a.</p> <i><trn>faint-hearted, cowardly</trn></i>.</m1>
-</entry>
-<entry word="hugleggja">
+</word>
+<word>
+hugleggja
 	<m1>(<com>see</com> <ref>leggja</ref>), <p>v.</p> <i><trn>to lay to mind, to reflect on</trn></i>.</m1>
-</entry>
-<entry word="hugleiða">
+</word>
+<word>
+hugleiða
 	<m1>(-dda, -ddr), <p>v.</p> <i><trn>to pay attention to, consider</trn></i>.</m1>
-</entry>
-<entry word="hugleiðing">
-	</entry>
-<entry word="umhugsan">
+</word>
+<word>
+hugleiðing
+</word>
+<word>
+umhugsan
 	<m1><p>f.</p> <i><trn>reflection</trn></i>.</m1>
-</entry>
-<entry word="hugleikit">
+</word>
+<word>
+hugleikit
 	<m1><p>pp.</p> <p>n.</p>, mér er eigi ~ at, <i><trn>I have no mind to</trn></i>.</m1>
-</entry>
-<entry word="huglétt">
+</word>
+<word>
+huglétt
 	<m1><p>a.</p> <p>n.</p>, <p>e-m</p> er ~ = <p>e-m</p> er hughœgt.</m1>
-</entry>
-<entry word="hugléttir">
+</word>
+<word>
+hugléttir
 	<m1><p>m.</p> <i><trn>mind’s ease, comfort</trn></i>.</m1>
-</entry>
-<entry word="hugleysa">
+</word>
+<word>
+hugleysa
 	<m1><p>f.</p>, <i><trn>faint-heartedness</trn></i>.</m1>
-</entry>
-<entry word="hugleysi">
+</word>
+<word>
+hugleysi
 	<m1><p>n.</p> <i><trn>faint-heartedness</trn></i>.</m1>
-</entry>
-<entry word="huglítill">
+</word>
+<word>
+huglítill
 	<m1><p>a.</p> <i><trn>fainthearted</trn></i>.</m1>
-</entry>
-<entry word="hugljúfi">
+</word>
+<word>
+hugljúfi
 	<m1><p>m.</p> <i><trn>darling</trn></i>; (hann var ljúfi allra manna).</m1>
-</entry>
-<entry word="hugmaðr">
+</word>
+<word>
+hugmaðr
 	<m1><p>m.</p> <i><trn>bold man</trn></i>.</m1>
-</entry>
-<entry word="hugmannliga">
+</word>
+<word>
+hugmannliga
 	<m1><p>adv.</p> <i><trn>boldly</trn></i>.</m1>
-</entry>
-<entry word="hugna">
+</word>
+<word>
+hugna
 	<m1>(að), <p>v.</p> <i><trn>to please</trn></i>; <p>e-m</p> ~r <p>e-t</p>, <i><trn>one is pleased, satisfied with a thing</trn></i>; <p>impers.</p>, mér ~r vel (illa) við <p>e-n</p>, <i><trn>I am pleased (displeased) with one</trn></i>;</m1>
 	<m2><p>refl.</p>, ~st = ~.</m2>
-</entry>
-<entry word="hugprúðr">
+</word>
+<word>
+hugprúðr
 	<m1><p>a.</p> <i><trn>stout-hearted, noble</trn></i>.</m1>
-</entry>
-<entry word="hugprýði">
+</word>
+<word>
+hugprýði
 	<m1><p>f.</p> <i><trn>courage, nobleness</trn></i>.</m1>
-</entry>
-<entry word="hugr">
+</word>
+<word>
+hugr
 	<m1>(-ar, -ir), <p>m.</p></m1>
 	<m2>1) <i><trn>mind</trn></i>;</m2>
 	<m3>í hug eða verki, <i><trn>in mind or act</trn></i>;</m3>
@@ -7876,630 +10172,826 @@ Hlóðyn
 	<m2>5) <i><trn>courage</trn></i>;</m2>
 	<m3>~ ræðr hálfum sigri, <i><trn>a stout heart is half the battle</trn></i>;</m3>
 	<m3>herða huginn (hug sinn), <i><trn>to take heart, exert oneself</trn></i>.</m3>
-</entry>
-<entry word="hugrakkr">
+</word>
+<word>
+hugrakkr
 	<m1><p>a.</p> <i><trn>stout-hearted</trn></i>.</m1>
-</entry>
-<entry word="hugraun">
+</word>
+<word>
+hugraun
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>trial of one’s mind</trn></i>;</m2>
 	<m2>2) <i><trn>trial of valour</trn></i>.</m2>
-</entry>
-<entry word="hugrekki">
+</word>
+<word>
+hugrekki
 	<m1><p>f.</p> <i><trn>courage, intrepidity</trn></i>.</m1>
-</entry>
-<entry word="hugrenning">
+</word>
+<word>
+hugrenning
 	<m1><p>f.</p> <i><trn>thought</trn></i>.</m1>
-</entry>
-<entry word="hugró">
+</word>
+<word>
+hugró
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>peace of mind</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> <i><trn>clinch on a sword’s hilt</trn></i>.</m2>
-</entry>
-<entry word="hugrúnar">
+</word>
+<word>
+hugrúnar
 	<m1><p>f.</p> <p>pl.</p> <i><trn>‘mind-runes’</trn></i>.</m1>
-</entry>
-<entry word="hugsa">
+</word>
+<word>
+hugsa
 	<m1>(að), <p>v.</p> <i><trn>to think, think upon</trn></i>; ~t hefi ek kostinn, <i><trn>I have thought over the terms</trn></i>; ~ eptir um <p>e-t</p>, <i><trn>to consider</trn></i>; h. <p>e-t</p> fyrir sér, <i><trn>to ponder over, reflect upon</trn></i>; h. um <p>e-t</p>, <i><trn>to think about</trn></i>; h. sik um <p>e-t</p>, <i><trn>to take counsel with oneself about a thing, consider</trn></i>.</m1>
-</entry>
-<entry word="hugsan">
+</word>
+<word>
+hugsan
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>thought, thinking</trn></i>; bera h. fyrir <p>e-u</p>, <i><trn>to ponder over</trn></i>;</m2>
 	<m2>2) <i><trn>opinion</trn></i> (hér em ek í annari h.).</m2>
-</entry>
-<entry word="hugsanaraugu">
+</word>
+<word>
+hugsanaraugu
 	<m1><p>n.</p> <p>pl.</p> <i><trn>mental vision, intellect</trn></i>.</m1>
-</entry>
-<entry word="hugsanarstund">
+</word>
+<word>
+hugsanarstund
 	<m1><p>f.</p> <i><trn>time for consideration or reflection</trn></i>.</m1>
-</entry>
-<entry word="hugsanartími">
+</word>
+<word>
+hugsanartími
 	<m1><p>m.</p> <i><trn>time for consideration or reflection</trn></i>.</m1>
-</entry>
-<entry word="hugsi">
+</word>
+<word>
+hugsi
 	<m1><p>a.</p> <p>indecl.</p> <i><trn>thoughtful, meditative, absent-minded</trn></i> (hann fór jafnan sem h. væri).</m1>
-</entry>
-<entry word="hugsjúkr">
+</word>
+<word>
+hugsjúkr
 	<m1><p>a.</p> <i><trn>distressed, anxious</trn></i>.</m1>
-</entry>
-<entry word="hugskot">
+</word>
+<word>
+hugskot
 	<m1><p>n.</p> <i><trn>mind, soul</trn></i>.</m1>
-</entry>
-<entry word="hugsótt">
+</word>
+<word>
+hugsótt
 	<m1><p>f.</p> <i><trn>care, anxiety, concern</trn></i>.</m1>
-</entry>
-<entry word="hugspeki">
+</word>
+<word>
+hugspeki
 	<m1><p>f.</p> <i><trn>sagacity, foresight</trn></i>.</m1>
-</entry>
-<entry word="hugsteinn">
+</word>
+<word>
+hugsteinn
 	<m1><p>m.</p> <i><trn>the heart</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hugsterkr">
-	</entry>
-<entry word="rammhugatr">
+</word>
+<word>
+hugsterkr
+</word>
+<word>
+rammhugatr
 	<m1><p>a.</p> <i><trn>strong of mind</trn></i>.</m1>
-</entry>
-<entry word="hugstiginn">
+</word>
+<word>
+hugstiginn
 	<m1><p>pp.</p> <i><trn>in high spirits</trn></i>.</m1>
-</entry>
-<entry word="hugstolinn">
+</word>
+<word>
+hugstolinn
 	<m1><p>pp.</p> <i><trn>mad, crazy</trn></i>.</m1>
-</entry>
-<entry word="hugstórr">
+</word>
+<word>
+hugstórr
 	<m1><p>a.</p> <i><trn>high-minded</trn></i>.</m1>
-</entry>
-<entry word="hugstœðr">
+</word>
+<word>
+hugstœðr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>fixed in one’s mind</trn></i>;</m2>
 	<m2>2) vera hugstœtt til <p>e-s</p>, <i><trn>to be opposed to one</trn></i>.</m2>
-</entry>
-<entry word="hugsýki">
+</word>
+<word>
+hugsýki
 	<m1><p>f.</p> <i><trn>anxiety</trn></i>.</m1>
-</entry>
-<entry word="hugsýkja">
+</word>
+<word>
+hugsýkja
 	<m1>(-ta, -tr), <p>v.</p> <i><trn>to make one anxious</trn></i>.</m1>
-</entry>
-<entry word="hugtregi">
-	</entry>
-<entry word="meintregi">
+</word>
+<word>
+hugtregi
+</word>
+<word>
+meintregi
 	<m1><p>m.</p> <i><trn>affliction, grief</trn></i>.</m1>
-</entry>
-<entry word="hugtrúr">
+</word>
+<word>
+hugtrúr
 	<m1><p>a.</p> <i><trn>true, faithful</trn></i>.</m1>
-</entry>
-<entry word="hugumstórr">
+</word>
+<word>
+hugumstórr
 	<m1><p>a.</p> <i><trn>great of heart</trn></i>.</m1>
-</entry>
-<entry word="hugveikr">
+</word>
+<word>
+hugveikr
 	<m1><p>a.</p> <i><trn>weak-minded</trn></i>.</m1>
-</entry>
-<entry word="hugvit">
+</word>
+<word>
+hugvit
 	<m1><p>n.</p> <i><trn>understanding, sagacity</trn></i>.</m1>
-</entry>
-<entry word="hugþekkr">
+</word>
+<word>
+hugþekkr
 	<m1><p>a.</p> <i><trn>endeared to one, after one’s heart</trn></i> (~ allri alþýðu).</m1>
-</entry>
-<entry word="hugþokkaðr">
+</word>
+<word>
+hugþokkaðr
 	<m1><p>pp.</p> <i><trn>well disposed</trn></i>.</m1>
-</entry>
-<entry word="hugþokki">
+</word>
+<word>
+hugþokki
 	<m1><p>m.</p> <i><trn>mind, disposition, judgement</trn></i> (hefir þetta farit eptir hugþokka mínum).</m1>
-</entry>
-<entry word="hugþungt">
+</word>
+<word>
+hugþungt
 	<m1><p>a.</p> <p>n.</p>, <p>e-m</p> er ~, <i><trn>one is depressed</trn></i>.</m1>
-</entry>
-<entry word="huld">
+</word>
+<word>
+huld
 	<m1><p>f.</p> <i><trn>giantess</trn></i>, = <ref>trollkona</ref>.</m1>
-</entry>
-<entry word="hulda">
+</word>
+<word>
+hulda
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>cover, veil</trn></i> (mikil þoka ok h. liggr yfir eyju þeirri);</m2>
 	<m2>2) <i><trn>hiding, secrecy</trn></i>; drepa huldu á <p>e-t</p>, <i><trn>to hide, conceal a matter</trn></i>.</m2>
-</entry>
-<entry word="huldarhöttr">
+</word>
+<word>
+huldarhöttr
 	<m1><p>m.</p> <i><trn>hood of disguise</trn></i>.</m1>
-</entry>
-<entry word="hulði">
-	</entry>
-<entry word="hulit">
+</word>
+<word>
+hulði
+</word>
+<word>
+hulit
 	<m1>from <ref>hylja</ref>.</m1>
-</entry>
-<entry word="huliðr">
+</word>
+<word>
+huliðr
 	<m1><p>pp.</p> <i><trn>hidden, obscure</trn></i>.</m1>
-</entry>
-<entry word="huliðshjálmr">
+</word>
+<word>
+huliðshjálmr
 	<m1><p>m.</p> <i><trn>‘hiding helmet’</trn></i>; bregða huliðshjálmi yfir <p>e-n</p>, <i><trn>to make one invisible</trn></i>.</m1>
-</entry>
-<entry word="hulinshjálmr">
+</word>
+<word>
+hulinshjálmr
 	<m1><p>m.</p> <i><trn>‘hiding helmet’</trn></i>; bregða hulinshjálmi yfir <p>e-n</p>, <i><trn>to make one invisible</trn></i>.</m1>
-</entry>
-<entry word="hulning">
-	</entry>
-<entry word="hyljan">
+</word>
+<word>
+hulning
+</word>
+<word>
+hyljan
 	<m1><p>f.</p> <i><trn>hiding, covering</trn></i>.</m1>
-</entry>
-<entry word="humarr">
+</word>
+<word>
+humarr
 	<m1>(<p>gen.</p> -s, <p>pl.</p> humrar), <p>m.</p> <i><trn>lobster</trn></i>; humra fjöll, <i><trn>waves</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="humótt">
+</word>
+<word>
+humótt
 	<m1><p>f.</p> = hámót.</m1>
-</entry>
-<entry word="hunang">
+</word>
+<word>
+hunang
 	<m1><p>n.</p> <i><trn>honey</trn></i>.</m1>
-</entry>
-<entry word="hunangligr">
+</word>
+<word>
+hunangligr
 	<m1><p>a.</p> <i><trn>honeyed</trn></i>.</m1>
-</entry>
-<entry word="hunangsdögg">
+</word>
+<word>
+hunangsdögg
 	<m1><p>f.</p> <i><trn>honey dew</trn></i>.</m1>
-</entry>
-<entry word="hunangsfall">
+</word>
+<word>
+hunangsfall
 	<m1><p>n.</p> <i><trn>honey dew</trn></i>.</m1>
-</entry>
-<entry word="hunangsilmr">
+</word>
+<word>
+hunangsilmr
 	<m1><p>m.</p> <i><trn>smell of honey</trn></i>.</m1>
-</entry>
-<entry word="hunangslœkr">
+</word>
+<word>
+hunangslœkr
 	<m1><p>m.</p> <i><trn>stream of honey</trn></i>.</m1>
-</entry>
-<entry word="hunddjarfr">
+</word>
+<word>
+hunddjarfr
 	<m1><p>a.</p> <i><trn>exceedingly bold</trn></i>.</m1>
-</entry>
-<entry word="hundgá">
+</word>
+<word>
+hundgá
 	<m1><p>f.</p> <i><trn>barking</trn></i>.</m1>
-</entry>
-<entry word="hundheiðinn">
+</word>
+<word>
+hundheiðinn
 	<m1><p>a.</p> <i><trn>‘dog-heathen’</trn></i>, = heiðinn sem hundr.</m1>
-</entry>
-<entry word="hundmargr">
+</word>
+<word>
+hundmargr
 	<m1><p>a.</p> <i><trn>innumerable</trn></i>.</m1>
-</entry>
-<entry word="hundr">
+</word>
+<word>
+hundr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>dog, hound</trn></i>; vera ór hunda hljóði <com>or</com> hljóðum, <i><trn>to have made one’s escape</trn></i>.</m1>
-</entry>
-<entry word="hundrað">
+</word>
+<word>
+hundrað
 	<m1>(<p>pl.</p> hundruð), <p>n.</p> <i><trn>hundred</trn></i>; tírœtt h. = 100; tólfrœtt h. = 120; hundruðum, <i><trn>by (in) hundreds</trn></i>; as value, <i><trn>one hundred and twenty ells of the stuff wadmal</trn></i>; h. frítt, <i><trn>a hundred paid in cattle</trn></i>; tólf hundruð mórend, <i><trn>twelve hundred in dark-striped wadmal</trn></i>; ~ silfrs, ? <i><trn>the silver value of 120 ells</trn></i> (= 20 <i><trn>ounces</trn></i>).</m1>
-</entry>
-<entry word="hundraðfaldr">
+</word>
+<word>
+hundraðfaldr
 	<m1><p>a.</p> <i><trn>hundredfold</trn></i>.</m1>
-</entry>
-<entry word="hundraðshöfðingi">
+</word>
+<word>
+hundraðshöfðingi
 	<m1><p>m.</p> <i><trn>centurion</trn></i>.</m1>
-</entry>
-<entry word="hundruð">
+</word>
+<word>
+hundruð
 	<m1>from <ref>hundrað</ref>, <i><trn>hundred</trn></i>.</m1>
-</entry>
-<entry word="hundsbit">
+</word>
+<word>
+hundsbit
 	<m1><p>n.</p> <i><trn>bite of a dog</trn></i>.</m1>
-</entry>
-<entry word="hundssoð">
+</word>
+<word>
+hundssoð
 	<m1><p>n.</p> <i><trn>broth made from a dog</trn></i>.</m1>
-</entry>
-<entry word="hundtík">
+</word>
+<word>
+hundtík
 	<m1><p>f.</p> <i><trn>bitch</trn></i>.</m1>
-</entry>
-<entry word="hundvillr">
+</word>
+<word>
+hundvillr
 	<m1><p>a.</p> <i><trn>utterly lost, quite astray</trn></i>.</m1>
-</entry>
-<entry word="hundvíss">
+</word>
+<word>
+hundvíss
 	<m1><p>a.</p> <i><trn>very wise</trn></i> (~ jötunn).</m1>
-</entry>
-<entry word="hund-">
+</word>
+<word>
+hund-
 	<m1>in <p>compds.</p>, <i><trn>very, extremely</trn></i>.</m1>
-</entry>
-<entry word="hungr">
+</word>
+<word>
+hungr
 	<m1>(<p>gen.</p> -rs), <p>m.</p> and <p>n.</p> <i><trn>hunger</trn></i>.</m1>
-</entry>
-<entry word="hungra">
+</word>
+<word>
+hungra
 	<m1>(að), <p>v.</p> <p>impers.</p>, <p>e-n</p> ~r, <i><trn>one hungers</trn></i>.</m1>
-</entry>
-<entry word="hungraðr">
+</word>
+<word>
+hungraðr
 	<m1><p>a.</p> <i><trn>hungry</trn></i>.</m1>
-</entry>
-<entry word="hurð">
+</word>
+<word>
+hurð
 	<m1>(<p>pl.</p> -ir), <p>f.</p> <i><trn>door</trn></i>;</m1>
 	<m2>~ er aptr, <i><trn>the door is shut</trn></i>;</m2>
 	<m2>drepa á ~, <i><trn>to knock at the door</trn></i>.</m2>
-</entry>
-<entry word="hurðarásar">
+</word>
+<word>
+hurðarásar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>‘door-beams’</trn></i>.</m1>
-</entry>
-<entry word="hurðarbak">
+</word>
+<word>
+hurðarbak
 	<m1><p>n.</p> <i><trn>the back of a door</trn></i>;</m1>
 	<m2>at ~i, <i><trn>behind the door</trn></i>.</m2>
-</entry>
-<entry word="hurðarbora">
+</word>
+<word>
+hurðarbora
 	<m1><p>f.</p> <i><trn>small hole in a door</trn></i>.</m1>
-</entry>
-<entry word="hurðarflaki">
+</word>
+<word>
+hurðarflaki
 	<m1><p>m.</p> <i><trn>hurdle</trn></i>.</m1>
-</entry>
-<entry word="hurðarhringr">
+</word>
+<word>
+hurðarhringr
 	<m1><p>m.</p> <i><trn>door-ring</trn></i>.</m1>
-</entry>
-<entry word="hurðarjárn">
+</word>
+<word>
+hurðarjárn
 	<m1><p>n.</p> <i><trn>door-hinge</trn></i>.</m1>
-</entry>
-<entry word="hurðarklofi">
+</word>
+<word>
+hurðarklofi
 	<m1><p>m.</p> <i><trn>door-groove</trn></i>.</m1>
-</entry>
-<entry word="hurðaroki">
+</word>
+<word>
+hurðaroki
 	<m1><i><trn>a cross-plank joining the boards of a door</trn></i> (þá boraði A. hurðarokann).</m1>
-</entry>
-<entry word="hurðáss">
+</word>
+<word>
+hurðáss
 	<m1><p>m.</p> <i><trn>‘door-beam’</trn></i>.</m1>
-</entry>
-<entry word="hurfu">
-	</entry>
-<entry word="hyrfi">
+</word>
+<word>
+hurfu
+</word>
+<word>
+hyrfi
 	<m1>from <ref>hverfa</ref>.</m1>
-</entry>
-<entry word="huttututu">
+</word>
+<word>
+huttututu
 	<m1><p>interj.</p>, to express shivering from cold.</m1>
-</entry>
-<entry word="húð">
+</word>
+<word>
+húð
 	<m1>(<p>pl.</p> -ir), <p>f.</p> <i><trn>hide</trn></i> (of cattle).</m1>
-</entry>
-<entry word="húðarþvengr">
+</word>
+<word>
+húðarþvengr
 	<m1><p>m.</p> <i><trn>a thong cut out of a hide</trn></i>.</m1>
-</entry>
-<entry word="húðfat">
+</word>
+<word>
+húðfat
 	<m1><p>n.</p> <i><trn>a kind of hammock</trn></i>.</m1>
-</entry>
-<entry word="húðfatsfélagi">
+</word>
+<word>
+húðfatsfélagi
 	<m1><p>m.</p> <i><trn>hammock mate</trn></i>.</m1>
-</entry>
-<entry word="húðkeipr">
+</word>
+<word>
+húðkeipr
 	<m1><p>m.</p> <i><trn>canoe of skin, kayak</trn></i>.</m1>
-</entry>
-<entry word="húðlát">
+</word>
+<word>
+húðlát
 	<m1><p>n.</p> loss <i><trn>of one’s hide, flogging</trn></i>.</m1>
-</entry>
-<entry word="húðskór">
+</word>
+<word>
+húðskór
 	<m1><p>m.</p> <i><trn>a shoe of raw hide</trn></i>.</m1>
-</entry>
-<entry word="húðstrjúka">
+</word>
+<word>
+húðstrjúka
 	<m1>(<com>see</com> <ref>strjúka</ref>), <p>v.</p> <i><trn>to flog</trn></i>.</m1>
-</entry>
-<entry word="húðstroka">
+</word>
+<word>
+húðstroka
 	<m1><p>f.</p> <i><trn>flogging</trn></i>.</m1>
-</entry>
-<entry word="húðstrýkja">
+</word>
+<word>
+húðstrýkja
 	<m1>(-ta, -tr), <p>v.</p> <i><trn>to flog</trn></i>.</m1>
-</entry>
-<entry word="húðþak">
+</word>
+<word>
+húðþak
 	<m1><p>n.</p> <i><trn>roof of hides</trn></i>.</m1>
-</entry>
-<entry word="húðþekja">
+</word>
+<word>
+húðþekja
 	<m1>(<com>see</com> <ref>þekja</ref>), <p>v.</p> <i><trn>to cover with hides</trn></i>.</m1>
-</entry>
-<entry word="húfa">
+</word>
+<word>
+húfa
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>cap, bonnet</trn></i>;</m2>
 	<m2>2) <i><trn>vault, ceiling of a church</trn></i> (hann lét penta húfuna).</m2>
-</entry>
-<entry word="húfr">
+</word>
+<word>
+húfr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>hulk or hull</trn></i> of a ship (undir húfinn á skipi).</m1>
-</entry>
-<entry word="húka">
+</word>
+<word>
+húka
 	<m1>(-ta, -t), <p>v.</p> <i><trn>to squat</trn></i>.</m1>
-</entry>
-<entry word="húm">
+</word>
+<word>
+húm
 	<m1><p>n.</p> <i><trn>twilight, dusk</trn></i>.</m1>
-</entry>
-<entry word="húma">
+</word>
+<word>
+húma
 	<m1>(að), <p>v.</p> <i><trn>to grow dusk</trn></i> (var nú mjök húmat).</m1>
-</entry>
-<entry>
+</word>
+<word>
 Húnaland
 	<m1><p>n.</p> <i><trn>the land of the Huns</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Húnar
-</entry>
-<entry>
+</word>
+<word>
 Húnir
 	<m1><p>m.</p> <p>pl.</p> <i><trn>the Huns</trn></i>.</m1>
-</entry>
-<entry word="húnbora">
+</word>
+<word>
+húnbora
 	<m1><p>f.</p> <i><trn>the hole in the mast-head through which the halyard went</trn></i>; vinda segl við húnboru, <i><trn>to hoist the sail</trn></i>.</m1>
-</entry>
-<entry word="húndreginn">
+</word>
+<word>
+húndreginn
 	<m1><p>pp.</p> <i><trn>hoisted to the top</trn></i>.</m1>
-</entry>
-<entry word="húnkastali">
+</word>
+<word>
+húnkastali
 	<m1><p>m.</p> <i><trn>the crow’s nest at the mast-head</trn></i> (á knörrunum vóru húnkastalar).</m1>
-</entry>
-<entry word="húnlenzkr">
-	</entry>
-<entry word="hýnskr">
+</word>
+<word>
+húnlenzkr
+</word>
+<word>
+hýnskr
 	<m1><p>a.</p> <i><trn>Hunnish</trn></i>.</m1>
-</entry>
-<entry word="húnmegir">
+</word>
+<word>
+húnmegir
 	<m1><p>m.</p> <p>pl.</p> = Húnar, Húnir.</m1>
-</entry>
-<entry word="húnn">
+</word>
+<word>
+húnn
 	<m1><b>I)</b></m1>
 	<m2>(-s, -ar), <p>m.</p> <i><trn>the knob at the top of the mast-head</trn></i>; draga segl við hún (í hún upp), vinda upp segl við húna, <i><trn>to hoist a sail to the top</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(-s, -ar), <p>m.</p></m2>
 	<m3>1) <i><trn>bear’s cub</trn></i>;</m3>
 	<m3>2) <i><trn>urchin, boy</trn></i> (<p>poet.</p>).</m3>
-</entry>
-<entry word="húnskr">
+</word>
+<word>
+húnskr
 	<m1><p>a.</p> = húnlenzkr, hýnskr.</m1>
-</entry>
-<entry word="hús">
+</word>
+<word>
+hús
 	<m1><p>n.</p> <i><trn>house</trn></i> (leita nú um hvert h. á þeim bœ);</m1>
 	<m2><p>pl.</p> the group of <i><trn>buildings on a farm</trn></i>, = <ref>bœr</ref>;</m2>
 	<m2>taka hús (<p>pl.</p>) á <p>e-m</p>, <i><trn>to take a person by surprise in his house</trn></i>;</m2>
 	<m2>at húsa baki, <i><trn>at the back of the houses</trn></i>.</m2>
-</entry>
-<entry word="húsa">
+</word>
+<word>
+húsa
 	<m1>(að), <p>v.</p> <i><trn>to build houses, furnish with houses</trn></i> (Uni ~ði þar).</m1>
-</entry>
-<entry word="húsabœr">
+</word>
+<word>
+húsabœr
 	<m1><p>m.</p> <i><trn>farmstead, farmhouses</trn></i>.</m1>
-</entry>
-<entry word="húsakostr">
+</word>
+<word>
+húsakostr
 	<m1><p>m.</p> <i><trn>lodgings, house-accommodation</trn></i>.</m1>
-</entry>
-<entry word="húsakot">
+</word>
+<word>
+húsakot
 	<m1><p>n.</p> <i><trn>cottage</trn></i>.</m1>
-</entry>
-<entry word="húsakynni">
+</word>
+<word>
+húsakynni
 	<m1><p>n.</p> <p>pl.</p> = húsakostr.</m1>
-</entry>
-<entry word="húsamót">
+</word>
+<word>
+húsamót
 	<m1><p>n.</p> <p>pl.</p> <i><trn>the joining of buildings</trn></i>.</m1>
-</entry>
-<entry word="húsaskipan">
+</word>
+<word>
+húsaskipan
 	<m1><p>f.</p> <i><trn>arrangement of buildings</trn></i>.</m1>
-</entry>
-<entry word="húsasnotra">
+</word>
+<word>
+húsasnotra
 	<m1><p>f.</p> <i><trn>an ornament on a gable-head or on a ship</trn></i>.</m1>
-</entry>
-<entry word="húsatopt">
+</word>
+<word>
+húsatopt
 	<m1><p>f.</p> <i><trn>house walls</trn></i> (without the roof).</m1>
-</entry>
-<entry word="húsaumbœtr">
+</word>
+<word>
+húsaumbœtr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>house repairs</trn></i>.</m1>
-</entry>
-<entry word="húsaviðr">
+</word>
+<word>
+húsaviðr
 	<m1><p>m.</p> <i><trn>house-timber</trn></i>.</m1>
-</entry>
-<entry word="húsavist">
+</word>
+<word>
+húsavist
 	<m1><p>f.</p> <i><trn>abode</trn></i> (hann tekr sér þar ~).</m1>
-</entry>
-<entry word="húsbak">
+</word>
+<word>
+húsbak
 	<m1><p>n.</p> <i><trn>back of the houses</trn></i>.</m1>
-</entry>
-<entry word="húsbóndi">
+</word>
+<word>
+húsbóndi
 	<m1><p>m.</p> <i><trn>master of the house</trn></i>.</m1>
-</entry>
-<entry word="húsbrenna">
+</word>
+<word>
+húsbrenna
 	<m1><p>f.</p> <i><trn>house-burning, arson</trn></i>.</m1>
-</entry>
-<entry word="húsbúmingr">
-	</entry>
-<entry word="húsbúnatr">
+</word>
+<word>
+húsbúmingr
+</word>
+<word>
+húsbúnatr
 	<m1><p>m.</p> <i><trn>house furniture</trn></i>, <p>esp.</p> <i><trn>hangings, tapestry</trn></i>.</m1>
-</entry>
-<entry word="húsdyrr">
+</word>
+<word>
+húsdyrr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>house doors</trn></i>.</m1>
-</entry>
-<entry word="húsendi">
+</word>
+<word>
+húsendi
 	<m1><p>m.</p> <i><trn>house end, gable</trn></i>.</m1>
-</entry>
-<entry word="húsfastr">
-	</entry>
-<entry word="lögfastr">
+</word>
+<word>
+húsfastr
+</word>
+<word>
+lögfastr
 	<m1><p>a.</p> <i><trn>domiciled</trn></i>.</m1>
-</entry>
-<entry word="húsfreyja">
-	</entry>
-<entry word="húsfrú">
+</word>
+<word>
+húsfreyja
+</word>
+<word>
+húsfrú
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>mistress of the house</trn></i>;</m2>
 	<m2>2) <i><trn>wife</trn></i>.</m2>
-</entry>
-<entry word="húsgafl">
+</word>
+<word>
+húsgafl
 	<m1><p>m.</p> <i><trn>house-gable</trn></i>.</m1>
-</entry>
-<entry word="húsganga">
+</word>
+<word>
+húsganga
 	<m1><p>f.</p> <i><trn>‘house-walking’, visits</trn></i>.</m1>
-</entry>
-<entry word="húsgangr">
+</word>
+<word>
+húsgangr
 	<m1><p>m.</p> <i><trn>begging from house to house</trn></i> (fara á húsgang).</m1>
-</entry>
-<entry word="húsgumi">
+</word>
+<word>
+húsgumi
 	<m1><p>m.</p> = húsbóndi.</m1>
-</entry>
-<entry word="húsgöngull">
+</word>
+<word>
+húsgöngull
 	<m1><p>a.</p> <i><trn>making many visits</trn></i>.</m1>
-</entry>
-<entry word="húsgørð">
+</word>
+<word>
+húsgørð
 	<m1><p>f.</p> <i><trn>house-making</trn></i>.</m1>
-</entry>
-<entry word="húsi">
+</word>
+<word>
+húsi
 	<m1><p>m.</p> <i><trn>case</trn></i> (skæra-húsi, <i><trn>scissor case</trn></i>).</m1>
-</entry>
-<entry word="húskarl">
+</word>
+<word>
+húskarl
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>house-carle, manservant</trn></i>;</m2>
 	<m2>2) <p>pl.</p> <i><trn>the king’s men, his body-guard</trn></i>.</m2>
-</entry>
-<entry word="húskarlalið">
+</word>
+<word>
+húskarlalið
 	<m1><p>n.</p> <i><trn>body of house-carles</trn></i>.</m1>
-</entry>
-<entry word="húskona">
+</word>
+<word>
+húskona
 	<m1><p>f.</p> <i><trn>housewife, lady of the house</trn></i>.</m1>
-</entry>
-<entry word="húskytja">
+</word>
+<word>
+húskytja
 	<m1><p>f.</p> <i><trn>hovel</trn></i>.</m1>
-</entry>
-<entry word="húsl">
+</word>
+<word>
+húsl
 	<m1><p>n.</p> <i><trn>housel</trn></i>.</m1>
-</entry>
-<entry word="húsla">
+</word>
+<word>
+húsla
 	<m1>(að), <p>v.</p> <i><trn>to housel, administer the Eucharist to one</trn></i> (var ~ðr ok dó síðan).</m1>
-</entry>
-<entry word="húsmœnir">
+</word>
+<word>
+húsmœnir
 	<m1><p>m.</p> <i><trn>ridge</trn></i> of <i><trn>a house</trn></i>.</m1>
-</entry>
-<entry word="húsprúðr">
+</word>
+<word>
+húsprúðr
 	<m1><p>a.</p> = hýbýla-prúðr.</m1>
-</entry>
-<entry word="húsveggr">
+</word>
+<word>
+húsveggr
 	<m1><p>m.</p> <i><trn>house wall</trn></i>.</m1>
-</entry>
-<entry word="húsþekja">
+</word>
+<word>
+húsþekja
 	<m1><p>f.</p> <i><trn>housethatch</trn></i>.</m1>
-</entry>
-<entry word="húsþing">
+</word>
+<word>
+húsþing
 	<m1><p>n.</p> <i><trn>council, meeting</trn></i> (to which a king or chief summoned his people or guardsmen).</m1>
-</entry>
-<entry word="hvaðan">
+</word>
+<word>
+hvaðan
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>whence</trn></i>; þóttist engi vita, h. veðr var á, <i><trn>whence (from what quarter) the wind blew</trn></i>, meðan ek veit eigi vist, h. G. hinn ríki stendr at, as <i><trn>long as I know not what side G. takes</trn></i>;</m2>
 	<m2>2) <i><trn>from wheresoever</trn></i>; h. sem, <i><trn>from what place or source soever</trn></i>; hann siglir h. sem á cr, <i><trn>he sails, whatever wind may blow</trn></i>; h. æfa, <i><trn>from every side</trn></i> (þustu þá borgarmenn h. æfa at þeim); <i><trn>on all sides</trn></i>; hann vann svá, at h. æfa vóru á honum hendrnar, <i><trn>he worked as if he had hands all over him</trn></i>.</m2>
-</entry>
-<entry word="hvalföng">
+</word>
+<word>
+hvalföng
 	<m1><p>n.</p> <p>pl.</p> <i><trn>stores of whale (blubber)</trn></i>.</m1>
-</entry>
-<entry word="hvalgröf">
+</word>
+<word>
+hvalgröf
 	<m1><p>f.</p> <i><trn>whale pit</trn></i> (where blubber was kept).</m1>
-</entry>
-<entry word="hvaljárn">
+</word>
+<word>
+hvaljárn
 	<m1><p>n.</p> <i><trn>harpoon</trn></i>.</m1>
-</entry>
-<entry word="hvalkaup">
+</word>
+<word>
+hvalkaup
 	<m1><p>n.</p> <i><trn>purchase of whale-blubber</trn></i>.</m1>
-</entry>
-<entry word="hvalkálfr">
+</word>
+<word>
+hvalkálfr
 	<m1><p>m.</p> <i><trn>young whale</trn></i>.</m1>
-</entry>
-<entry word="hvalkoma">
+</word>
+<word>
+hvalkoma
 	<m1><p>f.</p> <i><trn>stranding of whales</trn></i>.</m1>
-</entry>
-<entry word="hvalr">
+</word>
+<word>
+hvalr
 	<m1>(-s, -ar, and -ir), <p>m.</p> <i><trn>whale</trn></i>; skera hval, <i><trn>to flense a whale</trn></i>.</m1>
-</entry>
-<entry word="hvalreit">
+</word>
+<word>
+hvalreit
 	<m1><p>f.</p>, <i><trn>stranding of whales</trn></i>.</m1>
-</entry>
-<entry word="hvalreki">
+</word>
+<word>
+hvalreki
 	<m1><p>m.</p>, <i><trn>stranding of whales</trn></i>.</m1>
-</entry>
-<entry word="hvalrekstr">
+</word>
+<word>
+hvalrekstr
 	<m1><p>m.</p> <i><trn>stranding of whales</trn></i>.</m1>
-</entry>
-<entry word="hvalrif">
+</word>
+<word>
+hvalrif
 	<m1><p>n.</p> <i><trn>whale’s rib</trn></i>.</m1>
-</entry>
-<entry word="hvalsaga">
+</word>
+<word>
+hvalsaga
 	<m1><p>f.</p> <i><trn>news of a whale</trn></i>.</m1>
-</entry>
-<entry word="hvalsauki">
+</word>
+<word>
+hvalsauki
 	<m1><p>m.</p> <i><trn>spermaceti</trn></i>.</m1>
-</entry>
-<entry word="hvalskurðr">
+</word>
+<word>
+hvalskurðr
 	<m1><p>m.</p> <i><trn>flensing (cutting up) of a whale</trn></i>.</m1>
-</entry>
-<entry word="hvalskyti">
+</word>
+<word>
+hvalskyti
 	<m1><p>m.</p> <i><trn>whale harpooner</trn></i>.</m1>
-</entry>
-<entry word="hvammr">
+</word>
+<word>
+hvammr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>grassy hollow or little vale</trn></i> (kaus hann sér bústað í hvammi einum).</m1>
-</entry>
-<entry word="hvannar">
+</word>
+<word>
+hvannar
 	<m1>from <ref>hvönn</ref>, <i><trn>angelica</trn></i>.</m1>
-</entry>
-<entry word="hvannnjóli">
+</word>
+<word>
+hvannnjóli
 	<m1><p>m.</p> <i><trn>angelica-stalk</trn></i>.</m1>
-</entry>
-<entry word="hvar">
+</word>
+<word>
+hvar
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>where, in or at what place</trn></i> (h. vartu í nótt, eða h. er þitt heimili?); h. skulu vit á leita? <i><trn>where shall we search</trn></i>?;</m2>
 	<m2>2) <i><trn>where, to what place, whither</trn></i> (sé ek nú, h. sök horfir);</m2>
 	<m2>3) <i><trn>anywhere</trn></i>; hér framarr en h. annars staðar, <i><trn>here more than anywhere else</trn></i>;</m2>
 	<m2>4) <i><trn>in each place</trn></i> (urðu þrjú þing í hverjum fjórðungi ok skyldu þingnautar eiga hvar saksóknir saman); hér ok h., <i><trn>here and there, now here now there</trn></i>; víðast h., <i><trn>in most places, in most instances</trn></i>; h. sem, <i><trn>wherever</trn></i> (h. sem hann fór);</m2>
 	<m2>5) <i><trn>ever so, very</trn></i>; h. fjarri, <i><trn>ever so far, very far Off</trn></i> (ek ligg einn í húsi ok kerling mín, en h. fjarri öðrum mönnum); víðara h., <i><trn>ever so much farther</trn></i> (um allt Hálogaland ok þó víðara h.); h. meiri, <i><trn>ever more, much more</trn></i> (ek skal þó h. meiri stund á leggja).</m2>
-</entry>
-<entry word="hvarf">
+</word>
+<word>
+hvarf
 	<m1><p>n.</p> <i><trn>disappearance</trn></i> (h. Iðunnar); rann hann þeim þar h., <i><trn>he ran out of their sight</trn></i>.</m1>
-</entry>
-<entry word="hvarfa">
+</word>
+<word>
+hvarfa
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to be turned round</trn></i>; lét hann sér í hendi h. ker gullit, <i><trn>he rolled the gold cup round in his hand</trn></i>;</m2>
 	<m2>2) <i><trn>stroll about</trn></i> (fílamir ~ um skóginn); <p>e-m</p> ~r hugr, <i><trn>one’s mind wavers</trn></i>;</m2>
 	<m2>3) h. í milli, <i><trn>to stand between (in the way)</trn></i>.</m2>
-</entry>
-<entry word="hvarfúss">
+</word>
+<word>
+hvarfúss
 	<m1><p>a.</p> <i><trn>fickle</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hvargi">
+</word>
+<word>
+hvargi
 	<m1><p>adv.</p> <i><trn>in each (every) place, everywhere</trn></i>; h. er (<com>or</com> sem), <i><trn>wheresoever</trn></i> (h. er þú tekr land).</m1>
-</entry>
-<entry word="hvarleiðr">
+</word>
+<word>
+hvarleiðr
 	<m1><p>a.</p> <i><trn>loathsome to all men</trn></i>.</m1>
-</entry>
-<entry word="hvarmr">
+</word>
+<word>
+hvarmr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>eyelid</trn></i>.</m1>
-</entry>
-<entry word="hvars">
+</word>
+<word>
+hvars
 	<m1><p>adv.</p> = hvar es, <i><trn>wheresoever</trn></i>.</m1>
-</entry>
-<entry word="hvarvetna">
+</word>
+<word>
+hvarvetna
 	<m1><p>adv.</p> <i><trn>everywhere</trn></i>.</m1>
-</entry>
-<entry word="hvass">
+</word>
+<word>
+hvass
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>sharp, keen</trn></i> (h. knífr, hvössøxi, ~t vápn); <i><trn>pointed, tapering</trn></i> (h. hjálmr);</m2>
 	<m2>2) fig., of the intellect, <i><trn>keen</trn></i> (~t næmi); of the eyes or sight (hvöss augu, hvöss sjón);</m2>
 	<m2>3) <i><trn>sharp, acute</trn></i>; ~t hljód, <i><trn>a sharp sound</trn></i>;</m2>
 	<m2>4) of wind, <i><trn>sharp, fresh</trn></i> (h. byrr, ~t veðr, andviðri).</m2>
-</entry>
-<entry word="hvasseggjaðr">
-	</entry>
-<entry word="skarpeggr">
-	</entry>
-<entry word="snarpeggiaðr">
-	</entry>
-<entry word="snarpeggr">
+</word>
+<word>
+hvasseggjaðr
+</word>
+<word>
+skarpeggr
+</word>
+<word>
+snarpeggiaðr
+</word>
+<word>
+snarpeggr
 	<m1><p>a.</p> <i><trn>keen-edged</trn></i>.</m1>
-</entry>
-<entry word="hvasseygr">
-	</entry>
-<entry word="snareygðr">
-	</entry>
-<entry word="snareygr">
-	</entry>
-<entry word="snarskygn">
-	</entry>
-<entry word="snarsýnn">
+</word>
+<word>
+hvasseygr
+</word>
+<word>
+snareygðr
+</word>
+<word>
+snareygr
+</word>
+<word>
+snarskygn
+</word>
+<word>
+snarsýnn
 	<m1><p>a.</p> <i><trn>keen-eyed</trn></i>.</m1>
-</entry>
-<entry word="hvassleikr">
+</word>
+<word>
+hvassleikr
 	<m1><p>m.</p> <i><trn>sharpness</trn></i>.</m1>
-</entry>
-<entry word="hvassleitr">
+</word>
+<word>
+hvassleitr
 	<m1><p>a.</p> <i><trn>sharp-looking</trn></i>.</m1>
-</entry>
-<entry word="hvassliga">
+</word>
+<word>
+hvassliga
 	<m1><p>adv.</p> <i><trn>sharply</trn></i>.</m1>
-</entry>
-<entry word="hvassnefiaðr">
+</word>
+<word>
+hvassnefiaðr
 	<m1><p>a.</p> <i><trn>sharp-nebbed</trn></i>.</m1>
-</entry>
-<entry word="hvasstenntr">
+</word>
+<word>
+hvasstenntr
 	<m1><p>a.</p> <i><trn>sharp-toothed</trn></i>.</m1>
-</entry>
-<entry word="hvassviðri">
+</word>
+<word>
+hvassviðri
 	<m1><p>n.</p> <i><trn>sharp gale</trn></i>, = hvasst veðr.</m1>
-</entry>
-<entry word="hvat">
+</word>
+<word>
+hvat
 	<m1>(old <p>gen.</p> hvess, <p>dat.</p> hví), <p>neut.</p> <p>pron.</p></m1>
 	<m1>I. <p>int. pron.</p></m1>
 	<m2>1) what (h. sýnist þér ráð?); h. er þér, Hjálmar? <i><trn>what is the matter with thee, H.?</trn></i>; expressing wonder, <i><trn>what sort of?</trn></i> (h. Øgmundr ertu?); with <p>gen.</p>, h. er þat fira, flagða, drauma, fiska? <i><trn>what sort of men. witches, dreams, fishes?</trn></i> h. manna ertu? <i><trn>what sort of a man art thou?</trn></i>; with <p>dat.</p>, hann spurði, h. mönnum þeir væri, <i><trn>what kind of men they were</trn></i>;</m2>
@@ -8509,173 +11001,224 @@ Húnir
 	<m2>1) <i><trn>each, every</trn></i>; h. at öðru, <i><trn>‘each with the other’, everything</trn></i>; þat lið, er honum fylgdi, flýr sér hvat, <i><trn>scattered in all directions</trn></i>; h. bíðr sinnar stundar, <i><trn>there is a time for everything</trn></i>;</m2>
 	<m2>2) = hvatki, with the relat. part. ‘er (es)’ or ‘sem’; h. sem <com>or</com> h. es, <i><trn>whatsoever</trn></i>;</m2>
 	<m2>3) with <p>compar.</p>, <i><trn>ever so much</trn></i>; hann var til hans h. betr en til sinna barna, <i><trn>he was ever so much kinder to him than to his own children</trn></i>.</m2>
-</entry>
-<entry word="hvata">
+</word>
+<word>
+hvata
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to hasten</trn></i>, with <p>dat.</p>, h. för sinni, h. ferðinni, <i><trn>to hasten one’s journey</trn></i>; h. göngunni, <i><trn>to quicken one’s pace</trn></i>; h. báli, <i><trn>to hurry on the bonfire</trn></i>;</m2>
 	<m2>2) <p>absol.</p>, <i><trn>to hasten, speed</trn></i> (h. til skipa, h. heim).</m2>
-</entry>
-<entry word="hvatabuss">
+</word>
+<word>
+hvatabuss
 	<m1><p>m.</p> <i><trn>busybody</trn></i>.</m1>
-</entry>
-<entry word="hvatamaðr">
+</word>
+<word>
+hvatamaðr
 	<m1><p>m.</p> <i><trn>prompter</trn></i>.</m1>
-</entry>
-<entry word="hvatan">
+</word>
+<word>
+hvatan
 	<m1><p>acc.</p> from <ref>hvatr</ref>, <i><trn>at a quick pace</trn></i> (ríða h.).</m1>
-</entry>
-<entry word="hvata-">
+</word>
+<word>
+hvata-
 	<m1><p>gen.</p> <p>pl.</p> from <ref>hvöt</ref>.</m1>
-</entry>
-<entry word="hvati">
+</word>
+<word>
+hvati
 	<m1><p>m.</p> <i><trn>hurry, haste</trn></i>.</m1>
-</entry>
-<entry word="hvatki">
+</word>
+<word>
+hvatki
 	<m1><p>indef. pron.</p></m1>
 	<m2>1) <i><trn>each thing, everything for itself</trn></i> (munu þér þá vita til hvers h. kemr);</m2>
 	<m2>2) with ‘er’; h. er (es), <i><trn>whatsoever</trn></i> (heill Atla, h. es þik dreymir).</m2>
-</entry>
-<entry word="hvatlátr">
+</word>
+<word>
+hvatlátr
 	<m1><p>a.</p> <i><trn>quick</trn></i>.</m1>
-</entry>
-<entry word="hvatleikr">
+</word>
+<word>
+hvatleikr
 	<m1><p>m.</p> <i><trn>alacrity, activity</trn></i> (~ í orrostum).</m1>
-</entry>
-<entry word="hvatliga">
+</word>
+<word>
+hvatliga
 	<m1><p>adv.</p> <i><trn>quickly</trn></i> (riða ~).</m1>
-</entry>
-<entry word="hvatligr">
+</word>
+<word>
+hvatligr
 	<m1><p>a.</p> <i><trn>quick, brisk</trn></i>; hvatligt lið, <i><trn>active troops</trn></i>.</m1>
-</entry>
-<entry word="hvatr">
+</word>
+<word>
+hvatr
 	<m1><p>a.</p> <i><trn>active, brisk, vigorous</trn></i> (h. maðr, h. hugr); <p>neut.</p> ‘hvatt’ as <p>adv.</p> <i><trn>quickly</trn></i> (riða hvatt, sem hvatast).</m1>
-</entry>
-<entry word="hvatræði">
+</word>
+<word>
+hvatræði
 	<m1><p>n.</p> <i><trn>quick action</trn></i>.</m1>
-</entry>
-<entry word="hvatskeyti">
+</word>
+<word>
+hvatskeyti
 	<m1><p>n.</p> <i><trn>precipitancy</trn></i>.</m1>
-</entry>
-<entry word="hvatskeytiligr">
+</word>
+<word>
+hvatskeytiligr
 	<m1><p>a.</p> <i><trn>rash, headlong</trn></i>.</m1>
-</entry>
-<entry word="hvatti">
-	</entry>
-<entry word="hvött">
+</word>
+<word>
+hvatti
+</word>
+<word>
+hvött
 	<m1>from <ref>hvetja</ref>.</m1>
-</entry>
-<entry word="hvatvetna">
+</word>
+<word>
+hvatvetna
 	<m1>(<p>gen.</p> hvers-, <p>dat.</p> hví-vetna), <p>pron.</p> <p>n.</p> <i><trn>anything whatever</trn></i>; vex þér ~ í augu, <i><trn>everything grows big in thy eyes</trn></i>; var Hrafn fyrir þeim í hvívetna, <i><trn>H. was superior in every respect</trn></i>.</m1>
-</entry>
-<entry word="hvatviss">
+</word>
+<word>
+hvatviss
 	<m1><p>a.</p> <i><trn>rash, headlong, reckless</trn></i> (maðr hvatvíss ok óvitr).</m1>
-</entry>
-<entry word="hvatvísi">
+</word>
+<word>
+hvatvísi
 	<m1><p>f.</p> <i><trn>temerity</trn></i>.</m1>
-</entry>
-<entry word="hvatvísliga">
+</word>
+<word>
+hvatvísliga
 	<m1><p>adv.</p> <i><trn>rashly</trn></i>.</m1>
-</entry>
-<entry word="hválf">
+</word>
+<word>
+hválf
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>vault</trn></i>;</m2>
 	<m2>2) <i><trn>concavity</trn></i> (of a shield).</m2>
-</entry>
-<entry word="hválfa">
+</word>
+<word>
+hválfa
 	<m1>(-da, -t), <p>v.</p> = hólfa.</m1>
-</entry>
-<entry word="hváll">
+</word>
+<word>
+hváll
 	<m1>(-s, -ar), <p>m.</p> <i><trn>hill, hillock, knoll</trn></i> (dalr var í hválinum).</m1>
-</entry>
-<entry word="hváptr">
+</word>
+<word>
+hváptr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>mouth, chops</trn></i>.</m1>
-</entry>
-<entry word="hvárgi">
+</word>
+<word>
+hvárgi
 	<m1>(<p>neut.</p> hvárki and hvártki), <p>indef. pron.</p> <i><trn>neither</trn></i> (of two); h. þeirra, <i><trn>neither of them</trn></i>; <p>neut.</p> ‘hvárki’ as <p>adv.</p>, hvárki … né, <i><trn>neither … nor</trn></i> (hefir h. heyrt til hans styn né hósta).</m1>
-</entry>
-<entry word="hvárginligr">
+</word>
+<word>
+hvárginligr
 	<m1><p>a.</p> <i><trn>neuter</trn></i> (hvárginligt kyn).</m1>
-</entry>
-<entry word="hvárigr">
-	</entry>
-<entry word="hvárugr">
+</word>
+<word>
+hvárigr
+</word>
+<word>
+hvárugr
 	<m1><p>indef. pron.</p> <i><trn>neither</trn></i>, = <ref>hvárgi</ref>.</m1>
-</entry>
-<entry word="hvárr">
+</word>
+<word>
+hvárr
 	<m1><p>pron.</p></m1>
 	<m2>1) <i><trn>which</trn></i> (of the two) in <p>pl.</p> <i><trn>of two parties</trn></i>, hvárir sigrast, <i><trn>which of both (hosts) will gain the day</trn></i>;</m2>
 	<m2>2) <i><trn>each</trn></i> (of the two); h. við annan, <i><trn>each to the other</trn></i>; sinn veg h., <i><trn>each his own way</trn></i>;</m2>
 	<m2>3) at hváru, <i><trn>yet, nevertheless, however</trn></i>.</m2>
-</entry>
-<entry word="hvárrgi">
+</word>
+<word>
+hvárrgi
 	<m1><p>pron.</p> = <ref>hvárgi</ref>.</m1>
-</entry>
-<entry word="hvárrtveggi">
+</word>
+<word>
+hvárrtveggi
 	<m1><p>pron.</p> <i><trn>each of the two, either, both</trn></i>;</m1>
 	<m2>1) as <p>a.</p>, ór hvárritveggju hlustinni, <i><trn>out of both ears</trn></i>;</m2>
 	<m2>2) as subst. with <p>gen.</p>, ~ þeirra, <i><trn>both of them</trn></i>; with a possess., ~ okkarr, <i><trn>both of us</trn></i>;</m2>
 	<m2>3) the <p>neut.</p> hvárttveggja, used as <p>adv.</p>, <i><trn>both</trn></i> (hvárttveggja karlar ok konur).</m2>
-</entry>
-<entry word="hvárrtveggja">
+</word>
+<word>
+hvárrtveggja
 	<m1><p>pron.</p> <i><trn>each of the two, either, both</trn></i>;</m1>
 	<m2>1) as <p>a.</p>, ór hvárritveggju hlustinni, <i><trn>out of both ears</trn></i>;</m2>
 	<m2>2) as subst. with <p>gen.</p>, hvárrtveggi þeirra, <i><trn>both of them</trn></i>; with a possess., hvárrtveggi okkarr, <i><trn>both of us</trn></i>;</m2>
 	<m2>3) the <p>n.</p> hvárttveggja, used as <p>adv.</p>, <i><trn>both</trn></i> (hvárttveggja karlar ok konur).</m2>
-</entry>
-<entry word="hvárt">
+</word>
+<word>
+hvárt
 	<m1><p>neut.</p> from <ref>hvárr</ref>, as interr. <p>adv.</p>, <i><trn>whether</trn></i>, direct and indirect; h. grætr þú? <i><trn>whether dost thou weep (or not)?</trn></i> h. skal ek fara eðr eigi? <i><trn>whether shall I go or not?</trn></i> hann vildi vita, h. hann var í brynju, <i><trn>he wanted to know whether he wore a coat of mail</trn></i>; with the rel. part. er (es <com>or</com> sem), h. er … eða, <i><trn>whether … or</trn></i> (h. er þeir töluðu hér til fleira eða færra).</m1>
-</entry>
-<entry word="hvárz">
+</word>
+<word>
+hvárz
 	<m1>= hvárts = hvárt es (= <ref>er</ref>).</m1>
-</entry>
-<entry word="hvé">
+</word>
+<word>
+hvé
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>how, in what manner</trn></i> (hvé fór með þeim?); h. heitir þú? <i><trn>how art thou named?</trn></i>;</m2>
 	<m2>2) qualifying an <p>a.</p> or <p>adv.</p>, <i><trn>how, to what extent</trn></i>; h. gamall maðr hann væri, <i><trn>how old he was</trn></i>; þeir vissu eigi, h. fram var, <i><trn>they did not know the time of day</trn></i>; h. nær? <i><trn>when?</trn></i> (hvé nær mun hann heim koma?).</m2>
-</entry>
-<entry word="hvégi">
+</word>
+<word>
+hvégi
 	<m1><p>adv.</p> <i><trn>howsoever</trn></i>, always with a following particle, er (es) <com>or</com> sem (h. lengi sem, h. viða sem).</m1>
-</entry>
-<entry word="hveim">
+</word>
+<word>
+hveim
 	<m1><p>dat.</p> from the obsolete <p>pron.</p> ‘hvar’ = hverr;</m1>
 	<m2>1) <i><trn>to whom?</trn></i> (h. eru bekkir baugum sánir?);</m2>
 	<m2>2) <i><trn>to any</trn></i> (manni h., <com>or</com> manna h.) h. er (es), <i><trn>to whomsoever</trn></i> (orðstírr deyr aldregi ~, er sér góðan getr).</m2>
-</entry>
-<entry word="hvein">
+</word>
+<word>
+hvein
 	<m1>from <ref>hvína</ref>.</m1>
-</entry>
-<entry word="hveiti">
+</word>
+<word>
+hveiti
 	<m1><p>n.</p> <i><trn>wheat</trn></i>.</m1>
-</entry>
-<entry word="hveitiakr">
+</word>
+<word>
+hveitiakr
 	<m1><p>m.</p> <i><trn>wheatfield</trn></i>.</m1>
-</entry>
-<entry word="hveitimjöl">
+</word>
+<word>
+hveitimjöl
 	<m1><p>n.</p> <i><trn>wheat meal, flour</trn></i>.</m1>
-</entry>
-<entry word="hvel">
+</word>
+<word>
+hvel
 	<m1><p>n.</p> <i><trn>wheel</trn></i>; á hverfanda hveli, <i><trn>on it whirling wheel</trn></i>.</m1>
-</entry>
-<entry word="hvelfa">
+</word>
+<word>
+hvelfa
 	<m1>(-da, -dr), <p>v.</p> <i><trn>to upset, overturn</trn></i>, with <p>dat.</p> (hann hvelfdi nökkvanum undir sér); <p>impers.</p>, skipinu hvelfdi, <i><trn>the ship capsized</trn></i>.</m1>
-</entry>
-<entry word="hvellmæltr">
-	</entry>
-<entry word="skjallraddaðr">
-	</entry>
-<entry word="skýrmæltr">
+</word>
+<word>
+hvellmæltr
+</word>
+<word>
+skjallraddaðr
+</word>
+<word>
+skýrmæltr
 	<m1><p>a.</p> <i><trn>clear-voiced</trn></i>.</m1>
-</entry>
-<entry word="hvellr">
+</word>
+<word>
+hvellr
 	<m1><p>a.</p> <i><trn>shrill, sharp in tone</trn></i> (h lúðr); hvell rödd, <i><trn>a clear voice</trn></i>; mæla. (tala) hátt ok hvellt, <i><trn>to speak loud and clearly</trn></i>.</m1>
-</entry>
-<entry word="hvelpr">
+</word>
+<word>
+hvelpr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>whelp</trn></i>.</m1>
-</entry>
-<entry word="hvenar">
+</word>
+<word>
+hvenar
 	<m1><p>adv.</p> <i><trn>when?</trn></i> (= hvé nær).</m1>
-</entry>
-<entry word="hverfa">
+</word>
+<word>
+hverfa
 	<m1><b>I)</b></m1>
 	<m2>(hverf; hvarf, hurfum; horfinn), <p>v.</p></m2>
 	<m3>1) <i><trn>to have a circular or rotatory motion, turn round</trn></i> (himinn hverfr);</m3>
@@ -8704,27 +11247,34 @@ Húnir
 	<m4>~ <p>e-m</p> hugi (<p>acc.</p> <p>pl.</p>), <i><trn>to change a person’s mind</trn></i>;</m4>
 	<m3>2) ~ <p>e-u</p> um <p>e-t</p>, <i><trn>to enclose with a thing</trn></i>;</m3>
 	<m4>vera hverfðr útan um <p>e-t</p>, <i><trn>to encircle a thing</trn></i>.</m4>
-</entry>
-<entry word="hverfi">
+</word>
+<word>
+hverfi
 	<m1><p>n.</p> <i><trn>cluster of farms</trn></i>.</m1>
-</entry>
-<entry word="hverflyndi">
-	</entry>
-<entry word="mislyndi">
+</word>
+<word>
+hverflyndi
+</word>
+<word>
+mislyndi
 	<m1><p>n.</p> <i><trn>fickleness</trn></i>.</m1>
-</entry>
-<entry word="hverfr">
+</word>
+<word>
+hverfr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>shifty, changeable</trn></i> (~ hugr);</m2>
 	<m2>2) <p>neut.</p>, hverft, <i><trn>quickly</trn></i> (fara ~; stýra ~).</m2>
-</entry>
-<entry word="hverfráðr">
+</word>
+<word>
+hverfráðr
 	<m1><p>a.</p> <i><trn>fickle, wavering</trn></i>.</m1>
-</entry>
-<entry word="hverfull">
+</word>
+<word>
+hverfull
 	<m1><p>a.</p> <i><trn>shifty, changeable</trn></i>.</m1>
-</entry>
-<entry word="hvergi">
+</word>
+<word>
+hvergi
 	<m1><b>I)</b></m1>
 	<m2><p>pron.</p></m2>
 	<m3>1) <i><trn>each, every one</trn></i> (hann lét sem hann eigi vissi, hvat h. talaði);</m3>
@@ -8733,22 +11283,28 @@ Húnir
 	<m2><p>adv.</p></m2>
 	<m3>1) <i><trn>nowhere</trn></i> (hann undi h.); h. annars staðar, <i><trn>nowhere else</trn></i>;</m3>
 	<m3>2) <i><trn>by no means, not at all</trn></i>; vil ek h. ara, <i><trn>I shall not go at all</trn></i>; vera h. fœrr, <i><trn>to be quite unable to go</trn></i>; h. nær, <i><trn>far from it</trn></i> (h. nær allir); with <p>compar.</p> (Bergr var þess h. fúsari); alls h., <i><trn>nowhere at</trn></i> all.</m3>
-</entry>
-<entry word="hvergætir">
+</word>
+<word>
+hvergætir
 	<m1><p>m.</p> <i><trn>‘cauldron-keeper’, cook</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hverigr">
+</word>
+<word>
+hverigr
 	<m1><p>pron.</p> = hvergi.</m1>
-</entry>
-<entry word="hvernig">
+</word>
+<word>
+hvernig
 	<m1><p>adv.</p> <i><trn>how</trn></i> (= hvern veg).</m1>
-</entry>
-<entry word="hvernin">
-	</entry>
-<entry word="hvernug">
+</word>
+<word>
+hvernin
+</word>
+<word>
+hvernug
 	<m1><p>adv.</p> = hvernig.</m1>
-</entry>
-<entry word="hverr">
+</word>
+<word>
+hverr
 	<m1><b>I)</b></m1>
 	<m2>(-s, -ar), <p>m.</p></m2>
 	<m3>1) <i><trn>kettle, cauldron</trn></i>;</m3>
@@ -8761,112 +11317,142 @@ Húnir
 	<m3>4) with the relat. part. ‘er’ <com>or</com> ‘sem’, <i><trn>whosoever, whichever</trn></i> (þá skulu þeir þegar drepa hann h. sem hann er);</m3>
 	<m3>5) with another <p>pron.</p> or adj; h. at öðrum, <i><trn>one after another</trn></i> (hverja nótt eptir aðra); at öðru hverju, <i><trn>every now and then</trn></i>, hverir tveir, <i><trn>every two and two</trn></i>; þriðja hvert ár, <i><trn>every three years</trn></i> (= á hverjum þremr árum); ~ … sinn, <i><trn>every one … his</trn></i> (~ maðr í sínu rúmi);</m3>
 	<m3>6) relat. (rare), <i><trn>who, which</trn></i>.</m3>
-</entry>
-<entry word="hversdagliga">
+</word>
+<word>
+hversdagliga
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>every day</trn></i>;</m2>
 	<m2>2) <i><trn>commonly, generally</trn></i> (eigi var hón margmælt ~).</m2>
-</entry>
-<entry word="hversdagligr">
+</word>
+<word>
+hversdagligr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>every day</trn></i>;</m2>
 	<m2>2) <i><trn>common</trn></i>.</m2>
-</entry>
-<entry word="hversdagsmaðr">
+</word>
+<word>
+hversdagsmaðr
 	<m1><p>m.</p> <i><trn>an every-day man, ordinary person</trn></i>.</m1>
-</entry>
-<entry word="hverskonar">
-	</entry>
-<entry word="hverskyns">
+</word>
+<word>
+hverskonar
+</word>
+<word>
+hverskyns
 	<m1><p>adv.</p> <i><trn>of every kind</trn></i> (á hverskonar lund).</m1>
-</entry>
-<entry word="hversu">
+</word>
+<word>
+hversu
 	<m1><p>adv.</p> <i><trn>how</trn></i>, = hvé.</m1>
-</entry>
-<entry word="hvert">
+</word>
+<word>
+hvert
 	<m1><p>adv.</p></m1>
 	<m2>1) <i><trn>whither, where</trn></i> (Gunnar sagði þeim, h. hann ætlaði);</m2>
 	<m2>2) h. er, <i><trn>whithersoever</trn></i> (h. er hann ferr).</m2>
-</entry>
-<entry word="hvervetna">
+</word>
+<word>
+hvervetna
 	<m1><p>adv.</p> <i><trn>everywhere</trn></i> (= hvarvetna).</m1>
-</entry>
-<entry word="hvessa">
+</word>
+<word>
+hvessa
 	<m1>(-ta, -tr), <p>v.</p></m1>
 	<m2>1) <i><trn>to sharpen, whet</trn></i> (h. spjót); h. augun á <p>e-t</p>, <i><trn>to look keenly or hard at</trn></i>;</m2>
 	<m2>2) <i><trn>to stir up, instigate</trn></i>;</m2>
 	<m2>3) <p>impers.</p>, hvessir (<p>acc.</p>), <i><trn>it blows up a gale</trn></i>.</m2>
-</entry>
-<entry word="hvetja">
+</word>
+<word>
+hvetja
 	<m1>(hvet; hvatta, hvöttum; hvattr), <p>v.</p></m1>
 	<m2>1) <i><trn>to whet, sharpen</trn></i> (h. sverð);</m2>
 	<m2>2) <i><trn>to encourage</trn></i> (síðan hvatti hann lið sitt);</m2>
 	<m3>hvat hvatti þik hingat? <i><trn>what urged thee to come here?</trn></i>.</m3>
-</entry>
-<entry word="hviða">
+</word>
+<word>
+hviða
 	<m1><p>f.</p> <i><trn>squall of wind</trn></i>.</m1>
-</entry>
-<entry word="hvika">
+</word>
+<word>
+hvika
 	<m1>(að), <p>v.</p> <i><trn>to quail, shrink, waver</trn></i> (= h. undan); <p>impers.</p>, hví ~r þér svá? <i><trn>why art thou so slow?</trn></i>.</m1>
-</entry>
-<entry word="hviksaga">
+</word>
+<word>
+hviksaga
 	<m1><p>f.</p> <i><trn>idle lale, slander</trn></i>.</m1>
-</entry>
-<entry word="hvimleiðr">
+</word>
+<word>
+hvimleiðr
 	<m1><p>a.</p> <i><trn>loathsome, detested</trn></i> (~ bæði trollum ok mönnum).</m1>
-</entry>
-<entry word="hvimsi">
+</word>
+<word>
+hvimsi
 	<m1><p>a.</p> <i><trn>taken aback, discomfited</trn></i> (verða h. við).</m1>
-</entry>
-<entry word="hvinn">
+</word>
+<word>
+hvinn
 	<m1><p>m.</p> <i><trn>pilferer</trn></i>.</m1>
-</entry>
-<entry word="hvinnska">
+</word>
+<word>
+hvinnska
 	<m1><p>f.</p> <i><trn>larceny</trn></i>.</m1>
-</entry>
-<entry word="hvinnskr">
-	</entry>
-<entry word="þjófligr">
+</word>
+<word>
+hvinnskr
+</word>
+<word>
+þjófligr
 	<m1><p>a.</p> <i><trn>thievish</trn></i>.</m1>
-</entry>
-<entry word="hvinr">
+</word>
+<word>
+hvinr
 	<m1><p>m.</p> <i><trn>whiz, whistling</trn></i> (h. örvarinnar; ~inn af högginu).</m1>
-</entry>
-<entry word="hvirfill">
+</word>
+<word>
+hvirfill
 	<m1>(<p>gen.</p> -s, <p>dat.</p> hvirfli), <p>m.</p></m1>
 	<m2>1) <i><trn>circle, ring</trn></i>;</m2>
 	<m2>2) <i><trn>crown of the head</trn></i> (milli hvirfils ok ilja).</m2>
-</entry>
-<entry word="hvirfilvindr">
+</word>
+<word>
+hvirfilvindr
 	<m1><p>m.</p> <i><trn>whirlwind</trn></i>.</m1>
-</entry>
-<entry word="hvirfing">
+</word>
+<word>
+hvirfing
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>circle</trn></i> (of men); setjast í ~, <i><trn>to sit down in a circle</trn></i>;</m2>
 	<m2>2) <i><trn>drinking match</trn></i> (drekka ~).</m2>
-</entry>
-<entry word="hvirfingr">
+</word>
+<word>
+hvirfingr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>circle</trn></i> (of men); setjast í hvirfing, <i><trn>to sit down in a circle</trn></i>;</m2>
 	<m2>2) <i><trn>drinking match</trn></i> (drekka hvirfing).</m2>
-</entry>
-<entry word="hvirfingsbróðir">
+</word>
+<word>
+hvirfingsbróðir
 	<m1><p>m.</p> <i><trn>club-mate</trn></i>.</m1>
-</entry>
-<entry word="hvirfingsdrykkja">
+</word>
+<word>
+hvirfingsdrykkja
 	<m1><p>f.</p> <i><trn>drinking bout</trn></i> (in a sort of club or guild).</m1>
-</entry>
-<entry word="hvirfla">
+</word>
+<word>
+hvirfla
 	<m1>(að), <p>v.</p> <i><trn>to whirl, spread</trn></i> (þær ætinþu at h. heyit).</m1>
-</entry>
-<entry word="hviss">
+</word>
+<word>
+hviss
 	<m1><p>interj.</p> <i><trn>whew!</trn></i>.</m1>
-</entry>
-<entry word="hví">
+</word>
+<word>
+hví
 	<m2>1) an old <p>dat.</p> of ‘hvat’; þá spurði Hallr, hví þat sætti, <i><trn>then H. asked what was the matter</trn></i>; fyrir hví, <i><trn>why, wherefore</trn></i> (fyrir h. biðr þú eigi lækningar?);</m2>
 	<m2>2) <p>adv.</p> <i><trn>why?</trn></i> = fyrir hví (hví ertu svá fölr?).</m2>
-</entry>
-<entry word="hvíla">
+</word>
+<word>
+hvíla
 	<m1><b>I)</b></m1>
 	<m2>(-da, -dr), <p>v.</p></m2>
 	<m3>1) with <p>acc.</p> <i><trn>to rest</trn></i>;</m3>
@@ -8880,185 +11466,242 @@ Húnir
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> <i><trn>bed</trn></i>;</m2>
 	<m3>ganga (fara) til hvílu, <i><trn>to go to bed</trn></i>.</m3>
-</entry>
-<entry word="hvílbeðr">
+</word>
+<word>
+hvílbeðr
 	<m1><p>m.</p> <i><trn>bed of rest</trn></i>.</m1>
-</entry>
-<entry word="hvílbrögð">
+</word>
+<word>
+hvílbrögð
 	<m1><p>n.</p> <p>pl.</p> = <ref>hvílubrögð</ref>.</m1>
-</entry>
-<entry word="hvíld">
+</word>
+<word>
+hvíld
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>rest, repose</trn></i> (taka ~ <com>or</com> ~ir);</m2>
 	<m2>2) <i><trn>pause</trn></i> (þá var ~ nökkur á um bardagann).</m2>
-</entry>
-<entry word="hvíldardagr">
+</word>
+<word>
+hvíldardagr
 	<m1><p>m.</p> <i><trn>day of rest, the Sabbath</trn></i>.</m1>
-</entry>
-<entry word="hvíldarhestr">
+</word>
+<word>
+hvíldarhestr
 	<m1><p>m.</p> <i><trn>relay horse</trn></i>.</m1>
-</entry>
-<entry word="hvíldarlauss">
+</word>
+<word>
+hvíldarlauss
 	<m1><p>a.</p> <i><trn>restless</trn></i>.</m1>
-</entry>
-<entry word="hvílíkr">
+</word>
+<word>
+hvílíkr
 	<m1><p>a.</p> <i><trn>of what kind or sort</trn></i>.</m1>
-</entry>
-<entry word="hvílubrögð">
+</word>
+<word>
+hvílubrögð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>cohabitation</trn></i>.</m1>
-</entry>
-<entry word="hvílufélagi">
-	</entry>
-<entry word="rekkjufélagi">
+</word>
+<word>
+hvílufélagi
+</word>
+<word>
+rekkjufélagi
 	<m1><p>m.</p> <i><trn>bed-fellow</trn></i>.</m1>
-</entry>
-<entry word="hvílugólf">
+</word>
+<word>
+hvílugólf
 	<m1><p>n.</p> <i><trn>bed closet</trn></i>.</m1>
-</entry>
-<entry word="hvíluklæði">
-	</entry>
-<entry word="rekkjuklæði">
-	</entry>
-<entry word="sængrklæði">
+</word>
+<word>
+hvíluklæði
+</word>
+<word>
+rekkjuklæði
+</word>
+<word>
+sængrklæði
 	<m1><p>n.</p> <p>pl.</p> <i><trn>bed-clothes</trn></i>.</m1>
-</entry>
-<entry word="hvílutollr">
+</word>
+<word>
+hvílutollr
 	<m1><p>m.</p> <i><trn>hire of a bed</trn></i>.</m1>
-</entry>
-<entry word="hvíluþröng">
+</word>
+<word>
+hvíluþröng
 	<m1><p>f.</p> <i><trn>want of room in one’s bed</trn></i>.</m1>
-</entry>
-<entry word="hvína">
+</word>
+<word>
+hvína
 	<m1>(hvín; hvein, hvinum; hvininn), <p>v.</p> <i><trn>to whiz, whistle</trn></i> (örvar hvinu hjá þeim öllum megin).</m1>
-</entry>
-<entry word="hvískr">
+</word>
+<word>
+hvískr
 	<m1><p>n.</p> <i><trn>whisper, whispering</trn></i>.</m1>
-</entry>
-<entry word="hvískra">
+</word>
+<word>
+hvískra
 	<m1>(að), <p>v.</p> <i><trn>whisper</trn></i>.</m1>
-</entry>
-<entry word="hvísl">
+</word>
+<word>
+hvísl
 	<m1><p>n.</p> <i><trn>whisper</trn></i>.</m1>
-</entry>
-<entry word="hvísla">
+</word>
+<word>
+hvísla
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>whisper</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(að), <p>v.</p> = hvískra; <p>recipr.</p>, ~st, <i><trn>to whisper to one another</trn></i>.</m2>
-</entry>
-<entry word="hvítabjörn">
+</word>
+<word>
+hvítabjörn
 	<m1><p>m.</p> <i><trn>white bear, polar bear</trn></i>.</m1>
-</entry>
-<entry word="hvítadagahelgr">
+</word>
+<word>
+hvítadagahelgr
 	<m1><p>f.</p> <i><trn>Whitsuntide</trn></i>.</m1>
-</entry>
-<entry word="hvítadagar">
+</word>
+<word>
+hvítadagar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>‘the white days, Whitsun-week</trn></i>.</m1>
-</entry>
-<entry word="hvítadagavika">
+</word>
+<word>
+hvítadagavika
 	<m1><p>f.</p> <i><trn>Whitsun-week</trn></i>.</m1>
-</entry>
-<entry>
+</word>
+<word>
 Hvítakristr
 	<m1><p>m.</p> <i><trn>the white Christ</trn></i>.</m1>
-</entry>
-<entry word="hvítarmr">
+</word>
+<word>
+hvítarmr
 	<m1><p>a.</p> <i><trn>white-armed</trn></i>.</m1>
-</entry>
-<entry word="hvítasunna">
+</word>
+<word>
+hvítasunna
 	<m1><p>f.</p> <i><trn>Whitsunday</trn></i>.</m1>
-</entry>
-<entry word="hvítasunnudagr">
+</word>
+<word>
+hvítasunnudagr
 	<m1><p>m.</p> = hvítasunna.</m1>
-</entry>
-<entry word="hvítaváðir">
+</word>
+<word>
+hvítaváðir
 	<m1><p>f.</p> <p>pl.</p> <i><trn>the white dress worn by those newly baptized</trn></i>.</m1>
-</entry>
-<entry word="hvítbeinn">
+</word>
+<word>
+hvítbeinn
 	<m1><p>a.</p> <i><trn>white-legged</trn></i>.</m1>
-</entry>
-<entry word="hvítfjaðraðr">
+</word>
+<word>
+hvítfjaðraðr
 	<m1><p>a.</p> <i><trn>white-feathered</trn></i>.</m1>
-</entry>
-<entry word="hvítfyøsa">
+</word>
+<word>
+hvítfyøsa
 	<m1>(-ti, -t), <p>v.</p> <i><trn>to be white with foam</trn></i>.</m1>
-</entry>
-<entry word="hvíthaddaðr">
+</word>
+<word>
+hvíthaddaðr
 	<m1><p>a.</p> <i><trn>white-haired, light-haired</trn></i> (meyjar hvíthaddaðar).</m1>
-</entry>
-<entry word="hvíthárr">
+</word>
+<word>
+hvíthárr
 	<m1><p>a.</p> <i><trn>white-haired</trn></i>.</m1>
-</entry>
-<entry word="hvíti">
+</word>
+<word>
+hvíti
 	<m1><p>f.</p> <i><trn>fair complexion</trn></i>.</m1>
-</entry>
-<entry word="hvítklæddr">
+</word>
+<word>
+hvítklæddr
 	<m1><p>pp.</p> <i><trn>clad in white</trn></i>.</m1>
-</entry>
-<entry word="hvítleikr">
+</word>
+<word>
+hvítleikr
 	<m1><p>m.</p> <i><trn>whiteness</trn></i>.</m1>
-</entry>
-<entry word="hvítna">
+</word>
+<word>
+hvítna
 	<m1>(að), <p>v.</p> <i><trn>to become white</trn></i>.</m1>
-</entry>
-<entry word="hvítr">
+</word>
+<word>
+hvítr
 	<m1><p>a.</p> <i><trn>white</trn></i> (hvítt silfr); h. á hár, <i><trn>white-haired</trn></i>.</m1>
-</entry>
-<entry word="hvítröndóttr">
+</word>
+<word>
+hvítröndóttr
 	<m1><p>a.</p> <i><trn>white-striped</trn></i>.</m1>
-</entry>
-<entry word="hvítskeggjaðr">
-	</entry>
-<entry word="skegghvítr">
+</word>
+<word>
+hvítskeggjaðr
+</word>
+<word>
+skegghvítr
 	<m1><p>a.</p> <i><trn>white-bearded</trn></i>.</m1>
-</entry>
-<entry word="hvítskinn">
+</word>
+<word>
+hvítskinn
 	<m1><p>n.</p> <i><trn>white skin, ermine</trn></i>.</m1>
-</entry>
-<entry word="hvítváðungr">
+</word>
+<word>
+hvítváðungr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>one dressed in white weeds</trn></i> (hvítaváðir).</m1>
-</entry>
-<entry word="hvæsa">
+</word>
+<word>
+hvæsa
 	<m1><b>I)</b></m1>
 	<m2><p>f.</p> <i><trn>hissing</trn></i>.</m2>
 	<m1><b>II)</b></m1>
 	<m2>(-ta, -t), <p>v.</p> <i><trn>to hiss</trn></i>, of serpents (h. sem höggormr).</m2>
-</entry>
-<entry word="hvæsing">
+</word>
+<word>
+hvæsing
 	<m1><p>f.</p> <i><trn>hissing</trn></i>.</m1>
-</entry>
-<entry word="hvönn">
+</word>
+<word>
+hvönn
 	<m1>(<p>gen.</p> hvannar, <p>pl.</p> hvannir), <p>f.</p> <i><trn>angelica</trn></i>.</m1>
-</entry>
-<entry word="hvörfun">
+</word>
+<word>
+hvörfun
 	<m1><p>f.</p> <i><trn>vacillation</trn></i>; á h., <i><trn>wavering</trn></i> (var á h. hugr minn of þat).</m1>
-</entry>
-<entry word="hvöss">
+</word>
+<word>
+hvöss
 	<m1>from <ref>hvass</ref>, <i><trn>sharp</trn></i>.</m1>
-</entry>
-<entry word="hvöt">
+</word>
+<word>
+hvöt
 	<m1><b>I)</b> (<p>gen.</p> hvatar, <p>pl.</p> hvatir), <p>f.</p> <i><trn>instigation, encouragmient, impulse</trn></i>.</m1>
 	<m1><b>II)</b> from <ref>hvatr</ref>, <i><trn>vigorous</trn></i>.</m1>
-</entry>
-<entry word="hvötuðr">
+</word>
+<word>
+hvötuðr
 	<m1><p>m.</p> <i><trn>encourager, instigator</trn></i>.</m1>
-</entry>
-<entry word="hvötun">
+</word>
+<word>
+hvötun
 	<m1><p>f.</p> <i><trn>instigation, egging</trn></i>; ganga at h. <p>e-s</p>, <i><trn>to follow one’s egging</trn></i>.</m1>
-</entry>
-<entry word="hyggendi">
+</word>
+<word>
+hyggendi
 	<m1><p>f.</p> <i><trn>wisdom, prudence</trn></i>.</m1>
-</entry>
-<entry word="hyggiliga">
+</word>
+<word>
+hyggiliga
 	<m1><p>adv.</p> <i><trn>wisely, prudently</trn></i>.</m1>
-</entry>
-<entry word="hyggiligr">
+</word>
+<word>
+hyggiligr
 	<m1><p>a.</p> <i><trn>wise, prudent</trn></i>.</m1>
-</entry>
-<entry word="hygginn">
+</word>
+<word>
+hygginn
 	<m1><p>a.</p> <i><trn>wise, prudent, intelligent</trn></i> (þeir er hyggnastir vóru).</m1>
-</entry>
-<entry word="hyggja">
+</word>
+<word>
+hyggja
 	<m1><b>I)</b></m1>
 	<m2>(hygg, hugða, hugðr <com>and</com> hugaðr), <p>v.</p></m2>
 	<m3>1) <i><trn>to think, believe</trn></i>;</m3>
@@ -9088,173 +11731,223 @@ Hvítakristr
 	<m4>hyggst vætr hvatr fyrir, <i><trn>a valiant man flinches for nought</trn></i>.</m4>
 	<m1><b>II)</b></m1>
 	<m2><p>f.</p> <i><trn>thought, mind, opinion</trn></i>.</m2>
-</entry>
-<entry word="hyggjandi">
+</word>
+<word>
+hyggjandi
 	<m1><p>f.</p> = <ref>hyggendi</ref>.</m1>
-</entry>
-<entry word="hyggjuleysi">
+</word>
+<word>
+hyggjuleysi
 	<m1><p>n.</p> <i><trn>thoughtlessness</trn></i>.</m1>
-</entry>
-<entry word="hyggnast">
+</word>
+<word>
+hyggnast
 	<m1>(að), <p>v. refl.</p>, ~ af <p>e-m</p>, <i><trn>to gain knowledge from one</trn></i>.</m1>
-</entry>
-<entry word="hylda">
+</word>
+<word>
+hylda
 	<m1>(-lda, -ldr), <p>v.</p></m1>
 	<m2>1) <i><trn>to cut up</trn></i> (takit þér Högna ok hyldit með knífi);</m2>
 	<m3>~ hval, <i><trn>to flense a whale</trn></i>;</m3>
 	<m2>2) <p>refl.</p>, ~st, <i><trn>to grow fat, get flesh</trn></i>.</m2>
-</entry>
-<entry word="hyldr">
-	</entry>
-<entry word="kjötvaxinn">
+</word>
+<word>
+hyldr
+</word>
+<word>
+kjötvaxinn
 	<m1><p>pp.</p> <i><trn>fleshy</trn></i>.</m1>
-</entry>
-<entry word="hylja">
+</word>
+<word>
+hylja
 	<m1>(hyl, hulda, huliðr and huldr), <p>v.</p> <i><trn>to hide, cover</trn></i> (hann huldi höfuð sitt); fara huldu höfði, <i><trn>to go ‘with the head covered’, in disguise, by stealth</trn></i>.</m1>
-</entry>
-<entry word="hylla">
+</word>
+<word>
+hylla
 	<m1>(-ta, -tr), <p>v.</p>, ~ sik <p>e-m</p>, <i><trn>to court a person’s friendship, make friends with</trn></i>;</m1>
 	<m2>~ fyrir <p>e-m</p>, <i><trn>to recommend one</trn></i>;</m2>
 	<m2><p>refl.</p>, ~st <p>e-n</p> = ~ sik <p>e-m</p>;</m2>
 	<m2>~st <p>e-n</p> at, <i><trn>to pay homage to</trn></i>.</m2>
-</entry>
-<entry word="hylli">
+</word>
+<word>
+hylli
 	<m1><p>f.</p> <i><trn>favour, grace</trn></i> (hafa guðs ~).</m1>
-</entry>
-<entry word="hylma">
+</word>
+<word>
+hylma
 	<m1>(-da, -dr), <p>v.</p>, h. yfir <p>e-u</p>, <i><trn>to hide, conceal</trn></i> (þarf ekki lengr yfir þessu at h.).</m1>
-</entry>
-<entry word="hylming">
+</word>
+<word>
+hylming
 	<m1><p>f.</p> <i><trn>concealment</trn></i>.</m1>
-</entry>
-<entry word="hylr">
+</word>
+<word>
+hylr
 	<m1>(-jar, -ir), <p>m.</p> <i><trn>deep place, pool</trn></i>, in a river (í hylnum undir fossinum).</m1>
-</entry>
-<entry word="hyrna">
+</word>
+<word>
+hyrna
 	<m1><p>f.</p> <i><trn>point of an axe-head</trn></i>.</m1>
-</entry>
-<entry word="hyrndr">
+</word>
+<word>
+hyrndr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>horned</trn></i> (hyrnd kýr);</m2>
 	<m2>2) <i><trn>angular</trn></i> (þrí-, fer-, átt-~).</m2>
-</entry>
-<entry word="hyrning">
+</word>
+<word>
+hyrning
 	<m1>(<p>pl.</p> -ar), <p>f.</p> <i><trn>corner, nook</trn></i> (of a house or room).</m1>
-</entry>
-<entry word="hyrningr">
+</word>
+<word>
+hyrningr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>a horned man</trn></i> (a bishop wearing a mitre);</m2>
 	<m2>2) <i><trn>angle</trn></i> (þrí-~, <i><trn>triangle</trn></i>).</m2>
-</entry>
-<entry word="hyrr">
+</word>
+<word>
+hyrr
 	<m1>(<p>gen.</p> hyrjar), <p>m.</p> <i><trn>fire</trn></i> (<p>poet.</p>).</m1>
-</entry>
-<entry word="hyski">
+</word>
+<word>
+hyski
 	<m1><p>n.</p> = hýski.</m1>
-</entry>
-<entry word="hýbýlabót">
+</word>
+<word>
+hýbýlabót
 	<m1><p>n.</p> <i><trn>bettering of one’s homestead</trn></i>.</m1>
-</entry>
-<entry word="hýbýlabrestr">
+</word>
+<word>
+hýbýlabrestr
 	<m1><p>m.</p> <i><trn>home loss</trn></i>.</m1>
-</entry>
-<entry word="hýbýlahættir">
+</word>
+<word>
+hýbýlahættir
 	<m1><p>m.</p> <p>pl.</p> <i><trn>home affairs, home manners</trn></i>.</m1>
-</entry>
-<entry word="hýbýlaprúðr">
+</word>
+<word>
+hýbýlaprúðr
 	<m1><p>a.</p> <i><trn>keeping a hospitable house</trn></i> (A. var ~ ok gleðimaðr mikill).</m1>
-</entry>
-<entry word="hýbýlaskömm">
+</word>
+<word>
+hýbýlaskömm
 	<m1><p>f.</p> <i><trn>disgrace to the home</trn></i>.</m1>
-</entry>
-<entry word="hýbýla-">
+</word>
+<word>
+hýbýla-
 	<m1><p>gen.</p> <p>pl.</p> from <ref>hýbýli</ref>.</m1>
-</entry>
-<entry word="hýbýli">
+</word>
+<word>
+hýbýli
 	<m1><p>n.</p> <p>pl.</p></m1>
 	<m2>1) <i><trn>home, homestead, house</trn></i> (í annarra manna hýbýlum);</m2>
 	<m2>2) <i><trn>household</trn></i>.</m2>
-</entry>
-<entry word="hýða">
+</word>
+<word>
+hýða
 	<m1>(-dda, -ddr), <p>v.</p> <i><trn>to flog</trn></i> (= berja húð af <p>e-m</p>).</m1>
-</entry>
-<entry word="hýðing">
+</word>
+<word>
+hýðing
 	<m1><p>f.</p> <i><trn>flogging</trn></i> (= húðstroka).</m1>
-</entry>
-<entry>
+</word>
+<word>
 Hýnir
 	<m1><p>m.</p> <p>pl.</p> = Húnar.</m1>
-</entry>
-<entry word="hýnótt">
+</word>
+<word>
+hýnótt
 	<m1><p>f.</p> <i><trn>night of anxious waiting</trn></i> (?).</m1>
-</entry>
-<entry word="hýrast">
+</word>
+<word>
+hýrast
 	<m1>(ð), <p>v. refl.</p> <i><trn>to be gladdened, brighlen up</trn></i> (hýrðist hann skjótt í viðbragði).</m1>
-</entry>
-<entry word="hýrliga">
+</word>
+<word>
+hýrliga
 	<m1><p>adv.</p> <i><trn>cheerily, with a smiling face</trn></i> (líta ~ til <p>e-s</p>).</m1>
-</entry>
-<entry word="hýrligr">
+</word>
+<word>
+hýrligr
 	<m1><p>a.</p> <i><trn>friendly, smiling</trn></i>.</m1>
-</entry>
-<entry word="hýróg">
+</word>
+<word>
+hýróg
 	<m1><p>n.</p> <i><trn>servants’ slander (quarrelling)</trn></i>.</m1>
-</entry>
-<entry word="hýrr">
+</word>
+<word>
+hýrr
 	<m1><p>a.</p> <i><trn>smiling, pleasant, mild, friendly</trn></i> (h. í viðbragði).</m1>
-</entry>
-<entry word="hýsa">
-	</entry>
-<entry word="innhýsa">
+</word>
+<word>
+hýsa
+</word>
+<word>
+innhýsa
 	<m1>(-ta, -tr), <p>v.</p> <i><trn>to house, harbour</trn></i>.</m1>
-</entry>
-<entry word="hýski">
+</word>
+<word>
+hýski
 	<m1><p>n.</p> <i><trn>household, family</trn></i>.</m1>
-</entry>
-<entry word="hæð">
+</word>
+<word>
+hæð
 	<m1><p>f.</p></m1>
 	<m2>1) <i><trn>height</trn></i>; hann hljóp meirr en h. sína, <i><trn>he could leap more his own height</trn></i>;</m2>
 	<m2>2) <i><trn>height, eminence, hill</trn></i> (gengu þeir upp á h. nökkura).</m2>
-</entry>
-<entry word="hæða">
+</word>
+<word>
+hæða
 	<m1>(-dda, -ddr), <p>v.</p> <i><trn>to scoff at, mock</trn></i> (~ <p>e-n</p> <com>or</com> ~ at <p>e-m</p>).</m1>
-</entry>
-<entry word="hæðinn">
+</word>
+<word>
+hæðinn
 	<m1><p>a.</p> <i><trn>fond of mocking</trn></i>.</m1>
-</entry>
-<entry word="hæðliga">
+</word>
+<word>
+hæðliga
 	<m1><p>adv.</p> <i><trn>mockingly, scornfully</trn></i> (tala ~ til <p>e-s</p>).</m1>
-</entry>
-<entry word="hæðligr">
+</word>
+<word>
+hæðligr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>derisive disgraceful</trn></i>;</m2>
 	<m2>2) <i><trn>contemptible</trn></i>.</m2>
-</entry>
-<entry word="hæðni">
+</word>
+<word>
+hæðni
 	<m1><p>f.</p> <i><trn>mocking, mockery</trn></i>.</m1>
-</entry>
-<entry word="hækiliga">
+</word>
+<word>
+hækiliga
 	<m1><p>adv.</p> <i><trn>vehemently</trn></i>.</m1>
-</entry>
-<entry word="hælbein">
+</word>
+<word>
+hælbein
 	<m1><p>n.</p> <i><trn>heel bone</trn></i>.</m1>
-</entry>
-<entry word="hælbítr">
+</word>
+<word>
+hælbítr
 	<m1><p>m.</p> <i><trn>heel-biter</trn></i>.</m1>
-</entry>
-<entry word="hældreginn">
+</word>
+<word>
+hældreginn
 	<m1><p>pp.</p> <i><trn>dragging the heels in walking</trn></i>.</m1>
-</entry>
-<entry word="hældrep">
+</word>
+<word>
+hældrep
 	<m1><p>n.</p> <i><trn>blow on the heel</trn></i>.</m1>
-</entry>
-<entry word="hæli">
+</word>
+<word>
+hæli
 	<m1><p>n.</p> <i><trn>shelter, refuge</trn></i>; leita s ér hælis, <i><trn>to seek for shelter</trn></i>.</m1>
-</entry>
-<entry word="hælkrókr">
+</word>
+<word>
+hælkrókr
 	<m1><p>m.</p> <i><trn>‘heel-crook’, catch with the heel (a</trn></i> trick in wrestling).</m1>
-</entry>
-<entry word="hæll">
+</word>
+<word>
+hæll
 	<m1><b>I)</b></m1>
 	<m2>(-s, -ar), <p>m.</p> <i><trn>heel</trn></i>;</m2>
 	<m3>hlaupa (fara, ganga) á hæla <p>e-m</p>, <i><trn>to follow at one’s heels</trn></i>;</m3>
@@ -9267,301 +11960,386 @@ Hýnir
 	<m3>2) <i><trn>handle</trn></i> in a scythe-shaft (orf-~).</m3>
 	<m1><b>III)</b></m1>
 	<m2><p>m.</p> <i><trn>a widow whose husband has been slain in battle</trn></i>.</m2>
-</entry>
-<entry word="hælsíðr">
+</word>
+<word>
+hælsíðr
 	<m1><p>a.</p> <i><trn>reaching down to the heels</trn></i> (~ kyrtill).</m1>
-</entry>
-<entry word="hængr">
+</word>
+<word>
+hængr
 	<m1><p>m.</p> <i><trn>male salmon</trn></i>.</m1>
-</entry>
-<entry word="hæra">
+</word>
+<word>
+hæra
 	<m1><p>f.</p> <i><trn>hoariness, grey hair</trn></i> (skegg hvítt af hæru); fá elli ok hæru, <i><trn>to live to a hoary old age</trn></i>; <p>esp.</p> in <p>pl.</p>, grár (hvítr) fyrir (<com>or</com> af) hærum, <i><trn>white with grey hair</trn></i>.</m1>
-</entry>
-<entry word="hærðr">
+</word>
+<word>
+hærðr
 	<m1><p>a.</p> <i><trn>haired</trn></i>; h. vel, <i><trn>having-fine hair</trn></i>; h. mjök, <i><trn>having much hair</trn></i>.</m1>
-</entry>
-<entry word="hæringr">
+</word>
+<word>
+hæringr
 	<m1><p>m.</p> <i><trn>hoary (old) man</trn></i>.</m1>
-</entry>
-<entry word="hærukarl">
+</word>
+<word>
+hærukarl
 	<m1><p>m.</p> = hæringr.</m1>
-</entry>
-<entry word="hærukollr">
+</word>
+<word>
+hærukollr
 	<m1><p>m.</p> <i><trn>hoary head, a nickname</trn></i>.</m1>
-</entry>
-<entry word="hærulangr">
+</word>
+<word>
+hærulangr
 	<m1><p>a.</p> <i><trn>having long grey hair</trn></i>.</m1>
-</entry>
-<entry word="hæruskeggi">
+</word>
+<word>
+hæruskeggi
 	<m1><p>m.</p> <i><trn>hoary beard</trn></i>.</m1>
-</entry>
-<entry word="hæruskotinn">
+</word>
+<word>
+hæruskotinn
 	<m1><p>pp.</p> <i><trn>grizzled</trn></i>.</m1>
-</entry>
-<entry word="hætta">
+</word>
+<word>
+hætta
 	<m1><b>I)</b></m1>
 	<m2>(-tta, -tt), <p>v.</p> <i><trn>to leave of</trn></i>, with <p>dat.</p> (h. heyverkum); with <p>infin.</p> <i><trn>to cease</trn></i> (h. at tala).</m2>
 	<m1><b>II)</b></m1>
 	<m2>(-tta, -tt), <p>v.</p> <i><trn>to risk, venture</trn></i>, stake, with <p>dat.</p> (L. vildi eigi út h. sínum mönnum); h. til þess virðing þinni, <i><trn>to stake thy honour on it</trn></i>; <p>impers.</p>, litlu hættir nú til, <i><trn>there is but small</trn></i> risk; <p>absol.</p>, hefir sá er hættir, <i><trn>he wins who risks, ‘nothing venture nothing have’</trn></i>; h. til <p>e-s</p>, <i><trn>to risk a thing</trn></i> (vil ek heldr til þess h. en hitt spyrist áönnur lönd); h. á <p>e-t</p>, <i><trn>to risk</trn></i> (kváðust á það mundu h. at berjast); <i><trn>to venture upon, to trust to</trn></i> (h. á miskunn <p>e-s</p>); h. <p>e-u</p> undir <p>e-n</p>, <i><trn>to depend on one for a thing</trn></i>.</m2>
 	<m1><b>III)</b></m1>
 	<m2><p>f.</p> <i><trn>danger, peril</trn></i>; eiga mikit íhættu, <i><trn>to run a great risk</trn></i>; leggja <p>e-t</p> í hættu, <i><trn>to expose to risk or danger</trn></i> (leggja sik, líf sitt, fé sitt, í hættu); leggja á þá hættu, <i><trn>to run the risk</trn></i>.</m2>
-</entry>
-<entry word="hætti">
+</word>
+<word>
+hætti
 	<m1>from <ref>háttr</ref>, <i><trn>mode</trn></i>.</m1>
-</entry>
-<entry word="hættingarferð">
+</word>
+<word>
+hættingarferð
 	<m1><p>f.</p> <i><trn>dangerous journey</trn></i> (= hættu-ferð).</m1>
-</entry>
-<entry word="hættleggja">
+</word>
+<word>
+hættleggja
 	<m1>(<com>see</com> <ref>leggja</ref>), <p>v.</p> <i><trn>to risk</trn></i>.</m1>
-</entry>
-<entry word="hættligr">
+</word>
+<word>
+hættligr
 	<m1><p>a.</p> <i><trn>dangerous</trn></i>; kölluðu hættligan mátt hans, <i><trn>they said that he was sinking fast</trn></i>.</m1>
-</entry>
-<entry word="hættr">
+</word>
+<word>
+hættr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>dangerous</trn></i> (slíkr maðr er hættastr, ef);</m2>
 	<m2>2) <i><trn>dangerously ill</trn></i> (vera, liggja, h.);</m2>
 	<m2>3) <i><trn>exposed to danger</trn></i>; ekki h. fyrir vápnum, <i><trn>proof against weapons</trn></i>;</m2>
 	<m2>4) <p>e-m</p> er hætt við <p>e-u</p>, <i><trn>one is in danger of</trn></i>; var Þuríði við engu meini hætt, <i><trn>Thurid was out of danger</trn></i>;</m2>
 	<m2>5) <i><trn>doubtful, uncertain</trn></i>.</m2>
-</entry>
-<entry word="hættuferð">
-	</entry>
-<entry word="hættuför">
+</word>
+<word>
+hættuferð
+</word>
+<word>
+hættuför
 	<m1><p>f.</p> <i><trn>dangerous journey</trn></i>.</m1>
-</entry>
-<entry word="hættulauss">
+</word>
+<word>
+hættulauss
 	<m1><p>a.</p> <i><trn>free from danger, without danger</trn></i>.</m1>
-</entry>
-<entry word="hættulítill">
+</word>
+<word>
+hættulítill
 	<m1><p>a.</p> <i><trn>little dangerous</trn></i>.</m1>
-</entry>
-<entry word="hætturáð">
+</word>
+<word>
+hætturáð
 	<m1><p>n.</p> <i><trn>dangerous plan</trn></i>.</m1>
-</entry>
-<entry word="hœfa">
+</word>
+<word>
+hœfa
 	<m1>(-ða, -ðr), <p>v.</p></m1>
 	<m2>1) <i><trn>to hit</trn></i>, with <p>acc.</p> (þeir hœfa aldri dýr); hann hœfði allt þat, er hann skaut til, <i><trn>he never missed his mark</trn></i>; h. til, <i><trn>to aim</trn></i>; svá hafði smiðrinn til hœft, <i><trn>so well had he aimed</trn></i>;</m2>
 	<m2>2) <i><trn>to fit</trn></i>, with <p>dat.</p> (hœfðu Kjartani þau klæði allvel);</m2>
 	<m2>3) <i><trn>to behove, be meet</trn></i> (eigi hœfir at drepa svá fagran svein); svá hœfir eigi, segir Ulfr, <i><trn>that will not do, said U.</trn></i>; h. <p>e-m</p>, <i><trn>to be meet for one</trn></i>;</m2>
 	<m2>4) <p>refl.</p>, hœfast, <i><trn>to fit each other, to correspond</trn></i>; spjótit mun h. ok sár þat, <i><trn>the shaft and the wound will correspond</trn></i>; h. á, <i><trn>to agree in time, coincide</trn></i>.</m2>
-</entry>
-<entry word="hœfi">
+</word>
+<word>
+hœfi
 	<m1><b>I)</b> <p>n.</p></m1>
 	<m2>1) <i><trn>fitness</trn></i>; vera við <p>e-s</p> h., <i><trn>to fit one, be suitable, convenient</trn></i> (Hrútr fekk sér nú konu þá, er honum þótti við sitt h.);</m2>
 	<m2>2) skjóta til hœfis, <i><trn>to shoot at a mark</trn></i>.</m2>
 	<m1><b>II)</b> from <ref>hefja</ref>.</m1>
-</entry>
-<entry word="hœfiliga">
+</word>
+<word>
+hœfiliga
 	<m1><p>adv.</p> <i><trn>fitly</trn></i>.</m1>
-</entry>
-<entry word="hœfiligr">
+</word>
+<word>
+hœfiligr
 	<m1><p>a.</p> <i><trn>fit, due</trn></i>.</m1>
-</entry>
-<entry word="hœfindi">
+</word>
+<word>
+hœfindi
 	<m1><p>n.</p> <p>pl.</p> <i><trn>what fits, behoves</trn></i>.</m1>
-</entry>
-<entry word="hœfing">
+</word>
+<word>
+hœfing
 	<m1><p>f.</p> <i><trn>aiming</trn></i>; gøra h., <i><trn>to take aim</trn></i>.</m1>
-</entry>
-<entry word="hœfinn">
+</word>
+<word>
+hœfinn
 	<m1><p>a.</p> <i><trn>aiming well, good at hitting the mark</trn></i>.</m1>
-</entry>
-<entry word="hœfni">
+</word>
+<word>
+hœfni
 	<m1><p>f.</p> <i><trn>good marksmanship</trn></i> (Eindriði lofaði hoefni konungs).</m1>
-</entry>
-<entry word="hœfr">
+</word>
+<word>
+hœfr
 	<m1><p>a.</p> <i><trn>fit, proper</trn></i>;</m1>
 	<m2>engu ~, <i><trn>good for nothing, useless, worthless</trn></i>.</m2>
-</entry>
-<entry word="hœgindi">
+</word>
+<word>
+hœgindi
 	<m1><p>n.</p> <p>pl.</p></m1>
 	<m2>1) <i><trn>relief</trn></i> (for the sick and poor);</m2>
 	<m2>2) <i><trn>comforts</trn></i>; snúast til hœginda, <i><trn>to turn to advantage, for the better</trn></i>;</m2>
 	<m2>3) in <p>sing.</p>, <i><trn>bolster, pillow, cushion</trn></i> (undir ~t í hvílunni).</m2>
-</entry>
-<entry word="hœgja">
+</word>
+<word>
+hœgja
 	<m1>(-ða, -ðr), <p>v.</p></m1>
 	<m2>1) <i><trn>to abate</trn></i>, with <p>dat.</p>; h. rás sinni, <i><trn>to slacken one’s course</trn></i>;</m2>
 	<m2>2) <i><trn>to relieve, seek relief for one</trn></i> (var þeim hœgt í öllu sem mátti);</m2>
 	<m2>3) <p>refl.</p>, ~st, <i><trn>to abate</trn></i> (sjór tók at h.); <i><trn>to get smoother</trn></i> (kann vera at hœgist ráðit); <p>impers.</p>, eptir allt þetta hœgðist Fróða lítit, <i><trn>F. became more at ease</trn></i>.</m2>
-</entry>
-<entry word="hœgliga">
+</word>
+<word>
+hœgliga
 	<m1><p>adv.</p> <i><trn>with ease, gently</trn></i>.</m1>
-</entry>
-<entry word="hœgligr">
+</word>
+<word>
+hœgligr
 	<m1><p>a.</p> <i><trn>easy, convenient</trn></i>.</m1>
-</entry>
-<entry word="hœglífi">
+</word>
+<word>
+hœglífi
 	<m1><p>n.</p> <i><trn>easy</trn></i> or <i><trn>comfortable life</trn></i>.</m1>
-</entry>
-<entry word="hœgr">
+</word>
+<word>
+hœgr
 	<m1>(<p>acc.</p> -jan and -an), <p>a.</p> <i><trn>easy, convenient</trn></i>; ykkr er þat hœgst um hönd, <i><trn>it is most at hand for you</trn></i>; h. byrr, <i><trn>a gentle, fair wind</trn></i>; ekki var samlag þeirra hœgt, <i><trn>they were not on good terms</trn></i>; h. <p>e-m</p> <com>or</com> við <p>e-n</p>, <i><trn>gentle towards one</trn></i>.</m1>
-</entry>
-<entry word="hœgri">
+</word>
+<word>
+hœgri
 	<m1><p>a.</p> <p>compar.</p> (from <ref>hœgr</ref>), <i><trn>right</trn></i>; til h. handar, til hœgra vegs, <i><trn>on the right hand, to the right</trn></i>.</m1>
-</entry>
-<entry word="hœkilbjúgr">
+</word>
+<word>
+hœkilbjúgr
 	<m1><p>a.</p> <i><trn>bowed in the knees</trn></i>.</m1>
-</entry>
-<entry word="hœkja">
+</word>
+<word>
+hœkja
 	<m1><p>f.</p> <i><trn>crutch</trn></i>.</m1>
-</entry>
-<entry word="hœla">
+</word>
+<word>
+hœla
 	<m1>(-da, -t), <p>v.</p></m1>
 	<m2>1) <i><trn>to praise</trn></i>, with <p>dat.</p> (hann hœldi Ulfari mjök);</m2>
 	<m2>2) <i><trn>to boast of</trn></i> (sverði hœlir þú tar, en eigi sigri);</m2>
 	<m2>3) <p>refl.</p>, hœlast, <i><trn>to boast, vaunt</trn></i>; h. <p>e-u</p> (af <p>e-u</p>, um <p>e-t</p>), <i><trn>to boast of</trn></i>; h. við <p>e-n</p>, <i><trn>to boast over one</trn></i>.</m2>
-</entry>
-<entry word="hœlinn">
+</word>
+<word>
+hœlinn
 	<m1><p>a.</p> <i><trn>given to boasting</trn></i>.</m1>
-</entry>
-<entry word="hœna">
+</word>
+<word>
+hœna
 	<m1><p>f.</p> <i><trn>hen</trn></i> (hani ok hœna).</m1>
-</entry>
-<entry word="hœns">
-	</entry>
-<entry word="hœnsn">
+</word>
+<word>
+hœns
+</word>
+<word>
+hœnsn
 	<m1><p>n.</p> <p>pl.</p> <i><trn>liens, fowls</trn></i>.</m1>
-</entry>
-<entry word="hœta">
+</word>
+<word>
+hœta
 	<m1>(-tta, -tt), <p>v.</p> <i><trn>to threaten</trn></i>; h. <p>e-m</p> <p>e-u</p>, <i><trn>to threaten one with a thing</trn></i> (hœtti honum dauða).</m1>
-</entry>
-<entry word="hœting">
+</word>
+<word>
+hœting
 	<m1>(<p>pl.</p> -ar), <p>f.</p> <i><trn>threatening</trn></i>.</m1>
-</entry>
-<entry word="hœtinn">
+</word>
+<word>
+hœtinn
 	<m1><p>a.</p> <i><trn>given to threatening</trn></i>.</m1>
-</entry>
-<entry word="hœverska">
+</word>
+<word>
+hœverska
 	<m1><p>f.</p> <i><trn>courtesy, good manners</trn></i>.</m1>
-</entry>
-<entry word="hœverskliga">
+</word>
+<word>
+hœverskliga
 	<m1><p>adv.</p> <i><trn>politely, fashionably</trn></i> (~ klædd).</m1>
-</entry>
-<entry word="hœverskligr">
+</word>
+<word>
+hœverskligr
 	<m1><p>a.</p> = hœverskr.</m1>
-</entry>
-<entry word="höðnukið">
+</word>
+<word>
+höðnukið
 	<m1><p>n.</p> <i><trn>female kid, young she-goat</trn></i> (cf. <ref>haðna</ref>).</m1>
-</entry>
-<entry word="höf">
+</word>
+<word>
+höf
 	<m1>from <ref>haf</ref>, <i><trn>sea</trn></i>.</m1>
-</entry>
-<entry word="höfða">
+</word>
+<word>
+höfða
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to cut the head off</trn></i> (h. fisk), <i><trn>to behead</trn></i>;</m2>
 	<m2>2) h. mál (sök) áhönd (á hendr) <p>e-m</p>, <i><trn>to bring an action against one</trn></i>.</m2>
-</entry>
-<entry word="höfðaðr">
+</word>
+<word>
+höfðaðr
 	<m1><p>pp.</p> <i><trn>headed</trn></i> (h. sem hundr; cf. tví-, þrí-~).</m1>
-</entry>
-<entry word="höfðafjöl">
+</word>
+<word>
+höfðafjöl
 	<m1><p>f.</p> <i><trn>head-board of a bedstead</trn></i>.</m1>
-</entry>
-<entry word="höfðahlutr">
+</word>
+<word>
+höfðahlutr
 	<m1><p>m.</p> = höfuðhlutr.</m1>
-</entry>
-<entry word="höfðalag">
+</word>
+<word>
+höfðalag
 	<m1><p>n.</p> <i><trn>bed’s head</trn></i>.</m1>
-</entry>
-<entry word="höfðaskip">
+</word>
+<word>
+höfðaskip
 	<m1><p>n.</p> <i><trn>a ship with an ornamental prow</trn></i>.</m1>
-</entry>
-<entry word="höfðatal">
+</word>
+<word>
+höfðatal
 	<m1><p>n.</p> <i><trn>‘tale of heads’, number of persons</trn></i>, etc.</m1>
-</entry>
-<entry word="höfði">
+</word>
+<word>
+höfði
 	<m1><b>I)</b> <p>m.</p> <i><trn>headland</trn></i>.</m1>
 	<m1><b>II)</b> from <ref>höfuð</ref>, <i><trn>head</trn></i>.</m1>
-</entry>
-<entry word="höfðingi">
+</word>
+<word>
+höfðingi
 	<m1>(<p>pl.</p> -jar), <p>m.</p></m1>
 	<m2>1) <i><trn>chief, leader</trn></i>; h. þeirrar ráðagørðar, <i><trn>at the head of that plan</trn></i>;</m2>
 	<m2>2) <i><trn>captain, commander</trn></i> (K. var h. yfir þeim her);</m2>
 	<m2>3) <i><trn>chief, ruler</trn></i>, <p>esp.</p> in <p>pl.</p>, <i><trn>men of rank or authority</trn></i> (höfðingjar ok góðir menn; hann gørðist þá h. mikill).</m2>
-</entry>
-<entry word="höfðingjaást">
+</word>
+<word>
+höfðingjaást
 	<m1><p>f.</p> <i><trn>love for one’s chief</trn></i>.</m1>
-</entry>
-<entry word="höfðingjabragð">
+</word>
+<word>
+höfðingjabragð
 	<m1><p>n.</p> <i><trn>the bearing of a chief</trn></i> (hafa ~ á sér).</m1>
-</entry>
-<entry word="höfðingjadjarfr">
+</word>
+<word>
+höfðingjadjarfr
 	<m1><p>a.</p> <i><trn>frank and bold in one’s intercourse with the great</trn></i>.</m1>
-</entry>
-<entry word="höfðingjaefni">
+</word>
+<word>
+höfðingjaefni
 	<m1><p>n.</p> <i><trn>a hopeful man for a chief</trn></i> (L. þótti bezt ~ austr þar).</m1>
-</entry>
-<entry word="höfðingjafundr">
+</word>
+<word>
+höfðingjafundr
 	<m1><p>m.</p> <i><trn>meeting of chiefs</trn></i>.</m1>
-</entry>
-<entry word="höfðingjahlutr">
+</word>
+<word>
+höfðingjahlutr
 	<m1><p>m.</p> <i><trn>a chief’s lot or share</trn></i>.</m1>
-</entry>
-<entry word="höfðingjakærr">
+</word>
+<word>
+höfðingjakærr
 	<m1><p>a.</p> <i><trn>in favour with the great</trn></i>.</m1>
-</entry>
-<entry word="höfðingjalauss">
+</word>
+<word>
+höfðingjalauss
 	<m1><p>a.</p> <i><trn>chiefless</trn></i>.</m1>
-</entry>
-<entry word="höfðingjamerki">
+</word>
+<word>
+höfðingjamerki
 	<m1><p>n.</p> <i><trn>chiefs standard</trn></i>.</m1>
-</entry>
-<entry word="höfðingjanafn">
+</word>
+<word>
+höfðingjanafn
 	<m1><p>n.</p> <i><trn>chiefs title</trn></i>.</m1>
-</entry>
-<entry word="höfðingjaskipti">
+</word>
+<word>
+höfðingjaskipti
 	<m1><p>n.</p> <i><trn>change of rulers</trn></i>.</m1>
-</entry>
-<entry word="höfðingjason">
+</word>
+<word>
+höfðingjason
 	<m1><p>m.</p> <i><trn>son of a chief</trn></i>.</m1>
-</entry>
-<entry word="höfðingjastefna">
+</word>
+<word>
+höfðingjastefna
 	<m1><p>f.</p> = <ref>höfðingjafundr</ref>.</m1>
-</entry>
-<entry word="höfðingjastyrkr">
+</word>
+<word>
+höfðingjastyrkr
 	<m1><p>m.</p> <i><trn>support of great folk</trn></i>.</m1>
-</entry>
-<entry word="höfðingjaætt">
+</word>
+<word>
+höfðingjaætt
 	<m1><p>f.</p> <i><trn>noble extraction, high birth</trn></i>.</m1>
-</entry>
-<entry word="höfðingja-">
+</word>
+<word>
+höfðingja-
 	<m1><p>gen.</p> from <ref>höfðingi</ref>.</m1>
-</entry>
-<entry word="höfðingliga">
+</word>
+<word>
+höfðingliga
 	<m1><p>adv.</p> <i><trn>nobly, generously</trn></i>.</m1>
-</entry>
-<entry word="höfðingligr">
+</word>
+<word>
+höfðingligr
 	<m1><p>a.</p> <i><trn>princely, noble</trn></i>.</m1>
-</entry>
-<entry word="höfðingskapr">
+</word>
+<word>
+höfðingskapr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>power, dominion</trn></i>;</m2>
 	<m2>2) <i><trn>authority, prestige</trn></i>;</m2>
 	<m2>3) <i><trn>liberality, generosity</trn></i>.</m2>
-</entry>
-<entry word="höfga">
+</word>
+<word>
+höfga
 	<m1>(að), <p>v.</p> <i><trn>to make heavy</trn></i>; <p>impers.</p>, <p>e-m</p> (<com>or</com> <p>e-n</p>) ~r, <i><trn>one becomes heavy with sleep</trn></i>.</m1>
-</entry>
-<entry word="höfgavara">
+</word>
+<word>
+höfgavara
 	<m1><p>f.</p> <i><trn>heavy wares</trn></i>.</m1>
-</entry>
-<entry word="höfgi">
+</word>
+<word>
+höfgi
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>heaviness, weight</trn></i>;</m2>
 	<m2>2) <i><trn>sleep, nap</trn></i> (rann á hann h.); <i><trn>drowsiness</trn></i> (sló á þá höfga svá miklum, at þeir máttu eigi vöku halda).</m2>
-</entry>
-<entry word="höfn">
+</word>
+<word>
+höfn
 	<m1>(<p>gen.</p> hafnar, <p>pl.</p> hafnir), <p>f.</p></m1>
 	<m2>1) <i><trn>haven, harbour</trn></i>;</m2>
 	<m2>2) <i><trn>fœtus</trn></i> (á þann hátt sem h. vex með konu);</m2>
 	<m2>3) <i><trn>coat, cloak</trn></i>, = yfirhöfn (hann tók af sér höfnina ok sveipaði um konunginn);</m2>
 	<m2>4) <i><trn>tenure of land</trn></i> (jarðar h.);</m2>
 	<m2>5) <i><trn>crew</trn></i>, = <ref>skipshöfn</ref>.</m2>
-</entry>
-<entry word="höfuð">
+</word>
+<word>
+höfuð
 	<m1>(<p>dat.</p> höfði, <p>gen.</p> <p>pl.</p> höfða), <p>n.</p></m1>
 	<m2>1) <i><trn>head</trn></i> (höggva ~ af <p>e-m</p>);</m2>
 	<m3>láta <p>e-n</p> höfði skemmra, <i><trn>to behead one</trn></i>;</m3>
@@ -9584,313 +12362,413 @@ Hýnir
 	<m3>Þrándheimr hefir lengi verið kallaðr ~ Noregs, <i><trn>the chief district of Norway</trn></i>;</m3>
 	<m2>3) <i><trn>ornamental prow</trn></i> of a ship (skip með gyltum höfðum);</m2>
 	<m3><i><trn>ornamental head</trn></i> on a bridle (slitnaði sundr beizlit, ok týndist ~, er á var).</m3>
-</entry>
-<entry word="höfuðá">
+</word>
+<word>
+höfuðá
 	<m1><p>f.</p> <i><trn>chief river</trn></i>.</m1>
-</entry>
-<entry word="höfuðárr">
-	</entry>
-<entry word="veldisengill">
-	</entry>
-<entry word="yfirengill">
+</word>
+<word>
+höfuðárr
+</word>
+<word>
+veldisengill
+</word>
+<word>
+yfirengill
 	<m1><p>m.</p> <i><trn>archangel</trn></i>.</m1>
-</entry>
-<entry word="höfuðátt">
+</word>
+<word>
+höfuðátt
 	<m1><p>f.</p> <i><trn>cardinal point</trn></i>.</m1>
-</entry>
-<entry word="höfuðbaðmr">
+</word>
+<word>
+höfuðbaðmr
 	<m1><p>m.</p> <i><trn>the ‘head stem’, agnate lineage</trn></i>.</m1>
-</entry>
-<entry word="höfuðband">
+</word>
+<word>
+höfuðband
 	<m1><p>n.</p> <i><trn>head-band, snood, fillet</trn></i>.</m1>
-</entry>
-<entry word="höfuðbani">
+</word>
+<word>
+höfuðbani
 	<m1><p>m.</p> <i><trn>death, destruction</trn></i>.</m1>
-</entry>
-<entry word="höfuðbein">
+</word>
+<word>
+höfuðbein
 	<m1><p>n.</p> <p>pl.</p> <i><trn>head-bones</trn></i>.</m1>
-</entry>
-<entry word="höfuðbenda">
+</word>
+<word>
+höfuðbenda
 	<m1><p>f.</p></m1>
 	<m2>1) naut. <i><trn>slay, shroud</trn></i>;</m2>
 	<m2>2) fig. <i><trn>stay, support</trn></i>.</m2>
-</entry>
-<entry word="höfuðblót">
+</word>
+<word>
+höfuðblót
 	<m1><p>n.</p> <i><trn>chief sacrifice</trn></i>.</m1>
-</entry>
-<entry word="höfuðborg">
+</word>
+<word>
+höfuðborg
 	<m1><p>f.</p> <i><trn>head town, capital</trn></i>.</m1>
-</entry>
-<entry word="höfuðból">
+</word>
+<word>
+höfuðból
 	<m1><p>n.</p> <i><trn>chief estate, manorial estate</trn></i>.</m1>
-</entry>
-<entry word="höfuðbrot">
+</word>
+<word>
+höfuðbrot
 	<m1><p>n.</p> <i><trn>great dammage, ruin</trn></i>.</m1>
-</entry>
-<entry word="höfuðburðr">
+</word>
+<word>
+höfuðburðr
 	<m1><p>m.</p> <i><trn>‘bearing of the head’</trn></i>, fig. <i><trn>honour, credit, prestige</trn></i>;</m1>
 	<m2><p>e-m</p> er lítill höfuðburðn at <p>e-u</p>, <i><trn>it does him little honour (credit)</trn></i>.</m2>
-</entry>
-<entry word="höfuðbœr">
+</word>
+<word>
+höfuðbœr
 	<m1><p>m.</p> = höfuðból.</m1>
-</entry>
-<entry word="höfuðdúkr">
+</word>
+<word>
+höfuðdúkr
 	<m1><p>m.</p> <i><trn>head-kerchief, hood</trn></i>.</m1>
-</entry>
-<entry word="höfuðfaðir">
+</word>
+<word>
+höfuðfaðir
 	<m1><p>m.</p> <i><trn>protector, patron</trn></i>.</m1>
-</entry>
-<entry word="höfuðfirn">
+</word>
+<word>
+höfuðfirn
 	<m1><p>n.</p> <p>pl.</p> <i><trn>great scandal</trn></i>.</m1>
-</entry>
-<entry word="höfuðgersemi">
+</word>
+<word>
+höfuðgersemi
 	<m1><p>f.</p> <i><trn>great jewel</trn></i>.</m1>
-</entry>
-<entry word="höfuðgjarnt">
+</word>
+<word>
+höfuðgjarnt
 	<m1><p>a.</p> <p>n.</p> <i><trn>fatal, dangerous to one’s life</trn></i>.</m1>
-</entry>
-<entry word="höfuðgjöf">
+</word>
+<word>
+höfuðgjöf
 	<m1><p>f.</p> <i><trn>capital gift</trn></i>.</m1>
-</entry>
-<entry word="höfuðgoð">
+</word>
+<word>
+höfuðgoð
 	<m1><p>n.</p> <i><trn>principal god</trn></i>.</m1>
-</entry>
-<entry word="höfuðgæfa">
+</word>
+<word>
+höfuðgæfa
 	<m1><p>f.</p> <i><trn>great luck</trn></i>.</m1>
-</entry>
-<entry word="höfuðhátíð">
+</word>
+<word>
+höfuðhátíð
 	<m1><p>f.</p> <i><trn>principal feast</trn></i>.</m1>
-</entry>
-<entry word="höfuðhetja">
+</word>
+<word>
+höfuðhetja
 	<m1><p>f.</p> <i><trn>great champion, chief</trn></i>.</m1>
-</entry>
-<entry word="höfuðhlutr">
+</word>
+<word>
+höfuðhlutr
 	<m1><p>m.</p> <i><trn>the upper part of the body</trn></i>, opp. to <ref>fótahlutr</ref>.</m1>
-</entry>
-<entry word="höfuðhof">
+</word>
+<word>
+höfuðhof
 	<m1><p>n.</p> <i><trn>chief temple</trn></i>.</m1>
-</entry>
-<entry word="höfuðísar">
+</word>
+<word>
+höfuðísar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>great masses of ice, ice-banks</trn></i>.</m1>
-</entry>
-<entry word="höfuðkempa">
+</word>
+<word>
+höfuðkempa
 	<m1><p>f.</p> = höfuðhetja.</m1>
-</entry>
-<entry word="höfuðkennimaðr">
+</word>
+<word>
+höfuðkennimaðr
 	<m1><p>m.</p> <i><trn>great clerk, ecclesiastic</trn></i>.</m1>
-</entry>
-<entry word="höfuðkirkja">
+</word>
+<word>
+höfuðkirkja
 	<m1><p>f.</p> <i><trn>high-church, cathedral</trn></i>.</m1>
-</entry>
-<entry word="höfuðklerkr">
+</word>
+<word>
+höfuðklerkr
 	<m1><p>m.</p> <i><trn>great clerk or scholar</trn></i>.</m1>
-</entry>
-<entry word="höfuðkonungr">
+</word>
+<word>
+höfuðkonungr
 	<m1><p>m.</p> <i><trn>sovereign king</trn></i>.</m1>
-</entry>
-<entry word="höfuðlausn">
+</word>
+<word>
+höfuðlausn
 	<m1><p>f.</p> <i><trn>‘head-ransom’</trn></i> (the name of three old poems).</m1>
-</entry>
-<entry word="höfuðlauss">
+</word>
+<word>
+höfuðlauss
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>headless, without a head</trn></i>;</m2>
 	<m2>2) <i><trn>without a leader</trn></i> (~ herr).</m2>
-</entry>
-<entry word="höfuðleðr">
+</word>
+<word>
+höfuðleðr
 	<m1><p>n.</p> <i><trn>head-piece of a bridle</trn></i>.</m1>
-</entry>
-<entry word="höfuðlæknir">
+</word>
+<word>
+höfuðlæknir
 	<m1><p>m.</p> <i><trn>chief physician</trn></i>.</m1>
-</entry>
-<entry word="höfuðlöstr">
+</word>
+<word>
+höfuðlöstr
 	<m1><p>m.</p> <i><trn>cardinal sin</trn></i>.</m1>
-</entry>
-<entry word="höfuðmaðr">
+</word>
+<word>
+höfuðmaðr
 	<m1><p>m.</p> <i><trn>head-man, chief</trn></i>.</m1>
-</entry>
-<entry word="höfuðmein">
+</word>
+<word>
+höfuðmein
 	<m1><p>n.</p> <i><trn>sore (boil) on the head</trn></i>.</m1>
-</entry>
-<entry word="höfuðmeistari">
-	</entry>
-<entry word="yfirmeistari">
+</word>
+<word>
+höfuðmeistari
+</word>
+<word>
+yfirmeistari
 	<m1><p>m.</p> <i><trn>head-master</trn></i>.</m1>
-</entry>
-<entry word="höfuðmerki">
+</word>
+<word>
+höfuðmerki
 	<m1><p>n.</p></m1>
 	<m2>1) <i><trn>chief mark, characteristic</trn></i>;</m2>
 	<m2>2) <i><trn>chief standard</trn></i>.</m2>
-</entry>
-<entry word="höfuðmikill">
+</word>
+<word>
+höfuðmikill
 	<m1><p>a.</p> <i><trn>big-headed</trn></i>.</m1>
-</entry>
-<entry word="höfuðmundr">
+</word>
+<word>
+höfuðmundr
 	<m1><p>m.</p> <i><trn>ransom</trn></i>.</m1>
-</entry>
-<entry word="höfuðnauðsyn">
-	</entry>
-<entry word="meginþörf">
-	</entry>
-<entry word="stórþurft">
+</word>
+<word>
+höfuðnauðsyn
+</word>
+<word>
+meginþörf
+</word>
+<word>
+stórþurft
 	<m1><p>f.</p> <i><trn>great need</trn></i>.</m1>
-</entry>
-<entry word="höfuðniðjar">
+</word>
+<word>
+höfuðniðjar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>head-kinsmen, agnates</trn></i>.</m1>
-</entry>
-<entry word="höfuðórar">
+</word>
+<word>
+höfuðórar
 	<m1><p>m.</p> <p>pl.</p> <i><trn>delirium</trn></i>.</m1>
-</entry>
-<entry word="höfuðráð">
+</word>
+<word>
+höfuðráð
 	<m1><p>n.</p> <i><trn>chief council</trn></i>.</m1>
-</entry>
-<entry word="höfuðráðgjafi">
+</word>
+<word>
+höfuðráðgjafi
 	<m1><p>m.</p> <i><trn>chief adviser</trn></i>.</m1>
-</entry>
-<entry word="höfuðsár">
+</word>
+<word>
+höfuðsár
 	<m1><p>n.</p> <i><trn>wound in the head</trn></i>.</m1>
-</entry>
-<entry word="höfuðsbani">
+</word>
+<word>
+höfuðsbani
 	<m1><p>m.</p> = höfuðbani.</m1>
-</entry>
-<entry word="höfuðskáld">
-	</entry>
-<entry word="þjóðskáld">
+</word>
+<word>
+höfuðskáld
+</word>
+<word>
+þjóðskáld
 	<m1><p>n.</p> <i><trn>great poet</trn></i>.</m1>
-</entry>
-<entry word="höfuðskepna">
+</word>
+<word>
+höfuðskepna
 	<m1><p>f.</p> <i><trn>prime element</trn></i>.</m1>
-</entry>
-<entry word="höfuðskutilsveinn">
+</word>
+<word>
+höfuðskutilsveinn
 	<m1><p>m.</p> <i><trn>head-cupbearer</trn></i>.</m1>
-</entry>
-<entry word="höfuðskömm">
+</word>
+<word>
+höfuðskömm
 	<m1><p>f.</p> <i><trn>great shame, scandal</trn></i>.</m1>
-</entry>
-<entry word="höfuðskörungr">
+</word>
+<word>
+höfuðskörungr
 	<m1><p>m.</p> <i><trn>great and noble person</trn></i>.</m1>
-</entry>
-<entry word="höfuðsmaðr">
+</word>
+<word>
+höfuðsmaðr
 	<m1><p>m.</p> <i><trn>head-man, leader, chief</trn></i> (vel til fallinn at vera ~).</m1>
-</entry>
-<entry word="höfuðsmátt">
+</word>
+<word>
+höfuðsmátt
 	<m1><p>f.</p> <i><trn>the opening for the head</trn></i> (in a shirt or smock-frock).</m1>
-</entry>
-<entry word="höfuðsmiðr">
+</word>
+<word>
+höfuðsmiðr
 	<m1><p>m.</p> <i><trn>chief builder</trn></i>.</m1>
-</entry>
-<entry word="höfuðstaðr">
+</word>
+<word>
+höfuðstaðr
 	<m1><p>m.</p> <i><trn>capital, chief place</trn></i>.</m1>
-</entry>
-<entry word="höfuðsteypa">
+</word>
+<word>
+höfuðsteypa
 	<m1><p>f.</p> <i><trn>tumbling on the head</trn></i> (fara höfuðsteypu).</m1>
-</entry>
-<entry word="höfuðsviða">
+</word>
+<word>
+höfuðsviða
 	<m1><p>f.</p> <i><trn>singed sheep’s head</trn></i>.</m1>
-</entry>
-<entry word="höfuðsvörðr">
+</word>
+<word>
+höfuðsvörðr
 	<m1><p>m.</p> <i><trn>head-skin, scalp</trn></i>; standa yfir höfuðsvörð-um <p>e-s</p>, <i><trn>to have an enemny’s head in one’s power</trn></i>.</m1>
-</entry>
-<entry word="höfuðsynd">
+</word>
+<word>
+höfuðsynd
 	<m1><p>f.</p> <i><trn>cardinal sin</trn></i>.</m1>
-</entry>
-<entry word="höfuðsæti">
+</word>
+<word>
+höfuðsæti
 	<m1><p>n.</p> <i><trn>chief seat</trn></i>.</m1>
-</entry>
-<entry word="höfuðtunga">
+</word>
+<word>
+höfuðtunga
 	<m1><p>f.</p> <i><trn>chief language</trn></i>.</m1>
-</entry>
-<entry word="höfuðvápn">
+</word>
+<word>
+höfuðvápn
 	<m1><p>n.</p> <i><trn>principal weapon</trn></i>.</m1>
-</entry>
-<entry word="höfuðveizla">
+</word>
+<word>
+höfuðveizla
 	<m1><p>f.</p> <i><trn>chief banquet</trn></i>.</m1>
-</entry>
-<entry word="höfuðvél">
+</word>
+<word>
+höfuðvél
 	<m1><p>f.</p> <i><trn>chief device</trn></i>.</m1>
-</entry>
-<entry word="höfuðverkr">
+</word>
+<word>
+höfuðverkr
 	<m1><p>m.</p> <i><trn>headache</trn></i>.</m1>
-</entry>
-<entry word="höfuðvinr">
+</word>
+<word>
+höfuðvinr
 	<m1><p>m.</p> <i><trn>bosom friend</trn></i>.</m1>
-</entry>
-<entry word="höfuðvörðr">
+</word>
+<word>
+höfuðvörðr
 	<m1><p>m.</p> <i><trn>bodyguard</trn></i>.</m1>
-</entry>
-<entry word="höfuðþing">
+</word>
+<word>
+höfuðþing
 	<m1><p>n.</p> <i><trn>chief meeting</trn></i>.</m1>
-</entry>
-<entry word="höfuðþváttr">
+</word>
+<word>
+höfuðþváttr
 	<m1><p>m.</p> <i><trn>head-washing</trn></i>.</m1>
-</entry>
-<entry word="höfuðætt">
+</word>
+<word>
+höfuðætt
 	<m1><p>f.</p> = höfuðátt.</m1>
-</entry>
-<entry word="höfuðœrr">
+</word>
+<word>
+höfuðœrr
 	<m1><p>a.</p> <i><trn>insane</trn></i>.</m1>
-</entry>
-<entry word="höfuðœrsl">
+</word>
+<word>
+höfuðœrsl
 	<m1><p>n.</p> <p>pl.</p> = höfuðórar.</m1>
-</entry>
-<entry word="höfuðœrslur">
+</word>
+<word>
+höfuðœrslur
 	<m1><p>f.</p> <p>pl.</p> = höfuðórar.</m1>
-</entry>
-<entry word="höfugleikr">
+</word>
+<word>
+höfugleikr
 	<m1><p>m.</p> <i><trn>heaviness</trn></i>.</m1>
-</entry>
-<entry word="höfugr">
+</word>
+<word>
+höfugr
 	<m1><p>a.</p></m1>
 	<m2>1) <i><trn>heavy</trn></i> (~ steinn);</m2>
 	<m2>2) <i><trn>heavy with sleep, drowsy</trn></i>; <p>e-m</p> er höfugt, <i><trn>one is sleepy</trn></i>.</m2>
-</entry>
-<entry word="höfundr">
+</word>
+<word>
+höfundr
 	<m1>(-ar, -ar), <p>m.</p></m1>
 	<m2>1) <i><trn>author, originator</trn></i>;</m2>
 	<m2>2) <i><trn>judge</trn></i> (rare).</m2>
-</entry>
-<entry word="hög">
+</word>
+<word>
+hög
 	<m1>from <ref>hagr</ref>, <i><trn>handy</trn></i>.</m1>
-</entry>
-<entry word="högg">
+</word>
+<word>
+högg
 	<m1>(<p>dat.</p> höggvi), <p>n.</p></m1>
 	<m2>1) <i><trn>stroke, blow</trn></i>; ljósta h. á dyrr, <i><trn>to knock at the door</trn></i>; skamma stund verðr hönd höggvi fegin, <i><trn>only a short while is the hand fain of the blow</trn></i>; eigi fellr tré við hit fyrsta h., <i><trn>no tree falls at the first stroke</trn></i>;</m2>
 	<m2>2) <i><trn>beheading, execution</trn></i> (leiða <p>e-n</p> til höggs);</m2>
 	<m2>3) fig. <i><trn>gap, breach</trn></i> (kom þá fljótt h. í liðit).</m2>
-</entry>
-<entry word="höggfœri">
+</word>
+<word>
+höggfœri
 	<m1><p>n.</p> <i><trn>the being within sword’s reach</trn></i>; standa í ~ (við <p>e-n</p>), <i><trn>to stand within stroke of sword</trn></i>.</m1>
-</entry>
-<entry word="höggjárn">
+</word>
+<word>
+höggjárn
 	<m1><p>n.</p> <i><trn>‘hewing iron’, chopper</trn></i>.</m1>
-</entry>
-<entry word="höggormr">
+</word>
+<word>
+höggormr
 	<m1><p>m.</p> <i><trn>viper</trn></i>.</m1>
-</entry>
-<entry word="höggorrosta">
+</word>
+<word>
+höggorrosta
 	<m1><p>f.</p> <i><trn>close fight</trn></i>.</m1>
-</entry>
-<entry word="höggró">
+</word>
+<word>
+höggró
 	<m1><p>f.</p> <i><trn>clinch</trn></i> on a sword’s hilt (cf. <ref>hugró</ref>).</m1>
-</entry>
-<entry word="höggrúm">
+</word>
+<word>
+höggrúm
 	<m1><p>n.</p> <i><trn>room to use a sword</trn></i>.</m1>
-</entry>
-<entry word="höggsax">
+</word>
+<word>
+höggsax
 	<m1><p>n.</p> <i><trn>a kind of cutlass</trn></i>.</m1>
-</entry>
-<entry word="höggspjót">
+</word>
+<word>
+höggspjót
 	<m1><i><trn>a kind of halberd</trn></i>.</m1>
-</entry>
-<entry word="höggstaðr">
+</word>
+<word>
+höggstaðr
 	<m1><p>m.</p> <i><trn>place for a blow</trn></i> (leita höggstaðar á <p>e-m</p>).</m1>
-</entry>
-<entry word="höggstokkr">
+</word>
+<word>
+höggstokkr
 	<m1><p>m.</p> <i><trn>chopping-block</trn></i>.</m1>
-</entry>
-<entry word="höggunótt">
+</word>
+<word>
+höggunótt
 	<m1><p>f.</p> = hökunótt.</m1>
-</entry>
-<entry word="höggva">
+</word>
+<word>
+höggva
 	<m1>(høgg; hjó, hjoggum <com>or</com> hjuggum; höggvinn <com>and</com> högginn), <p>v.</p></m1>
 	<m2>1) <i><trn>to strike, smite</trn></i> (with a sharp weapon);</m2>
 	<m3>høggr sá, er hlífa skyldi, <i><trn>he strikes who ought to shield</trn></i>;</m3>
@@ -9919,85 +12797,110 @@ Hýnir
 	<m2>7) <p>refl.</p> <i><trn>to be cut, hacked</trn></i> (hjást skjöldr Helga);</m2>
 	<m3>þótti honum nú taka mjök um at ~st, <i><trn>things looked hard</trn></i>;</m3>
 	<m3><p>recipr.</p>, <i><trn>to exchange blows, fight</trn></i> (þeir hjuggust nökkura stund).</m3>
-</entry>
-<entry word="höggvandi">
+</word>
+<word>
+höggvandi
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>hewer, smiter</trn></i>;</m2>
 	<m2>2) <i><trn>headsman, executioner</trn></i>.</m2>
-</entry>
-<entry word="höggvaskipti">
-	</entry>
-<entry word="höggvaviðskipti">
+</word>
+<word>
+höggvaskipti
+</word>
+<word>
+höggvaviðskipti
 	<m1><p>n.</p> <p>pl.</p> <i><trn>exchange of blows</trn></i>.</m1>
-</entry>
-<entry word="höggvápn">
+</word>
+<word>
+höggvápn
 	<m1><p>n.</p> <i><trn>‘cutting weapon’, sword or axe</trn></i> (opp. to <ref>lagvápn</ref>).</m1>
-</entry>
-<entry word="höggøx">
+</word>
+<word>
+höggøx
 	<m1><p>f.</p> <i><trn>‘hewing-axe’, hatchet</trn></i>.</m1>
-</entry>
-<entry word="högld">
+</word>
+<word>
+högld
 	<m1>(<p>pl.</p> hagldir), <p>f.</p> a kind of <i><trn>buckle</trn></i> (shaped like oo), used to run a rope through with which hay is trussed (bregða reipum í hagldir).</m1>
-</entry>
-<entry word="hökubein">
+</word>
+<word>
+hökubein
 	<m1><p>n.</p> <i><trn>chin bone</trn></i> (~it ok hakan).</m1>
-</entry>
-<entry word="hökulangr">
+</word>
+<word>
+hökulangr
 	<m1><p>a.</p> <i><trn>having a long chin</trn></i>.</m1>
-</entry>
-<entry word="hökulbrœkr">
+</word>
+<word>
+hökulbrœkr
 	<m1><p>f.</p> <p>pl.</p> <i><trn>‘cloak-breeches’</trn></i> (exact meaning doubtful).</m1>
-</entry>
-<entry word="hökull">
+</word>
+<word>
+hökull
 	<m1>(<p>dat.</p> hökli), <p>m.</p> <i><trn>priest’s cope chasuble</trn></i>.</m1>
-</entry>
-<entry word="hökulskúaðr">
+</word>
+<word>
+hökulskúaðr
 	<m1><p>pp.</p> <i><trn>‘cloak-shod’</trn></i> (?).</m1>
-</entry>
-<entry word="hökumikill">
+</word>
+<word>
+hökumikill
 	<m1><p>a.</p> <i><trn>having a large chin</trn></i> (hálslangr ok ~).</m1>
-</entry>
-<entry word="hökunótt">
+</word>
+<word>
+hökunótt
 	<m1><p>f.</p> <i><trn>midwinter-night</trn></i>.</m1>
-</entry>
-<entry word="hökuskegg">
+</word>
+<word>
+hökuskegg
 	<m1><p>n.</p> <i><trn>beard on the chin</trn></i>.</m1>
-</entry>
-<entry word="höku-">
+</word>
+<word>
+höku-
 	<m1><p>gen.</p> from <ref>haka</ref>.</m1>
-</entry>
-<entry word="höldborinn">
+</word>
+<word>
+höldborinn
 	<m1><p>pp.</p> <i><trn>born of a</trn></i> <ref>höldr</ref>, <i><trn>enjoying a</trn></i> höld’s <i><trn>right, free-born</trn></i>.</m1>
-</entry>
-<entry word="höldr">
+</word>
+<word>
+höldr
 	<m1><p>m.</p></m1>
 	<m2>1) <i><trn>a kind of higher yeoman</trn></i>;</m2>
 	<m2>2) <i><trn>in poetry, man</trn></i>;</m2>
 	<m3>hölda synir, <i><trn>sons of men</trn></i>.</m3>
-</entry>
-<entry word="hölkn">
+</word>
+<word>
+hölkn
 	<m1><p>n.</p> <i><trn>a rough, stony field</trn></i>.</m1>
-</entry>
-<entry word="höll">
+</word>
+<word>
+höll
 	<m1><b>I)</b> (<p>gen.</p> hallar, <p>pl.</p> hallir), <p>f.</p> <i><trn>large house, hall</trn></i> (<p>esp.</p> of a king or earl).</m1>
 	<m1><b>II)</b> from <ref>hallr</ref>, <i><trn>slant</trn></i>.</m1>
-</entry>
-<entry word="hölt">
+</word>
+<word>
+hölt
 	<m1>from <ref>haltr</ref>, <i><trn>lame</trn></i>.</m1>
-</entry>
-<entry word="hølzti">
+</word>
+<word>
+hølzti
 	<m1><p>adv.</p> = <ref>helzti</ref>.</m1>
-</entry>
-<entry word="höm">
+</word>
+<word>
+höm
 	<m1>(<p>gen.</p> hamar), <p>f.</p> <i><trn>ham or haunch</trn></i> (of a horse).</m1>
-</entry>
-<entry word="hömluband">
+</word>
+<word>
+hömluband
 	<m1><p>n.</p> <i><trn>oar-strap, oar-grummet</trn></i>.</m1>
-</entry>
-<entry word="hömlu-">
+</word>
+<word>
+hömlu-
 	<m1><p>gen.</p> from <ref>hamla</ref>.</m1>
-</entry>
-<entry word="hönd">
+</word>
+<word>
+hönd
 	<m1>(<p>gen.</p> handar, <p>dat.</p> hendi; <p>pl.</p> hendr), <p>f.</p></m1>
 	<m2>1) <i><trn>hand</trn></i>;</m2>
 	<m3>taka hendi á <p>e-u</p>, <i><trn>to touch with the hand</trn></i>;</m3>
@@ -10046,122 +12949,159 @@ Hýnir
 	<m3>minnar (yðvarrar) handar, <i><trn>for my (your) part</trn></i>;</m3>
 	<m2>4) <i><trn>kind, sort</trn></i>;</m2>
 	<m3>allra handa árgœzka, <i><trn>great abundance of all things</trn></i>.</m3>
-</entry>
-<entry word="höndla">
+</word>
+<word>
+höndla
 	<m1>(að), <p>v.</p></m1>
 	<m2>1) <i><trn>to seize, capture</trn></i> (~ glœpamann);</m2>
 	<m2>2) <i><trn>to treat</trn></i>;</m2>
 	<m3>~ <p>e-n</p> illa, <i><trn>to treat one ill</trn></i>.</m3>
-</entry>
-<entry word="hönk">
+</word>
+<word>
+hönk
 	<m1>(<p>gen.</p> hankar, <p>pl.</p> henkr), <p>f.</p> <i><trn>hank, coil, loop, ring</trn></i>; sterkar henkr, <i><trn>strong clasps</trn></i>.</m1>
-</entry>
-<entry word="höpt">
+</word>
+<word>
+höpt
 	<m1>from <ref>hapt</ref>, <i><trn>bond</trn></i>.</m1>
-</entry>
-<entry word="hörð">
+</word>
+<word>
+hörð
 	<m1>from <ref>harðr</ref>, <i><trn>hard</trn></i>.</m1>
-</entry>
-<entry word="hörfa">
+</word>
+<word>
+hörfa
 	<m1>(að), <p>v.</p> <i><trn>to retire, withdraw</trn></i> (~ undan);</m1>
 	<m2>~ fyrir <p>e-m</p>, <i><trn>to give way before one</trn></i>.</m2>
-</entry>
-<entry word="hörgefn">
+</word>
+<word>
+hörgefn
 	<m1><p>f.</p> <p>poet.</p> <i><trn>woman</trn></i>.</m1>
-</entry>
-<entry word="hörgr">
+</word>
+<word>
+hörgr
 	<m1>(-s, -ar), <p>m.</p> <i><trn>heathen place of worship, cairn or altar of stone</trn></i> (hörg hann mér gørði hlaðinn steinum).</m1>
-</entry>
-<entry word="hörhnoða">
+</word>
+<word>
+hörhnoða
 	<m1><p>n.</p> <i><trn>clew of flax</trn></i>.</m1>
-</entry>
-<entry word="hörkla">
+</word>
+<word>
+hörkla
 	<m1>(að), <p>v.</p> <i><trn>to hobble, walk with difficulty</trn></i> (þat lið tekr at dasast ok ~r af heiðinni ofan).</m1>
-</entry>
-<entry word="hörkull">
+</word>
+<word>
+hörkull
 	<m1><p>m.</p> <i><trn>noise, din</trn></i>.</m1>
-</entry>
-<entry word="hörmugr">
+</word>
+<word>
+hörmugr
 	<m1><p>a.</p> <i><trn>afflicted, sorrowful</trn></i>.</m1>
-</entry>
-<entry word="hörmuliga">
-	</entry>
-<entry word="syrgiliga">
+</word>
+<word>
+hörmuliga
+</word>
+<word>
+syrgiliga
 	<m1><p>adv.</p> <i><trn>sadly</trn></i>.</m1>
-</entry>
-<entry word="hörmuligr">
+</word>
+<word>
+hörmuligr
 	<m1><p>a.</p> <i><trn>sad, distressing</trn></i> (hörmulig tíðendi).</m1>
-</entry>
-<entry word="hörmung">
+</word>
+<word>
+hörmung
 	<m1><p>f.</p> <i><trn>grief, affliction</trn></i>.</m1>
-</entry>
-<entry word="hörmungarlæti">
-	</entry>
-<entry word="hörmungarorð">
+</word>
+<word>
+hörmungarlæti
+</word>
+<word>
+hörmungarorð
 	<m1><p>n.</p> <p>pl.</p> <i><trn>lamentations</trn></i>.</m1>
-</entry>
-<entry word="hörmungartala">
+</word>
+<word>
+hörmungartala
 	<m1><p>f.</p> <i><trn>lamentations</trn></i>.</m1>
-</entry>
-<entry word="hörpuleikr">
+</word>
+<word>
+hörpuleikr
 	<m1><p>m.</p> <i><trn>playing on a harp</trn></i>.</m1>
-</entry>
-<entry word="hörpuskel">
+</word>
+<word>
+hörpuskel
 	<m1><p>f.</p> <i><trn>‘harpshell’, scallop</trn></i>.</m1>
-</entry>
-<entry word="hörpuslagari">
-	</entry>
-<entry word="hörpuslagi">
+</word>
+<word>
+hörpuslagari
+</word>
+<word>
+hörpuslagi
 	<m1><p>m.</p> <i><trn>harper</trn></i>.</m1>
-</entry>
-<entry word="hörpuslagr">
-	</entry>
-<entry word="hörpusláttr">
+</word>
+<word>
+hörpuslagr
+</word>
+<word>
+hörpusláttr
 	<m1><p>m.</p> <i><trn>striking the harp</trn></i>.</m1>
-</entry>
-<entry word="hörpustokkr">
+</word>
+<word>
+hörpustokkr
 	<m1><p>m.</p> <i><trn>harp-case</trn></i>.</m1>
-</entry>
-<entry word="hörpustrengr">
+</word>
+<word>
+hörpustrengr
 	<m1><p>m.</p> <i><trn>harp-string</trn></i>.</m1>
-</entry>
-<entry word="hörpu-">
+</word>
+<word>
+hörpu-
 	<m1><p>gen.</p> from <ref>harpa</ref>.</m1>
-</entry>
-<entry word="hörr">
+</word>
+<word>
+hörr
 	<m1>(<p>dat.</p> hörvi and hör), <p>m.</p> <i><trn>flax, linen</trn></i> (af hör eða hampi); dúkr hvítr af hörvi, <i><trn>a cloth of white linen</trn></i>.</m1>
-</entry>
-<entry word="hörskryddr">
+</word>
+<word>
+hörskryddr
 	<m1><p>pp.</p> <i><trn>clad in linen</trn></i>.</m1>
-</entry>
-<entry word="hörund">
+</word>
+<word>
+hörund
 	<m1><p>n.</p> and <p>f.</p></m1>
 	<m2>1) <i><trn>human flesh</trn></i>, = <ref>hold</ref> (milli skinns ok ~s);</m2>
 	<m2>2) <i><trn>skin, complexion</trn></i>;</m2>
 	<m3>svartr á hár ok ~, <i><trn>black in hair and skin</trn></i>.</m3>
-</entry>
-<entry word="hörundarlitr">
+</word>
+<word>
+hörundarlitr
 	<m1><p>m.</p> <i><trn>colour of flesh</trn></i> (Hel er blá hálf, en hálf með hörundarlit).</m1>
-</entry>
-<entry word="hörundslitr">
+</word>
+<word>
+hörundslitr
 	<m1><p>m.</p> = hörundarlitr.</m1>
-</entry>
-<entry word="hörundsljóss">
+</word>
+<word>
+hörundsljóss
 	<m1><p>a.</p> <i><trn>of bright complexion</trn></i>.</m1>
-</entry>
-<entry word="hösmagi">
+</word>
+<word>
+hösmagi
 	<m1><p>m.</p> <i><trn>a sheep with a grey, dusky belly</trn></i>.</m1>
-</entry>
-<entry word="hösmögóttr">
+</word>
+<word>
+hösmögóttr
 	<m1><p>a.</p> <i><trn>grey on the belly</trn></i> (hrútr h. at lit).</m1>
-</entry>
-<entry word="höss">
+</word>
+<word>
+höss
 	<m1>(<p>acc.</p> hösvan), <p>a.</p> <i><trn>grey</trn></i>, of a wolf (úlfr hinn hösvi).</m1>
-</entry>
-<entry word="hösvast">
+</word>
+<word>
+hösvast
 	<m1>(að), <p>v. refl.</p> <i><trn>to approach one wrathfully</trn></i> (h. at <p>e-m</p>).</m1>
-</entry>
-<entry word="höttr">
+</word>
+<word>
+höttr
 	<m1>(<p>gen.</p> hattar, <p>dat.</p> hetti; <p>pl.</p> hettir, <p>acc.</p> höttu), <p>m.</p> <i><trn>hood</trn></i></m1>
-</entry>
-</chapter>
+</word>

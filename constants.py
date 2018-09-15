@@ -2,6 +2,60 @@
 Constants to read dictionary entries
 """
 
+import os
+from collections import defaultdict
+
+postags = defaultdict(str)
+postags.update({
+    "a.": "lkensf",
+    "acc.": "o",
+    "adv.": "a",
+    "card. numb.": "ta",
+    "compar.": "m",
+    "conj.": "c",
+    "dat.": "þ",
+    "def. art.": "gken",
+    "dem. pron.": "demonstrative pronoun",
+    "e-a": "einhverja",
+    "e-m": "einhverjum",
+    "e-n": "einhvern",
+    "e-rra": "einhverra",
+    "e-rri": "einhverri",
+    "e-s": "einhvers",
+    "e-t": "eitthvert",
+    "e-u": "einhverju",
+    "f.": "nven",
+    "for.": "e",
+    "fem.": "v",
+    "gen.": "e",
+    "imperat.": "sb",
+    "impers.": "impersonal",
+    "indecl.": "indeclinable",
+    "indef. pron.": "fo",
+    "infin.": "sn",
+    "int. pron.": "fs",
+    "interj.": "interjection",
+    "m.": "nken",
+    "masc.": "k",
+    "n.": "nhen",
+    "neut.": "h",
+    "nom.": "n",
+    "ord. numb.": "to",
+    "pers. pron.": "fp",
+    "pl.": "f",
+    "poss. pron.": "fe",
+    "pp.": "sþ",
+    "pr. p.": "se",
+    "prep.": "a[oþe}",
+    "pron.": "f",
+    "refl.": "reflexive",
+    "refl. pron.": "fb",
+    "rel. pron.": "ft",
+    "sing.": "e",
+    "superl.": "e",
+    "v.": "s",
+    "v. refl.": "s[nbfvse]m",
+})
 
 abbreviations = {
     "a.": "adjective",
@@ -75,11 +129,14 @@ heads = [
     "u", "ú", "v", "y", "ý"
 ]
 
-headDictPaths = [
-    "dict/a.dsl", "dict/aa.dsl", "dict/ae.dsl", "dict/b.dsl", "dict/d.dsl",
-    "dict/e.dsl", "dict/f.dsl", "dict/g.dsl", "dict/h.dsl", "dict/i.dsl",
-    "dict/ii.dsl", "dict/j.dsl", "dict/k.dsl", "dict/l.dsl", "dict/m.dsl",
-    "dict/n.dsl", "dict/o.dsl", "dict/oe.dsl", "dict/oo.dsl", "dict/oum.dsl",
-    "dict/p.dsl", "dict/r.dsl", "dict/s.dsl", "dict/t.dsl", "dict/th.dsl",
-    "dict/u.dsl", "dict/uu.dsl", "dict/v.dsl", "dict/y.dsl", "dict/yy.dsl"
-]
+head_dict_paths = [os.path.join("entries", filename) for filename in os.listdir("entries")]
+head_filenames = [filename for filename in os.listdir("entries")]
+# headDictPaths = [
+#     "dict/a.dsl", "dict/aa.dsl", "dict/ae.dsl", "dict/b.dsl", "dict/d.dsl",
+#     "dict/e.dsl", "dict/f.dsl", "dict/g.dsl", "dict/h.dsl", "dict/i.dsl",
+#     "dict/ii.dsl", "dict/j.dsl", "dict/k.dsl", "dict/l.dsl", "dict/m.dsl",
+#     "dict/n.dsl", "dict/o.dsl", "dict/oe.dsl", "dict/oo.dsl", "dict/oum.dsl",
+#     "dict/p.dsl", "dict/r.dsl", "dict/s.dsl", "dict/t.dsl", "dict/th.dsl",
+#     "dict/u.dsl", "dict/uu.dsl", "dict/v.dsl", "dict/y.dsl", "dict/yy.dsl"
+# ]
+dheads = {head_filenames[i]: heads[i] for i in range(len(heads))}
