@@ -136,8 +136,9 @@ def add_word_tag(src, dst):
 
 
 def make_xml_corpus():
+    pass
     # src = "original_dict"
-    dst = "entries"
+    # dst = "entries"
     # dst_transform = "1"
     # transform(src, dst_transform)
 
@@ -165,9 +166,27 @@ def make_xml_corpus():
     # dst_replace_strange_characters = "7"
     # replace_strange_characters(src_replace_strange_characters, dst_replace_strange_characters)
 
-    add_word_tag(dst, dst)
+    # add_word_tag(dst, dst)
+
+
+def merge_files(src, dst_filename):
+    texts = []
+    for filename in os.listdir(src):
+        with codecs.open(os.path.join(src, filename), "r", encoding="utf8") as f:
+            text = f.readlines()
+            texts.append("\n".join(text[2:-1]))
+            # ElementTree.fromstringlist(text)
+    with codecs.open(""+dst_filename, "w", encoding="utf8") as f:
+        f.write("<?xml version='1.0' encoding='utf8'?>\n<dictionary>\n"+"".join(texts)+"\n</dictionary>")
+
+    # tree = ElementTree.ElementTree()
+    # tree.parse(tree)
+    #
+    # tree.write(dst_filename, encoding="utf8")
+    # os.remove("tmp_"+dst_filename)
 
 
 if __name__ == "__main__":
     # make_xml_corpus()
+    merge_files("entries", "dictionary.xml")
     pass

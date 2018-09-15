@@ -6,6 +6,8 @@ import os
 import codecs
 import re
 from xml.etree import ElementTree
+from xml.etree.ElementTree import XMLParser
+
 from constants import dheads, postags
 
 
@@ -15,6 +17,26 @@ def clean(text):
         text = re.sub(r"\n", "", text)
         return text
     return text
+
+
+class Dictionary:
+    def __init__(self, filename):
+        self.filename = filename
+        self.entries = []
+        self.tree = ElementTree.ElementTree()
+
+    def get_entries(self):
+        self.tree.parse(self.filename, XMLParser(encoding='utf-8'))
+        for entry in self.tree.iter("entry"):
+            self.entries.append(Entry(entry))
+
+    def find(self, word):
+        if len(self.entries) == 0:
+            self.get_entries()
+        if len(word) > 0:
+            for entry in self.entries:
+                if entry.word == word:
+                    return entry
 
 
 class DictionaryDSL:
@@ -78,6 +100,9 @@ class Entry:
 
 
 if __name__ == "__main__":
-    d = DictionaryDSL("entries")
+    # d = DictionaryDSL("entries")
+    # print(d.find("sær").description)
+    # print(d.find("sær").pos)
+    d = Dictionary("dictionary.xml")
     print(d.find("sær").description)
     print(d.find("sær").pos)
