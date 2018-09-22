@@ -120,7 +120,7 @@ class Entry:
         self.declensions = []
         self.definition = []
         self.phonetic_transcription = phonetic_transcriber.main(self.word) if "-" not in self.word else ""
-        self.syllabified_word = s.syllabify_SSP(self.word.lower())
+        self.syllabified_word = s.syllabify_SSP(self.word.lower()) if "-" not in self.word else ""
 
     def extract_pos(self):
         pass
