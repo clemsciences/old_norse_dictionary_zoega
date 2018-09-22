@@ -119,7 +119,7 @@ class Entry:
         self.pos = [postags[pos.text] for pos in entry_xml.iter("p")]
         self.declensions = []
         self.definition = []
-        self.phonetic_transcription = phonetic_transcriber.main(self.word)
+        self.phonetic_transcription = phonetic_transcriber.main(self.word.replace("-", ""))
         self.syllabified_word = s.syllabify_SSP(self.word.lower())
 
     def extract_pos(self):
