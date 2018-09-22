@@ -131,8 +131,8 @@ heads = [
     "u", "ú", "v", "y", "ý"
 ]
 
-head_dict_paths = [os.path.join(os.getcwd(), "entries", filename)
-                   for filename in os.listdir(os.path.join(os.getcwd(), "entries"))]
+head_dict_paths = [os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries", filename)
+                   for filename in os.listdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries"))]
 head_filenames = [filename
-                  for filename in os.listdir(os.path.join(os.getcwd(), "entries"))]
+                  for filename in os.listdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries"))]
 dheads = {head_filenames[i]: heads[i] for i in range(len(heads))}
