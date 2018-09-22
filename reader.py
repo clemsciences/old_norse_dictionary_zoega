@@ -119,8 +119,10 @@ class Entry:
         self.pos = [postags[pos.text] for pos in entry_xml.iter("p")]
         self.declensions = []
         self.definition = []
-        self.phonetic_transcription = phonetic_transcriber.main(self.word) if "-" not in self.word else ""
-        self.syllabified_word = s.syllabify_SSP(self.word.lower()) if "-" not in self.word else ""
+        self.phonetic_transcription = phonetic_transcriber.main(self.word) if self.word is not None and \
+                                                                              "-" not in self.word else ""
+        self.syllabified_word = s.syllabify_SSP(self.word.lower()) if self.word is not None and\
+                                                                      "-" not in self.word else ""
 
     def extract_pos(self):
         pass
