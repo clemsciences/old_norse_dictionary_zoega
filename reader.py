@@ -8,7 +8,7 @@ import re
 from xml.etree import ElementTree
 from xml.etree.ElementTree import XMLParser
 
-from constants import dheads, postags
+from constants import dheads, postags, dictionary_name
 
 
 def clean(text):
@@ -103,6 +103,6 @@ if __name__ == "__main__":
     # d = DictionaryDSL("entries")
     # print(d.find("sær").description)
     # print(d.find("sær").pos)
-    d = Dictionary("dictionary.xml")
+    d = Dictionary(dictionary_name)
     print(d.find("sær").description)
     print(d.find("sær").pos)
