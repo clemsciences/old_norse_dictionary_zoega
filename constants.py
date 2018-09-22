@@ -5,6 +5,8 @@ Constants to read dictionary entries
 import os
 from collections import defaultdict
 
+dictionary_name = os.path.join(os.path.dirname(os.path.abspath(__file__)), "dictionary.xml")
+
 postags = defaultdict(str)
 postags.update({
     "a.": "lkensf",
@@ -129,6 +131,7 @@ heads = [
     "u", "ú", "v", "y", "ý"
 ]
 
-head_dict_paths = [os.path.join("entries", filename) for filename in os.listdir("entries")]
-head_filenames = [filename for filename in os.listdir("entries")]
+head_dict_paths = [os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries", filename)
+                   for filename in os.listdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries"))]
+head_filenames = [filename for filename in os.path.join(os.path.dirname(os.path.abspath(__file__)), os.listdir("entries"))]
 dheads = {head_filenames[i]: heads[i] for i in range(len(heads))}
