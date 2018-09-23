@@ -128,7 +128,7 @@ class Entry:
             self.syllabified_word = ""
         else:
             self.phonetic_transcription = " ".join([phonetic_transcriber.main(word)
-                                                    if word is not None and "-" not in self.word else ""
+                                                    if word is not None and " " not in word and "-" not in word else ""
                                                     for word in tokenize_old_norse_words(self.word)])
             self.syllabified_word = []
             for word in tokenize_old_norse_words(self.word):
