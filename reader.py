@@ -3,6 +3,7 @@ Code to analyze Zoëga's dictionary entries
 """
 
 import re
+from typing import Optional
 
 from xml.etree import ElementTree
 from xml.etree.ElementTree import XMLParser
@@ -25,7 +26,7 @@ s.set_invalid_onsets(invalid_onsets)
 s.set_hierarchy(hierarchy)
 
 
-def clean(text):
+def clean(text: str)-> Optional[str]:
     """
 
     :param text:
@@ -35,83 +36,17 @@ def clean(text):
         text = re.sub(r"\t", "", text)
         text = re.sub(r"\n", "", text)
         return text
-    return text
+    else:
+        return None
 
 
-def is_pure_word(text):
+def is_pure_word(text: str) -> bool:
     """
     Words containing parentheses, whitespaces, hyphens and w characters are not considered as proper words
     :param text:
     :return:
     """
     return "-" not in text and "(" not in text and ")" not in text and " " not in text and "w" not in text
-
-
-class Dictionary:
-    """
-
-    """
-    def __init__(self, filename):
-        self.filename = filename
-        self.entries = []
-        self.tree = ElementTree.ElementTree()
-
-    def get_entries(self):
-        """
-        Load entries
-        :return:
-        """
-        self.tree.parse(self.filename, XMLParser(encoding='utf-8'))
-        for entry in self.tree.iter("entry"):
-            self.entries.append(Entry(entry))
-
-    def find(self, word):
-        """
-        Search a specific word
-        :param word:
-        :return: Entry instance or None
-        """
-        if len(self.entries) == 0:
-            self.get_entries()
-        if len(word) > 0:
-            for entry in self.entries:
-                if entry.word == word:
-                    return entry
-        return None
-
-    def find_approximately(self, word, distance_threshold=3):
-        """
-        Search words which are at most *distance_threshold* distant of *word* argument
-        :param word: 
-        :param distance_threshold: 
-        :return: list of Entry instances
-        """""
-        entries = []
-        if len(self.entries) == 0:
-            self.get_entries()
-        if len(word) > 0:
-            for entry in self.entries:
-                if entry.word is not None and is_pure_word(entry.word):
-                    if entry.levenshtein_distance(word) < distance_threshold:
-                        entries.append(entry)
-        return entries
-
-    def find_beginning_with(self, word):
-        """
-        Find words which start with *word*
-        :param word:
-        :return: list of Entry instances
-        """
-        entries = []
-        word_length = len(word)
-        if len(self.entries) == 0:
-            self.get_entries()
-        if len(word) > 0:
-            for entry in self.entries:
-                if entry.word is not None and len(entry.word) >= word_length:
-                    if entry.word[:word_length] == entry.word:
-                        entries.append(entry)
-        return entries
 
 
 class Entry:
@@ -152,13 +87,80 @@ class Entry:
         """
         pass
 
-    def levenshtein_distance(self, other_word):
+    def levenshtein_distance(self, other_word: str)-> int:
         """
         Basic use of Levenshtein distance function
         :param other_word:
         :return:
         """
         return Levenshtein.Levenshtein_Distance(self.word, other_word)
+
+
+class Dictionary:
+    """
+
+    """
+    def __init__(self, filename):
+        self.filename = filename
+        self.entries = []
+        self.tree = ElementTree.ElementTree()
+
+    def get_entries(self):
+        """
+        Load entries
+        :return:
+        """
+        self.tree.parse(self.filename, XMLParser(encoding='utf-8'))
+        for entry in self.tree.iter("entry"):
+            self.entries.append(Entry(entry))
+
+    def find(self, word: str) -> Optional[list]:
+        """
+        Search a specific word
+        :param word:
+        :return: Entry instance or None
+        """
+        if len(self.entries) == 0:
+            self.get_entries()
+        if len(word) > 0:
+            for entry in self.entries:
+                if entry.word == word:
+                    return entry
+        return None
+
+    def find_approximately(self, word: str, distance_threshold: int=3) -> list:
+        """
+        Search words which are at most *distance_threshold* distant of *word* argument
+        :param word: 
+        :param distance_threshold: 
+        :return: list of Entry instances
+        """""
+        entries = []
+        if len(self.entries) == 0:
+            self.get_entries()
+        if len(word) > 0:
+            for entry in self.entries:
+                if entry.word is not None and is_pure_word(entry.word):
+                    if entry.levenshtein_distance(word) < distance_threshold:
+                        entries.append(entry)
+        return entries
+
+    def find_beginning_with(self, word: str):
+        """
+        Find words which start with *word*
+        :param word:
+        :return: list of Entry instances
+        """
+        entries = []
+        word_length = len(word)
+        if len(self.entries) == 0:
+            self.get_entries()
+        if len(word) > 0:
+            for entry in self.entries:
+                if entry.word is not None and len(entry.word) >= word_length:
+                    if entry.word[:word_length] == word:
+                        entries.append(entry)
+        return entries
 
 
 if __name__ == "__main__":
