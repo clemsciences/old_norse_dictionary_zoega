@@ -1,5 +1,5 @@
 """
-Code to analyze dictionary entries
+Code to analyze Zoëga's dictionary entries
 """
 
 import re
@@ -48,6 +48,9 @@ def is_pure_word(text):
 
 
 class Dictionary:
+    """
+
+    """
     def __init__(self, filename):
         self.filename = filename
         self.entries = []
@@ -105,7 +108,7 @@ class Dictionary:
             self.get_entries()
         if len(word) > 0:
             for entry in self.entries:
-                if len(entry.word) >= word_length:
+                if entry is not None and len(entry.word) >= word_length:
                     if entry.word[:word_length] == entry.word:
                         entries.append(entry)
         return entries
@@ -143,9 +146,18 @@ class Entry:
                     self.syllabified_word.extend(s.syllabify_SSP(word.lower()))
 
     def extract_pos(self):
+        """
+        # TODO Guess POS of words. It may be extracted from entries.
+        :return:
+        """
         pass
 
     def levenshtein_distance(self, other_word):
+        """
+        Basic use of Levenshtein distance function
+        :param other_word:
+        :return:
+        """
         return Levenshtein.Levenshtein_Distance(self.word, other_word)
 
 
