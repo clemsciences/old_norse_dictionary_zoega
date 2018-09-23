@@ -132,8 +132,8 @@ class Entry:
                                                     for word in tokenize_old_norse_words(self.word)])
             self.syllabified_word = []
             for word in tokenize_old_norse_words(self.word):
-                if word is not None and "-" not in self.word:
-                    self.syllabified_word.extend(s.syllabify_SSP(self.word.lower()))
+                if word is not None and " " not in word and "-" not in word:
+                    self.syllabified_word.extend(s.syllabify_SSP(word.lower()))
 
     def extract_pos(self):
         pass
