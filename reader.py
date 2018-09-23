@@ -124,7 +124,6 @@ class Entry:
 
     def __init__(self, entry_xml):
         self.word = entry_xml.get("word")
-        print(repr(self.word))
         self.description = re.sub(r"\t", "", "".join(entry_xml.itertext()))
         self.pos = [postags[pos.text] for pos in entry_xml.iter("p")]
         self.declensions = []
