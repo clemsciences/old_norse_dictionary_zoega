@@ -35,6 +35,10 @@ def clean(text):
     return text
 
 
+def is_pure_word(text):
+    return "-" not in text and "(" not in text and ")" not in text and " " not in text
+
+
 class Dictionary:
     def __init__(self, filename):
         self.filename = filename
@@ -63,7 +67,6 @@ class Dictionary:
                 if entry.levenshtein_distance(word) < distance_threshold:
                     entries.append(entry)
         return entries
-
 
 
 class DictionaryDSL:
@@ -129,11 +132,11 @@ class Entry:
             self.syllabified_word = ""
         else:
             self.phonetic_transcription = " ".join([phonetic_transcriber.main(word)
-                                                    if word is not None and " " not in word and "-" not in word else ""
+                                                    if word is not None and is_pure_word(word) else ""
                                                     for word in tokenize_old_norse_words(self.word)])
             self.syllabified_word = []
             for word in tokenize_old_norse_words(self.word):
-                if word is not None and " " not in word and "-" not in word:
+                if word is not None and is_pure_word(word):
                     self.syllabified_word.extend(s.syllabify_SSP(word.lower()))
 
     def extract_pos(self):
