@@ -64,8 +64,9 @@ class Dictionary:
             self.get_entries()
         if len(word) > 0:
             for entry in self.entries:
-                if entry.levenshtein_distance(word) < distance_threshold:
-                    entries.append(entry)
+                if entry.word is not None and is_pure_word(entry.word):
+                    if entry.levenshtein_distance(word) < distance_threshold:
+                        entries.append(entry)
         return entries
 
 
