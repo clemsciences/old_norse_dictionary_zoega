@@ -12,6 +12,7 @@ from xml.etree.ElementTree import XMLParser
 from cltk.phonology import utils as phu
 from cltk.phonology.old_norse import transcription as ont
 from cltk.phonology.syllabify import Syllabifier
+from cltk.tokenize.word import tokenize_old_norse_words
 from cltk.corpus.old_norse.syllabifier import hierarchy, invalid_onsets
 from cltk.text_reuse.levenshtein import Levenshtein
 
@@ -62,6 +63,7 @@ class Dictionary:
                 if entry.levenshtein_distance(word) < distance_threshold:
                     entries.append(entry)
         return entries
+
 
 
 class DictionaryDSL:
@@ -119,10 +121,13 @@ class Entry:
         self.pos = [postags[pos.text] for pos in entry_xml.iter("p")]
         self.declensions = []
         self.definition = []
-        self.phonetic_transcription = phonetic_transcriber.main(self.word) if self.word is not None and \
-                                                                              "-" not in self.word else ""
-        self.syllabified_word = s.syllabify_SSP(self.word.lower()) if self.word is not None and\
-                                                                      "-" not in self.word else ""
+        self.phonetic_transcription = " ".join([phonetic_transcriber.main(word)
+                                                if word is not None and "-" not in self.word else ""
+                                                for word in tokenize_old_norse_words(self.word)])
+        self.syllabified_word = []
+        for word in tokenize_old_norse_words(self.word):
+            if word is not None and "-" not in self.word:
+                self.syllabified_word.extend(s.syllabify_SSP(self.word.lower()))
 
     def extract_pos(self):
         pass
