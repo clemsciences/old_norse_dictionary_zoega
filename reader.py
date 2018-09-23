@@ -36,7 +36,7 @@ def clean(text):
 
 
 def is_pure_word(text):
-    return "-" not in text and "(" not in text and ")" not in text and " " not in text
+    return "-" not in text and "(" not in text and ")" not in text and " " not in text and "w" not in text
 
 
 class Dictionary:
