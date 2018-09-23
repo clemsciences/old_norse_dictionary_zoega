@@ -121,13 +121,19 @@ class Entry:
         self.pos = [postags[pos.text] for pos in entry_xml.iter("p")]
         self.declensions = []
         self.definition = []
-        self.phonetic_transcription = " ".join([phonetic_transcriber.main(word)
-                                                if word is not None and "-" not in self.word else ""
-                                                for word in tokenize_old_norse_words(self.word)])
-        self.syllabified_word = []
-        for word in tokenize_old_norse_words(self.word):
-            if word is not None and "-" not in self.word:
-                self.syllabified_word.extend(s.syllabify_SSP(self.word.lower()))
+        # if not isinstance(self.word, str):
+        #     print(repr(self.word))
+        if self.word is None:
+            self.phonetic_transcription = ""
+            self.syllabified_word = ""
+        else:
+            self.phonetic_transcription = " ".join([phonetic_transcriber.main(word)
+                                                    if word is not None and "-" not in self.word else ""
+                                                    for word in tokenize_old_norse_words(self.word)])
+            self.syllabified_word = []
+            for word in tokenize_old_norse_words(self.word):
+                if word is not None and "-" not in self.word:
+                    self.syllabified_word.extend(s.syllabify_SSP(self.word.lower()))
 
     def extract_pos(self):
         pass
