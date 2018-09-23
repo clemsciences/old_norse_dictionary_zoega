@@ -2,8 +2,6 @@
 Code to analyze dictionary entries
 """
 
-import os
-import codecs
 import re
 
 from xml.etree import ElementTree
@@ -16,7 +14,7 @@ from cltk.tokenize.word import tokenize_old_norse_words
 from cltk.corpus.old_norse.syllabifier import hierarchy, invalid_onsets
 from cltk.text_reuse.levenshtein import Levenshtein
 
-from constants import dheads, postags, dictionary_name
+from constants import postags, dictionary_name
 
 # phonetic transcriber
 phonetic_transcriber = phu.Transcriber(ont.DIPHTHONGS_IPA, ont.DIPHTHONGS_IPA_class, ont.IPA_class, ont.old_norse_rules)
@@ -28,6 +26,11 @@ s.set_hierarchy(hierarchy)
 
 
 def clean(text):
+    """
+
+    :param text:
+    :return:
+    """
     if text is not None:
         text = re.sub(r"\t", "", text)
         text = re.sub(r"\n", "", text)
@@ -36,6 +39,11 @@ def clean(text):
 
 
 def is_pure_word(text):
+    """
+    Words containing parentheses, whitespaces, hyphens and w characters are not considered as proper words
+    :param text:
+    :return:
+    """
     return "-" not in text and "(" not in text and ")" not in text and " " not in text and "w" not in text
 
 
@@ -46,19 +54,35 @@ class Dictionary:
         self.tree = ElementTree.ElementTree()
 
     def get_entries(self):
+        """
+        Load entries
+        :return:
+        """
         self.tree.parse(self.filename, XMLParser(encoding='utf-8'))
         for entry in self.tree.iter("entry"):
             self.entries.append(Entry(entry))
 
     def find(self, word):
+        """
+        Search a specific word
+        :param word:
+        :return: Entry instance or None
+        """
         if len(self.entries) == 0:
             self.get_entries()
         if len(word) > 0:
             for entry in self.entries:
                 if entry.word == word:
                     return entry
+        return None
 
     def find_approximately(self, word, distance_threshold=3):
+        """
+        Search words which are at most *distance_threshold* distant of *word* argument
+        :param word: 
+        :param distance_threshold: 
+        :return: list of Entry instances
+        """""
         entries = []
         if len(self.entries) == 0:
             self.get_entries()
@@ -69,43 +93,22 @@ class Dictionary:
                         entries.append(entry)
         return entries
 
-
-class DictionaryDSL:
-    """
-    Extracts the dictionary from a list of files where entries are
-    """
-    def __init__(self, path):
-        self.path = path
-        self.filenames = os.listdir(path)
-        self.entries = []
-        self.chapters = []
-
-    def get_first_letter_files(self):
-        self.chapters = {}
-        for filename in self.filenames:
-            with codecs.open(os.path.join(self.path, filename), "r", encoding="utf8") as f:
-                self.chapters[dheads[filename]] = FirstLetterFile(f.read())
-
-    def find(self, word):
-        if len(self.chapters) == 0:
-            self.get_first_letter_files()
+    def find_beginning_with(self, word):
+        """
+        Find words which start with *word*
+        :param word:
+        :return: list of Entry instances
+        """
+        entries = []
+        word_length = len(word)
+        if len(self.entries) == 0:
+            self.get_entries()
         if len(word) > 0:
-            for entry in self.chapters[word[0].lower()].entries:
-                if entry.word == word:
-                    return entry
-
-
-class FirstLetterFile:
-    """
-    Extract entries from a file
-    """
-    def __init__(self, text):
-        self.text = text
-        self.entries = []
-        self.tree = ElementTree.fromstring(self.text)
-
-        for entry in self.tree:
-            self.entries.append(Entry(entry))
+            for entry in self.entries:
+                if len(entry.word) >= word_length:
+                    if entry.word[:word_length] == entry.word:
+                        entries.append(entry)
+        return entries
 
 
 class Entry:
