@@ -108,7 +108,7 @@ class Dictionary:
             self.get_entries()
         if len(word) > 0:
             for entry in self.entries:
-                if entry is not None and len(entry.word) >= word_length:
+                if entry.word is not None and len(entry.word) >= word_length:
                     if entry.word[:word_length] == entry.word:
                         entries.append(entry)
         return entries
