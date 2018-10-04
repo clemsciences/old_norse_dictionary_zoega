@@ -15,7 +15,7 @@ from cltk.tokenize.word import tokenize_old_norse_words
 from cltk.corpus.old_norse.syllabifier import hierarchy, invalid_onsets
 from cltk.text_reuse.levenshtein import Levenshtein
 
-from constants import postags, dictionary_name
+from oldnorsedictionaryzoega.constants import postags, dictionary_name
 
 # phonetic transcriber
 phonetic_transcriber = phu.Transcriber(ont.DIPHTHONGS_IPA, ont.DIPHTHONGS_IPA_class, ont.IPA_class, ont.old_norse_rules)
@@ -168,7 +168,18 @@ if __name__ == "__main__":
     # print(d.find("sær").description)
     # print(d.find("sær").pos)
     d = Dictionary(dictionary_name)
-    print(d.find("sær").description)
-    print(d.find("sær").pos)
-    print(d.find("sær").phonetic_transcription)
-    print(d.find("sær").syllabified_word)
+    # print(d.find("sær").description)
+    # print(d.find("sær").pos)
+    # print(d.find("sær").phonetic_transcription)
+    # print(d.find("sær").syllabified_word)
+
+    d.find_approximately("lævi", 3)
+    for word in ["lævi", "blandit", "eða", "ætt", "jötuns", "Óðs", "mey", "gefna"]:
+        found_word = d.find_approximately(word, 3)
+
+        for w in found_word:
+
+            print(w.word)
+            print(w.description)
+        # print([found_word)
+        # print(found_word.description)
