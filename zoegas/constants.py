@@ -5,7 +5,10 @@ Constants to read dictionary entries
 import os
 from collections import defaultdict
 
-dictionary_name = os.path.join(os.path.dirname(os.path.abspath(__file__)), "dictionary.xml")
+USER_PATH = os.path.expanduser('~')
+CORPUS_PATH = os.path.join(USER_PATH, "cltk_data", "old_norse", "dictionary", "old_norse_dictionary_zoega")
+
+dictionary_name = os.path.join(CORPUS_PATH, "dictionary.xml")
 
 postags = defaultdict(str)
 postags.update({
@@ -131,8 +134,8 @@ heads = [
     "u", "ú", "v", "y", "ý"
 ]
 
-head_dict_paths = [os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries", filename)
-                   for filename in os.listdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries"))]
+head_dict_paths = [os.path.join(CORPUS_PATH, "entries", filename)
+                   for filename in os.listdir(os.path.join(CORPUS_PATH, "entries"))]
 head_filenames = [filename
-                  for filename in os.listdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries"))]
+                  for filename in os.listdir(os.path.join(CORPUS_PATH, "entries"))]
 dheads = {head_filenames[i]: heads[i] for i in range(len(heads))}
