@@ -15,7 +15,7 @@ from cltk.tokenize.word import tokenize_old_norse_words
 from cltk.corpus.old_norse.syllabifier import hierarchy, invalid_onsets
 from cltk.text_reuse.levenshtein import Levenshtein
 
-from oldnorsedictionaryzoega.constants import postags, dictionary_name
+from zoegas.constants import postags, dictionary_name
 
 # phonetic transcriber
 phonetic_transcriber = phu.Transcriber(ont.DIPHTHONGS_IPA, ont.DIPHTHONGS_IPA_class, ont.IPA_class, ont.old_norse_rules)

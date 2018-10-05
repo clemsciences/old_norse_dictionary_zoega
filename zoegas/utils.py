@@ -7,7 +7,7 @@ import codecs
 import re
 from xml.etree import ElementTree
 
-from oldnorsedictionaryzoega.constants import heads
+from zoegas.constants import heads
 
 
 def clean(text):
