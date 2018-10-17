@@ -17,7 +17,7 @@ setup(
     # package_data={"": "dictionary.xml"},
     packages=find_packages(),
     url='https://github.com/cltk/old_norse_dictionary_zoega',
-    version='1.0.0',
+    version='1.0.5',
     zip_safe=True, install_requires=['cltk']
     # test_suite='cltk.tests.test_cltk',
 )
