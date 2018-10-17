@@ -143,7 +143,7 @@ heads = [
 
 
 head_dict_paths = [os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries", filename)
-                   for filename in os.listdir("entries")]
+                   for filename in os.listdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries"))]
 head_filenames = [filename for filename in
                   os.listdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries"))]
 dheads = {head_filenames[i]: heads[i] for i in range(len(heads))}
