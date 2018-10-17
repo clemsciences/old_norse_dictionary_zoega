@@ -5,10 +5,11 @@ Constants to read dictionary entries
 import os
 from collections import defaultdict
 
-USER_PATH = os.path.expanduser('~')
-CORPUS_PATH = os.path.join(USER_PATH, "cltk_data", "old_norse", "dictionary", "old_norse_dictionary_zoega")
+# USER_PATH = os.path.expanduser('~')
+# CORPUS_PATH = os.path.join(USER_PATH, "cltk_data", "old_norse", "dictionary", "old_norse_dictionary_zoega")
 
-dictionary_name = os.path.join(CORPUS_PATH, "dictionary.xml")
+# dictionary_name = os.path.join(CORPUS_PATH, "dictionary.xml")
+dictionary_name = "dictionary.xml"
 
 postags = defaultdict(str)
 postags.update({
@@ -134,8 +135,14 @@ heads = [
     "u", "ú", "v", "y", "ý"
 ]
 
-head_dict_paths = [os.path.join(CORPUS_PATH, "entries", filename)
-                   for filename in os.listdir(os.path.join(CORPUS_PATH, "entries"))]
-head_filenames = [filename
-                  for filename in os.listdir(os.path.join(CORPUS_PATH, "entries"))]
+# head_dict_paths = [os.path.join(CORPUS_PATH, "entries", filename)
+#                    for filename in os.listdir(os.path.join(CORPUS_PATH, "entries"))]
+# head_filenames = [filename
+#                   for filename in os.listdir(os.path.join(CORPUS_PATH, "entries"))]
+# dheads = {head_filenames[i]: heads[i] for i in range(len(heads))}
+
+
+head_dict_paths = [os.path.join("entries", filename)
+                   for filename in os.listdir("entries")]
+head_filenames = [filename for filename in os.listdir("entries")]
 dheads = {head_filenames[i]: heads[i] for i in range(len(heads))}
