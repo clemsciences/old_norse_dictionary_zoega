@@ -15,7 +15,7 @@ from cltk.tokenize.word import tokenize_old_norse_words
 from cltk.corpus.old_norse.syllabifier import hierarchy, invalid_onsets
 from cltk.text_reuse.levenshtein import Levenshtein
 
-from zoegas.constants import postags, dictionary_name
+from zoegas.constants import postags, dictionary_name, pos_verbose
 
 # phonetic transcriber
 phonetic_transcriber = phu.Transcriber(ont.DIPHTHONGS_IPA, ont.DIPHTHONGS_IPA_class, ont.IPA_class, ont.old_norse_rules)
@@ -63,9 +63,11 @@ class Entry:
     def __init__(self, entry_xml):
         self.word = entry_xml.get("word")
         self.description = re.sub(r"\t", "", "".join(entry_xml.itertext()))
-        self.pos = [postags[pos.text] for pos in entry_xml.iter("p")]
+        self.pos = [pos_verbose[pos.text] for pos in entry_xml.iter("p") if postags[pos.text] != '']
         self.declensions = []
         self.definition = []
+        self.translations = [child.text for child in entry_xml.iter("trn")]
+        self.references = [child.text for child in entry_xml.iter("ref")]
         # if not isinstance(self.word, str):
         #     print(repr(self.word))
         if self.word is None:
@@ -181,5 +183,7 @@ if __name__ == "__main__":
 
             print(w.word)
             print(w.description)
+            print(w.translations)
+            print(w.pos)
         # print([found_word)
         # print(found_word.description)
