@@ -67,7 +67,7 @@ class Entry:
     >>> entry.description
     '\\n\\n(að; pret. also skóp), v.\\n\\n1) to shape, form, mould, make (ór Ymis holdi var jörð sköpuð); to create (guð, er mik skóp); s. skegg, to trim the beard; s. skeið, to take a run (þetta dýr ~ði skeið at oss); s. ok skera e-t, or um e-t, to decide, settle (ek skal einn skera ok s. okkar á milli);\\n\\n2) to assign as one’s fate or destiny (ek ~ honum þat, at hann skal eigi lifa lengr en kerti þat brenner); s. e-m aldr, to fashion one’s future life; syni þínum verðr-a sæla sköpuð, bliss is not fated to thy son;\\n\\n3) to fix, appoint (haf þá eina fémuni, er ek ~ þér); s. e-m víti, to impose a fine or penalty; at sköpuðu, in the order of nature, according to the course of nature (væri þat at sköpuðu fyrir aldrs sakir, at þú lifðir lengr okkar); láta skeika at sköpuðu, to let things go their own course (according to fate); láta ~t skera, to let fate decide;\\n\\n4) refl., ~st, to take shape; freista, hvé þá skapist, try how things will go then; Ámundi kvað jarl úáhlýðinn ok mun lítt at s., A. said the earl was self-willed, and little will come of it.\\n\\n'
     >>> entry.pos
-    ['s', 'eitthvert', 'eitthvert', 'einhverjum', 'einhverjum', 'reflexive']
+    ['verb', 'reflexive']
     >>> entry.declensions
     []
     >>> entry.definition
