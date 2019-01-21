@@ -22,14 +22,6 @@ postags.update({
     "dat.": "þ",
     "def. art.": "gken",
     "dem. pron.": "demonstrative pronoun",
-    "e-a": "einhverja",
-    "e-m": "einhverjum",
-    "e-n": "einhvern",
-    "e-rra": "einhverra",
-    "e-rri": "einhverri",
-    "e-s": "einhvers",
-    "e-t": "eitthvert",
-    "e-u": "einhverju",
     "f.": "nven",
     "for.": "e",
     "fem.": "v",
@@ -61,6 +53,50 @@ postags.update({
     "superl.": "e",
     "v.": "s",
     "v. refl.": "s[nbfvse]m",
+})
+
+pos_verbose = defaultdict(str)
+pos_verbose.update({
+    "a.": "adjective",
+    "acc.": "accusative",
+    "adv.": "adverb",
+    "card. numb.": "cardinal number",
+    "compar.": "comparative",
+    "conj.": "conjunction",
+    "dat.": "dative",
+    "def. art.": "definite article",
+    "dem. pron.": "demonstrative pronoun",
+    "f.": "feminine noun",
+    "for.": "e",
+    "fem.": "feminine",
+    "gen.": "genitive",
+    "imperat.": "imperative",
+    "impers.": "impersonal",
+    "indecl.": "indeclinable",
+    "indef. pron.": "indefinite pronoun",
+    "infin.": "infinitive",
+    "int. pron.": "interrogative pronoun",
+    "interj.": "interjection",
+    "m.": "masculine noun",
+    "masc.": "masculine",
+    "n.": "neuter noun",
+    "neut.": "neuter",
+    "nom.": "nominative",
+    "ord. numb.": "ordinal number",
+    "pers. pron.": "personnal pronoun",
+    "pl.": "plural",
+    "poss. pron.": "possessive pronoun",
+    "pp.": "past participle",
+    "pr. p.": "present participle",
+    "prep.": "preposition",
+    "pron.": "pronoun",
+    "refl.": "reflexive",
+    "refl. pron.": "reflexive pronoun",
+    "rel. pron.": "relative pronoun",
+    "sing.": "singular",
+    "superl.": "superlative",
+    "v.": "verb",
+    "v. refl.": "verb reflexive",
 })
 
 abbreviations = {
@@ -141,9 +177,10 @@ heads = [
 #                   for filename in os.listdir(os.path.join(CORPUS_PATH, "entries"))]
 # dheads = {head_filenames[i]: heads[i] for i in range(len(heads))}
 
-
-head_dict_paths = [os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries", filename)
-                   for filename in os.listdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries"))]
-head_filenames = [filename for filename in
-                  os.listdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries"))]
-dheads = {head_filenames[i]: heads[i] for i in range(len(heads))}
+if os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries")):
+    head_dict_paths = [os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries", filename)
+                       for filename in os.listdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries"))]
+if os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries")):
+    head_filenames = [filename for filename in
+                      os.listdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "entries"))]
+    dheads = {head_filenames[i]: heads[i] for i in range(len(heads))}

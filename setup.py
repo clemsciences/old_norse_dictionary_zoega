@@ -14,7 +14,7 @@ setup(
     license='MIT',
     long_description='',
     name='zoegas',
-    # package_data={"": "dictionary.xml"},
+    package_data={"": ["dictionary.xml"]},
     packages=find_packages(),
     url='https://github.com/cltk/old_norse_dictionary_zoega',
     version='1.0.5',
