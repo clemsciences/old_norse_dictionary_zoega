@@ -26,7 +26,7 @@ s.set_invalid_onsets(invalid_onsets)
 s.set_hierarchy(hierarchy)
 
 
-def clean(text: str)-> Optional[str]:
+def clean(text: str) -> Optional[str]:
     """
 
     :param text:
@@ -58,6 +58,25 @@ class Entry:
     \[p\] -> grammatical features in abbreviations variable
     \[ref\]
     \[b\]
+
+
+    >>> d = Dictionary(dictionary_name)
+    >>> entry = d.find("skapa")
+    >>> entry.word
+    'skapa'
+    >>> entry.description
+    '\\n\\n(að; pret. also skóp), v.\\n\\n1) to shape, form, mould, make (ór Ymis holdi var jörð sköpuð); to create (guð, er mik skóp); s. skegg, to trim the beard; s. skeið, to take a run (þetta dýr ~ði skeið at oss); s. ok skera e-t, or um e-t, to decide, settle (ek skal einn skera ok s. okkar á milli);\\n\\n2) to assign as one’s fate or destiny (ek ~ honum þat, at hann skal eigi lifa lengr en kerti þat brenner); s. e-m aldr, to fashion one’s future life; syni þínum verðr-a sæla sköpuð, bliss is not fated to thy son;\\n\\n3) to fix, appoint (haf þá eina fémuni, er ek ~ þér); s. e-m víti, to impose a fine or penalty; at sköpuðu, in the order of nature, according to the course of nature (væri þat at sköpuðu fyrir aldrs sakir, at þú lifðir lengr okkar); láta skeika at sköpuðu, to let things go their own course (according to fate); láta ~t skera, to let fate decide;\\n\\n4) refl., ~st, to take shape; freista, hvé þá skapist, try how things will go then; Ámundi kvað jarl úáhlýðinn ok mun lítt at s., A. said the earl was self-willed, and little will come of it.\\n\\n'
+    >>> entry.pos
+    ['s', 'eitthvert', 'eitthvert', 'einhverjum', 'einhverjum', 'reflexive']
+    >>> entry.declensions
+    []
+    >>> entry.definition
+    []
+    >>> entry.phonetic_transcription
+    '[skapa]'
+    >>> entry.syllabified_word
+    ['skap', 'a']
+
     """
 
     def __init__(self, entry_xml):
@@ -87,7 +106,7 @@ class Entry:
         """
         pass
 
-    def levenshtein_distance(self, other_word: str)-> int:
+    def levenshtein_distance(self, other_word: str) -> int:
         """
         Basic use of Levenshtein distance function
         :param other_word:
@@ -100,6 +119,7 @@ class Dictionary:
     """
 
     """
+
     def __init__(self, filename):
         self.filename = filename
         self.entries = []
@@ -128,7 +148,7 @@ class Dictionary:
                     return entry
         return None
 
-    def find_approximately(self, word: str, distance_threshold: int=3) -> list:
+    def find_approximately(self, word: str, distance_threshold: int = 3) -> list:
         """
         Search words which are at most *distance_threshold* distant of *word* argument
         :param word: 
@@ -178,7 +198,6 @@ if __name__ == "__main__":
         found_word = d.find_approximately(word, 3)
 
         for w in found_word:
-
             print(w.word)
             print(w.description)
         # print([found_word)
