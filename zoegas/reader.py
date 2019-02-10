@@ -99,7 +99,7 @@ class Entry:
             self.syllabified_word = []
             for word in tokenize_old_norse_words(self.word):
                 if word is not None and is_pure_word(word):
-                    self.syllabified_word.extend(s.syllabify_SSP(word.lower()))
+                    self.syllabified_word.extend(s.syllabify_ssp(word.lower()))
 
     def extract_pos(self):
         """
