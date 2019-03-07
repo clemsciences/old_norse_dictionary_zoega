@@ -93,13 +93,13 @@ class Entry:
             self.phonetic_transcription = ""
             self.syllabified_word = ""
         else:
-            self.phonetic_transcription = " ".join([phonetic_transcriber.main(word)
+            self.phonetic_transcription = " ".join([phonetic_transcriber.text_to_phonetic_representation(word)
                                                     if word is not None and is_pure_word(word) else ""
                                                     for word in tokenize_old_norse_words(self.word)])
             self.syllabified_word = []
             for word in tokenize_old_norse_words(self.word):
                 if word is not None and is_pure_word(word):
-                    self.syllabified_word.extend(s.syllabify_SSP(word.lower()))
+                    self.syllabified_word.extend(s.syllabify_ssp(word.lower()))
 
     def extract_pos(self):
         """
