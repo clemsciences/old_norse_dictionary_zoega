@@ -116,6 +116,59 @@ class Entry:
         """
         return Levenshtein.Levenshtein_Distance(self.word, other_word)
 
+    def extract_word_category(self):
+        """
+        >>> from cltk.corpus import swadesh
+        >>> d = Dictionary(dictionary_name)
+        >>> word = swadesh.swadesh_old_norse[0]
+        >>> word
+        'ek'
+        >>> entry = d.find(word)
+        >>> entry.extract_word_category()
+        ['personnal pronoun']
+
+        >>> word = swadesh.swadesh_old_norse[1]
+        >>> word
+        'þú'
+
+        >>> entry = d.find(word)
+        >>> entry.extract_word_category()
+        ['personnal pronoun']
+
+        >>> word = swadesh.swadesh_old_norse[2]
+        >>> word
+        'hann'
+        >>> entry = d.find(word)
+        >>> entry.extract_word_category()
+        ['personnal pronoun']
+
+        >>> word = swadesh.swadesh_old_norse[3]
+        >>> word
+        'vér'
+        >>> entry = d.find(word)
+        >>> entry.extract_word_category()
+        ['personnal pronoun']
+
+        >>> word = swadesh.swadesh_old_norse[4]
+        >>> word
+        'þér'
+
+        >>> entry = d.find(word)
+        >>> entry.extract_word_category()
+        ['personnal pronoun']
+
+        :return:
+        """
+        possible_categories = []
+        for line in self.description.split("\n"):
+            print(line)
+            if "pers. pron." in line:
+                possible_categories.append("personnal pronoun")
+            # elif "" in line:
+            #     possible_categories.append(line)
+
+        return possible_categories
+
 
 class Dictionary:
     """
@@ -136,7 +189,7 @@ class Dictionary:
         for entry in self.tree.iter("entry"):
             self.entries.append(Entry(entry))
 
-    def find(self, word: str) -> Optional[list]:
+    def find(self, word: str) -> Optional[Entry]:
         """
         Search a specific word
         :param word:
@@ -184,25 +237,25 @@ class Dictionary:
                         entries.append(entry)
         return entries
 
-
-if __name__ == "__main__":
-    # d = DictionaryDSL("entries")
-    # print(d.find("sær").description)
-    # print(d.find("sær").pos)
-    d = Dictionary(dictionary_name)
-    # print(d.find("sær").description)
-    # print(d.find("sær").pos)
-    # print(d.find("sær").phonetic_transcription)
-    # print(d.find("sær").syllabified_word)
-
-    d.find_approximately("lævi", 3)
-    for word in ["lævi", "blandit", "eða", "ætt", "jötuns", "Óðs", "mey", "gefna"]:
-        found_word = d.find_approximately(word, 3)
-
-        for w in found_word:
-            print(w.word)
-            print(w.description)
-            print(w.translations)
-            print(w.pos)
-        # print([found_word)
-        # print(found_word.description)
+#
+# if __name__ == "__main__":
+#     # d = DictionaryDSL("entries")
+#     # print(d.find("sær").description)
+#     # print(d.find("sær").pos)
+#     d = Dictionary(dictionary_name)
+#     # print(d.find("sær").description)
+#     # print(d.find("sær").pos)
+#     # print(d.find("sær").phonetic_transcription)
+#     # print(d.find("sær").syllabified_word)
+#
+#     d.find_approximately("lævi", 3)
+#     for word in ["lævi", "blandit", "eða", "ætt", "jötuns", "Óðs", "mey", "gefna"]:
+#         found_word = d.find_approximately(word, 3)
+#
+#         for w in found_word:
+#             print(w.word)
+#             print(w.description)
+#             print(w.translations)
+#             print(w.pos)
+#         # print([found_word)
+#         # print(found_word.description)
