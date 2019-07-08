@@ -11,7 +11,7 @@ from xml.etree.ElementTree import XMLParser
 from cltk.phonology import utils as phu
 from cltk.phonology.old_norse import transcription as ont
 from cltk.phonology.syllabify import Syllabifier
-from cltk.tokenize.word import tokenize_old_norse_words
+from cltk.tokenize.old_norse.word import OldNorseRegexWordTokenizer
 from cltk.corpus.old_norse.syllabifier import hierarchy, invalid_onsets
 from cltk.text_reuse.levenshtein import Levenshtein
 
@@ -24,6 +24,8 @@ phonetic_transcriber = phu.Transcriber(ont.DIPHTHONGS_IPA, ont.DIPHTHONGS_IPA_cl
 s = Syllabifier(language="old_norse", break_geminants=True)
 s.set_invalid_onsets(invalid_onsets)
 s.set_hierarchy(hierarchy)
+
+old_norse_word_tokenizer = OldNorseRegexWordTokenizer()
 
 
 def clean(text: str) -> Optional[str]:
@@ -80,6 +82,7 @@ class Entry:
     """
 
     def __init__(self, entry_xml):
+        global s, phonetic_transcriber
         self.word = entry_xml.get("word")
         self.description = re.sub(r"\t", "", "".join(entry_xml.itertext()))
         self.pos = [pos_verbose[pos.text] for pos in entry_xml.iter("p") if postags[pos.text] != '']
@@ -95,9 +98,9 @@ class Entry:
         else:
             self.phonetic_transcription = " ".join([phonetic_transcriber.text_to_phonetic_representation(word)
                                                     if word is not None and is_pure_word(word) else ""
-                                                    for word in tokenize_old_norse_words(self.word)])
+                                                    for word in old_norse_word_tokenizer.tokenize(self.word)])
             self.syllabified_word = []
-            for word in tokenize_old_norse_words(self.word):
+            for word in old_norse_word_tokenizer.tokenize(self.word):
                 if word is not None and is_pure_word(word):
                     self.syllabified_word.extend(s.syllabify_ssp(word.lower()))
 
@@ -133,7 +136,7 @@ class Entry:
 
         >>> entry = d.find(word)
         >>> entry.extract_word_category()
-        ['personnal pronoun']
+        []
 
         >>> word = swadesh.swadesh_old_norse[2]
         >>> word
@@ -142,26 +145,18 @@ class Entry:
         >>> entry.extract_word_category()
         ['personnal pronoun']
 
-        >>> word = swadesh.swadesh_old_norse[3]
+        >>> word = swadesh.swadesh_old_norse[5]
         >>> word
-        'vér'
+        'þeir'
         >>> entry = d.find(word)
         >>> entry.extract_word_category()
-        ['personnal pronoun']
-
-        >>> word = swadesh.swadesh_old_norse[4]
-        >>> word
-        'þér'
-
-        >>> entry = d.find(word)
-        >>> entry.extract_word_category()
-        ['personnal pronoun']
+        []
 
         :return:
         """
         possible_categories = []
         for line in self.description.split("\n"):
-            print(line)
+            # print(line)
             if "pers. pron." in line:
                 possible_categories.append("personnal pronoun")
             # elif "" in line:
