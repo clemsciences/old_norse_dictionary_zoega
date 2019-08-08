@@ -83,6 +83,7 @@ class Entry:
 
     def __init__(self, entry_xml):
         global s, phonetic_transcriber
+        self.raw = ElementTree.tostring(entry_xml)
         self.word = entry_xml.get("word")
         self.description = re.sub(r"\t", "", "".join(entry_xml.itertext()))
         self.pos = [pos_verbose[pos.text] for pos in entry_xml.iter("p") if postags[pos.text] != '']
