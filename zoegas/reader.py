@@ -11,7 +11,7 @@ from xml.etree.ElementTree import XMLParser
 from cltk.phonology import utils as phu
 from cltk.phonology.old_norse import transcription as ont
 from cltk.phonology.syllabify import Syllabifier
-from cltk.tokenize.old_norse.word import OldNorseRegexWordTokenizer
+from cltk.tokenize.word import WordTokenizer
 from cltk.corpus.old_norse.syllabifier import hierarchy, invalid_onsets
 from cltk.text_reuse.levenshtein import Levenshtein
 
@@ -25,7 +25,7 @@ s = Syllabifier(language="old_norse", break_geminants=True)
 s.set_invalid_onsets(invalid_onsets)
 s.set_hierarchy(hierarchy)
 
-old_norse_word_tokenizer = OldNorseRegexWordTokenizer()
+old_norse_word_tokenizer = WordTokenizer("old_norse")
 
 
 def clean(text: str) -> Optional[str]:
