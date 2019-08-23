@@ -1,9 +1,7 @@
 # Old Norse Dictionary Zoega
 Zoëga's A Concise Dictionary of Old Icelandic parser
 
-Data come from https://github.com/GreekFellows/lesser-dannatt and http://norroen.info/dct/zoega by Tim Ermolaev.
-
-With the reader.py module, you can:
+With the **reader.py** module, you can:
 
 * search a word with an edit distance below a given threshold,
 * extract the POS tags in dictionary entries,
@@ -17,3 +15,9 @@ TODO list:
 * [ ] handle more dictionary entry,
 * [ ] process all entries so that we would get virtually all the Old Norse words,
 * [ ] for each form, we can associate lemmata with a proposed POS tag.
+
+## Elaboration of data
+
+Data come from https://github.com/GreekFellows/lesser-dannatt and http://norroen.info/dct/zoega by Tim Ermolaev.
+Then `utils.first_step()` is launched. I modified the files in order to ensure 
+XML syntax consistency, finally `utils.second_step()` is launched.

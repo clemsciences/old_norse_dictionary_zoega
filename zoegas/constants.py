@@ -171,6 +171,15 @@ heads = [
     "u", "ú", "v", "y", "ý"
 ]
 
+real_heads = [
+    "a", "á", "æ", "b", "d",
+    "e", "f", "g", "h", "i",
+    "í", "j", "k", "l", "m",
+    "n", "o", "œ", "ó", "ö", "ø",
+    "p", "r", "s", "t", "þ",
+    "u", "ú", "v", "y", "ý"
+]
+
 # head_dict_paths = [os.path.join(CORPUS_PATH, "entries", filename)
 #                    for filename in os.listdir(os.path.join(CORPUS_PATH, "entries"))]
 # head_filenames = [filename
