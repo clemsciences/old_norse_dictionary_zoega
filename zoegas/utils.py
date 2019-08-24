@@ -194,7 +194,7 @@ def merge_files(src, dst_filename):
     for filename in os.listdir(src):
         with codecs.open(os.path.join(src, filename), "r", encoding="utf8") as f:
             text = f.readlines()
-            texts.append("\n".join(text[2:-1]))
+            texts.append("\n".join(text[1:-1]))
             # ElementTree.fromstringlist(text)
     with codecs.open(""+dst_filename, "w", encoding="utf8") as f:
         f.write("<?xml version='1.0' encoding='utf8'?>\n<dictionary>\n"+"".join(texts)+"\n</dictionary>")
@@ -208,4 +208,3 @@ if __name__ == "__main__":
     second_step()
 
     merge_files("entries", "dictionary.xml")
-    pass
