@@ -21,8 +21,3 @@ class TestOldNorse(unittest.TestCase):
         print(word)
         entries = self.d.find(word)
         print(entries.description)
-
-
-
-
-

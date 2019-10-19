@@ -1,3 +1,2 @@
-from . import constants
-from . import reader
-
+import os
+PACKDIR = os.path.abspath(os.path.dirname(__file__))
