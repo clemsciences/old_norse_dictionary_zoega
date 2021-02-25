@@ -2,10 +2,17 @@
 How xml files are built
 """
 
-import os
 import codecs
-import re
 from lxml import etree
+import os
+import re
+
+# from xml.etree import ElementTree
+# from xml.etree.ElementTree import XMLParser
+import yaml
+# from lxml import etree
+from bs4 import BeautifulSoup
+
 from zoegas.constants import real_heads
 
 
@@ -198,6 +205,41 @@ def merge_files(src, dst_filename):
             # ElementTree.fromstringlist(text)
     with codecs.open(""+dst_filename, "w", encoding="utf8") as f:
         f.write("<?xml version='1.0' encoding='utf8'?>\n<dictionary>\n"+"".join(texts)+"\n</dictionary>")
+
+
+def from_xml_to_yaml(filename_src, filename_dst):
+    """
+    >>> from_xml_to_yaml("dictionary.xml", "dictionary.yaml")
+
+    :param filename_src:
+    :param filename_dst:
+    :return:
+    """
+    parser = etree.XMLParser()
+    tree = etree.parse(filename_src, parser=parser)
+    d = {}
+    for entry in tree.findall(".//entry"):
+        # print(entry.get("word"))
+        # print(etree.tostring(entry))
+        # print(BeautifulSoup(etree.tostring(entry)).text)
+        # print(BeautifulSoup(etree.tostring(entry), features="lxml").contents)
+        # print([child for child in BeautifulSoup(etree.tostring(entry), features="lxml").children])
+        # print(BeautifulSoup(etree.tostring(entry), features="lxml").stripped_strings)
+        d[entry.get("word")] = BeautifulSoup(etree.tostring(entry), features="lxml").text.strip()  # ElementTree.tostring(entry).decode("utf-8")
+
+    with open(filename_dst, "w", encoding="utf-8") as f:
+        yaml.safe_dump(d, f, )
+
+
+def read_yaml(filename):
+    """
+    >>> read_yaml("dictionary.yaml")["sonr"]
+
+    :param filename:
+    :return:
+    """
+    with open(filename, "r", encoding="utf-8") as f:
+        return yaml.load(f, Loader=yaml.CLoader)
 
 
 if __name__ == "__main__":

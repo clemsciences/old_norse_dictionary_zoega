@@ -255,3 +255,17 @@ class Dictionary:
 #             print(w.pos)
 #         # print([found_word)
 #         # print(found_word.description)
+
+
+if __name__ == "__main__":
+    d = Dictionary(dictionary_name)
+
+    l = [
+        d.find("sumar"),
+        d.find("vetr"),
+        # d.find_beginning_with("svásuð"),
+        # d.find_beginning_with("vindlón"),
+        # d.find_beginning_with("sað"),
+    ]
+    for i in l:
+        print(i.raw)
