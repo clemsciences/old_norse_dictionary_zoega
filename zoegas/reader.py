@@ -8,24 +8,18 @@ from typing import Optional
 from xml.etree import ElementTree
 from xml.etree.ElementTree import XMLParser
 
-from cltk.phonology import utils as phu
-from cltk.phonology.old_norse import transcription as ont
-from cltk.phonology.syllabify import Syllabifier
-from cltk.tokenize.word import WordTokenizer
-from cltk.corpus.old_norse.syllabifier import hierarchy, invalid_onsets
-from cltk.text_reuse.levenshtein import Levenshtein
+from cltk.phonology.non.phonology import OldNorseSyllabifier, OldNorseTranscription
+from cltk.tokenizers.non import OldNorseWordTokenizer
+from Levenshtein import distance
 
 from zoegas.constants import postags, dictionary_name, pos_verbose
 
 # phonetic transcriber
-phonetic_transcriber = phu.Transcriber(ont.DIPHTHONGS_IPA, ont.DIPHTHONGS_IPA_class, ont.IPA_class, ont.old_norse_rules)
+phonetic_transcriber = OldNorseTranscription()
 
 # Old Norse syllabifier
-s = Syllabifier(language="old_norse", break_geminants=True)
-s.set_invalid_onsets(invalid_onsets)
-s.set_hierarchy(hierarchy)
-
-old_norse_word_tokenizer = WordTokenizer("old_norse")
+s = OldNorseSyllabifier()
+old_norse_word_tokenizer = OldNorseWordTokenizer()
 
 
 def clean(text: str) -> Optional[str]:
@@ -97,13 +91,13 @@ class Entry:
             self.phonetic_transcription = ""
             self.syllabified_word = ""
         else:
-            self.phonetic_transcription = " ".join([phonetic_transcriber.text_to_phonetic_representation(word)
+            self.phonetic_transcription = " ".join([phonetic_transcriber.transcribe(word)
                                                     if word is not None and is_pure_word(word) else ""
                                                     for word in old_norse_word_tokenizer.tokenize(self.word)])
             self.syllabified_word = []
             for word in old_norse_word_tokenizer.tokenize(self.word):
                 if word is not None and is_pure_word(word):
-                    self.syllabified_word.extend(s.syllabify_ssp(word.lower()))
+                    self.syllabified_word.extend(s.syllabify(word.lower()))
 
     def extract_pos(self):
         """
@@ -118,37 +112,31 @@ class Entry:
         :param other_word:
         :return:
         """
-        return Levenshtein.Levenshtein_Distance(self.word, other_word)
+        return distance(self.word, other_word)
 
     def extract_word_category(self):
         """
-        >>> from cltk.corpus import swadesh
         >>> d = Dictionary(dictionary_name)
-        >>> word = swadesh.swadesh_old_norse[0]
-        >>> word
-        'ek'
+        >>> word = "ek"
+
         >>> entry = d.find(word)
         >>> entry.extract_word_category()
         ['personnal pronoun']
 
-        >>> word = swadesh.swadesh_old_norse[1]
-        >>> word
-        'þú'
+        >>> word = 'þú'
 
         >>> entry = d.find(word)
         >>> entry.extract_word_category()
         []
 
-        >>> word = swadesh.swadesh_old_norse[2]
-        >>> word
-        'hann'
+        >>> word = 'hann'
+
         >>> entry = d.find(word)
         >>> entry.extract_word_category()
         ['personnal pronoun']
 
-        >>> word = swadesh.swadesh_old_norse[5]
-        >>> word
-        'þeir'
+        >>> word = 'þeir'
+
         >>> entry = d.find(word)
         >>> entry.extract_word_category()
         []
@@ -269,3 +257,5 @@ if __name__ == "__main__":
     ]
     for i in l:
         print(i.raw)
+        print(i.phonetic_transcription)
+        print(i.syllabified_word)

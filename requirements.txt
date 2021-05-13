@@ -1,3 +1,4 @@
 lxml
-cltk>=1.0,<1.1
+cltk
 beautifulsoup4
+python-Levenshtein
