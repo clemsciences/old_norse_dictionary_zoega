@@ -13,7 +13,7 @@ with io.open(os.path.join(CURDIR, "README.md"), "r", encoding="utf-8") as f:
 
 setup(
     name='zoegas',
-    version='1.1.2',
+    version='1.2.0',
     author='Clément Besnier',
     author_email='clemsciences@aol.com',
     description='Old Norse Zoëga\'s dictionary',
@@ -26,7 +26,7 @@ setup(
     scripts=[],
     license="License :: OSI Approved :: MIT License",
     zip_safe=True,
-    install_requires=['cltk==0.1.121', 'lxml'],
+    install_requires=['cltk>=0,<1', 'lxml'],
     classifiers=[
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",
