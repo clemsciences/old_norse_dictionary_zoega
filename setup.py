@@ -13,7 +13,7 @@ with io.open(os.path.join(CURDIR, "README.md"), "r", encoding="utf-8") as f:
 
 setup(
     name='zoegas',
-    version='1.1.0',
+    version='1.1.1',
     author='Clément Besnier',
     author_email='clemsciences@aol.com',
     description='Old Norse Zoëga\'s dictionary',
