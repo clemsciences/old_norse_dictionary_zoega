@@ -3,25 +3,29 @@
 from enum import Enum, auto
 from typing import List
 
-from cltk.phonology.old_norse.transcription import measure_old_norse_syllable, DIPHTHONGS_IPA, DIPHTHONGS_IPA_class, \
+from cltk.phonology.non.transcription import measure_old_norse_syllable, DIPHTHONGS_IPA, DIPHTHONGS_IPA_class, \
     IPA_class, old_norse_rules
 
 from cltk.phonology.syllabify import Syllabifier, Syllable
-from cltk.corpus.old_norse.syllabifier import invalid_onsets, VOWELS, CONSONANTS, LONG_VOWELS, BACK_TO_FRONT_VOWELS
-from cltk.phonology.utils import Length, Transcriber
+from cltk.phonology.non.syllabifier import invalid_onsets, VOWELS, CONSONANTS, LONG_VOWELS, BACK_TO_FRONT_VOWELS
+from cltk.phonology.non.utils import Length, Transcriber
+from cltk.phonology.non.phonology import OldNorseTranscription
+from cltk.phonology.non.phonology import OldNorseSyllabifier
 
 from zoegas.inflection.utils import Number
 from zoegas.inflection.old_norse.phonemic_rules import apply_i_umlaut, apply_u_umlaut, add_r_ending
 
 __author__ = ["Clément Besnier <clemsciences@aol.com>", ]
 
-s = Syllabifier(language="old_norse", break_geminants=True)
+s = Syllabifier(language="non", break_geminants=True)
 s.set_invalid_onsets(invalid_onsets)
 
-s_ipa = Syllabifier(language="old_norse_ipa", break_geminants=True)
+s_ipa = Syllabifier(language="non", variant="ipa", break_geminants=True)
 s_ipa.set_invalid_onsets(invalid_onsets)
 
 transcriber = Transcriber(DIPHTHONGS_IPA, DIPHTHONGS_IPA_class, IPA_class, old_norse_rules)
+# non_transcriber = OldNorseTranscription()
+# non_syllabifier = OldNorseSyllabifier()
 
 
 class Person(Enum):

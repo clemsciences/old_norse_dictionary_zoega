@@ -19,7 +19,7 @@ Sources:
 from typing import List
 
 from cltk.phonology.syllabify import Syllabifier, Syllable
-from cltk.corpus.old_norse.syllabifier import invalid_onsets, VOWELS, CONSONANTS, SHORT_VOWELS, LONG_VOWELS, \
+from cltk.phonology.non.syllabifier import invalid_onsets, VOWELS, CONSONANTS, SHORT_VOWELS, LONG_VOWELS, \
     DIPHTHONGS, BACK_TO_FRONT_VOWELS
 
 import numpy

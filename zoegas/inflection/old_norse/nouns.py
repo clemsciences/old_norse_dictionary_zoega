@@ -15,7 +15,7 @@ Commented doctests do not work as expected, because there is no way, for now, to
 """
 
 from cltk.phonology.syllabify import Syllabifier, Syllable
-from cltk.corpus.old_norse.syllabifier import invalid_onsets, BACK_TO_FRONT_VOWELS, VOWELS, CONSONANTS
+from cltk.phonology.non.syllabifier import invalid_onsets, BACK_TO_FRONT_VOWELS, VOWELS, CONSONANTS
 
 from zoegas.inflection.old_norse.phonemic_rules import extract_common_stem, apply_u_umlaut, has_u_umlaut
 import zoegas.inflection.utils as decl_utils
@@ -26,7 +26,7 @@ sumar = [["sumar", "sumar", "sumri", "sumars"], ["sumur", "sumur", "sumrum", "su
 noun_sumar = decl_utils.Noun("sumar", decl_utils.Gender.neuter)
 noun_sumar.set_declension(sumar)
 
-s = Syllabifier(language="old_norse", break_geminants=True)
+s = Syllabifier(language="non", break_geminants=True)
 s.set_invalid_onsets(invalid_onsets)
 
 
