@@ -17,10 +17,10 @@ TODO list:
 * [x] for a given dictionary entry, give all its inflected forms (partially done),
 * [ ] handle more dictionary entry,
 * [ ] process all entries so that we would get virtually all the Old Norse words,
-* [ ] for each form, we can associate lemmata with a proposed POS tag.
+* [ ] for each form, we can associate lemmas with a proposed POS tag.
 
 ## Elaboration of data
 
-Data come from https://github.com/GreekFellows/lesser-dannatt and http://norroen.info/dct/zoega by Tim Ermolaev.
+Data come from [https://github.com/GreekFellows/lesser-dannatt](https://github.com/GreekFellows/lesser-dannatt) and [http://norroen.info/dct/zoega](http://norroen.info/dct/zoega) by Tim Ermolaev.
 Then `utils.first_step()` is launched. Files are modified in order to ensure 
 XML syntax consistency, finally `utils.second_step()` is launched.
